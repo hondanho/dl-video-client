@@ -1,0 +1,25 @@
+{
+  "Index": {
+    "title": "Hei maailma!!",
+    "subtitle": "Kuis menee?",
+    "alertMessage": "Jotaki meni ny pielee!"
+  },
+  "Metadata": {
+    "name": "fi Instagram Video Downloader",
+    "description": "Download Instagram videos quickly and easily with our free online Instagram video downloader. Save IG videos in high quality to your device effortlessly.",
+    "url": "https://instagram-videos.vercel.app",
+    "ogImageUrl": "https://instagram-videos.vercel.app/images/open-graph.png",
+    "links": {
+      "twitter": "https://twitter.com/riadazz",
+      "github": "https://github.com/riad-azz/instagram-video-downloader"
+    }
+  },
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, fi {Deutsch} en {Englisch} other {Unbekannt}}"
+  },
+  "PageTool": {
+    "youtube": "bez wysiłku i szybko pobieraj filmy z YouTube za pomocą naszego bezpłatnego narzędzia do pobierania filmów",
+    "instagram": "pobieraj filmy z Instagrama bez wysiłku dzięki naszemu niezawodnemu i bezpłatnemu narzędziu do pobierania wideo."
+  }
+}

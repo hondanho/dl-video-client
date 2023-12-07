@@ -1,0 +1,49 @@
+import { Inter as MainFont } from "next/font/google";
+import "@/styles/globals.css";
+import { cn } from "@/utils";
+import { mainMetadata } from "@/configs/seo";
+import AppClientComponent from "./app";
+import { notFound } from "next/navigation";
+import { unstable_setRequestLocale } from "next-intl/server";
+import Navbar from "@/components/Navbar";
+import { locales } from "@/utils/navigation";
+import Footer from "@/components/Footer";
+
+const mainFont = MainFont({
+  subsets: ["latin"],
+});
+export const metadata = mainMetadata;
+
+export default function RootLayout({
+  children,
+  params: { locale },
+}: {
+  children: React.ReactNode;
+  params: { locale: string };
+}) {
+  if (!locales.includes(locale as any)) notFound();
+
+  // Enable static rendering
+  unstable_setRequestLocale(locale);
+
+  return (
+    <html lang={locale}>
+      <body
+        className={cn(
+          "overflow-x-hidden bg-stone-50 text-black",
+          "flex min-h-screen w-full flex-col justify-between",
+          "scroll-smooth",
+          mainFont.className
+        )}
+      >
+        <Navbar />
+        <AppClientComponent>{children}</AppClientComponent>
+        <Footer locale={locale} />
+      </body>
+    </html>
+  );
+}
+
+export function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
