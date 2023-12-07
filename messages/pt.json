@@ -1,25 +1,34 @@
 {
-  "Index": {
-    "title": "Hei maailma!!",
-    "subtitle": "Kuis menee?",
-    "alertMessage": "Jotaki meni ny pielee!"
-  },
   "Metadata": {
-    "name": "fi Instagram Video Downloader",
-    "description": "Download Instagram videos quickly and easily with our free online Instagram video downloader. Save IG videos in high quality to your device effortlessly.",
-    "url": "https://instagram-videos.vercel.app",
-    "ogImageUrl": "https://instagram-videos.vercel.app/images/open-graph.png",
+    "name": "Download Video online",
+    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "url": "https://downloadvideoonline.org",
+    "ogImageUrl": "/images/open-graph.png",
     "links": {
-      "twitter": "https://twitter.com/riadazz",
-      "github": "https://github.com/riad-azz/instagram-video-downloader"
-    }
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+  },
+
+  "Index": {
+    "title": "Hello world!!",
+    "subtitle": "How is it going?",
+    "alertMessage": "Something went wrong!"
   },
   "LocaleSwitcher": {
-    "label": "Sprache ändern",
-    "locale": "{locale, select, fi {Deutsch} en {Englisch} other {Unbekannt}}"
+    "label": "Change language",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
   },
   "PageTool": {
-    "youtube": "bez wysiłku i szybko pobieraj filmy z YouTube za pomocą naszego bezpłatnego narzędzia do pobierania filmów",
-    "instagram": "pobieraj filmy z Instagrama bez wysiłku dzięki naszemu niezawodnemu i bezpłatnemu narzędziu do pobierania wideo."
+    "youtube": "effortlessly and quickly download YouTube videos with our free video downloader tool",
+    "youtube-mp4": "effortlessly and quickly download YouTube videos with our free video downloader tool",
+    "youtube-short": "effortlessly and quickly download YouTube Short videos with our free video downloader tool",
+    "tiktok": "effortlessly and quickly download Tiktok videos with our free video downloader tool",
+    "instagram": "download Instagram videos effortlessly with our reliable and free video downloader tool.",
+    "facebook": "download Facebook videos effortlessly with our reliable and free video downloader tool.",
+    "facebook-reel": "download Facebook Reels videos effortlessly with our reliable and free video downloader tool.",
+    "twitter": "download Twitter videos effortlessly with our reliable and free video downloader tool.",
+    "twitch": "download Twitch videos effortlessly with our reliable and free video downloader tool.",
+    "twitch-clip": "download Twitch Clip videos effortlessly with our reliable and free video downloader tool."
   }
 }
