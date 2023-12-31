@@ -176,38 +176,47 @@ export default function Home() {
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>Paste a any video URL on the field provided and hit Download. Click “Accept” to acknowledge that you’ve read and agreed to our privacy policy.</p>
               </div>
-              <Image alt="Paste a any video URL.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Paste_a_Twitch_video_URL_a2586b432b/Paste_a_Twitch_video_URL_a2586b432b.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              <Image alt="Paste a any video URL.png" 
+              sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" 
+              src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
+              width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">2. Edit or download</h3>
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>You have the option to edit your video using our complete suite of video editing tools. Or click “Download now” to save your video to your device.</p>
               </div>
-              <Image alt="Edit or download.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Edit_or_download_66e0255ec1/Edit_or_download_66e0255ec1.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              <Image alt="Edit or download.png" 
+              sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" 
+              src={"/images/home/Edit_or_download_66e0255ec1.png"}
+              width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">3. Share</h3>
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>Export your video and share!</p>
               </div>
-              <Image alt="Share.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Edit_or_download_66e0255ec1/Edit_or_download_66e0255ec1.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              <Image alt="Share.png" 
+              sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" 
+              src={"/images/home/Share_313367e072.png"}
+              width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
             </div>
           </div>
         </section>
 
         <section id="logo-section" className="mx-auto flex flex-wrap items-center justify-center gap-8">
-          <Image alt="Facebook Logo" src="https://cdn-site-assets.veed.io/facebook_eeafacb0ea_94f54bd445/facebook_eeafacb0ea_94f54bd445.png" width="111" height="21" decoding="async" data-nimg="1" />
-          <Image alt="Visa Logo" src="https://cdn-site-assets.veed.io/visa_c3a605a752_cdbacb05c5/visa_c3a605a752_cdbacb05c5.png" width="60" height="21" decoding="async" data-nimg="1" />
-          <Image alt="P&amp;G Logo" src="https://cdn-site-assets.veed.io/pandg_ed1613b589_a1a69f7471/pandg_ed1613b589_a1a69f7471.png" width="45" height="21" decoding="async" data-nimg="1" />
-          <Image alt="Pinterest Logo" src="https://cdn-site-assets.veed.io/pinterest_e2176fc546_32818e4097/pinterest_e2176fc546_32818e4097.png" width="91" height="22" decoding="async" data-nimg="1" />
-          <Image alt="Booking Logo" src="https://cdn-site-assets.veed.io/booking_com_2eb121846e_12f1946815/booking_com_2eb121846e_12f1946815.png" width="108" height="18" decoding="async" data-nimg="1" />
-          <Image alt="Hublot Logo" src="https://cdn-site-assets.veed.io/hublot_238379d6c6_6ee0506db1/hublot_238379d6c6_6ee0506db1.png" width="122" height="17" decoding="async" data-nimg="1" />
+          <Image alt="Facebook Logo" src="/images/home/facebook_eeafacb0ea.png" width="111" height="21" decoding="async" data-nimg="1" />
+          <Image alt="Visa Logo" src="/images/home/visa_c3a605a752.png" width="60" height="21" decoding="async" data-nimg="1" />
+          <Image alt="P&amp;G Logo" src="/images/home/pandg_ed1613b589.png" width="45" height="21" decoding="async" data-nimg="1" />
+          <Image alt="Pinterest Logo" src="/images/home/pinterest_e2176fc546.png" width="91" height="22" decoding="async" data-nimg="1" />
+          <Image alt="Booking Logo" src="/images/home/booking_com_2eb121846e.png" width="108" height="18" decoding="async" data-nimg="1" />
+          <Image alt="Hublot Logo" src="/images/home/hublot_238379d6c6.png" width="122" height="17" decoding="async" data-nimg="1" />
         </section>
 
         <section className="grid grid-flow-row gap-4 rounded bg-gray-100  p-10">
           <h2 className="text-2xl font-medium leading-tight tracking-tight lg:text-3xl">Instant Download Video Online</h2>
           <div className="max-w-none md:columns-2 prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
-            <p>Download Video Online You can download video clips from <Link className="text-primary" href="/">https://www.downloadvideoonline.org</Link> in just one click! Download Video Online lets you download video content from any platforms such as Youtube, Tiktok, Facebook, Twitter, Instagram, Twitch,... then you can edit, repurpose, and share them anywhere. No watermarks, no loss in video quality, and fast! </p>
+            <p>Download Video Online You can download video clips from <Link className="text-primary" href="/">{process.env.NEXT_PUBLIC_WEBSITE_URL}</Link> in just one click! Download Video Online lets you download video content from any platforms such as Youtube, Tiktok, Facebook, Twitter, Instagram, Twitch,... then you can edit, repurpose, and share them anywhere. No watermarks, no loss in video quality, and fast! </p>
             <p>Download Video Online works straight from your Mobile or Desktop Browser or Mobile App. You can even edit your videos using our free built-in video editor. You can also add images, audio, text, subtitles, and more. For more information, you can view Terms of Service. Thank you.</p>
           </div>
         </section>
@@ -220,7 +229,10 @@ export default function Home() {
                 <p>Download Video Online lets you download content with no watermarks so you can repurpose and share them anywhere. No loss in video quality—download videos in HD and in any format the video has been uploaded. Perfect for content creators everywhere! Share your videos on your YouTube, gaming, and podcast channels and grow your following.</p>
               </div>
             </div>
-            <Image alt="Download Video Online remove the watermark.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Download_Twitch_clips_and_remove_the_watermark_abeab12228/Download_Twitch_clips_and_remove_the_watermark_abeab12228.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            <Image alt="Download Video Online remove the watermark.png" 
+            sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" 
+            src="/images/home/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.webp"
+             width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
           </div>
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4 md:order-last">
@@ -229,7 +241,10 @@ export default function Home() {
                 <p>If you don’t have the time or resources to add voiceovers, you can use Download Video Online <a href="#" className="text-primary">text-to-speech software</a>! Our TTS uses real human voices. Choose from different languages and voice profiles. Our text-to-voice AI will read your text in that accent. Just paste a text or start typing and add the audio to your video! It’s super easy to use and free. Adding voiceovers from text saves you a lot of time and effort in creating your video. </p>
               </div>
             </div>
-            <Image alt="Add voice overs to your video instantly.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            <Image alt="Add voice overs to your video instantly.png" 
+            sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" 
+            src="/images/home/Download_Twitch_clips_and_remove_the_watermark_abeab12228.webp"
+             width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
           </div>
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4">
@@ -238,7 +253,10 @@ export default function Home() {
                 <p>If you’re a streamer, chances are you also have other social media channels to maintain. Repurposing your content for different platforms has never been easier. With Download Video Online’s built-in video editing software, you can create professional-looking videos in just a few clicks—straight from your browser. Add sound effects, background music, images, text, subtitles, and more. You can also record your screen and webcam using our free <a href="#" className="text-primary">screen recorder</a>. Create gaming walkthroughs and more! </p>
               </div>
             </div>
-            <Image alt="Create professional-looking videos in a few clicks.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Create_professional_looking_videos_in_a_few_clicks_7329a86885/Create_professional_looking_videos_in_a_few_clicks_7329a86885.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            <Image alt="Create professional-looking videos in a few clicks.png" 
+            sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" 
+            src="/images/home/Create_professional_looking_videos_in_a_few_clicks_7329a86885.webp"
+            width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
           </div>
         </section>
 

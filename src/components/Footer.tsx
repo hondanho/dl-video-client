@@ -333,7 +333,7 @@ const Footer = ({ locale }: { locale: string }) => {
               href="/"
               rel="noopener noreferrer"
               className="ml-1 text-black"
-            >www.downloadvideoonline.org</Link> -
+            >{process.env.DOMAIN}</Link> -
             All Rights Reserved.
           </p>
 
