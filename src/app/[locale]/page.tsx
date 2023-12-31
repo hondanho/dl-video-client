@@ -442,7 +442,6 @@ const structuredEntertainmentBusiness = (t: any) => {
     "logo": "/images/android-chrome-512x512.png",
     "image": "/images/android-chrome-512x512.png",
     "description": t("youtube-shorts-downloader.description"),
-    "telephone": "602-738-6636",
     "priceRange": "free",
     "address": {
       "@type": "PostalAddress",
