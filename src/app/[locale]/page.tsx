@@ -10,6 +10,10 @@ import GeneralForm from "@/components/form/GeneralForm";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
+import { useAmp } from "next/amp";
+import { is } from "cheerio/lib/api/traversing";
+
+export const config = { amp: 'hybrid' };
 
 const FAQ_LIST = [
   {
@@ -51,6 +55,7 @@ const FAQ_LIST = [
 ];
 
 export default function Home() {
+  const isAmp = useAmp();
   const t = useTranslations("Page");
   const structuredHowToJson = structuredHowTo();
   const structuredSoftwareApplicationJson = structuredSoftwareApplication(t);
@@ -173,38 +178,76 @@ export default function Home() {
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>Paste a any video URL on the field provided and hit Download. Click “Accept” to acknowledge that you’ve read and agreed to our privacy policy.</p>
               </div>
-              <Image alt="Paste a any video URL.png"
-                src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
-                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              {isAmp ? (
+                <amp-img
+                  alt="Paste a any video URL"
+                  src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy"
+                />
+              ) : (
+                <Image alt="Paste a any video URL"
+                  src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              )}
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">2. Edit or download</h3>
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>You have the option to edit your video using our complete suite of video editing tools. Or click “Download now” to save your video to your device.</p>
               </div>
-              <Image alt="Edit or download.png"
-                src={"/images/home/Edit_or_download_66e0255ec1.png"}
-                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              {isAmp ? (
+                <amp-img
+                  alt="Edit or download video"
+                  src={"/images/home/Edit_or_download_66e0255ec1.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy"
+                />
+              ) : (
+                <Image alt="Edit or download video"
+                  src={"/images/home/Edit_or_download_66e0255ec1.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              )}
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">3. Share</h3>
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
                 <p>Export your video and share!</p>
               </div>
-              <Image alt="Share.png"
-                src={"/images/home/Share_313367e072.png"}
-                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              {isAmp ? (
+                <amp-img
+                  alt="Share tool download video online"
+                  src={"/images/home/Share_313367e072.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy"
+                />
+              ) : (
+                <Image alt="Share tool download video online"
+                  src={"/images/home/Share_313367e072.png"}
+                  width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
+              )}
             </div>
           </div>
         </section>
 
         <section id="logo-section" className="mb-16 mx-auto flex flex-wrap items-center justify-center gap-8">
-          <Image alt="Facebook Logo" src="/images/home/facebook_eeafacb0ea.png" width="111" height="21" decoding="async" data-nimg="1" />
-          <Image alt="Visa Logo" src="/images/home/visa_c3a605a752.png" width="60" height="21" decoding="async" data-nimg="1" />
-          <Image alt="P&amp;G Logo" src="/images/home/pandg_ed1613b589.png" width="45" height="21" decoding="async" data-nimg="1" />
-          <Image alt="Pinterest Logo" src="/images/home/pinterest_e2176fc546.png" width="91" height="22" decoding="async" data-nimg="1" />
-          <Image alt="Booking Logo" src="/images/home/booking_com_2eb121846e.png" width="108" height="18" decoding="async" data-nimg="1" />
-          <Image alt="Hublot Logo" src="/images/home/hublot_238379d6c6.png" width="122" height="17" decoding="async" data-nimg="1" />
+          {isAmp ? (
+            <>
+              <amp-img alt="Facebook Logo" src="/images/home/facebook_eeafacb0ea.png" width="111" height="21" decoding="async" data-nimg="1" />
+              <amp-img alt="Visa Logo" src="/images/home/visa_c3a605a752.png" width="60" height="21" decoding="async" data-nimg="1" />
+              <amp-img alt="P&amp;G Logo" src="/images/home/pandg_ed1613b589.png" width="45" height="21" decoding="async" data-nimg="1" />
+              <amp-img alt="Pinterest Logo" src="/images/home/pinterest_e2176fc546.png" width="91" height="22" decoding="async" data-nimg="1" />
+              <amp-img alt="Booking Logo" src="/images/home/booking_com_2eb121846e.png" width="108" height="18" decoding="async" data-nimg="1" />
+              <amp-img alt="Hublot Logo" src="/images/home/hublot_238379d6c6.png" width="122" height="17" decoding="async" data-nimg="1" />
+            </>
+          ) : (
+            <>
+              <Image alt="Facebook Logo" src="/images/home/facebook_eeafacb0ea.png" width="111" height="21" decoding="async" data-nimg="1" />
+              <Image alt="Visa Logo" src="/images/home/visa_c3a605a752.png" width="60" height="21" decoding="async" data-nimg="1" />
+              <Image alt="P&amp;G Logo" src="/images/home/pandg_ed1613b589.png" width="45" height="21" decoding="async" data-nimg="1" />
+              <Image alt="Pinterest Logo" src="/images/home/pinterest_e2176fc546.png" width="91" height="22" decoding="async" data-nimg="1" />
+              <Image alt="Booking Logo" src="/images/home/booking_com_2eb121846e.png" width="108" height="18" decoding="async" data-nimg="1" />
+              <Image alt="Hublot Logo" src="/images/home/hublot_238379d6c6.png" width="122" height="17" decoding="async" data-nimg="1" />
+            </>
+          )}
+
         </section>
 
         <section className="grid grid-flow-row gap-4 rounded bg-gray-100  p-10">
@@ -223,10 +266,18 @@ export default function Home() {
                 <p>Download Video Online lets you download content with no watermarks so you can repurpose and share them anywhere. No loss in video quality—download videos in HD and in any format the video has been uploaded. Perfect for content creators everywhere! Share your videos on your YouTube, gaming, and podcast channels and grow your following.</p>
               </div>
             </div>
-            <Image alt="Download Video Online remove the watermark.png"
-              sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
-              src="/images/home/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.webp"
-              width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            {isAmp ?
+              <amp-img alt="Download Video Online remove the watermark"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              :
+              <Image alt="Download Video Online remove the watermark"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            }
+
           </div>
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4 md:order-last">
@@ -235,10 +286,17 @@ export default function Home() {
                 <p>If you don’t have the time or resources to add voiceovers, you can use Download Video Online <a href="#" className="text-primary">text-to-speech software</a>! Our TTS uses real human voices. Choose from different languages and voice profiles. Our text-to-voice AI will read your text in that accent. Just paste a text or start typing and add the audio to your video! It’s super easy to use and free. Adding voiceovers from text saves you a lot of time and effort in creating your video. </p>
               </div>
             </div>
-            <Image alt="Add voice overs to your video instantly.png"
-              sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
-              src="/images/home/Download_Twitch_clips_and_remove_the_watermark_abeab12228.webp"
-              width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            {isAmp ?
+              <amp-img alt="Add voice overs to your video instantly"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Download_Twitch_clips_and_remove_the_watermark_abeab12228.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              :
+              <Image alt="Add voice overs to your video instantly"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Download_Twitch_clips_and_remove_the_watermark_abeab12228.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            }
           </div>
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4">
@@ -247,10 +305,17 @@ export default function Home() {
                 <p>If you’re a streamer, chances are you also have other social media channels to maintain. Repurposing your content for different platforms has never been easier. With Download Video Online’s built-in video editing software, you can create professional-looking videos in just a few clicks—straight from your browser. Add sound effects, background music, images, text, subtitles, and more. You can also record your screen and webcam using our free <a href="#" className="text-primary">screen recorder</a>. Create gaming walkthroughs and more! </p>
               </div>
             </div>
-            <Image alt="Create professional-looking videos in a few clicks.png"
-              sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
-              src="/images/home/Create_professional_looking_videos_in_a_few_clicks_7329a86885.webp"
-              width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            {isAmp ?
+              <amp-img alt="Create professional-looking videos in a few clicks"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Create_professional_looking_videos_in_a_few_clicks_7329a86885.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+              :
+              <Image alt="Create professional-looking videos in a few clicks"
+                sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px"
+                src="/images/home/Create_professional_looking_videos_in_a_few_clicks_7329a86885.webp"
+                width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            }
           </div>
         </section>
 
@@ -295,13 +360,13 @@ export default function Home() {
                   src={"/images/googleplay.svg"}
                   width={165}
                   height={48}
-                  alt="logo"
+                  alt="googleplay app url"
                 />
                 <Image
                   src={"/images/app-store.svg"}
                   width={145}
                   height={48}
-                  alt="logo"
+                  alt="apple app url"
                 />
               </div>
             </div>

@@ -16,6 +16,11 @@ const APIPage = () => {
         <li>TikTok</li>
         <li>Instagram</li>
         <li>Facebook</li>
+        <li>Pinterest</li>
+        <li>Twitter</li>
+        <li>Twitch</li>
+        <li>Netflix</li>
+        <li>Vimeo</li>
         <li>Twitter</li>
       </ul>
       <p>
