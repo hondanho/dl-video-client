@@ -30,13 +30,13 @@ export const mainMetadata = async (): Promise<Metadata> => {
       title: t("name"),
       description: t("description"),
       siteName: t("name"),
-      images: t("ogImageUrl"),
+      images: '/images/open-graph.png',
     },
     twitter: {
       card: "summary_large_image",
       title: t("name"),
       description: t("description"),
-      images: [t("ogImageUrl")],
+      images: '/images/open-graph.png',
       creator: `@${process.env.WEBSITE_URL}`,
     },
     abstract: t("description"),
@@ -55,9 +55,9 @@ export const mainMetadata = async (): Promise<Metadata> => {
       },
     },
     icons: {
-      icon: "/favicon.png",
-      shortcut: "/favicon.png",
-      apple: "/favicon.png",
+      icon: "/favicon.ico",
+      shortcut: "/images/favicon-32x32.png",
+      apple: "/apple-touch-icon.png",
     },
     manifest: "/webmanifest.json",
   };

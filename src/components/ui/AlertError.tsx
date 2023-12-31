@@ -39,7 +39,7 @@ const AlertError = (props: AlertErrorProps) => {
               fill="currentColor"
               strokeWidth="0"
               viewBox="0 0 1024 1024"
-              fill-rule="evenodd"
+              fillRule="evenodd"
               className="text-xl"
               height="1em"
               width="1em"

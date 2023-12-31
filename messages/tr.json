@@ -1,9 +1,7 @@
 {
   "Metadata": {
-    "name": "Download Video online",
+    "name": "Download Video Online",
     "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
-    "url": "https://downloadvideoonline.org",
-    "ogImageUrl": "/images/open-graph.png",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
@@ -19,16 +17,58 @@
     "label": "Change language",
     "locale": "{locale, select, de {German} en {English} other {Unknown}}"
   },
-  "PageTool": {
-    "youtube": "effortlessly and quickly download YouTube videos with our free video downloader tool",
-    "youtube-mp4": "effortlessly and quickly download YouTube videos with our free video downloader tool",
-    "youtube-short": "effortlessly and quickly download YouTube Short videos with our free video downloader tool",
-    "tiktok": "effortlessly and quickly download Tiktok videos with our free video downloader tool",
-    "instagram": "download Instagram videos effortlessly with our reliable and free video downloader tool.",
-    "facebook": "download Facebook videos effortlessly with our reliable and free video downloader tool.",
-    "facebook-reel": "download Facebook Reels videos effortlessly with our reliable and free video downloader tool.",
-    "twitter": "download Twitter videos effortlessly with our reliable and free video downloader tool.",
-    "twitch": "download Twitch videos effortlessly with our reliable and free video downloader tool.",
-    "twitch-clip": "download Twitch Clip videos effortlessly with our reliable and free video downloader tool."
+  "Page": {
+    "api-faq": {
+      "title": "api faq",
+      "slug-high-level": true
+    },
+    "contact": {
+      "title": "contact",
+      "slug-high-level": true
+    },
+    "facebook": {
+      "title": "download video facebook"
+    },
+    "facebook-reel": {
+      "title": "download video facebook reels"
+    },
+    "instagram": {
+      "title": "download video instagram"
+    },
+    "instagram-short": {
+      "title": "download video instagram short"
+    },
+    "instagram-story": {
+      "title": "download video instagram story"
+    },
+    "privacy-policy": {
+      "title": "privacy policy",
+      "slug-high-level": true
+    },
+    "terms-of-service": {
+      "title": "terms of service",
+      "slug-high-level": true
+    },
+    "tiktok": {
+      "title": "download video tiktok"
+    },
+    "twitch": {
+      "title": "download video twitch"
+    },
+    "twitch-clip": {
+      "title": "download video twitch clip"
+    },
+    "twitter": {
+      "title": "download twitter videos"
+    },
+    "youtube": {
+      "title": "download youtube video"
+    },
+    "youtube-mp4": {
+      "title": "download youtube to mp4"
+    },
+    "youtube-short": {
+      "title": "download youtube short"
+    }
   }
 }

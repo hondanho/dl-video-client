@@ -1,7 +1,7 @@
 const PrivacyPolicyPage = () => {
   return (
     <div className="mx-auto my-8 h-fit max-w-4xl flex-1 bg-white p-4 shadow-sm md:rounded grid gap-5">
-      <h1 className="mb-2 text-2xl font-bold">PRIVACY POLICY</h1>
+      <h1 className="mb-2 text-2xl font-bold">Privacy Policy</h1>
 
       <section className="">
         <h2 className="mb-2 font-bold">1. Introduction</h2>

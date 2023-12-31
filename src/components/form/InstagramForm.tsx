@@ -1,17 +1,19 @@
 "use client";
 import { useState } from "react";
-import { Exception, ClientException, fetchVideoInfo } from "@/utils/handle";
+import { Exception, ClientException } from "@/utils/handle";
 
 import AlertError from "@/components/ui/AlertError";
 import DownloadButton from "@/components/ui/DownloadButton";
 import InputField from "@/components/ui/InputField";
+import { fetchVideoInfoAction } from "@/lib/instagram/actions/fetchVideoInfo";
+import { downloadFile } from "@/utils";
 
 const isValidFormInput = (postUrl: string) => {
   if (!postUrl) {
     return "Instagram URL was not provided";
   }
 
-  if (!postUrl.includes("instagram.com")) {
+  if (!postUrl.includes("instagram.com") && !postUrl.includes("www.instagram.com")) {
     return "Invalid URL does not contain Instagram domain";
   }
 
@@ -58,11 +60,7 @@ export default function InstagramForm({ onValueClear, onValueChange }: any) {
         throw new ClientException(inputError);
       }
 
-      const response: any = await fetchVideoInfo({
-        apiUrl: `${process.env.NEXT_PUBLIC_API_URL}/api/ins/dl`,
-        postUrl: postUrlValue,
-        timeout: 100000,
-      });
+      const response = await fetchVideoInfoAction(postUrlValue);
 
       if (response.status === "error") {
         throw new ClientException(response.message);
@@ -72,7 +70,8 @@ export default function InstagramForm({ onValueClear, onValueChange }: any) {
         throw new ClientException();
       }
 
-      onValueChange(response.data.data);
+      // onValueChange(response.data);
+      downloadFile(response.data.meta.title, response.data.formats[0].url);
     } catch (error: any) {
       handleError(error);
     }

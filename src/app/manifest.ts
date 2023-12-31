@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
- 
+
 export default async function manifest(): Promise<MetadataRoute.Manifest> {
-    
+
   return {
     name: "Download Video Online",
     short_name: "Download Video Online",
@@ -9,19 +9,29 @@ export default async function manifest(): Promise<MetadataRoute.Manifest> {
     start_url: "/",
     display: "standalone",
     background_color: "#fafaf9",
-    theme_color: "#195fd7",
     icons: [
       {
-        "src": "/favicon.png",
-        "sizes": "32x32",
+        "src": "/images/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/android-chrome-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/images/favicon-16x16.png",
+        "sizes": "16x16",
         "type": "image/png"
       }
     ],
+    categories: ["Internet"],
     related_applications: [],
     prefer_related_applications: false,
     scope: "/",
     orientation: "portrait",
     lang: "en",
-    dir: "ltr",
+    dir: "ltr"
   }
 }

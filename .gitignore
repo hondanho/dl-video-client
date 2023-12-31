@@ -30,13 +30,13 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env
-.env*.local
+# .env
+# .env*.local
 
 # vercel
 .vercel
 .vercle/*
-vercel.json
+# vercel.json
 
 # typescript
 *.tsbuildinfo

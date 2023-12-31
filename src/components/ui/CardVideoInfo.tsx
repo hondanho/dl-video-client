@@ -20,7 +20,7 @@ export const CardVideoInfo = ({ videoInfo }: any) => {
                   width={310}
                   height={184}
                   src={videoInfo.thumb}
-                  alt="Lạ kỳ cơn sốt chó Bắc Kinh tại Anh Quốc vào thế kỷ 19  - Khám phá bí ẩn - FBNC"
+                  alt={videoInfo.title}
                   className="card-img-top img-fluid h-full w-full rounded-md object-cover"
                 />
               </div>

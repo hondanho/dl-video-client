@@ -5,6 +5,7 @@ import { Exception, ClientException, fetchVideoInfo } from "@/utils/handle";
 import AlertError from "@/components/ui/AlertError";
 import DownloadButton from "@/components/ui/DownloadButton";
 import InputField from "@/components/ui/InputField";
+import { getPathApiFromPlatform } from "@/utils";
 
 const isValidFormInput = (postUrl: string) => {
   if (!postUrl) {
@@ -59,9 +60,10 @@ export default function TwitchForm({ onValueClear, onValueChange }: any) {
       if (inputError) {
         throw new ClientException(inputError);
       }
+      const twitchPath = getPathApiFromPlatform("twitch");
 
       const response: any = await fetchVideoInfo({
-        apiUrl: `${process.env.NEXT_PUBLIC_API_URL}/api/twitch/dl`,
+        apiUrl: `${process.env.NEXT_PUBLIC_API_URL}/${twitchPath}`,
         postUrl: postUrlValue,
         timeout: 100000,
       });

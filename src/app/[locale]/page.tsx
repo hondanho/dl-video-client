@@ -2,48 +2,14 @@
 
 import Image from "next/image";
 import { cn } from "@/utils";
-import YoutubeForm from "@/components/form/YoutubeForm";
 import { useState } from "react";
 import { Format, VideoInfo } from "@/types";
 import { Accordion, AccordionItem } from "@nextui-org/react";
 import { CardVideoInfo } from "@/components/ui/CardVideoInfo";
-
-const FEATURES_LIST = [
-  {
-    title: "Fast and Reliable",
-    text: "Our reliable service ensures you get your videos without interruptions.",
-  },
-  {
-    title: "High-Quality Downloads",
-    text: "Download Youtube videos in the highest available quality.",
-  },
-  {
-    title: "User-Friendly Interface",
-    text: "No technical expertise required—just a few simple clicks.",
-  },
-  {
-    title: "No Registration Required",
-    text: "No need to create an account or log in.",
-  },
-  {
-    title: "Unlimited Downloads",
-    text: "Download as many Youtube videos as you want, with no restrictions.",
-  },
-  {
-    title: "Supports Multiple Platforms",
-    text: "Compatible with various devices and platforms, including Windows, macOS, Android, and iOS.",
-  },
-];
-
-const BENEFITS_LIST = [
-  "Download Youtube videos to back up your content.",
-  "Download Youtube videos to preserve your memories",
-  "Create your own video compilations using Youtube videos that you download.",
-  "Download Youtube videos for research purposes, such as studying a particular trend or social phenomenon.",
-  "Save your favorite Youtube videos to your device so you can watch them offline or share them with others.",
-  "Use Youtube videos for your own creative projects, such as making YouTube videos or creating presentations.",
-  "Download Youtube videos for educational purposes, such as learning about a new skill or watching a historical event.",
-];
+import GeneralForm from "@/components/form/GeneralForm";
+import Link from "next/link";
+import { useLocale, useTranslations } from "next-intl";
+import StructuredData from "@/components/StructuredData";
 
 const FAQ_LIST = [
   {
@@ -52,12 +18,12 @@ const FAQ_LIST = [
       "Yes, this website is free. We do not collect any personal information from our users.",
   },
   {
-    question: "Can I download Youtube stories?",
-    answer: "No, downloading Youtube stories is not supported.",
+    question: "Can I download stories?",
+    answer: "No, downloading stories is not supported.",
   },
   {
-    question: "Can I download images from Youtube?",
-    answer: "No, we only provide the service of downloading Youtube videos.",
+    question: "Can I download images from ?",
+    answer: "No, we only provide the service of downloading videos.",
   },
   {
     question: "Is this website secure?",
@@ -74,17 +40,27 @@ const FAQ_LIST = [
       "If the video you want to download is not available, please try again later.",
   },
   {
-    question: "Can I download Youtube videos from private accounts?",
-    answer: "No, you cannot download Youtube videos from private accounts.",
+    question: "Can I download videos from private accounts?",
+    answer: "No, you cannot download videos from private accounts.",
   },
   {
-    question: "What is the best format to download Youtube videos in?",
+    question: "What is the best format to download videos in?",
     answer:
-      "The best format to download Youtube videos in is MP4. MP4 is a widely supported video format that can be played on most devices.",
+      "The best format to download videos in is MP4. MP4 is a widely supported video format that can be played on most devices.",
   },
 ];
 
-export default function Youtube() {
+export default function Home() {
+  const t = useTranslations("Page");
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@type': 'BlogPosting',
+    headline: t("youtube-shorts-downloader.title"),
+    description: t("youtube-shorts-downloader.description"),
+    image: t("youtube-shorts-downloader.imageUrl"),
+    datePublished: t("youtube-shorts-downloader.datePublished"),
+  };
+
   const initVideoInfo = {
     thumb: "",
     title: "",
@@ -93,6 +69,8 @@ export default function Youtube() {
     duration: "",
     formats: [],
   };
+
+  const locale = useLocale();
 
   const [videoInfo, setVideoInfo] = useState<{
     thumb: string;
@@ -126,79 +104,145 @@ export default function Youtube() {
         className="video-input flex w-full flex-col items-center bg-primary px-4 pb-20 pt-28 shadow-sm"
       >
         <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl">
-          Youtube Video Downloader
+          Online Video Downloader
         </h1>
-        <YoutubeForm
+        <GeneralForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
         />
+        <div className="mx-auto mt-4 text-xs md:text-sm prose prose-neutral prose-a:no-underline marker:text-xl text-white">
+          <p>By downloading this video, you agree to the <Link href={`/${locale}/privacy-policy`} className="text-[#3BDF70] font-bold">Privacy Policy</Link>.
+          </p>
+        </div>
       </section>
       {videoInfo && <CardVideoInfo videoInfo={videoInfo} />}
-      <div className="container mx-auto mb-12 mt-16 flex w-full flex-col gap-8 px-4 text-sm md:px-4 md:text-base">
-        <section id="welcome">
-          <h2 className={cn("mb-4 text-xl font-bold sm:text-3xl")}>
-            Welcome to Youtube Video Downloader
-          </h2>
-          <p className="leading-7">
-            Welcome to Youtube Video Downloader! Unlock the world of Youtube
-            videos like never before. Our user-friendly platform empowers you to
-            effortlessly save your favorite Youtube videos, offering you the
-            convenience and freedom to enjoy them offline. With high-quality
-            downloads, speed, and reliability at the core of our service, you
-            can trust us for all your video downloading needs. Explore our
-            user-friendly interface and start building your own offline
-            collection of Youtube content. Discover the world of Youtube videos
-            with ease and convenience, right here!
-          </p>
+      <div className="container mx-auto mb-16 mt-16 flex w-full flex-col gap-24 px-4 text-sm md:px-4 md:text-base">
+
+        <section className="mx-auto flex max-w-2xl grid-cols-5 flex-wrap items-start justify-center gap-12 md:grid">
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="rounded-lg p-2">
+              <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 640 512" className="h-9 w-9 text-cyan-400" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M336 416h-11.17l9.26-27.77L267 336.4 240.49 416H208a16 16 0 0 0-16 16v32a16 16 0 0 0 16 16h128a16 16 0 0 0 16-16v-32a16 16 0 0 0-16-16zm297.82 42.1L377 259.59 426.17 112H544v32a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V48a16 16 0 0 0-16-16H176a16 16 0 0 0-16 16v43.9L45.46 3.38A16 16 0 0 0 23 6.19L3.37 31.46a16 16 0 0 0 2.81 22.45l588.36 454.72a16 16 0 0 0 22.46-2.81l19.64-25.27a16 16 0 0 0-2.82-22.45zM309.91 207.76L224 141.36V112h117.83z">
+                </path>
+              </svg>
+            </div>
+            <h2 className="whitespace-nowrap pt-3 text-sm">No watermark</h2>
+          </div>
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="rounded-lg p-2">
+              <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 24 24" className="h-9 w-9 text-purple-400" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M3 3H21C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3ZM7.5 11.25V9H6V15H7.5V12.75H9.5V15H11V9H9.5V11.25H7.5ZM14.5 10.5H16C16.2761 10.5 16.5 10.7239 16.5 11V13C16.5 13.2761 16.2761 13.5 16 13.5H14.5V10.5ZM13 9V15H16C17.1046 15 18 14.1046 18 13V11C18 9.89543 17.1046 9 16 9H13Z">
+                </path>
+              </svg>
+            </div>
+            <h2 className="whitespace-nowrap pt-3 text-sm">HD quality</h2>
+          </div>
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="rounded-lg p-2">
+              <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 16 16" className="h-9 w-9 text-yellow-400" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8 2a.5.5 0 0 1 .5.5V4a.5.5 0 0 1-1 0V2.5A.5.5 0 0 1 8 2zM3.732 3.732a.5.5 0 0 1 .707 0l.915.914a.5.5 0 1 1-.708.708l-.914-.915a.5.5 0 0 1 0-.707zM2 8a.5.5 0 0 1 .5-.5h1.586a.5.5 0 0 1 0 1H2.5A.5.5 0 0 1 2 8zm9.5 0a.5.5 0 0 1 .5-.5h1.5a.5.5 0 0 1 0 1H12a.5.5 0 0 1-.5-.5zm.754-4.246a.389.389 0 0 0-.527-.02L7.547 7.31A.91.91 0 1 0 8.85 8.569l3.434-4.297a.389.389 0 0 0-.029-.518z">
+                </path>
+                <path fillRule="evenodd" d="M6.664 15.889A8 8 0 1 1 9.336.11a8 8 0 0 1-2.672 15.78zm-4.665-4.283A11.945 11.945 0 0 1 8 10c2.186 0 4.236.585 6.001 1.606a7 7 0 1 0-12.002 0z">
+                </path>
+              </svg>
+            </div>
+            <h2 className="whitespace-nowrap pt-3 text-sm">Fast download</h2>
+          </div>
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="rounded-lg p-2">
+              <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" className="h-9 w-9 text-green-400" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M203.1 158.3c5.2-11.2 8.1-23.5 8.1-36.7 0-49.5-40.1-89.6-89.6-89.6S32 72.1 32 121.6s40.1 89.6 89.6 89.6c13.2 0 25.5-2.9 36.7-8.1l52.9 52.9-52.9 52.9c-11.2-5.2-23.5-8.1-36.7-8.1-49.5 0-89.6 40.1-89.6 89.6S72.1 480 121.6 480s89.6-40.1 89.6-89.6c0-13.2-2.9-25.5-8.1-36.7l52.9-52.9 156.8 156.8H480v-22.4L203.1 158.3zm-81.5 8.1c-24.6 0-44.8-19.9-44.8-44.8S97 76.8 121.6 76.8s44.8 19.9 44.8 44.8-20.2 44.8-44.8 44.8zm0 268.8c-24.6 0-44.8-19.9-44.8-44.8s20.2-44.8 44.8-44.8 44.8 19.9 44.8 44.8-20.2 44.8-44.8 44.8zm134.4-168c-6.3 0-11.2-4.9-11.2-11.2 0-6.3 4.9-11.2 11.2-11.2 6.3 0 11.2 4.9 11.2 11.2 0 6.3-4.9 11.2-11.2 11.2zM412.8 54.4L278.4 188.8l44.8 44.8L480 76.8V54.4h-67.2z">
+                </path>
+              </svg>
+            </div>
+            <h2 className="whitespace-nowrap pt-3 text-sm">Easily editable</h2>
+          </div>
+          <div className="flex flex-col items-center justify-center text-center">
+            <div className="rounded-lg p-2">
+              <svg stroke="currentColor" fill="currentColor" strokeWidth="0" version="1.1" viewBox="0 0 16 16" className="h-9 w-9 text-red-400" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 11h-1.586l-2.5-2.5 2.5-2.5h1.586v2.5l3.5-3.5-3.5-3.5v2.5h-2c-0.265 0-0.52 0.105-0.707 0.293l-2.793 2.793-2.793-2.793c-0.188-0.188-0.442-0.293-0.707-0.293h-3v2h2.586l2.5 2.5-2.5 2.5h-2.586v2h3c0.265 0 0.52-0.105 0.707-0.293l2.793-2.793 2.793 2.793c0.188 0.188 0.442 0.293 0.707 0.293h2v2.5l3.5-3.5-3.5-3.5v2.5z">
+                </path>
+              </svg>
+            </div>
+            <h2 className="whitespace-nowrap pt-3 text-sm">Any format</h2>
+          </div>
         </section>
 
-        <hr className="w-full" />
-
-        <section id="features">
-          <h2 className={cn("mb-2 text-xl font-semibold sm:text-2xl")}>
-            Youtube Video Downloader Features
-          </h2>
-          <ul className="ml-6 flex list-disc flex-col gap-1 leading-7">
-            {FEATURES_LIST.map(({ title, text }, index) => (
-              <li key={index}>
-                <span className="font-medium">{title}</span>
-                {": "}
-                <span>{text}</span>
-              </li>
-            ))}
-          </ul>
+        <section className="grid grid-flow-row text-center md:gap-16 pb-0 md:pb-0">
+          <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">How to download videos online</h2>
+          <div className="grid grid-cols-1 items-start justify-items-center gap-12 sm:grid-cols-3">
+            <div className="grid grid-flow-row justify-items-center gap-2">
+              <h3 className="text-xl font-bold leading-tight tracking-tight">1. Paste a any video URL</h3>
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <p>Paste a any video URL on the field provided and hit Download. Click “Accept” to acknowledge that you’ve read and agreed to our privacy policy.</p>
+              </div>
+              <Image alt="Paste a any video URL.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Paste_a_Twitch_video_URL_a2586b432b/Paste_a_Twitch_video_URL_a2586b432b.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            </div>
+            <div className="grid grid-flow-row justify-items-center gap-2">
+              <h3 className="text-xl font-bold leading-tight tracking-tight">2. Edit or download</h3>
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <p>You have the option to edit your video using our complete suite of video editing tools. Or click “Download now” to save your video to your device.</p>
+              </div>
+              <Image alt="Edit or download.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Edit_or_download_66e0255ec1/Edit_or_download_66e0255ec1.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            </div>
+            <div className="grid grid-flow-row justify-items-center gap-2">
+              <h3 className="text-xl font-bold leading-tight tracking-tight">3. Share</h3>
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <p>Export your video and share!</p>
+              </div>
+              <Image alt="Share.png" sizes="(min-width: 1536px) 320px, (min-width: 1280px) 320px, (min-width: 1024px) 245px, (min-width: 768px) 192px, (min-width: 640px) 149px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=320,quality=75/Edit_or_download_66e0255ec1/Edit_or_download_66e0255ec1.png?width=640&quality=75" width="320" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+            </div>
+          </div>
         </section>
 
-        <hr className="w-full" />
-
-        <section id="instructions">
-          <h2 className={cn("py-2 text-xl font-semibold sm:text-2xl")}>
-            How to download Youtube videos
-          </h2>
-          <ol className="list-decimal space-y-2 pl-6">
-            <li>Go to the Youtube video that you want to download.</li>
-            <li>Copy the URL of the video.</li>
-            <li>Paste the URL into the search bar on this website.</li>
-            <li>Click the `Download` button.</li>
-          </ol>
+        <section id="logo-section" className="mx-auto flex flex-wrap items-center justify-center gap-8">
+          <Image alt="Facebook Logo" src="https://cdn-site-assets.veed.io/facebook_eeafacb0ea_94f54bd445/facebook_eeafacb0ea_94f54bd445.png" width="111" height="21" decoding="async" data-nimg="1" />
+          <Image alt="Visa Logo" src="https://cdn-site-assets.veed.io/visa_c3a605a752_cdbacb05c5/visa_c3a605a752_cdbacb05c5.png" width="60" height="21" decoding="async" data-nimg="1" />
+          <Image alt="P&amp;G Logo" src="https://cdn-site-assets.veed.io/pandg_ed1613b589_a1a69f7471/pandg_ed1613b589_a1a69f7471.png" width="45" height="21" decoding="async" data-nimg="1" />
+          <Image alt="Pinterest Logo" src="https://cdn-site-assets.veed.io/pinterest_e2176fc546_32818e4097/pinterest_e2176fc546_32818e4097.png" width="91" height="22" decoding="async" data-nimg="1" />
+          <Image alt="Booking Logo" src="https://cdn-site-assets.veed.io/booking_com_2eb121846e_12f1946815/booking_com_2eb121846e_12f1946815.png" width="108" height="18" decoding="async" data-nimg="1" />
+          <Image alt="Hublot Logo" src="https://cdn-site-assets.veed.io/hublot_238379d6c6_6ee0506db1/hublot_238379d6c6_6ee0506db1.png" width="122" height="17" decoding="async" data-nimg="1" />
         </section>
 
-        <hr className="w-full" />
-
-        <section id="benefits">
-          <h2 className={cn("py-2 text-xl font-semibold sm:text-2xl")}>
-            Benefits of using our Downloader
-          </h2>
-          <ul className="list-disc space-y-2 pl-6">
-            {BENEFITS_LIST.map((benefit, index) => (
-              <li key={index}>{benefit}</li>
-            ))}
-          </ul>
+        <section className="grid grid-flow-row gap-4 rounded bg-gray-100  p-10">
+          <h2 className="text-2xl font-medium leading-tight tracking-tight lg:text-3xl">Instant Download Video Online</h2>
+          <div className="max-w-none md:columns-2 prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+            <p>Download Video Online You can download video clips from <Link className="text-primary" href="/">https://www.downloadvideoonline.org</Link> in just one click! Download Video Online lets you download video content from any platforms such as Youtube, Tiktok, Facebook, Twitter, Instagram, Twitch,... then you can edit, repurpose, and share them anywhere. No watermarks, no loss in video quality, and fast! </p>
+            <p>Download Video Online works straight from your Mobile or Desktop Browser or Mobile App. You can even edit your videos using our free built-in video editor. You can also add images, audio, text, subtitles, and more. For more information, you can view Terms of Service. Thank you.</p>
+          </div>
         </section>
 
-        <hr className="w-full" />
+        <section className="grid grid-flow-row gap-12 text-center sm:text-start md:gap-32 ">
+          <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
+            <div className="grid grid-flow-row content-start gap-4">
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <h2 className="text-2xl font-medium leading-tight tracking-tight lg:text-3xl mb-5">Download video online and remove the watermark</h2>
+                <p>Download Video Online lets you download content with no watermarks so you can repurpose and share them anywhere. No loss in video quality—download videos in HD and in any format the video has been uploaded. Perfect for content creators everywhere! Share your videos on your YouTube, gaming, and podcast channels and grow your following.</p>
+              </div>
+            </div>
+            <Image alt="Download Video Online remove the watermark.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Download_Twitch_clips_and_remove_the_watermark_abeab12228/Download_Twitch_clips_and_remove_the_watermark_abeab12228.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+          </div>
+          <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
+            <div className="grid grid-flow-row content-start gap-4 md:order-last">
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <h2 className="text-2xl font-medium leading-tight tracking-tight lg:text-3xl mb-5">Add voice overs to your video instantly</h2>
+                <p>If you don’t have the time or resources to add voiceovers, you can use Download Video Online <a href="#" className="text-primary">text-to-speech software</a>! Our TTS uses real human voices. Choose from different languages and voice profiles. Our text-to-voice AI will read your text in that accent. Just paste a text or start typing and add the audio to your video! It’s super easy to use and free. Adding voiceovers from text saves you a lot of time and effort in creating your video. </p>
+              </div>
+            </div>
+            <Image alt="Add voice overs to your video instantly.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc/Add_voice_overs_to_your_video_instantly_1b5fc1ddfc.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+          </div>
+          <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
+            <div className="grid grid-flow-row content-start gap-4">
+              <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">
+                <h2 className="text-2xl font-medium leading-tight tracking-tight lg:text-3xl mb-5">Create professional-looking videos in a few clicks</h2>
+                <p>If you’re a streamer, chances are you also have other social media channels to maintain. Repurposing your content for different platforms has never been easier. With Download Video Online’s built-in video editing software, you can create professional-looking videos in just a few clicks—straight from your browser. Add sound effects, background music, images, text, subtitles, and more. You can also record your screen and webcam using our free <a href="#" className="text-primary">screen recorder</a>. Create gaming walkthroughs and more! </p>
+              </div>
+            </div>
+            <Image alt="Create professional-looking videos in a few clicks.png" sizes="(min-width: 1536px) 512px, (min-width: 1280px) 480px, (min-width: 1024px) 352px, (min-width: 768px) 272px, (min-width: 640px) 512px, 296px" src="https://cdn-site-assets.veed.io/cdn-cgi/image/width=512,quality=75/Create_professional_looking_videos_in_a_few_clicks_7329a86885/Create_professional_looking_videos_in_a_few_clicks_7329a86885.png?width=768&quality=75" width="512" height="378" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+          </div>
+        </section>
 
-        <section id="faq">
+        <section>
           <h2
             className={cn(
               "mb-2 py-2 text-center text-xl font-semibold sm:text-2xl"
@@ -209,7 +253,7 @@ export default function Youtube() {
           <Accordion
             defaultExpandedKeys={["0"]}
             variant="bordered"
-            className="gap-2 rounded"
+            className="gap-2 rounded border"
           >
             {FAQ_LIST.map(({ question, answer }, index) => (
               <AccordionItem
@@ -231,7 +275,7 @@ export default function Youtube() {
                 Download with app
               </h1>
               <p className="leading-relaxed">
-                We now provide an app for Youtube video Download. It is fast,
+                We now provide an app for video Download. It is fast,
                 easy, with no watermark and HD quality
               </p>
               <div className="item-center flex justify-center gap-5 text-center">
@@ -252,6 +296,7 @@ export default function Youtube() {
           </div>
         </section>
       </div>
+      <StructuredData data={structuredData} />
     </main>
   );
 }

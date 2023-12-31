@@ -91,7 +91,7 @@ const Navbar = () => {
         ref={navbarRef}
         className={cn(
           "z-[999] w-full items-center justify-between bg-primary",
-          "flex flex-col md:flex-row md:px-4",
+          "flex flex-col md:flex-row md:px-4 pt-[10px] pb-[10px]",
           openNav ? "shadow-none" : "shadow-sm"
         )}
       >

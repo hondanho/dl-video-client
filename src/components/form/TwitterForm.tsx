@@ -5,6 +5,7 @@ import { Exception, ClientException, fetchVideoInfo } from "@/utils/handle";
 import AlertError from "@/components/ui/AlertError";
 import DownloadButton from "@/components/ui/DownloadButton";
 import InputField from "@/components/ui/InputField";
+import { getPathApiFromPlatform } from "@/utils";
 
 const isValidFormInput = (postUrl: string) => {
   if (!postUrl) {
@@ -59,9 +60,10 @@ export default function TwitterForm({ onValueClear, onValueChange }: any) {
       if (inputError) {
         throw new ClientException(inputError);
       }
+      const twitterPath = getPathApiFromPlatform("twitter");
 
       const response: any = await fetchVideoInfo({
-        apiUrl: `${process.env.NEXT_PUBLIC_API_URL}/api/tw/dl`,
+        apiUrl: `${process.env.NEXT_PUBLIC_API_URL}/${twitterPath}`,
         postUrl: postUrlValue,
         timeout: 100000,
       });

@@ -1,9 +1,7 @@
 {
   "Metadata": {
-    "name": "Download Video online",
+    "name": "Download Video Online",
     "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
-    "url": "https://downloadvideoonline.org",
-    "ogImageUrl": "/images/open-graph.png",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
@@ -19,16 +17,58 @@
     "label": "Change language",
     "locale": "{locale, select, de {German} en {English} other {Unknown}}"
   },
-  "PageTool": {
-    "youtube": "effortlessly and quickly download YouTube videos with our free video downloader tool",
-    "youtube-mp4": "effortlessly and quickly download YouTube videos with our free video downloader tool",
-    "youtube-short": "effortlessly and quickly download YouTube Short videos with our free video downloader tool",
-    "tiktok": "effortlessly and quickly download Tiktok videos with our free video downloader tool",
-    "instagram": "download Instagram videos effortlessly with our reliable and free video downloader tool.",
-    "facebook": "download Facebook videos effortlessly with our reliable and free video downloader tool.",
-    "facebook-reel": "download Facebook Reels videos effortlessly with our reliable and free video downloader tool.",
-    "twitter": "download Twitter videos effortlessly with our reliable and free video downloader tool.",
-    "twitch": "download Twitch videos effortlessly with our reliable and free video downloader tool.",
-    "twitch-clip": "download Twitch Clip videos effortlessly with our reliable and free video downloader tool."
+  "Page": {
+    "api-faq": {
+      "title": "api faq",
+      "slug-high-level": true
+    },
+    "contact": {
+      "title": "contact",
+      "slug-high-level": true
+    },
+    "download-facebook-video": {
+      "title": "download video facebook"
+    },
+    "download-video-facebook-reel": {
+      "title": "download video facebook reels"
+    },
+    "download-video-instagram": {
+      "title": "download video instagram"
+    },
+    "instagram-reels-downloader": {
+      "title": "download video instagram short"
+    },
+    "privacy-policy": {
+      "title": "privacy policy",
+      "slug-high-level": true
+    },
+    "terms-of-service": {
+      "title": "terms of service",
+      "slug-high-level": true
+    },
+    "download-from-tiktok": {
+      "title": "download video tiktok"
+    },
+    "download-video-twitch": {
+      "title": "download video twitch"
+    },
+    "download-video-twitch-clip": {
+      "title": "download video twitch clip"
+    },
+    "download-from-twitter": {
+      "title": "download twitter videos"
+    },
+    "download-video-youtube": {
+      "title": "download youtube video"
+    },
+    "youtube-to-mp4": {
+      "title": "download youtube to mp4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "download youtube short",
+      "description":"Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+      "imageUrl": "http://localhost:3000/images/open-graph.png",
+      "datePublished": "2021-10-01"
+    }
   }
 }

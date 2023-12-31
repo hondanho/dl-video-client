@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Disallow: /
+
+# Host
+Host: www.downloadvideoonline.org
+
+# Sitemaps
+Sitemap: https://www.downloadvideoonline.org/sitemap.xml
+Sitemap: https://www.downloadvideoonline.org/blog/sitemap_index.xml

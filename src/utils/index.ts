@@ -1,6 +1,7 @@
 import { NextRequest } from "next/server";
 import { twMerge } from "tailwind-merge";
 import { type ClassValue, clsx } from "clsx";
+import { UrlApi, defaultGeneralApi, entityDomains } from "@/configs/api";
 
 export const cn = (...inputs: ClassValue[]) => {
   return twMerge(clsx(inputs));
@@ -61,3 +62,27 @@ export const formatViewCount = (viewCount: number) => {
     return (viewCount / 1000000000).toFixed(1) + "B"; // Format view counts in billions
   }
 };
+
+export const getPathApiFromUrl = (url: string): string | undefined => {
+  let urlApi = defaultGeneralApi;
+  try {
+    const urlObject = new URL(url);
+    
+    if (urlObject.hostname) {
+      entityDomains.forEach((entity: UrlApi) => {
+        if (entity.domain.some(x => urlObject.hostname.includes(x))) {
+          urlApi = entity.path;
+        }
+      });
+    }
+  } catch (error) {
+    // Handle invalid URL or other errors
+    console.error('Error parsing URL:', error);
+  } finally {
+    return urlApi;
+  }
+}
+
+export const getPathApiFromPlatform = (platform: string) => {
+  return entityDomains.find(x => x.name === platform)?.path;
+} 

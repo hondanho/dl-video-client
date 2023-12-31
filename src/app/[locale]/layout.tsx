@@ -4,10 +4,11 @@ import { cn } from "@/utils";
 import { mainMetadata } from "@/configs/seo";
 import AppClientComponent from "./app";
 import { notFound } from "next/navigation";
-import { unstable_setRequestLocale } from "next-intl/server";
+import { getTimeZone, unstable_setRequestLocale } from "next-intl/server";
 import Navbar from "@/components/Navbar";
 import { locales } from "@/utils/navigation";
 import Footer from "@/components/Footer";
+import { useMessages } from "next-intl";
 
 const mainFont = MainFont({
   subsets: ["latin"],
@@ -25,6 +26,7 @@ export default function RootLayout({
 
   // Enable static rendering
   unstable_setRequestLocale(locale);
+  const messages = useMessages();
 
   return (
     <html lang={locale}>
@@ -37,7 +39,9 @@ export default function RootLayout({
         )}
       >
         <Navbar />
-        <AppClientComponent>{children}</AppClientComponent>
+        <AppClientComponent {
+          ...{ messages, children, params: { locale }, timeZone: getTimeZone(), now: Date.now() }
+        }>{children}</AppClientComponent>
         <Footer locale={locale} />
       </body>
     </html>
@@ -47,3 +51,13 @@ export default function RootLayout({
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
+
+RootLayout.getInitialProps = async ({ locale }: { locale: string}) => {
+  return {
+    props: {
+      messages: {
+        ...require(`../../../messages/${locale ?? 'en'}.json`),
+      },
+    },
+  }
+};
