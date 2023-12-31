@@ -21,6 +21,7 @@ const ScrollUpButton = () => {
 
   return (
     <button
+      title="Go to top"
       onClick={() =>
         windowRef.current?.scrollTo({
           top: 0,
@@ -38,7 +39,7 @@ const ScrollUpButton = () => {
         strokeWidth="0"
         version="1.1"
         viewBox="0 0 16 16"
-        className="text-xl text-white"
+        className="text-sm text-white"
         height="1em"
         width="1em"
         xmlns="http://www.w3.org/2000/svg"

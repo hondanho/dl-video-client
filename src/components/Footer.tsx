@@ -268,7 +268,7 @@ const Footer = ({ locale }: { locale: string }) => {
                   <circle cx="4" cy="4" r="2" stroke="none"></circle>
                 </svg>
               </Link> */}
-              <Link target="_blank" href={`${process.env.SOCIAL_TIKTOK}`} aria-label="Read more about tiktok" className="text-gray-500">
+              <Link title="tiktok" target="_blank" href={`${process.env.SOCIAL_TIKTOK}`} aria-label="Read more about tiktok" className="text-gray-500">
                 <svg
                   fill="currentColor"
                   stroke="currentColor"

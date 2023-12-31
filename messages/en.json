@@ -67,7 +67,7 @@
     "youtube-shorts-downloader": {
       "title": "download youtube short",
       "description":"Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
-      "imageUrl": "http://localhost:3000/images/open-graph.png",
+      "imageUrl": "/images/open-graph.png",
       "datePublished": "2021-10-01"
     }
   }
