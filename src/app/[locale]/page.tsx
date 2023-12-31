@@ -56,6 +56,7 @@ export default function Home() {
   const structuredSoftwareApplicationJson = structuredSoftwareApplication(t);
   const structuredVideoObjectJson = structuredVideoObject();
   const structuredFaqJson = structuredFaq();
+  const structuredEntertainmentBusinessJson = structuredEntertainmentBusiness(t);
 
   const initVideoInfo = {
     thumb: "",
@@ -311,6 +312,7 @@ export default function Home() {
       <StructuredData data={structuredHowToJson} />
       <StructuredData data={structuredVideoObjectJson} />
       <StructuredData data={structuredFaqJson} />
+      <StructuredData data={structuredEntertainmentBusinessJson} />
     </main>
   );
 }
@@ -428,4 +430,49 @@ const structuredFaq = () => {
       }
     })
   };
+}
+
+const structuredEntertainmentBusiness = (t: any) => {
+  return {
+    "@context": "https://schema.org",
+    "@type": "EntertainmentBusiness",
+    "name": "Download Video Online",
+    "alternateName": "Download Video Online - Online Youtube Downloader",
+    "@id": process.env.NEXT_PUBLIC_WEBSITE_URL,
+    "logo": "/images/android-chrome-512x512.png",
+    "image": "/images/android-chrome-512x512.png",
+    "description": t("youtube-shorts-downloader.description"),
+    "telephone": "602-738-6636",
+    "priceRange": "free",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1203 W Monroe St",
+      "addressLocality": "Phoenix",
+      "addressRegion": "Arizona",
+      "postalCode": "85007",
+      "addressCountry": "US"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "opens": "00:00",
+      "closes": "23:59"
+    },
+    "sameAs": [
+      "https://www.facebook.com/profile.php?id=61554864750576",
+      "https://www.instagram.com/downloadvideoonline/",
+      "https://www.pinterest.com/DownloadVideoOnlineZ/",
+      "https://www.tiktok.com/@downloadvideoonline",
+      "http://www.youtube.com/@DownloadVideoOnline",
+      "https://www.tumblr.com/blog/downloadvideoonline3232"
+    ]
+  }
 }
