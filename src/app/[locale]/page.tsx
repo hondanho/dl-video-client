@@ -174,7 +174,7 @@ export default function Home() {
               </div>
               <Image alt="Paste a any video URL.png"
                 src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
-                width="250" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">2. Edit or download</h3>
@@ -183,7 +183,7 @@ export default function Home() {
               </div>
               <Image alt="Edit or download.png"
                 src={"/images/home/Edit_or_download_66e0255ec1.png"}
-                width="250" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
             </div>
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">3. Share</h3>
@@ -192,7 +192,7 @@ export default function Home() {
               </div>
               <Image alt="Share.png"
                 src={"/images/home/Share_313367e072.png"}
-                width="250" height="213" decoding="async" data-nimg="1" className="h-auto" loading="lazy" />
+                width="250" height="213" decoding="async" data-nimg="1" loading="lazy" />
             </div>
           </div>
         </section>
