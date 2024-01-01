@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "เปลี่ยนภาษา",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "ดาวน์โหลดวิดีโอออนไลน์เป็นซอฟต์แวร์ที่รวดเร็วและปลอดภัยที่อนุญาตให้ดาวน์โหลดวิดีโอจากอินเทอร์เน็ตได้ไม่จำกัด ",
+    "keywords": "ดาวน์โหลดวิดีโอ YouTube, ดาวน์โหลดวิดีโอ Instagram, ดาวน์โหลดวิดีโอ facebook, ดาวน์โหลดวิดีโอ TikTok, ดาวน์โหลดวิดีโอ Twitch, ดาวน์โหลดวิดีโอ Twitter, ดาวน์โหลดวิดีโอ Pinterest, ดาวน์โหลดวิดีโอโซเชียลมีเดีย, ดาวน์โหลดวิดีโอออนไลน์, ดาวน์โหลดวิดีโอฟรี",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "ดาวน์โหลดวิดีโอออนไลน์"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "วางลิงก์วิดีโอสำหรับ Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLable": "วางลิงก์วิดีโอสำหรับ Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "ดาวน์โหลดปุ่มวิดีโอใดก็ได้",
+      "btnText": "ดาวน์โหลด",
+      "btnLoadingText": "กำลังดึงข้อมูล"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "คำถามที่พบบ่อยเกี่ยวกับ API"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "ติดต่อ"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "ดาวน์โหลดวิดีโอ Facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "ดาวน์โหลดวิดีโอ tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "ดาวน์โหลดวิดีโอทวิตเตอร์"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "ดาวน์โหลดวิดีโอ facebook reels"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "ดาวน์โหลดวิดีโออินสตาแกรม"
+    },
+    "download-video-twitch": {
+      "title": "ดาวน์โหลดวิดีโอกระตุก"
+    },
+    "download-video-twitch-clip": {
+      "title": "ดาวน์โหลดคลิปวิดีโอกระตุก"
+    },
+    "download-video-youtube": {
+      "title": "ดาวน์โหลดวิดีโอ YouTube"
+    },
+    "general": {
+      "headTitle": "เครื่องมือดาวน์โหลดวิดีโอออนไลน์",
+      "#1": "การดาวน์โหลดวิดีโอนี้แสดงว่าคุณยอมรับ",
+      "#2": "ไม่มีลายน้ำ",
+      "#3": "คุณภาพระดับ HD",
+      "#4": "ดาวน์โหลดเร็ว",
+      "#5": "แก้ไขได้อย่างง่ายดาย",
+      "#6": "รูปแบบใดก็ได้",
+      "#7": "วิธีดาวน์โหลดวิดีโอ:",
+      "#8": "วาง URL ของวิดีโอ",
+      "#9": "วาง URL ของวิดีโอลงในช่องที่ให้ไว้แล้วกดดาวน์โหลด ",
+      "#10": "แก้ไขหรือดาวน์โหลด",
+      "#11": "คุณมีตัวเลือกในการแก้ไขวิดีโอโดยใช้ชุดเครื่องมือตัดต่อวิดีโอที่สมบูรณ์ของเรา ",
+      "#12": "แบ่งปันเครื่องมือดาวน์โหลดวิดีโอออนไลน์",
+      "#13": "ส่งออกวิดีโอของคุณและแบ่งปัน!",
+      "#14": "ดาวน์โหลดวิดีโอออนไลน์ทันที",
+      "#15": "ดาวน์โหลดวิดีโอออนไลน์ คุณสามารถดาวน์โหลดคลิปวิดีโอได้จาก",
+      "#16": "เพียงคลิกเดียว! ",
+      "#17": "ดาวน์โหลดวิดีโอออนไลน์ทำงานได้โดยตรงจากเบราว์เซอร์มือถือหรือเดสก์ท็อปหรือแอพมือถือ ",
+      "#18": "ดาวน์โหลดวิดีโอออนไลน์และลบลายน้ำ",
+      "#19": "ดาวน์โหลดวิดีโอออนไลน์ช่วยให้คุณสามารถดาวน์โหลดเนื้อหาที่ไม่มีลายน้ำ ดังนั้นคุณจึงสามารถนำไปใช้ใหม่และแชร์ได้ทุกที่ ",
+      "#20": "เพิ่มเสียงพากย์ลงในวิดีโอของคุณทันที",
+      "#21": "หากคุณไม่มีเวลาหรือทรัพยากรในการเพิ่มเสียงบรรยาย คุณสามารถใช้ซอฟต์แวร์แปลงข้อความเป็นคำพูด Download Video Online ได้!  ",
+      "#22": "สร้างวิดีโอที่ดูเป็นมืออาชีพได้ในไม่กี่คลิก",
+      "#23": "หากคุณเป็นสตรีมเมอร์ มีโอกาสที่คุณจะมีช่องโซเชียลมีเดียอื่นๆ ที่ต้องดูแลรักษา  ",
+      "#24": "คำถามที่พบบ่อย - คำถามที่พบบ่อย",
+      "#25": "ดาวน์โหลดด้วยแอพ",
+      "#26": "ขณะนี้เรามีแอปสำหรับดาวน์โหลดวิดีโอแล้ว ",
+      "#27": "URL ของแอป GooglePlay",
+      "#28": "URL แอปแอปเปิ้ล",
+      "datePublished": "01-10-2021",
+      "description": "ดาวน์โหลดวิดีโอออนไลน์เป็นซอฟต์แวร์ที่รวดเร็วและปลอดภัยที่อนุญาตให้ดาวน์โหลดวิดีโอจากอินเทอร์เน็ตได้ไม่จำกัด ",
+      "faq": {
+        "1": {
+          "answer": "ใช่ เว็บไซต์นี้ฟรี ",
+          "question": "เว็บไซต์นี้ฟรีหรือเปล่า?"
+        },
+        "2": {
+          "answer": "ไม่ ไม่รองรับการดาวน์โหลดเรื่องราว",
+          "question": "ฉันสามารถดาวน์โหลดเรื่องราวได้หรือไม่?"
+        },
+        "3": {
+          "answer": "ไม่ เราให้บริการเฉพาะการดาวน์โหลดวิดีโอเท่านั้น",
+          "question": "ฉันสามารถดาวน์โหลดภาพได้จาก ?"
+        },
+        "4": {
+          "answer": "ใช่ เว็บไซต์นี้มีความปลอดภัย ",
+          "question": "เว็บไซต์นี้ปลอดภัยหรือไม่?"
+        },
+        "5": {
+          "answer": "ใช่ คุณสามารถใช้เว็บไซต์จากมือถือหรือแท็บเล็ตของคุณได้",
+          "question": "ฉันสามารถใช้เว็บไซต์จากมือถือของฉันได้หรือไม่?"
+        },
+        "6": {
+          "answer": "หากไม่มีวิดีโอที่คุณต้องการดาวน์โหลด โปรดลองอีกครั้งในภายหลัง",
+          "question": "จะเกิดอะไรขึ้นหากวิดีโอที่ฉันต้องการดาวน์โหลดไม่สามารถใช้งานได้?"
+        },
+        "7": {
+          "answer": "ไม่ คุณไม่สามารถดาวน์โหลดวิดีโอจากบัญชีส่วนตัวได้",
+          "question": "ฉันสามารถดาวน์โหลดวิดีโอจากบัญชีส่วนตัวได้หรือไม่?"
+        },
+        "8": {
+          "answer": "รูปแบบที่ดีที่สุดในการดาวน์โหลดวิดีโอคือ MP4 ",
+          "question": "รูปแบบที่ดีที่สุดในการดาวน์โหลดวิดีโอคืออะไร?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "ดาวน์โหลด youtube สั้น ๆ"
+    },
+    "instagram-reels-downloader": {
+      "title": "ดาวน์โหลดวิดีโอ Instagram สั้น ๆ"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "นโยบายความเป็นส่วนตัว"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "เงื่อนไขการให้บริการ"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "01-10-2021",
+      "description": "ดาวน์โหลดวิดีโอออนไลน์เป็นซอฟต์แวร์ที่รวดเร็วและปลอดภัยที่อนุญาตให้ดาวน์โหลดวิดีโอจากอินเทอร์เน็ตได้ไม่จำกัด ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "ดาวน์โหลด youtube สั้น ๆ"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "ดาวน์โหลด youtube เป็น mp4"
     }
   }
 }

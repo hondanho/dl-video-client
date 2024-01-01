@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Ganti BAHASA",
+    "locale": "{locale, select, de {Jerman} dan {Bahasa Inggris} other {Tidak Diketahui}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+    "keywords": "Download Video YouTube, Download Video Instagram , Download Video facebook, Download Video TikTok, Download Video Twitch, Download Video Twitter, Download Video Pinterest, Download Video Media Sosial, Download Video Online, Download Video Gratis",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Unduh Video Daring"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Tempel tautan video untuk Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLable": "Tempel tautan video untuk Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Unduh tombol video apa pun",
+      "btnText": "Unduh",
+      "btnLoadingText": "Mengambil"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "tanya jawab api"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "kontak"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "unduh video facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "unduh video tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "unduh video twitter"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "unduh video gulungan facebook"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "unduh video instagram"
+    },
+    "download-video-twitch": {
+      "title": "unduh video kedutan"
+    },
+    "download-video-twitch-clip": {
+      "title": "unduh klip video kedutan"
+    },
+    "download-video-youtube": {
+      "title": "unduh video youtube"
+    },
+    "general": {
+      "headTitle": "Pengunduh Video Daring",
+      "#1": "Dengan mengunduh video ini, Anda menyetujui",
+      "#2": "Tidak ada tanda air",
+      "#3": "kualitas HD",
+      "#4": "Unduhan cepat",
+      "#5": "Mudah diedit",
+      "#6": "Format apa pun",
+      "#7": "Cara mengunduh video:",
+      "#8": "Tempelkan URL video apa pun",
+      "#9": "Tempelkan URL video apa pun di bidang yang tersedia dan tekan Unduh. ",
+      "#10": "Sunting atau unduh",
+      "#11": "Anda memiliki opsi untuk mengedit video Anda menggunakan rangkaian lengkap alat pengeditan video kami. ",
+      "#12": "Bagikan alat unduh video online",
+      "#13": "Ekspor video Anda dan bagikan!",
+      "#14": "Unduh Video Online Instan",
+      "#15": "Download Video Online Anda dapat mendownload klip video dari",
+      "#16": "hanya dalam satu klik! ",
+      "#17": "Unduh Video Online berfungsi langsung dari Browser Seluler atau Desktop atau Aplikasi Seluler Anda. ",
+      "#18": "Unduh video online dan hapus tanda air",
+      "#19": "Unduh Video Online memungkinkan Anda mengunduh konten tanpa tanda air sehingga Anda dapat menggunakan kembali dan membagikannya di mana saja. ",
+      "#20": "Tambahkan voice over ke video Anda secara instan",
+      "#21": "Jika Anda tidak punya waktu atau sumber daya untuk menambahkan sulih suara, Anda dapat menggunakan perangkat lunak text-to-speech Download Video Online!  ",
+      "#22": "Buat video yang terlihat profesional dalam beberapa klik",
+      "#23": "Jika Anda seorang streamer, kemungkinan besar Anda juga memiliki saluran media sosial lain untuk dikelola.  ",
+      "#24": "Pertanyaan yang Sering Diajukan - FAQ",
+      "#25": "Unduh dengan aplikasi",
+      "#26": "Kami sekarang menyediakan aplikasi untuk mengunduh video. ",
+      "#27": "url aplikasi googleplay",
+      "#28": "url aplikasi apel",
+      "datePublished": "01-10-2021",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "faq": {
+        "1": {
+          "answer": "Ya, situs web ini gratis. ",
+          "question": "Apakah situs web ini gratis?"
+        },
+        "2": {
+          "answer": "Tidak, pengunduhan cerita tidak didukung.",
+          "question": "Bisakah saya mengunduh cerita?"
+        },
+        "3": {
+          "answer": "Tidak, kami hanya menyediakan layanan download video.",
+          "question": "Bisakah saya mengunduh gambar dari ?"
+        },
+        "4": {
+          "answer": "Ya, situs web ini aman. ",
+          "question": "Apakah situs web ini aman?"
+        },
+        "5": {
+          "answer": "Ya, Anda dapat menggunakan situs web dari ponsel atau tablet Anda.",
+          "question": "Bisakah saya menggunakan situs web dari ponsel saya?"
+        },
+        "6": {
+          "answer": "Jika video yang ingin diunduh tidak tersedia, silakan coba lagi nanti.",
+          "question": "Bagaimana jika video yang ingin saya download tidak tersedia?"
+        },
+        "7": {
+          "answer": "Tidak, Anda tidak dapat mengunduh video dari akun pribadi.",
+          "question": "Bisakah saya mengunduh video dari akun pribadi?"
+        },
+        "8": {
+          "answer": "Format terbaik untuk mengunduh video adalah MP4. ",
+          "question": "Apa format terbaik untuk mengunduh video?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "unduh youtube pendek"
+    },
+    "instagram-reels-downloader": {
+      "title": "download video instagram pendek"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "Kebijakan pribadi"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "persyaratan layanan"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "01-10-2021",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "unduh youtube pendek"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "unduh youtube ke mp4"
     }
   }
 }

@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "言語を変えてください",
+    "locale": "{ロケール、選択、{ドイツ語}、{英語}、その他の {不明}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "オンラインでビデオをダウンロードは、インターネットから無制限にビデオをダウンロードできる高速かつ安全なソフトウェアです。",
+    "keywords": "動画をダウンロード YouTube、動画をダウンロード Instagram 、動画をダウンロード facebook、動画をダウンロード TikTok、動画をダウンロード Twitch、動画をダウンロード Twitter、動画をダウンロード Pinterest、ソーシャル メディアの動画をダウンロード、オンライン動画をダウンロード、動画を無料ダウンロード",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "オンラインでビデオをダウンロード"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Facebook、Instagram、TikTok、Twitter、Twitch、Youtube のビデオ リンクを貼り付けます。",
+      "arialLable": "Facebook、Instagram、TikTok、Twitter、Twitch、Youtube のビデオ リンクを貼り付けます。",
+      "btnArialLabel": "ビデオをダウンロードするボタン",
+      "btnText": "ダウンロード",
+      "btnLoadingText": "フェッチ中"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "APIのよくある質問"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "接触"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "ビデオをダウンロードする"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "ビデオをダウンロードする"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "ツイッターの動画をダウンロードする"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "ビデオ Facebook リールをダウンロード"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "インスタグラムのビデオをダウンロード"
+    },
+    "download-video-twitch": {
+      "title": "ビデオをダウンロード"
+    },
+    "download-video-twitch-clip": {
+      "title": "ビデオツイッチクリップをダウンロード"
+    },
+    "download-video-youtube": {
+      "title": "YouTubeビデオをダウンロードする"
+    },
+    "general": {
+      "headTitle": "オンラインビデオダウンローダー",
+      "#1": "このビデオをダウンロードすると、次の内容に同意したことになります。",
+      "#2": "透かしなし",
+      "#3": "HD画質",
+      "#4": "高速ダウンロード",
+      "#5": "簡単に編集可能",
+      "#6": "任意のフォーマット",
+      "#7": "動画をダウンロードする方法:",
+      "#8": "任意の動画の URL を貼り付けます",
+      "#9": "表示されたフィールドにビデオの URL を貼り付け、[ダウンロード] をクリックします。 ",
+      "#10": "編集またはダウンロード",
+      "#11": "ビデオ編集ツールの完全なスイートを使用してビデオを編集することもできます。",
+      "#12": "共有ツールでビデオをオンラインでダウンロード",
+      "#13": "ビデオをエクスポートして共有しましょう！",
+      "#14": "オンラインでビデオをインスタントダウンロード",
+      "#15": "オンラインでビデオをダウンロード からビデオ クリップをダウンロードできます。",
+      "#16": "ワンクリックで！",
+      "#17": "ビデオ オンラインのダウンロードは、モバイル、デスクトップのブラウザー、またはモバイル アプリから直接操作できます。",
+      "#18": "オンラインでビデオをダウンロードして透かしを削除する",
+      "#19": "Download Video Online を使用すると、透かしのないコンテンツをダウンロードできるため、再利用してどこでも共有できます。",
+      "#20": "ビデオにナレーションを即座に追加します",
+      "#21": "ナレーションを追加するための時間やリソースがない場合は、Download Video Online テキスト読み上げソフトウェアを使用できます。 ",
+      "#22": "数回クリックするだけでプロ並みのビデオを作成できます",
+      "#23": "あなたがストリーマーであれば、維持しなければならない他のソーシャル メディア チャネルも持っている可能性があります。 ",
+      "#24": "よくある質問 - FAQ",
+      "#25": "アプリでダウンロード",
+      "#26": "動画ダウンロード用のアプリを提供するようになりました。",
+      "#27": "GooglePlayアプリのURL",
+      "#28": "アップルアプリのURL",
+      "datePublished": "2021-10-01",
+      "description": "オンラインでビデオをダウンロードは、インターネットから無制限にビデオをダウンロードできる高速かつ安全なソフトウェアです。",
+      "faq": {
+        "1": {
+          "answer": "はい、このウェブサイトは無料です。",
+          "question": "このウェブサイトは無料ですか?"
+        },
+        "2": {
+          "answer": "いいえ、ストーリーのダウンロードはサポートされていません。",
+          "question": "ストーリーをダウンロードできますか?"
+        },
+        "3": {
+          "answer": "いいえ、ビデオをダウンロードするサービスのみを提供しています。",
+          "question": "から画像をダウンロードできますか?"
+        },
+        "4": {
+          "answer": "はい、このウェブサイトは安全です。",
+          "question": "このウェブサイトは安全ですか?"
+        },
+        "5": {
+          "answer": "はい、携帯電話やタブレットからでもウェブサイトをご利用いただけます。",
+          "question": "携帯電話からウェブサイトを利用できますか?"
+        },
+        "6": {
+          "answer": "ダウンロードしたいビデオが利用できない場合は、後でもう一度お試しください。",
+          "question": "ダウンロードしたいビデオが利用できない場合はどうすればよいですか?"
+        },
+        "7": {
+          "answer": "いいえ、プライベートアカウントからビデオをダウンロードすることはできません。",
+          "question": "プライベートアカウントからビデオをダウンロードできますか?"
+        },
+        "8": {
+          "answer": "ビデオをダウンロードするのに最適な形式は MP4 です。 ",
+          "question": "動画をダウンロードするのに最適な形式は何ですか?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "YouTube ショートをダウンロード"
+    },
+    "instagram-reels-downloader": {
+      "title": "インスタグラムショートビデオをダウンロード"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "プライバシーポリシー"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "利用規約"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "オンラインでビデオをダウンロードは、インターネットから無制限にビデオをダウンロードできる高速かつ安全なソフトウェアです。",
+      "imageUrl": "/images/open-graph.png",
+      "title": "YouTube ショートをダウンロード"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "YouTubeをMP4にダウンロード"
     }
   }
 }

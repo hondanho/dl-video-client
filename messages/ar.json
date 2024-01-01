@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "تغيير اللغة",
+    "locale": "{اللغة المحلية، حدد، de {الألمانية} و{الإنجليزية} أخرى {غير معروف}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "تنزيل الفيديو عبر الإنترنت هو برنامج سريع وآمن يسمح بتنزيلات فيديو غير محدودة من الإنترنت. ",
+    "keywords": "تنزيل مقاطع الفيديو يوتيوب، تنزيل فيديو انستقرام، تنزيل فيديو فيسبوك، تنزيل مقاطع فيديو TikTok، تنزيل مقاطع فيديو Twitch، تنزيل فيديو تويتر، تنزيل مقاطع فيديو Pinterest، تنزيل مقاطع فيديو الوسائط الاجتماعية، تنزيل مقاطع فيديو عبر الإنترنت، تنزيل مقاطع فيديو مجانية",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "تحميل فيديو اون لاين"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "الصق روابط الفيديو لـ Facebook وInstagram وTikTok وTwitter وTwitch وYoutube..",
+      "arialLable": "الصق روابط الفيديو لـ Facebook وInstagram وTikTok وTwitter وTwitch وYoutube..",
+      "btnArialLabel": "قم بتنزيل أي زر فيديو",
+      "btnText": "تحميل",
+      "btnLoadingText": "جلب"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "الأسئلة الشائعة حول واجهة برمجة التطبيقات"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "اتصال"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "تحميل فيديو فيس بوك"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "تحميل فيديو تيك توك"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "تحميل فيديوهات تويتر"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "تحميل بكرات الفيديو الفيسبوك"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "تحميل فيديو انستقرام"
+    },
+    "download-video-twitch": {
+      "title": "تحميل فيديو تويتش"
+    },
+    "download-video-twitch-clip": {
+      "title": "تحميل مقطع فيديو تويتش"
+    },
+    "download-video-youtube": {
+      "title": "تحميل فيديو يوتيوب"
+    },
+    "general": {
+      "headTitle": "تنزيل الفيديو عبر الإنترنت",
+      "#1": "بتحميلك لهذا الفيديو فإنك توافق على",
+      "#2": "لايوجد علامة مائية",
+      "#3": "جودة عالية الدقة",
+      "#4": "تحميل سريع",
+      "#5": "قابلة للتحرير بسهولة",
+      "#6": "أي تنسيق",
+      "#7": "كيفية تنزيل الفيديوهات:",
+      "#8": "الصق عنوان URL لأي فيديو",
+      "#9": "الصق عنوان URL لأي فيديو في الحقل المقدم واضغط على \"تنزيل\". ",
+      "#10": "تحرير أو تنزيل",
+      "#11": "لديك خيار تعديل الفيديو الخاص بك باستخدام مجموعتنا الكاملة من أدوات تحرير الفيديو. ",
+      "#12": "أداة مشاركة تنزيل الفيديو عبر الإنترنت",
+      "#13": "تصدير الفيديو الخاص بك ومشاركته!",
+      "#14": "تنزيل الفيديو الفوري عبر الإنترنت",
+      "#15": "تنزيل الفيديو عبر الإنترنت يمكنك تنزيل مقاطع الفيديو من",
+      "#16": "بنقرة واحدة فقط! ",
+      "#17": "يعمل تنزيل الفيديو عبر الإنترنت مباشرة من متصفح الهاتف المحمول أو سطح المكتب أو تطبيق الهاتف المحمول. ",
+      "#18": "قم بتنزيل الفيديو عبر الإنترنت وإزالة العلامة المائية",
+      "#19": "يتيح لك تنزيل الفيديو عبر الإنترنت تنزيل المحتوى بدون علامات مائية حتى تتمكن من إعادة استخدامه ومشاركته في أي مكان. ",
+      "#20": "أضف تعليقات صوتية إلى الفيديو الخاص بك على الفور",
+      "#21": "إذا لم يكن لديك الوقت أو الموارد اللازمة لإضافة تعليقات صوتية، فيمكنك استخدام برنامج تحويل النص إلى كلام تنزيل الفيديو عبر الإنترنت!  ",
+      "#22": "قم بإنشاء مقاطع فيديو ذات مظهر احترافي ببضع نقرات",
+      "#23": "إذا كنت من مستخدمي البث المباشر، فمن المحتمل أن يكون لديك أيضًا قنوات تواصل اجتماعي أخرى يجب عليك الحفاظ عليها.  ",
+      "#24": "أسئلة وأجوبة (FAQ",
+      "#25": "تحميل مع التطبيق",
+      "#26": "نحن نقدم الآن تطبيقًا لتنزيل الفيديو. ",
+      "#27": "عنوان URL لتطبيق googleplay",
+      "#28": "عنوان URL لتطبيق Apple",
+      "datePublished": "2021-10-01",
+      "description": "تنزيل الفيديو عبر الإنترنت هو برنامج سريع وآمن يسمح بتنزيلات فيديو غير محدودة من الإنترنت. ",
+      "faq": {
+        "1": {
+          "answer": "نعم، هذا الموقع مجاني. ",
+          "question": "هل هذا الموقع مجاني؟"
+        },
+        "2": {
+          "answer": "لا، تنزيل القصص غير مدعوم.",
+          "question": "هل أستطيع تحميل القصص؟"
+        },
+        "3": {
+          "answer": "لا، نحن نقدم خدمة تحميل الفيديوهات فقط.",
+          "question": "هل أستطيع تحميل الصور من؟"
+        },
+        "4": {
+          "answer": "نعم، هذا الموقع آمن. ",
+          "question": "هل هذا الموقع آمن؟"
+        },
+        "5": {
+          "answer": "نعم، يمكنك استخدام الموقع من هاتفك المحمول أو جهازك اللوحي.",
+          "question": "هل يمكنني استخدام الموقع من هاتفي المحمول؟"
+        },
+        "6": {
+          "answer": "إذا كان الفيديو الذي تريد تنزيله غير متوفر، يرجى المحاولة مرة أخرى لاحقًا.",
+          "question": "ماذا لو كان الفيديو الذي أريد تنزيله غير متوفر؟"
+        },
+        "7": {
+          "answer": "لا، لا يمكنك تنزيل مقاطع الفيديو من الحسابات الخاصة.",
+          "question": "هل يمكنني تنزيل مقاطع الفيديو من حسابات خاصة؟"
+        },
+        "8": {
+          "answer": "أفضل تنسيق لتنزيل مقاطع الفيديو هو MP4. ",
+          "question": "ما هو التنسيق الأفضل لتنزيل مقاطع الفيديو؟"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "تحميل يوتيوب قصير"
+    },
+    "instagram-reels-downloader": {
+      "title": "تحميل فيديو انستقرام قصير"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "سياسة الخصوصية"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "شروط الخدمة"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "تنزيل الفيديو عبر الإنترنت هو برنامج سريع وآمن يسمح بتنزيلات فيديو غير محدودة من الإنترنت. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "تحميل يوتيوب قصير"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "تحميل اليوتيوب الى mp4"
     }
   }
 }

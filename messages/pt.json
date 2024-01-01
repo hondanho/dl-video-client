@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Mudar idioma",
+    "locale": "{locale, select, de {alemão} en {inglês} other {desconhecido}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Download video Online é um software rápido e seguro que permite downloads ilimitados de vídeos da internet. ",
+    "keywords": "Baixe vídeos do YouTube, baixe vídeos do Instagram, baixe vídeos do Facebook, baixe vídeos do TikTok, baixe vídeos do Twitch, baixe vídeos do Twitter, baixe vídeos do Pinterest, baixe vídeos de mídias sociais, baixe vídeos on-line, baixe vídeos gratuitamente",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Baixe o vídeo on-line"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Cole os links de vídeo para Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "arialLable": "Cole os links de vídeo para Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "btnArialLabel": "Baixe qualquer botão de vídeo",
+      "btnText": "Download",
+      "btnLoadingText": "Buscando"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "perguntas frequentes sobre API"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "contato"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "baixar vídeo facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "baixar vídeo tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "baixar vídeos do twitter"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "baixar vídeo carretéis do Facebook"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "baixar vídeo instagram"
+    },
+    "download-video-twitch": {
+      "title": "baixar vídeo twitch"
+    },
+    "download-video-twitch-clip": {
+      "title": "baixar vídeo do clipe do Twitch"
+    },
+    "download-video-youtube": {
+      "title": "baixar vídeo do youtube"
+    },
+    "general": {
+      "headTitle": "Baixador de vídeo on-line",
+      "#1": "Ao baixar este vídeo, você concorda com os",
+      "#2": "Sem marca d'água",
+      "#3": "Qualidade HD",
+      "#4": "Download rápido",
+      "#5": "Facilmente editável",
+      "#6": "Qualquer formato",
+      "#7": "Como baixar vídeos:",
+      "#8": "Cole qualquer URL de vídeo",
+      "#9": "Cole o URL de qualquer vídeo no campo fornecido e clique em Download. ",
+      "#10": "Editar ou baixar",
+      "#11": "Você tem a opção de editar seu vídeo usando nosso conjunto completo de ferramentas de edição de vídeo. ",
+      "#12": "Ferramenta de compartilhamento de download de vídeo on-line",
+      "#13": "Exporte seu vídeo e compartilhe!",
+      "#14": "Download instantâneo de vídeo on-line",
+      "#15": "Baixar vídeo on-line Você pode baixar videoclipes de",
+      "#16": "em apenas um clique! ",
+      "#17": "O download de vídeo online funciona diretamente do seu navegador móvel ou desktop ou aplicativo móvel. ",
+      "#18": "Baixe o vídeo online e remova a marca d'água",
+      "#19": "Baixar vídeo online permite baixar conteúdo sem marcas d'água para que você possa reaproveitá-lo e compartilhá-lo em qualquer lugar. ",
+      "#20": "Adicione narrações ao seu vídeo instantaneamente",
+      "#21": "Se você não tem tempo ou recursos para adicionar narrações, você pode usar o software de conversão de texto em voz Download Video Online!  ",
+      "#22": "Crie vídeos com aparência profissional com apenas alguns cliques",
+      "#23": "Se você é um streamer, é provável que também tenha outros canais de mídia social para manter.  ",
+      "#24": "Perguntas frequentes - FAQ",
+      "#25": "Baixe com aplicativo",
+      "#26": "Agora fornecemos um aplicativo para download de vídeo. ",
+      "#27": "URL do aplicativo Google Play",
+      "#28": "URL do aplicativo Apple",
+      "datePublished": "01-10-2021",
+      "description": "Download video Online é um software rápido e seguro que permite downloads ilimitados de vídeos da internet. ",
+      "faq": {
+        "1": {
+          "answer": "Sim, este site é gratuito. ",
+          "question": "Este site é gratuito?"
+        },
+        "2": {
+          "answer": "Não, o download de histórias não é compatível.",
+          "question": "Posso baixar histórias?"
+        },
+        "3": {
+          "answer": "Não, oferecemos apenas o serviço de download de vídeos.",
+          "question": "Posso baixar imagens de ?"
+        },
+        "4": {
+          "answer": "Sim, este site é seguro. ",
+          "question": "Este site é seguro?"
+        },
+        "5": {
+          "answer": "Sim, você pode usar o site do seu celular ou tablet.",
+          "question": "Posso usar o site do meu celular?"
+        },
+        "6": {
+          "answer": "Se o vídeo que você deseja baixar não estiver disponível, tente novamente mais tarde.",
+          "question": "E se o vídeo que desejo baixar não estiver disponível?"
+        },
+        "7": {
+          "answer": "Não, você não pode baixar vídeos de contas privadas.",
+          "question": "Posso baixar vídeos de contas privadas?"
+        },
+        "8": {
+          "answer": "O melhor formato para baixar vídeos é MP4. ",
+          "question": "Qual é o melhor formato para baixar vídeos?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "baixar youtube curto"
+    },
+    "instagram-reels-downloader": {
+      "title": "baixar vídeo instagram curto"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "política de Privacidade"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "termos de serviço"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "01-10-2021",
+      "description": "Download video Online é um software rápido e seguro que permite downloads ilimitados de vídeos da internet. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "baixar youtube curto"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "baixar youtube para mp4"
     }
   }
 }

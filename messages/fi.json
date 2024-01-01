@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Vaihda kieltä",
+    "locale": "{locale, select, de {German} fi {English} other {Unknown}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Lataa video Online on nopea ja turvallinen ohjelmisto, jonka avulla voit ladata rajattomasti videoita Internetistä. ",
+    "keywords": "Lataa videoita YouTube, Lataa video Instagram , Lataa video facebook, Lataa videoita TikTok, Lataa videoita Twitch, Lataa video Twitter, Lataa videoita Pinterest, Lataa sosiaalisen median videoita, Lataa online-videoita, Lataa videoita ilmaiseksi",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Lataa video verkossa"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Liitä videolinkit Facebookiin, Instagramiin, TikTokiin, Twitteriin, Twitchiin, Youtubeen..",
+      "arialLable": "Liitä videolinkit Facebookiin, Instagramiin, TikTokiin, Twitteriin, Twitchiin, Youtubeen..",
+      "btnArialLabel": "Lataa mikä tahansa videopainike",
+      "btnText": "ladata",
+      "btnLoadingText": "Haetaan"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "api faq"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "ottaa yhteyttä"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "lataa video facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "lataa video tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "lataa twitter-videoita"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "lataa video facebook-rullat"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "lataa video instagramista"
+    },
+    "download-video-twitch": {
+      "title": "lataa video twitch"
+    },
+    "download-video-twitch-clip": {
+      "title": "lataa video twitch clip"
+    },
+    "download-video-youtube": {
+      "title": "lataa youtube video"
+    },
+    "general": {
+      "headTitle": "Online Video Downloader",
+      "#1": "Lataamalla tämän videon hyväksyt",
+      "#2": "Ei vesileimaa",
+      "#3": "HD laatu",
+      "#4": "Nopea lataus",
+      "#5": "Helposti muokattavissa",
+      "#6": "Mikä tahansa muoto",
+      "#7": "Kuinka ladata videoita:",
+      "#8": "Liitä minkä tahansa videon URL-osoite",
+      "#9": "Liitä minkä tahansa videon URL-osoite annettuun kenttään ja paina Lataa. ",
+      "#10": "Muokkaa tai lataa",
+      "#11": "Voit muokata videotasi käyttämällä täydellistä videonmuokkaustyökaluvalikoimaamme. ",
+      "#12": "Jaa työkalun latausvideo verkossa",
+      "#13": "Vie videosi ja jaa!",
+      "#14": "Videon välitön lataus verkossa",
+      "#15": "Lataa video verkossa Voit ladata videoleikkeitä osoitteesta",
+      "#16": "yhdellä klikkauksella! ",
+      "#17": "Lataa Video Online toimii suoraan mobiili- tai pöytätietokoneen selaimesta tai mobiilisovelluksesta. ",
+      "#18": "Lataa video verkossa ja poista vesileima",
+      "#19": "Download Video Online -palvelun avulla voit ladata sisältöä ilman vesileimoja, jotta voit käyttää uudelleen ja jakaa niitä missä tahansa. ",
+      "#20": "Lisää ääniohjaukset videoosi välittömästi",
+      "#21": "Jos sinulla ei ole aikaa tai resursseja lisätä selostuksia, voit käyttää Download Video Online -tekstistä puheeksi -ohjelmistoa!  ",
+      "#22": "Luo ammattimaisia ​​videoita muutamalla napsautuksella",
+      "#23": "Jos olet striimaaja, sinulla on todennäköisesti myös muita sosiaalisen median kanavia ylläpidettävänä.  ",
+      "#24": "Usein kysytyt kysymykset - UKK",
+      "#25": "Lataa sovelluksella",
+      "#26": "Tarjoamme nyt sovelluksen videoiden lataamiseen. ",
+      "#27": "googleplay-sovelluksen URL-osoite",
+      "#28": "apple-sovelluksen URL-osoite",
+      "datePublished": "10.10.2021",
+      "description": "Lataa video Online on nopea ja turvallinen ohjelmisto, jonka avulla voit ladata rajattomasti videoita Internetistä. ",
+      "faq": {
+        "1": {
+          "answer": "Kyllä, tämä sivusto on ilmainen. ",
+          "question": "Onko tämä sivusto ilmainen?"
+        },
+        "2": {
+          "answer": "Ei, tarinoiden lataamista ei tueta.",
+          "question": "Voinko ladata tarinoita?"
+        },
+        "3": {
+          "answer": "Ei, tarjoamme vain videoiden latauspalvelun.",
+          "question": "Voinko ladata kuvia osoitteesta?"
+        },
+        "4": {
+          "answer": "Kyllä, tämä sivusto on turvallinen. ",
+          "question": "Onko tämä sivusto turvallinen?"
+        },
+        "5": {
+          "answer": "Kyllä, voit käyttää verkkosivustoa matkapuhelimella tai tabletilla.",
+          "question": "Voinko käyttää verkkosivustoa kännykälläni?"
+        },
+        "6": {
+          "answer": "Jos ladattava video ei ole saatavilla, yritä myöhemmin uudelleen.",
+          "question": "Entä jos ladattava video ei ole saatavilla?"
+        },
+        "7": {
+          "answer": "Ei, et voi ladata videoita yksityisiltä tileiltä.",
+          "question": "Voinko ladata videoita yksityisiltä tileiltä?"
+        },
+        "8": {
+          "answer": "Paras tiedostomuoto videoiden lataamiseen on MP4. ",
+          "question": "Mikä on paras muoto videoiden lataamiseen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "lataa youtube lyhyt"
+    },
+    "instagram-reels-downloader": {
+      "title": "Lataa lyhyt instagram-video"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "Tietosuojakäytäntö"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "käyttöehdot"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "10.10.2021",
+      "description": "Lataa video Online on nopea ja turvallinen ohjelmisto, jonka avulla voit ladata rajattomasti videoita Internetistä. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "lataa youtube lyhyt"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "lataa youtube mp4-muodossa"
     }
   }
 }

@@ -1,0 +1,146 @@
+{
+  "LocaleSwitcher": {
+    "label": "Thay đổi ngôn ngữ",
+    "locale": "{locale, select, de {tiếng Đức} en {tiếng Anh} khác {Không xác định}}"
+  },
+  "Metadata": {
+    "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+    "keywords": "Tải xuống video YouTube, Tải xuống video Instagram, Tải xuống video facebook, Tải xuống video TikTok, Tải xuống video Twitch, Tải xuống video Twitter, Tải xuống video Pinterest, Tải xuống video trên mạng xã hội, Tải xuống video trực tuyến, Tải xuống video miễn phí",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Tải xuống video trực tuyến"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Dán các liên kết video cho Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLable": "Dán các liên kết video cho Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Nút tải xuống bất kỳ video nào",
+      "btnText": "Tải xuống",
+      "btnLoadingText": "Đang tìm nạp"
+    }
+  },
+  "Page": {
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "câu hỏi thường gặp về api"
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "liên hệ"
+    },
+    "download-facebook-video": {
+      "title": "tải video facebook"
+    },
+    "download-from-tiktok": {
+      "title": "tải video tik tok"
+    },
+    "download-from-twitter": {
+      "title": "tải xuống video twitter"
+    },
+    "download-video-facebook-reel": {
+      "title": "tải video facebook reel"
+    },
+    "download-video-instagram": {
+      "title": "tải video instagram"
+    },
+    "download-video-twitch": {
+      "title": "tải video co giật"
+    },
+    "download-video-twitch-clip": {
+      "title": "tải video clip co giật"
+    },
+    "download-video-youtube": {
+      "title": "tải xuống video youtube"
+    },
+    "general": {
+      "headTitle": "Trình tải xuống video trực tuyến",
+      "#1": "Bằng cách tải xuống video này, bạn đồng ý với",
+      "#2": "Không có hình mờ",
+      "#3": "chất lượng HD",
+      "#4": "Tải nhanh",
+      "#5": "Dễ dàng chỉnh sửa",
+      "#6": "Mọi định dạng",
+      "#7": "Cách tải xuống video:",
+      "#8": "Dán URL video bất kỳ",
+      "#9": "Dán bất kỳ URL video nào vào trường được cung cấp và nhấn Tải xuống. ",
+      "#10": "Chỉnh sửa hoặc tải xuống",
+      "#11": "Bạn có tùy chọn chỉnh sửa video của mình bằng bộ công cụ chỉnh sửa video hoàn chỉnh của chúng tôi. ",
+      "#12": "Chia sẻ công cụ tải video trực tuyến",
+      "#13": "Xuất video của bạn và chia sẻ!",
+      "#14": "Tải xuống video trực tuyến tức thì",
+      "#15": "Tải xuống video trực tuyến Bạn có thể tải xuống các video clip từ",
+      "#16": "chỉ trong một cú nhấp chuột! ",
+      "#17": "Tải xuống Video Trực tuyến hoạt động trực tiếp từ Trình duyệt dành cho thiết bị di động hoặc máy tính để bàn hoặc Ứng dụng dành cho thiết bị di động của bạn. ",
+      "#18": "Tải video trực tuyến và xóa hình mờ",
+      "#19": "Tải xuống Video Trực tuyến cho phép bạn tải xuống nội dung không có hình mờ để bạn có thể sử dụng lại và chia sẻ chúng ở bất cứ đâu. ",
+      "#20": "Thêm thuyết minh vào video của bạn ngay lập tức",
+      "#21": "Nếu bạn không có thời gian hoặc nguồn lực để thêm giọng nói, bạn có thể sử dụng phần mềm chuyển văn bản thành giọng nói Tải xuống video trực tuyến!  ",
+      "#22": "Tạo video có giao diện chuyên nghiệp chỉ bằng vài cú nhấp chuột",
+      "#23": "Nếu bạn là một người phát trực tiếp, rất có thể bạn cũng có các kênh truyền thông xã hội khác để duy trì.  ",
+      "#24": "Câu hỏi thường gặp - Câu hỏi thường gặp",
+      "#25": "Tải xuống bằng ứng dụng",
+      "#26": "Bây giờ chúng tôi cung cấp một ứng dụng để tải xuống video. ",
+      "#27": "url ứng dụng googleplay",
+      "#28": "url ứng dụng apple",
+      "datePublished": "2021-10-01",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "faq": {
+        "1": {
+          "answer": "Có, trang web này là miễn phí. ",
+          "question": "Trang web này có miễn phí không?"
+        },
+        "2": {
+          "answer": "Không, tải truyện không được hỗ trợ.",
+          "question": "Tôi có thể tải truyện xuống được không?"
+        },
+        "3": {
+          "answer": "Không, chúng tôi chỉ cung cấp dịch vụ tải video xuống.",
+          "question": "Tôi có thể tải hình ảnh từ?"
+        },
+        "4": {
+          "answer": "Có, trang web này an toàn. ",
+          "question": "Trang web này có an toàn không?"
+        },
+        "5": {
+          "answer": "Có, bạn có thể sử dụng trang web từ điện thoại di động hoặc máy tính bảng của mình.",
+          "question": "Tôi có thể sử dụng trang web từ điện thoại di động của mình không?"
+        },
+        "6": {
+          "answer": "Nếu video bạn muốn tải xuống không có sẵn, vui lòng thử lại sau.",
+          "question": "Nếu video tôi muốn tải xuống không có sẵn thì sao?"
+        },
+        "7": {
+          "answer": "Không, bạn không thể tải xuống video từ tài khoản riêng tư.",
+          "question": "Tôi có thể tải xuống video từ tài khoản riêng tư không?"
+        },
+        "8": {
+          "answer": "Định dạng tốt nhất để tải video xuống là MP4. ",
+          "question": "Định dạng tốt nhất để tải video xuống là gì?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "tải youtube ngắn"
+    },
+    "instagram-reels-downloader": {
+      "title": "tải video instagram ngắn"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Chính sách bảo mật"
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "điều khoản dịch vụ"
+    },
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "tải youtube ngắn"
+    },
+    "youtube-to-mp4": {
+      "title": "tải youtube về mp4"
+    }
+  }
+}

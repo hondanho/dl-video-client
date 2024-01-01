@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Changer de langue",
+    "locale": "{locale, select, de {allemand} en {anglais} autre {Inconnu}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+    "keywords": "Télécharger des vidéos YouTube, télécharger des vidéos Instagram, télécharger des vidéos Facebook, télécharger des vidéos TikTok, télécharger des vidéos Twitch, télécharger des vidéos Twitter, télécharger des vidéos Pinterest, télécharger des vidéos sur les réseaux sociaux, télécharger des vidéos en ligne, télécharger des vidéos gratuitement.",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Télécharger la vidéo en ligne"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Collez les liens vidéo pour Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "arialLable": "Collez les liens vidéo pour Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "btnArialLabel": "Téléchargez n’importe quel bouton vidéo",
+      "btnText": "Télécharger",
+      "btnLoadingText": "Aller chercher"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "FAQ sur l'API"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "contact"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "télécharger la vidéo Facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "télécharger la vidéo tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "télécharger des vidéos Twitter"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "télécharger des vidéos sur Facebook"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "télécharger la vidéo Instagram"
+    },
+    "download-video-twitch": {
+      "title": "télécharger la vidéo Twitch"
+    },
+    "download-video-twitch-clip": {
+      "title": "télécharger le clip vidéo Twitch"
+    },
+    "download-video-youtube": {
+      "title": "télécharger la vidéo YouTube"
+    },
+    "general": {
+      "headTitle": "Téléchargeur de vidéo en ligne",
+      "#1": "En téléchargeant cette vidéo, vous acceptez les",
+      "#2": "Pas de filigrane",
+      "#3": "Qualité HD",
+      "#4": "Téléchargement rapide",
+      "#5": "Facilement modifiable",
+      "#6": "N'importe quel format",
+      "#7": "Comment télécharger des vidéos :",
+      "#8": "Collez l'URL de n'importe quelle vidéo",
+      "#9": "Collez l'URL de n'importe quelle vidéo dans le champ fourni et cliquez sur Télécharger. ",
+      "#10": "Modifier ou télécharger",
+      "#11": "Vous avez la possibilité de modifier votre vidéo à l'aide de notre suite complète d'outils de montage vidéo. ",
+      "#12": "Partager l'outil télécharger la vidéo en ligne",
+      "#13": "Exportez votre vidéo et partagez-la !",
+      "#14": "Téléchargement instantané de vidéo en ligne",
+      "#15": "Télécharger la vidéo en ligne Vous pouvez télécharger des clips vidéo à partir de",
+      "#16": "en un seul clic ! ",
+      "#17": "Télécharger la vidéo en ligne fonctionne directement depuis votre navigateur mobile ou de bureau ou votre application mobile. ",
+      "#18": "Téléchargez la vidéo en ligne et supprimez le filigrane",
+      "#19": "Télécharger la vidéo en ligne vous permet de télécharger du contenu sans filigrane afin que vous puissiez le réutiliser et le partager n'importe où. ",
+      "#20": "Ajoutez instantanément des voix off à votre vidéo",
+      "#21": "Si vous n'avez pas le temps ou les ressources nécessaires pour ajouter des voix off, vous pouvez utiliser le logiciel de synthèse vocale Download Video Online !  ",
+      "#22": "Créez des vidéos de qualité professionnelle en quelques clics",
+      "#23": "Si vous êtes un streamer, il y a de fortes chances que vous ayez également d’autres réseaux sociaux à gérer.  ",
+      "#24": "Foire aux questions - FAQ",
+      "#25": "Télécharger avec l'application",
+      "#26": "Nous proposons désormais une application pour le téléchargement de vidéos. ",
+      "#27": "URL de l'application Google Play",
+      "#28": "URL de l'application Apple",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "faq": {
+        "1": {
+          "answer": "Oui, ce site Web est gratuit. ",
+          "question": "Ce site est-il gratuit ?"
+        },
+        "2": {
+          "answer": "Non, le téléchargement d'histoires n'est pas pris en charge.",
+          "question": "Puis-je télécharger des histoires ?"
+        },
+        "3": {
+          "answer": "Non, nous fournissons uniquement le service de téléchargement de vidéos.",
+          "question": "Puis-je télécharger des images depuis ?"
+        },
+        "4": {
+          "answer": "Oui, ce site Web est sécurisé. ",
+          "question": "Ce site Web est-il sécurisé ?"
+        },
+        "5": {
+          "answer": "Oui, vous pouvez utiliser le site Web depuis votre mobile ou votre tablette.",
+          "question": "Puis-je utiliser le site Web depuis mon mobile ?"
+        },
+        "6": {
+          "answer": "Si la vidéo que vous souhaitez télécharger n'est pas disponible, veuillez réessayer plus tard.",
+          "question": "Que faire si la vidéo que je souhaite télécharger n'est pas disponible ?"
+        },
+        "7": {
+          "answer": "Non, vous ne pouvez pas télécharger de vidéos à partir de comptes privés.",
+          "question": "Puis-je télécharger des vidéos à partir de comptes privés ?"
+        },
+        "8": {
+          "answer": "Le meilleur format pour télécharger des vidéos est MP4. ",
+          "question": "Quel est le meilleur format pour télécharger des vidéos ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "télécharger YouTube court"
+    },
+    "instagram-reels-downloader": {
+      "title": "télécharger la vidéo Instagram courte"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "politique de confidentialité"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "conditions d'utilisation"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "télécharger YouTube court"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "télécharger YouTube en mp4"
     }
   }
 }

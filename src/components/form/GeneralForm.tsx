@@ -7,6 +7,7 @@ import DownloadButton from "@/components/ui/DownloadButton";
 import InputField from "@/components/ui/InputField";
 import { downloadFile, getPathApiFromUrl } from "@/utils";
 import { fetchVideoInfoAction } from "@/lib/instagram/actions/fetchVideoInfo";
+import { useTranslations } from "next-intl";
 
 const isValidFormInput = (postUrl: string) => {
   if (!postUrl.startsWith("https://")) {
@@ -17,6 +18,7 @@ const isValidFormInput = (postUrl: string) => {
 };
 
 export default function GeneralForm({ onValueClear, onValueChange }: any) {
+  const t = useTranslations("FormInput.general");
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -112,9 +114,9 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
         <InputField
           id="url-input"
           type="url"
-          placeholder="Paste the video links for Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.."
-          aria-label="Youtube video download URL input"
-          title="Youtube video download URL input"
+          placeholder={t("placeholder")}
+          aria-label={t("arialLable")}
+          title={t("placeholder")}
           value={postUrl}
           onPaste={onPaste}
           onChange={(e) => setPostUrl(e.target.value)}
@@ -127,9 +129,11 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnLoadingText={t("btnLoadingText")}
+          btnText={t("btnText")}
           className="shadow-form"
-          title="Download Youtube video button"
-          aria-label="Download Youtube video button"
+          title="Download any video button"
+          aria-label="Download any video button"
           isLoading={isLoading}
         />
       </div>

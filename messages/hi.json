@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "भाषा बदलें",
+    "locale": "{स्थान, चयन, डे {जर्मन} एन {अंग्रेजी} अन्य {अज्ञात}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "ऑनलाइन वीडियो डाउनलोड करना एक तेज़ और सुरक्षित सॉफ़्टवेयर है जो इंटरनेट से असीमित वीडियो डाउनलोड करने की अनुमति देता है। ",
+    "keywords": "यूट्यूब वीडियो डाउनलोड करें, इंस्टाग्राम वीडियो डाउनलोड करें, फेसबुक वीडियो डाउनलोड करें, टिकटॉक वीडियो डाउनलोड करें, ट्विच वीडियो डाउनलोड करें, ट्विटर वीडियो डाउनलोड करें, पिनटेरेस्ट वीडियो डाउनलोड करें, सोशल मीडिया वीडियो डाउनलोड करें, ऑनलाइन वीडियो डाउनलोड करें, मुफ्त वीडियो डाउनलोड करें",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "वीडियो ऑनलाइन डाउनलोड करें"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "फेसबुक, इंस्टाग्राम, टिकटॉक, ट्विटर, ट्विच, यूट्यूब के लिए वीडियो लिंक पेस्ट करें।",
+      "arialLable": "फेसबुक, इंस्टाग्राम, टिकटॉक, ट्विटर, ट्विच, यूट्यूब के लिए वीडियो लिंक पेस्ट करें।",
+      "btnArialLabel": "कोई भी वीडियो बटन डाउनलोड करें",
+      "btnText": "डाउनलोड करना",
+      "btnLoadingText": "प्राप्त कर रहा है"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "एपीआई अक्सर पूछे जाने वाले प्रश्न"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "संपर्क"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "वीडियो फेसबुक डाउनलोड करें"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "वीडियो टिकटॉक डाउनलोड करें"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "ट्विटर वीडियो डाउनलोड करें"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "वीडियो फेसबुक रील्स डाउनलोड करें"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "वीडियो इंस्टाग्राम डाउनलोड करें"
+    },
+    "download-video-twitch": {
+      "title": "वीडियो ट्विच डाउनलोड करें"
+    },
+    "download-video-twitch-clip": {
+      "title": "वीडियो ट्विच क्लिप डाउनलोड करें"
+    },
+    "download-video-youtube": {
+      "title": "यूट्यूब वीडियो डाउनलोड करें"
+    },
+    "general": {
+      "headTitle": "ऑनलाइन वीडियो डाउनलोडर",
+      "#1": "इस वीडियो को डाउनलोड करके, आप इससे सहमत हैं",
+      "#2": "कोई वॉटरमार्क नहीं",
+      "#3": "एचडी गुणवत्ता",
+      "#4": "फास्ट डाउनलोड",
+      "#5": "आसानी से संपादन योग्य",
+      "#6": "कोई भी प्रारूप",
+      "#7": "वीडियो कैसे डाउनलोड करें:",
+      "#8": "कोई भी वीडियो URL चिपकाएँ",
+      "#9": "दिए गए फ़ील्ड पर कोई भी वीडियो URL चिपकाएँ और डाउनलोड दबाएँ। ",
+      "#10": "संपादित करें या डाउनलोड करें",
+      "#11": "आपके पास हमारे वीडियो संपादन टूल के संपूर्ण सूट का उपयोग करके अपने वीडियो को संपादित करने का विकल्प है। ",
+      "#12": "टूल डाउनलोड वीडियो ऑनलाइन साझा करें",
+      "#13": "अपना वीडियो निर्यात करें और साझा करें!",
+      "#14": "तुरंत वीडियो ऑनलाइन डाउनलोड करें",
+      "#15": "ऑनलाइन वीडियो डाउनलोड करें आप यहां से वीडियो क्लिप डाउनलोड कर सकते हैं",
+      "#16": "बस एक क्लिक में! ",
+      "#17": "वीडियो ऑनलाइन डाउनलोड करना सीधे आपके मोबाइल या डेस्कटॉप ब्राउज़र या मोबाइल ऐप से काम करता है। ",
+      "#18": "ऑनलाइन वीडियो डाउनलोड करें और वॉटरमार्क हटा दें",
+      "#19": "डाउनलोड वीडियो ऑनलाइन आपको बिना वॉटरमार्क के सामग्री डाउनलोड करने की सुविधा देता है ताकि आप उनका पुन: उपयोग कर सकें और उन्हें कहीं भी साझा कर सकें। ",
+      "#20": "अपने वीडियो में तुरंत वॉयस ओवर जोड़ें",
+      "#21": "यदि आपके पास वॉयसओवर जोड़ने के लिए समय या संसाधन नहीं है, तो आप डाउनलोड वीडियो ऑनलाइन टेक्स्ट-टू-स्पीच सॉफ़्टवेयर का उपयोग कर सकते हैं!  ",
+      "#22": "कुछ ही क्लिक में पेशेवर दिखने वाले वीडियो बनाएं",
+      "#23": "यदि आप एक स्ट्रीमर हैं, तो संभावना है कि आपके पास बनाए रखने के लिए अन्य सोशल मीडिया चैनल भी होंगे।  ",
+      "#24": "अक्सर पूछे जाने वाले प्रश्न - अक्सर पूछे जाने वाले प्रश्न",
+      "#25": "ऐप के साथ डाउनलोड करें",
+      "#26": "अब हम वीडियो डाउनलोड के लिए एक ऐप प्रदान करते हैं। ",
+      "#27": "गूगलप्ले ऐप यूआरएल",
+      "#28": "ऐप्पल ऐप यूआरएल",
+      "datePublished": "2021-10-01",
+      "description": "ऑनलाइन वीडियो डाउनलोड करना एक तेज़ और सुरक्षित सॉफ़्टवेयर है जो इंटरनेट से असीमित वीडियो डाउनलोड करने की अनुमति देता है। ",
+      "faq": {
+        "1": {
+          "answer": "हाँ, यह वेबसाइट निःशुल्क है। ",
+          "question": "क्या यह वेबसाइट मुफ़्त है?"
+        },
+        "2": {
+          "answer": "नहीं, कहानियाँ डाउनलोड करना समर्थित नहीं है।",
+          "question": "क्या मैं कहानियाँ डाउनलोड कर सकता हूँ?"
+        },
+        "3": {
+          "answer": "नहीं, हम केवल वीडियो डाउनलोड करने की सेवा प्रदान करते हैं।",
+          "question": "क्या मैं यहाँ से छवियाँ डाउनलोड कर सकता हूँ?"
+        },
+        "4": {
+          "answer": "हां, यह वेबसाइट सुरक्षित है. ",
+          "question": "क्या यह वेबसाइट सुरक्षित है?"
+        },
+        "5": {
+          "answer": "हाँ, आप वेबसाइट का उपयोग अपने मोबाइल या टैबलेट से कर सकते हैं।",
+          "question": "क्या मैं अपने मोबाइल से वेबसाइट का उपयोग कर सकता हूँ?"
+        },
+        "6": {
+          "answer": "यदि आप जो वीडियो डाउनलोड करना चाहते हैं वह उपलब्ध नहीं है, तो कृपया बाद में पुनः प्रयास करें।",
+          "question": "यदि मैं जो वीडियो डाउनलोड करना चाहता हूं वह उपलब्ध नहीं है तो क्या होगा?"
+        },
+        "7": {
+          "answer": "नहीं, आप निजी खातों से वीडियो डाउनलोड नहीं कर सकते.",
+          "question": "क्या मैं निजी खातों से वीडियो डाउनलोड कर सकता हूँ?"
+        },
+        "8": {
+          "answer": "वीडियो डाउनलोड करने का सबसे अच्छा प्रारूप MP4 है। ",
+          "question": "वीडियो डाउनलोड करने का सबसे अच्छा प्रारूप कौन सा है?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "यूट्यूब शॉर्ट डाउनलोड करें"
+    },
+    "instagram-reels-downloader": {
+      "title": "वीडियो इंस्टाग्राम शॉर्ट डाउनलोड करें"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "गोपनीयता नीति"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "सेवा की शर्तें"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "ऑनलाइन वीडियो डाउनलोड करना एक तेज़ और सुरक्षित सॉफ़्टवेयर है जो इंटरनेट से असीमित वीडियो डाउनलोड करने की अनुमति देता है। ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "यूट्यूब शॉर्ट डाउनलोड करें"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "यूट्यूब को mp4 में डाउनलोड करें"
     }
   }
 }

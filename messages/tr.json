@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Dili değiştir",
+    "locale": "{locale, select, de {Almanca} ve {İngilizce} other {Bilinmeyen}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+    "keywords": "Video İndir YouTube, Video İndir Instagram, Video İndir facebook, Video İndir TikTok, Video İndir Twitch, Video İndir Twitter, Video İndir Pinterest, Sosyal Medya Videolarını İndir, Çevrimiçi Video İndir, Ücretsiz Video İndir",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Videoyu Çevrimiçi İndirin"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Facebook, Instagram, TikTok, Twitter, Twitch, Youtube için video bağlantılarını yapıştırın..",
+      "arialLable": "Facebook, Instagram, TikTok, Twitter, Twitch, Youtube için video bağlantılarını yapıştırın..",
+      "btnArialLabel": "Herhangi bir video düğmesini indirin",
+      "btnText": "İndirmek",
+      "btnLoadingText": "Getiriliyor"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "API SSS"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "temas etmek"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "Facebook'tan video indir"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "tiktok videosunu indir"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "twitter videolarını indir"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "video facebook makaralarını indir"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "instagramdan video indir"
+    },
+    "download-video-twitch": {
+      "title": "video seğirmeyi indir"
+    },
+    "download-video-twitch-clip": {
+      "title": "video seğirme klibini indir"
+    },
+    "download-video-youtube": {
+      "title": "youtube videosunu indir"
+    },
+    "general": {
+      "headTitle": "Çevrimiçi Video İndirici",
+      "#1": "Bu videoyu indirerek şunları kabul etmiş olursunuz:",
+      "#2": "Filigran yok",
+      "#3": "HD kalitesi",
+      "#4": "Hızlı indirme",
+      "#5": "Kolayca düzenlenebilir",
+      "#6": "Herhangi bir format",
+      "#7": "Videolar nasıl indirilir:",
+      "#8": "Herhangi bir videonun URL'sini yapıştırın",
+      "#9": "Sağlanan alana herhangi bir video URL'sini yapıştırın ve İndir'e basın. ",
+      "#10": "Düzenle veya indir",
+      "#11": "Eksiksiz video düzenleme araçlarımızı kullanarak videonuzu düzenleme seçeneğiniz vardır. ",
+      "#12": "Araç indirme videosunu çevrimiçi paylaşın",
+      "#13": "Videonuzu dışa aktarın ve paylaşın!",
+      "#14": "Çevrimiçi Videoyu Anında İndirin",
+      "#15": "Videoyu Çevrimiçi İndirin Video klipleri şuradan indirebilirsiniz:",
+      "#16": "sadece tek bir tıklamayla! ",
+      "#17": "Çevrimiçi Videoyu İndir, doğrudan Mobil veya Masaüstü Tarayıcınızdan veya Mobil Uygulamanızdan çalışır. ",
+      "#18": "Videoyu çevrimiçi indirin ve filigranı kaldırın",
+      "#19": "Download Video Online, filigran içermeyen içerikleri indirmenize olanak tanır, böylece bunları istediğiniz yerde yeniden tasarlayabilir ve paylaşabilirsiniz. ",
+      "#20": "Videonuza anında seslendirme ekleyin",
+      "#21": "Seslendirme eklemek için zamanınız veya kaynağınız yoksa Download Video Online metinden konuşmaya yazılımını kullanabilirsiniz!  ",
+      "#22": "Birkaç tıklamayla profesyonel görünümlü videolar oluşturun",
+      "#23": "Eğer bir yayıncıysanız muhtemelen sürdürmeniz gereken başka sosyal medya kanallarınız da vardır.  ",
+      "#24": "Sık Sorulan Sorular (SSS",
+      "#25": "Uygulamayla indirin",
+      "#26": "Artık video indirme için bir uygulama sağlıyoruz. ",
+      "#27": "googleplay uygulamasının URL'si",
+      "#28": "elma uygulamasının URL'si",
+      "datePublished": "2021-10-01",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "faq": {
+        "1": {
+          "answer": "Evet, bu web sitesi ücretsizdir. ",
+          "question": "Bu web sitesi ücretsiz mi?"
+        },
+        "2": {
+          "answer": "Hayır, hikayelerin indirilmesi desteklenmiyor.",
+          "question": "Hikayeleri indirebilir miyim?"
+        },
+        "3": {
+          "answer": "Hayır, yalnızca video indirme hizmeti veriyoruz.",
+          "question": "Resimleri nereden indirebilirim?"
+        },
+        "4": {
+          "answer": "Evet, bu web sitesi güvenlidir. ",
+          "question": "Bu web sitesi güvenli mi?"
+        },
+        "5": {
+          "answer": "Evet, web sitesini cep telefonunuzdan veya tabletinizden kullanabilirsiniz.",
+          "question": "Web sitesini cep telefonumdan kullanabilir miyim?"
+        },
+        "6": {
+          "answer": "İndirmek istediğiniz video mevcut değilse lütfen daha sonra tekrar deneyin.",
+          "question": "İndirmek istediğim video mevcut değilse ne olur?"
+        },
+        "7": {
+          "answer": "Hayır, özel hesaplardan video indiremezsiniz.",
+          "question": "Özel hesaplardan video indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Videoları indirmek için en iyi format MP4'tür. ",
+          "question": "Videoları indirmek için en iyi format hangisidir?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "youtube kısa indir"
+    },
+    "instagram-reels-downloader": {
+      "title": "instagram kısa video indir"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "Gizlilik Politikası"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "kullanım Şartları"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "youtube kısa indir"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "youtube'u mp4'e indir"
     }
   }
 }

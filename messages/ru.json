@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Изменить язык",
+    "locale": "{locale, select, de {Немецкий} en {Английский} Other {Неизвестно}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Скачать видео онлайн — это быстрое и безопасное программное обеспечение, позволяющее загружать неограниченное количество видео из Интернета. ",
+    "keywords": "Скачать видео YouTube, Скачать видео Instagram , Скачать видео Facebook, Скачать видео TikTok, Скачать видео Twitch, Скачать видео Twitter, Скачать видео Pinterest, Скачать видео для социальных сетей, Скачать онлайн-видео, Скачать видео бесплатно",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Скачать видео онлайн"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Вставьте ссылки на видео для Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLable": "Вставьте ссылки на видео для Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Кнопка загрузки любого видео",
+      "btnText": "Скачать",
+      "btnLoadingText": "Получение"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "API: часто задаваемые вопросы"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "контакт"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "скачать видео с фейсбука"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "скачать видео из тиктока"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "скачать видео из твиттера"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "скачать видео ролики с Facebook"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "скачать видео из инстаграма"
+    },
+    "download-video-twitch": {
+      "title": "скачать видео с твитча"
+    },
+    "download-video-twitch-clip": {
+      "title": "скачать видео клип с твитча"
+    },
+    "download-video-youtube": {
+      "title": "скачать видео с ютуба"
+    },
+    "general": {
+      "headTitle": "Онлайн-загрузчик видео",
+      "#1": "Скачивая это видео, вы соглашаетесь с",
+      "#2": "Нет водяного знака",
+      "#3": "HD-качество",
+      "#4": "Быстрая загрузка",
+      "#5": "Легко редактируемый",
+      "#6": "Любой формат",
+      "#7": "Как скачать видео:",
+      "#8": "Вставьте любой URL-адрес видео",
+      "#9": "Вставьте URL-адрес любого видео в соответствующее поле и нажмите «Загрузить». ",
+      "#10": "Редактировать или скачать",
+      "#11": "У вас есть возможность редактировать свое видео, используя наш полный набор инструментов для редактирования видео. ",
+      "#12": "Инструмент «Поделиться» для скачивания видео онлайн",
+      "#13": "Экспортируйте свое видео и поделитесь!",
+      "#14": "Мгновенная загрузка видео онлайн",
+      "#15": "Скачать видео онлайн Вы можете скачать видеоклипы с",
+      "#16": "всего в один клик! ",
+      "#17": "Download Video Online работает прямо из вашего мобильного или настольного браузера или мобильного приложения. ",
+      "#18": "Загрузите видео онлайн и удалите водяной знак",
+      "#19": "Download Video Online позволяет загружать контент без водяных знаков, поэтому вы можете использовать его и делиться им где угодно. ",
+      "#20": "Мгновенно добавляйте озвучку к своему видео",
+      "#21": "Если у вас нет времени или ресурсов для добавления озвучки, вы можете использовать программу для преобразования текста в речь Download Video Online!  ",
+      "#22": "Создавайте профессионально выглядящие видеоролики за несколько кликов",
+      "#23": "Если вы стример, скорее всего, вам нужно поддерживать и другие каналы в социальных сетях.  ",
+      "#24": "Часто задаваемые вопросы - Часто задаваемые вопросы",
+      "#25": "Скачать с приложением",
+      "#26": "Теперь мы предоставляем приложение для загрузки видео. ",
+      "#27": "URL-адрес приложения GooglePlay",
+      "#28": "URL-адрес приложения Apple",
+      "datePublished": "01.10.2021",
+      "description": "Скачать видео онлайн — это быстрое и безопасное программное обеспечение, позволяющее загружать неограниченное количество видео из Интернета. ",
+      "faq": {
+        "1": {
+          "answer": "Да, этот сайт бесплатный. ",
+          "question": "Этот сайт бесплатный?"
+        },
+        "2": {
+          "answer": "Нет, загрузка историй не поддерживается.",
+          "question": "Могу ли я скачать истории?"
+        },
+        "3": {
+          "answer": "Нет, мы предоставляем только услугу скачивания видео.",
+          "question": "Могу ли я скачать изображения с ?"
+        },
+        "4": {
+          "answer": "Да, этот сайт безопасен. ",
+          "question": "Этот сайт безопасен?"
+        },
+        "5": {
+          "answer": "Да, вы можете использовать сайт со своего мобильного телефона или планшета.",
+          "question": "Могу ли я использовать сайт со своего мобильного телефона?"
+        },
+        "6": {
+          "answer": "Если видео, которое вы хотите загрузить, недоступно, повторите попытку позже.",
+          "question": "Что делать, если видео, которое я хочу загрузить, недоступно?"
+        },
+        "7": {
+          "answer": "Нет, вы не можете скачивать видео с частных аккаунтов.",
+          "question": "Могу ли я скачивать видео с частных аккаунтов?"
+        },
+        "8": {
+          "answer": "Лучший формат для загрузки видео — MP4. ",
+          "question": "В каком формате лучше всего скачивать видео?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "скачать короткометражку с ютуба"
+    },
+    "instagram-reels-downloader": {
+      "title": "скачать видео из инстаграма короткое"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "политика конфиденциальности"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "Условия использования"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "01.10.2021",
+      "description": "Скачать видео онлайн — это быстрое и безопасное программное обеспечение, позволяющее загружать неограниченное количество видео из Интернета. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "скачать короткометражку с ютуба"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "скачать ютуб в mp4"
     }
   }
 }

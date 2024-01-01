@@ -1,74 +1,146 @@
 {
+  "LocaleSwitcher": {
+    "label": "Cambia lingua",
+    "locale": "{locale, select, de {tedesco} en {inglese} other {Sconosciuto}}"
+  },
   "Metadata": {
-    "name": "Download Video Online",
-    "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+    "description": "Scarica video online è un software veloce e sicuro che consente download illimitati di video da Internet. ",
+    "keywords": "Scarica video YouTube, Scarica video Instagram, Scarica video Facebook, Scarica video TikTok, Scarica video Twitch, Scarica video Twitter, Scarica video Pinterest, Scarica video sui social media, Scarica video online, Scarica video gratis",
     "links": {
       "twitter": "https://twitter.com/downloadvideoonline.org"
     },
-    "keywords": "Download Videos YouTube,Download Video Instagram ,Download Videos TikTok,Download Video Twitter,Download Videos Twitch,Download Social Media Videos,Download Online Videos,Download Videos Free"
+    "name": "Scarica video in linea"
   },
-
-  "Index": {
-    "title": "Hello world!!",
-    "subtitle": "How is it going?",
-    "alertMessage": "Something went wrong!"
-  },
-  "LocaleSwitcher": {
-    "label": "Change language",
-    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  "FormInput": {
+    "general": {
+      "placeholder": "Incolla i collegamenti video per Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLable": "Incolla i collegamenti video per Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Scarica qualsiasi pulsante video",
+      "btnText": "Scaricamento",
+      "btnLoadingText": "Recupero"
+    }
   },
   "Page": {
     "api-faq": {
-      "title": "api faq",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "apifaq"
     },
     "contact": {
-      "title": "contact",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "contatto"
     },
-    "facebook": {
-      "title": "download video facebook"
+    "download-facebook-video": {
+      "title": "scarica il video da facebook"
     },
-    "facebook-reel": {
-      "title": "download video facebook reels"
+    "download-from-tiktok": {
+      "title": "scarica il video tiktok"
     },
-    "instagram": {
-      "title": "download video instagram"
+    "download-from-twitter": {
+      "title": "scaricare video da twitter"
     },
-    "instagram-short": {
-      "title": "download video instagram short"
+    "download-video-facebook-reel": {
+      "title": "scarica video reels da facebook"
     },
-    "instagram-story": {
-      "title": "download video instagram story"
+    "download-video-instagram": {
+      "title": "scarica video instagram"
+    },
+    "download-video-twitch": {
+      "title": "scarica il video twitch"
+    },
+    "download-video-twitch-clip": {
+      "title": "scarica clip video twitch"
+    },
+    "download-video-youtube": {
+      "title": "scarica il video di youtube"
+    },
+    "general": {
+      "headTitle": "Scaricatore di video online",
+      "#1": "Scaricando questo video accetti i",
+      "#2": "Nessuna filigrana",
+      "#3": "Qualità HD",
+      "#4": "Download veloce",
+      "#5": "Facilmente modificabile",
+      "#6": "Qualsiasi formato",
+      "#7": "Come scaricare i video:",
+      "#8": "Incolla l'URL di un video qualsiasi",
+      "#9": "Incolla l'URL di un video nel campo fornito e premi Download. ",
+      "#10": "Modifica o scarica",
+      "#11": "Hai la possibilità di modificare il tuo video utilizzando la nostra suite completa di strumenti di editing video. ",
+      "#12": "Strumento di condivisione per scaricare video online",
+      "#13": "Esporta il tuo video e condividilo!",
+      "#14": "Download istantaneo di video online",
+      "#15": "Scarica video online È possibile scaricare clip video da",
+      "#16": "in un solo clic! ",
+      "#17": "Scarica video online funziona direttamente dal tuo browser mobile o desktop o dall'app mobile. ",
+      "#18": "Scarica video online e rimuovi la filigrana",
+      "#19": "Scarica video online ti consente di scaricare contenuti senza filigrane in modo da poterli riutilizzare e condividere ovunque. ",
+      "#20": "Aggiungi immediatamente la voce fuori campo al tuo video",
+      "#21": "Se non hai il tempo o le risorse per aggiungere voci fuori campo, puoi utilizzare il software di sintesi vocale Scarica Video Online!  ",
+      "#22": "Crea video dall'aspetto professionale in pochi clic",
+      "#23": "Se sei uno streamer, è probabile che tu abbia anche altri canali di social media da mantenere.  ",
+      "#24": "Domande frequenti - FAQ",
+      "#25": "Scarica con l'app",
+      "#26": "Ora forniamo un'app per il download di video. ",
+      "#27": "URL dell'applicazione Google Play",
+      "#28": "URL dell'app Apple",
+      "datePublished": "2021-10-01",
+      "description": "Scarica video online è un software veloce e sicuro che consente download illimitati di video da Internet. ",
+      "faq": {
+        "1": {
+          "answer": "Sì, questo sito Web è gratuito. ",
+          "question": "Questo sito web è gratuito?"
+        },
+        "2": {
+          "answer": "No, il download di storie non è supportato.",
+          "question": "Posso scaricare storie?"
+        },
+        "3": {
+          "answer": "No, forniamo solo il servizio di download di video.",
+          "question": "Posso scaricare immagini da ?"
+        },
+        "4": {
+          "answer": "Sì, questo sito web è sicuro. ",
+          "question": "Questo sito web è sicuro?"
+        },
+        "5": {
+          "answer": "Sì, puoi utilizzare il sito web dal tuo cellulare o tablet.",
+          "question": "Posso utilizzare il sito web dal mio cellulare?"
+        },
+        "6": {
+          "answer": "Se il video che desideri scaricare non è disponibile, riprova più tardi.",
+          "question": "Cosa succede se il video che voglio scaricare non è disponibile?"
+        },
+        "7": {
+          "answer": "No, non puoi scaricare video da account privati.",
+          "question": "Posso scaricare video da account privati?"
+        },
+        "8": {
+          "answer": "Il formato migliore per scaricare video è MP4. ",
+          "question": "Qual è il formato migliore in cui scaricare i video?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "title": "scarica il breve da youtube"
+    },
+    "instagram-reels-downloader": {
+      "title": "Scarica video instagram breve"
     },
     "privacy-policy": {
-      "title": "privacy policy",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "politica sulla riservatezza"
     },
     "terms-of-service": {
-      "title": "terms of service",
-      "slug-high-level": true
+      "slug-high-level": true,
+      "title": "Termini di servizio"
     },
-    "tiktok": {
-      "title": "download video tiktok"
+    "youtube-shorts-downloader": {
+      "datePublished": "2021-10-01",
+      "description": "Scarica video online è un software veloce e sicuro che consente download illimitati di video da Internet. ",
+      "imageUrl": "/images/open-graph.png",
+      "title": "scarica il breve da youtube"
     },
-    "twitch": {
-      "title": "download video twitch"
-    },
-    "twitch-clip": {
-      "title": "download video twitch clip"
-    },
-    "twitter": {
-      "title": "download twitter videos"
-    },
-    "youtube": {
-      "title": "download youtube video"
-    },
-    "youtube-mp4": {
-      "title": "download youtube to mp4"
-    },
-    "youtube-short": {
-      "title": "download youtube short"
+    "youtube-to-mp4": {
+      "title": "scarica youtube in mp4"
     }
   }
 }

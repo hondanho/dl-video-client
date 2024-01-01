@@ -2,19 +2,21 @@ import { createSharedPathnamesNavigation } from "next-intl/navigation";
 import { Pathnames } from "next-intl/navigation";
 
 export const locales = [
-  "en",
-  "de",
   "ar",
-  "pt",
-  "ru",
-  "id",
-  "tr",
+  "de",
+  "en",
+  "fi",
   "fr",
-  "it",
   "hi",
+  "id",
+  "it",
   "ja",
   "ko",
+  "pt",
+  "ru",
   "th",
+  "tr",
+  "vi",
 ] as const;
 
 export const pathnames = {
@@ -52,44 +54,36 @@ export const localeNames: {
   value: string;
 }[] = [
   {
-    name: "English",
-    value: "en",
+    name: "Arabic",
+    value: "ar",
   },
   {
     name: "German",
     value: "de",
   },
   {
-    name: "Arabic",
-    value: "ar",
+    name: "English",
+    value: "en",
   },
   {
-    name: "Portugal",
-    value: "pt",
+    name: "Finnish",
+    value: "fi",
   },
   {
-    name: "Russian",
-    value: "ru",
+    name: "French",
+    value: "fr",
+  },
+  {
+    name: "Hindi",
+    value: "hi",
   },
   {
     name: "Indonesian",
     value: "id",
   },
   {
-    name: "Turkish",
-    value: "tr",
-  },
-  {
-    name: "Français",
-    value: "fr",
-  },
-  {
     name: "Italian",
     value: "it",
-  },
-  {
-    name: "Hindi",
-    value: "hi",
   },
   {
     name: "Japanese",
@@ -100,7 +94,23 @@ export const localeNames: {
     value: "ko",
   },
   {
+    name: "Portugal",
+    value: "pt",
+  },
+  {
+    name: "Russian",
+    value: "ru",
+  },
+  {
     name: "Thai",
     value: "th",
   },
+  {
+    name: "Turkish",
+    value: "tr",
+  },
+  {
+    name: "Vietnamese",
+    value: "vi",
+  }
 ];
