@@ -29,7 +29,7 @@ const ScrollUpButton = () => {
           behavior: "instant",
         })
       }
-      className={cn("fixed bottom-4 right-4 rounded-full bg-secondary p-3", {
+      className={cn("fixed bottom-4 right-4 rounded-full bg-white p-3 shadow-form", {
         hidden: !visible,
       })}
     >
@@ -39,7 +39,7 @@ const ScrollUpButton = () => {
         strokeWidth="0"
         version="1.1"
         viewBox="0 0 16 16"
-        className="text-sm text-white"
+        className="text-sm text-black"
         height="1em"
         width="1em"
         xmlns="http://www.w3.org/2000/svg"
