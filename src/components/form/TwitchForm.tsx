@@ -117,6 +117,8 @@ export default function TwitchForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Twitch video button"
           aria-label="Download Twitch video button"
           isLoading={isLoading}

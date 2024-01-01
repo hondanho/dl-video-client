@@ -118,6 +118,8 @@ export default function YoutubeForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Youtube video button"
           aria-label="Download Youtube video button"
           isLoading={isLoading}

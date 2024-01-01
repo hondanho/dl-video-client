@@ -112,6 +112,8 @@ export default function InstagramForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Instagram video button"
           aria-label="Download Instagram video button"
           isLoading={isLoading}

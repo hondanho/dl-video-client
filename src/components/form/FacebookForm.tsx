@@ -117,6 +117,8 @@ export default function FacebookForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Facebook video button"
           aria-label="Download Facebook video button"
           isLoading={isLoading}

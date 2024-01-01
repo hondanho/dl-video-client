@@ -117,6 +117,8 @@ export default function TwitterForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Twitter video button"
           aria-label="Download Twitter video button"
           isLoading={isLoading}

@@ -117,6 +117,8 @@ export default function TiktokForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
+          btnText="Download"
+          btnLoadingText="Fetching"
           title="Download Tiktok video button"
           aria-label="Download Tiktok video button"
           isLoading={isLoading}
