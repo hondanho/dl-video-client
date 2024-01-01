@@ -20,14 +20,43 @@
       "btnLoadingText": "Aller chercher"
     }
   },
+  "Footer": {
+    "#1": "Téléchargeur YouTube",
+    "#2": "Télécharger Youtube en mp4",
+    "#3": "Téléchargeur de courts métrages Youtube",
+    "#4": "Téléchargeur de vidéos TikTok",
+    "#5": "Téléchargeur de vidéos Twitter",
+    "#6": "Téléchargeur de vidéos Twitch",
+    "#7": "Téléchargeur de clips Twitch",
+    "#8": "Téléchargeur de vidéos Instagram",
+    "#9": "Téléchargement de l'histoire Instagram",
+    "#10": "Téléchargement des bobines Instagram",
+    "#11": "Visionneuse Instagram",
+    "#12": "Téléchargeur de vidéos Facebook",
+    "#13": "Téléchargeur de bobines Facebook",
+    "#14": "À propos de nous",
+    "#15": "politique de confidentialité",
+    "#16": "Conditions d'utilisation",
+    "#17": "Contact",
+    "#18": "Blog",
+    "#19": "Tous droits réservés."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "FAQ sur l'API"
+      "title": "API de téléchargement de vidéos",
+      "#1": "L'API {website_url} fournit une méthode simple et pratique pour récupérer des fichiers multimédias à partir des sites Web et des plateformes de médias sociaux les plus populaires. ",
+      "#2": "Pour accéder ou obtenir plus d’informations, veuillez nous contacter au "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "contact"
+      "title": "Contactez-nous",
+      "#1": "Si vous avez des questions, des plaintes ou des réclamations concernant nos services, veuillez nous envoyer un message à",
+      "#2": "Retour",
+      "#3": "E-mail",
+      "#4": "Message",
+      "#5": "Soumettre",
+      "#6": "E-mail envoyé avec succès !"
     },
     "download-facebook-video": {
       "title": "télécharger la vidéo Facebook"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "politique de confidentialité"
+      "title": "politique de confidentialité",
+      "#1": "Introduction",
+      "#2": "Cette politique de confidentialité informe les utilisateurs que le site Web ({website_url}) ne collecte, ne stocke ni ne traite aucune information personnelle. ",
+      "#3": "Veuillez noter que cette politique est fournie conformément aux exigences légales, même si le site Web ou le service ne collecte ni ne stocke aucune information personnelle.",
+      "#4": "Publicité et analyses tierces",
+      "#5": "Nous utilisons des services de publicité tiers, tels que Google AdSense, pour diffuser des publicités sur le site Web. ",
+      "#6": "Vous pouvez vous désinscrire de la publicité personnalisée en visitant",
+      "#7": "Paramètres des annonces",
+      "#8": "ou en visitant",
+      "#9": "Modifications de la politique de confidentialité",
+      "#10": "Nous nous réservons le droit de mettre à jour, de modifier ou de remplacer toute partie de la politique à tout moment en publiant la politique mise à jour sur le site Web. ",
+      "#11": "Coordonnées",
+      "#12": "Si vous avez des questions ou des préoccupations concernant cette politique, veuillez contacter le propriétaire du site Web à",
+      "#13": "Acceptation de la politique de confidentialité",
+      "#14": "En accédant ou en utilisant le site Web ou le service, vous reconnaissez que vous avez lu, compris et accepté d'être lié par les termes et conditions de cette politique."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "conditions d'utilisation"
+      "title": "Conditions d'utilisation"
     },
     "youtube-shorts-downloader": {
       "datePublished": "2021-10-01",

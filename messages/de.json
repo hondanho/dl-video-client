@@ -20,14 +20,43 @@
       "btnLoadingText": "Holen"
     }
   },
+  "Footer": {
+    "#1": "YouTube Downloader",
+    "#2": "Laden Sie YouTube als mp4 herunter",
+    "#3": "YouTube-Shorts-Downloader",
+    "#4": "TikTok-Video-Downloader",
+    "#5": "Twitter-Video-Downloader",
+    "#6": "Twitch-Video-Downloader",
+    "#7": "Twitch-Clip-Downloader",
+    "#8": "Instagram-Video-Downloader",
+    "#9": "Instagram-Story-Download",
+    "#10": "Instagram-Reels herunterladen",
+    "#11": "Instagram-Viewer",
+    "#12": "Facebook-Video-Downloader",
+    "#13": "Facebook Reels-Downloader",
+    "#14": "Über uns",
+    "#15": "Datenschutzrichtlinie",
+    "#16": "Nutzungsbedingungen",
+    "#17": "Kontakt",
+    "#18": "Blog",
+    "#19": "Alle Rechte vorbehalten."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "API-FAQ"
+      "title": "Video-Download-API",
+      "#1": "Die {website_url}-API bietet eine einfache und bequeme Methode zum Abrufen von Mediendateien von den beliebtesten Websites und Social-Media-Plattformen. ",
+      "#2": "Um Zugang zu erhalten oder weitere Informationen zu erhalten, kontaktieren Sie uns bitte unter "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "Kontakt"
+      "title": "Kontaktiere uns",
+      "#1": "Wenn Sie Fragen, Beschwerden oder Ansprüche in Bezug auf unsere Dienste haben, senden Sie uns bitte eine Nachricht an",
+      "#2": "Rückmeldung",
+      "#3": "Email",
+      "#4": "Nachricht",
+      "#5": "Einreichen",
+      "#6": "Email wurde erfolgreich Versendet !"
     },
     "download-facebook-video": {
       "title": "Laden Sie das Facebook-Video herunter"
@@ -127,7 +156,21 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "Datenschutzrichtlinie"
+      "title": "Datenschutzrichtlinie",
+      "#1": "Einführung",
+      "#2": "Diese Datenschutzrichtlinie informiert Benutzer darüber, dass die Website ({website_url}) keine persönlichen Daten sammelt, speichert oder verarbeitet. ",
+      "#3": "Bitte beachten Sie, dass diese Richtlinie in Übereinstimmung mit den gesetzlichen Anforderungen bereitgestellt wird, auch wenn die Website oder der Dienst keine personenbezogenen Daten erfasst oder speichert.",
+      "#4": "Werbung und Analysen Dritter",
+      "#5": "Wir nutzen Werbedienste von Drittanbietern wie Google AdSense, um Werbung auf der Website zu schalten. ",
+      "#6": "Sie können personalisierte Werbung deaktivieren, indem Sie hier klicken",
+      "#7": "Anzeigeneinstellungen",
+      "#8": "oder bei einem Besuch",
+      "#9": "Änderungen der Datenschutzrichtlinie",
+      "#10": "Wir behalten uns das Recht vor, Teile der Richtlinie jederzeit zu aktualisieren, zu ändern oder zu ersetzen, indem wir die aktualisierte Richtlinie auf der Website veröffentlichen. ",
+      "#11": "Kontaktinformationen",
+      "#12": "Wenn Sie Fragen oder Bedenken zu dieser Richtlinie haben, wenden Sie sich bitte an den Eigentümer der Website unter",
+      "#13": "Akzeptanz der Datenschutzrichtlinie",
+      "#14": "Durch den Zugriff auf oder die Nutzung der Website oder des Dienstes bestätigen Sie, dass Sie die Bedingungen dieser Richtlinie gelesen und verstanden haben und damit einverstanden sind, an sie gebunden zu sein."
     },
     "terms-of-service": {
       "slug-high-level": true,

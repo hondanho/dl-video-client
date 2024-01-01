@@ -20,14 +20,43 @@
       "btnLoadingText": "Getiriliyor"
     }
   },
+  "Footer": {
+    "#1": "Youtube indirici",
+    "#2": "Youtube'u mp4'e indirin",
+    "#3": "Youtube Shorts İndiricisi",
+    "#4": "TikTok Video İndirici",
+    "#5": "Twitter Video İndirici",
+    "#6": "Twitch Video İndirici",
+    "#7": "Twitch Klip İndirici",
+    "#8": "Instagram Video İndirici",
+    "#9": "Instagram Hikaye İndir",
+    "#10": "Instagram Makaraları İndir",
+    "#11": "Instagram Görüntüleyici",
+    "#12": "Facebook Video İndirici",
+    "#13": "Facebook Makaraları İndiricisi",
+    "#14": "Hakkımızda",
+    "#15": "Gizlilik Politikası",
+    "#16": "Kullanım Şartları",
+    "#17": "Temas etmek",
+    "#18": "Blog",
+    "#19": "Her hakkı saklıdır."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "API SSS"
+      "title": "Video İndirme API'si",
+      "#1": "{website_url} API'si, en popüler web sitelerinden ve sosyal medya platformlarından medya dosyalarını almak için kolay ve kullanışlı bir yöntem sağlar. ",
+      "#2": "Erişim sağlamak veya daha fazla bilgi edinmek için lütfen bizimle şu adresten iletişime geçin: "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "temas etmek"
+      "title": "Bize Ulaşın",
+      "#1": "Hizmetlerimize ilişkin herhangi bir sorunuz, şikayetiniz veya talebiniz varsa lütfen bize şu adrese bir mesaj gönderin:",
+      "#2": "Geri bildirim",
+      "#3": "E-posta",
+      "#4": "İleti",
+      "#5": "Göndermek",
+      "#6": "E-posta başarıyla gönderildi !"
     },
     "download-facebook-video": {
       "title": "Facebook'tan video indir"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "Gizlilik Politikası"
+      "title": "Gizlilik Politikası",
+      "#1": "giriiş",
+      "#2": "Bu Gizlilik Politikası, kullanıcılara web sitesinin ({website_url}) herhangi bir kişisel bilgiyi toplamadığını, saklamadığını veya işlemediğini bildirir. ",
+      "#3": "Web Sitesi veya Hizmet herhangi bir kişisel bilgi toplamasa veya saklamasa da, bu Politikanın yasal gerekliliklere uygun olarak sağlandığını lütfen unutmayın.",
+      "#4": "Üçüncü Taraf Reklamcılığı ve Analizi",
+      "#5": "Web Sitesinde reklam sunmak için Google AdSense gibi üçüncü taraf reklam hizmetlerini kullanıyoruz. ",
+      "#6": "adresini ziyaret ederek kişiselleştirilmiş reklamlardan vazgeçebilirsiniz.",
+      "#7": "Reklam Ayarları",
+      "#8": "veya ziyaret ederek",
+      "#9": "Gizlilik Politikasındaki Değişiklikler",
+      "#10": "Güncellenmiş Politikayı Web Sitesinde yayınlayarak Politikanın herhangi bir bölümünü herhangi bir zamanda güncelleme, değiştirme veya değiştirme hakkını saklı tutuyoruz. ",
+      "#11": "İletişim bilgileri",
+      "#12": "Bu Politikayla ilgili herhangi bir sorunuz veya endişeniz varsa lütfen şu adresten Web Sitesi sahibiyle iletişime geçin:",
+      "#13": "Gizlilik Politikasının Kabulü",
+      "#14": "Web Sitesine veya Hizmete erişerek veya bunları kullanarak, bu Politikanın hüküm ve koşullarını okuduğunuzu, anladığınızı ve bunlara bağlı kalmayı kabul ettiğinizi onaylamış olursunuz."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "kullanım Şartları"
+      "title": "Kullanım Şartları"
     },
     "youtube-shorts-downloader": {
       "datePublished": "2021-10-01",

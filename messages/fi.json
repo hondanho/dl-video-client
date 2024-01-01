@@ -20,14 +20,43 @@
       "btnLoadingText": "Haetaan"
     }
   },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Lataa Youtube mp4-muodossa",
+    "#3": "Youtube Shorts Downloader",
+    "#4": "TikTok Video Downloader",
+    "#5": "Twitter Video Downloader",
+    "#6": "Twitch Video Downloader",
+    "#7": "Twitch Clip Downloader",
+    "#8": "Instagram Video Downloader",
+    "#9": "Lataa Instagram Story",
+    "#10": "Instagram-rullien lataus",
+    "#11": "Instagram-katseluohjelma",
+    "#12": "Facebook Video Downloader",
+    "#13": "Facebookin kelojen latausohjelma",
+    "#14": "Meistä",
+    "#15": "Tietosuojakäytäntö",
+    "#16": "Käyttöehdot",
+    "#17": "Ottaa yhteyttä",
+    "#18": "Blogi",
+    "#19": "Kaikki oikeudet pidätetään."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "api faq"
+      "title": "Videon lataussovellusliittymä",
+      "#1": "{website_url} API tarjoaa helpon ja kätevän tavan hakea mediatiedostoja suosituimmista verkkosivustoista ja sosiaalisen median alustoista. ",
+      "#2": "Saadaksesi pääsyn tai saadaksesi lisätietoja, ota meihin yhteyttä osoitteessa "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "ottaa yhteyttä"
+      "title": "Ota meihin yhteyttä",
+      "#1": "Jos sinulla on palveluitamme koskevia kysymyksiä, valituksia tai vaatimuksia, lähetä meille viesti osoitteeseen",
+      "#2": "Palaute",
+      "#3": "Sähköposti",
+      "#4": "Viesti",
+      "#5": "Lähetä",
+      "#6": "Sähköposti lähetetty onnistuneesti!"
     },
     "download-facebook-video": {
       "title": "lataa video facebook"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "Tietosuojakäytäntö"
+      "title": "Tietosuojakäytäntö",
+      "#1": "Johdanto",
+      "#2": "Tämä tietosuojakäytäntö ilmoittaa käyttäjille, että verkkosivusto ({website_url}) ei kerää, tallenna tai käsittele henkilötietoja. ",
+      "#3": "Huomaa, että tämä käytäntö toimitetaan lakisääteisten vaatimusten mukaisesti, vaikka verkkosivusto tai palvelu ei kerää tai tallenna henkilötietoja.",
+      "#4": "Kolmannen osapuolen mainonta ja analytiikka",
+      "#5": "Käytämme kolmannen osapuolen mainontapalveluita, kuten Google AdSensea, mainosten näyttämiseen verkkosivustolla. ",
+      "#6": "Voit kieltäytyä personoidusta mainonnasta käymällä osoitteessa",
+      "#7": "Mainosasetukset",
+      "#8": "tai käymällä",
+      "#9": "Muutokset tietosuojaselosteeseen",
+      "#10": "Pidätämme oikeuden päivittää, muokata tai korvata mitä tahansa osaa käytännöstä milloin tahansa julkaisemalla päivitetyn käytännön verkkosivustolla. ",
+      "#11": "Yhteystiedot",
+      "#12": "Jos sinulla on kysyttävää tai huolenaiheita tästä käytännöstä, ota yhteyttä verkkosivuston omistajaan osoitteessa",
+      "#13": "Tietosuojakäytännön hyväksyminen",
+      "#14": "Kun käytät verkkosivustoa tai palvelua tai käytät niitä, vahvistat lukeneesi ja ymmärtäneesi tämän käytännön ehdot ja sitoudut noudattamaan niitä."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "käyttöehdot"
+      "title": "Käyttöehdot"
     },
     "youtube-shorts-downloader": {
       "datePublished": "10.10.2021",

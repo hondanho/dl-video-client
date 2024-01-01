@@ -2,7 +2,8 @@ import { useTranslations } from "next-intl";
 import Link from "next/link";
 import slugify from "slugify";
 const Footer = ({ locale }: { locale: string }) => {
-  const t = useTranslations("Page");
+  const t = useTranslations("Footer");
+  const page = useTranslations("Page");
 
   return (
     <footer className="body-font bg-gray-100 text-gray-600">
@@ -10,58 +11,58 @@ const Footer = ({ locale }: { locale: string }) => {
         <div className="flex flex-grow flex-wrap text-center md:text-left">
           <div className="w-full px-4 md:w-1/2 lg:w-1/4">
             <h2 className="title-font font-medium mb-3 tracking-widest text-gray-900">
-              Youtube Downloader
+              {t("#1")}
             </h2>
             <nav className="mb-10 grid list-none gap-3">
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
-                    href={`/${locale}/youtube-to-mp4/${slugify(t("youtube-to-mp4.title"))}.html`}
+                    href={`/${locale}/youtube-to-mp4/${slugify(page("youtube-to-mp4.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Download Youtube to mp4
+                    {t("#2")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/youtube-shorts-downloader/${slugify(t("youtube-shorts-downloader.title"))}.html`}
+                    href={`/${locale}/youtube-shorts-downloader/${slugify(page("youtube-shorts-downloader.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Youtube Shorts Downloader
+                    {t("#3")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/download-from-tiktok/${slugify(t("download-from-tiktok.title"))}.html`}
+                    href={`/${locale}/download-from-tiktok/${slugify(page("download-from-tiktok.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    TikTok Video Downloader
+                    {t("#4")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/download-from-twitter/${slugify(t("download-from-twitter.title"))}.html`}
+                    href={`/${locale}/download-from-twitter/${slugify(page("download-from-twitter.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Twitter Video Downloader
+                    {t("#5")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/download-video-twitch/${slugify(t("download-video-twitch.title"))}.html`}
+                    href={`/${locale}/download-video-twitch/${slugify(page("download-video-twitch.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Twitch Video Downloader
+                    {t("#6")}
                   </Link>
                 </li>
                 <li>
                   <Link
                     href={`/${locale}/download-video-twitch-clip/${slugify(
-                      t("download-video-twitch-clip.title")
+                      page("download-video-twitch-clip.title")
                     )}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Twitch Clip Downloader
+                    {t("#7")}
                   </Link>
                 </li>
               </ul>
@@ -69,50 +70,50 @@ const Footer = ({ locale }: { locale: string }) => {
           </div>
           <div className="w-full px-4 md:w-1/2 lg:w-1/4">
             <h2 className="title-font mb-3 font-medium tracking-widest text-gray-900">
-              Instagram Video Downloader
+              {t("#8")}
             </h2>
             <nav className="mb-10 grid list-none gap-3">
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
-                    href={`/${locale}/download-video-instagram/${slugify(t("download-video-instagram.title"))}.html`}
+                    href={`/${locale}/download-video-instagram/${slugify(page("download-video-instagram.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Instagram Story Download
+                    {t("#9")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/instagram-reels-downloader/${slugify(t("instagram-reels-downloader.title"))}.html`}
+                    href={`/${locale}/instagram-reels-downloader/${slugify(page("instagram-reels-downloader.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Instagram Reels Download
+                    {t("#10")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/download-video-instagram/${slugify(t("download-video-instagram.title"))}.html`}
+                    href={`/${locale}/download-video-instagram/${slugify(page("download-video-instagram.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Instagram Viewer
+                    {t("#11")}
                   </Link>
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/download-facebook-video/${slugify(t("download-facebook-video.title"))}.html`}
+                    href={`/${locale}/download-facebook-video/${slugify(page("download-facebook-video.title"))}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Facebook Video Downloader
+                    {t("#12")}
                   </Link>
                 </li>
                 <li>
                   <Link
                     href={`/${locale}/download-video-facebook-reel/${slugify(
-                      t("download-video-facebook-reel.title")
+                      page("download-video-facebook-reel.title")
                     )}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Facebook Reels Downloader
+                    {t("#13")}
                   </Link>
                 </li>
               </ul>
@@ -120,7 +121,7 @@ const Footer = ({ locale }: { locale: string }) => {
           </div>
           <div className="w-full px-4 md:w-1/2 lg:w-1/4">
             <h2 className="title-font mb-3 font-medium tracking-widest text-gray-900">
-              About Us
+              {t("#14")}
             </h2>
             <nav className="mb-10 grid list-none gap-3">
               <ul className="grid list-none gap-3">
@@ -129,7 +130,7 @@ const Footer = ({ locale }: { locale: string }) => {
                     href={`/${locale}/privacy-policy`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Privacy Policy
+                    {t("#15")}
                   </Link>
                 </li>
                 <li>
@@ -137,7 +138,7 @@ const Footer = ({ locale }: { locale: string }) => {
                     href={`/${locale}/terms-of-service`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Terms of Service
+                    {t("#16")}
                   </Link>
                 </li>
                 <li>
@@ -145,7 +146,7 @@ const Footer = ({ locale }: { locale: string }) => {
                     href={`/${locale}/contact`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Contact
+                    {t("#17")}
                   </Link>
                 </li>
                 <li>
@@ -161,7 +162,7 @@ const Footer = ({ locale }: { locale: string }) => {
                     href={`/blog`}
                     className="text-gray-600 hover:text-gray-800"
                   >
-                    Blog
+                    {t("#18")}
                   </Link>
                 </li>
               </ul>
@@ -340,7 +341,7 @@ const Footer = ({ locale }: { locale: string }) => {
               rel="noopener noreferrer"
               className="ml-1 text-black"
             >{process.env.DOMAIN}</Link> -
-            All Rights Reserved.
+            {t("#19")}
           </p>
 
         </div>

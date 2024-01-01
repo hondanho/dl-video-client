@@ -20,14 +20,43 @@
       "btnLoadingText": "Fetching"
     }
   },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Download Youtube to mp4",
+    "#3": "Youtube Shorts Downloader",
+    "#4": "TikTok Video Downloader",
+    "#5": "Twitter Video Downloader",
+    "#6": "Twitch Video Downloader",
+    "#7": "Twitch Clip Downloader",
+    "#8": "Instagram Video Downloader",
+    "#9": "Instagram Story Download",
+    "#10": "Instagram Reels Download",
+    "#11": "Instagram Viewer",
+    "#12": "Facebook Video Downloader",
+    "#13": "Facebook Reels Downloader",
+    "#14": "About Us",
+    "#15": "Privacy Policy",
+    "#16": "Terms of Service",
+    "#17": "Contact",
+    "#18": "Blog",
+    "#19": "All Rights Reserved."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "api faq"
+      "title": "Video Download API",
+      "#1": "The {website_url} API provides an easy and convenient method for retrieving media files from the most popular websites and social media platforms. With a high success rate and excellent response time, the {website_url} API stands out as the top choice in the market.",
+      "#2": "To gain access or obtain more information, please contact us at "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "contact"
+      "title": "Contact Us",
+      "#1": "If you have any questions, complaints, or claims with respect to the our Services, please send us a message to",
+      "#2": "Feedback",
+      "#3": "Email",
+      "#4": "Message",
+      "#5": "Submit",
+      "#6": "Email sent successfully !"
     },
     "download-facebook-video": {
       "title": "download video facebook"
@@ -128,11 +157,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "privacy policy"
+      "title": "Privacy Policy",
+      "#1": "Introduction",
+      "#2": "This Privacy Policy informs users that the website ({website_url}) does not collect, store, or process any personal information. By using the Website or Service, you acknowledge that no personal information is being collected or stored.",
+      "#3": "Please note that this Policy is provided in compliance with legal requirements, even though the Website or Service does not collect or store any personal information.",
+      "#4": "Third-Party Advertising and Analytics",
+      "#5": "We use third-party advertising services, such as Google AdSense, to serve advertisements on the Website. These third parties may use cookies, web beacons, and other tracking technologies to collect information about your use of the Website and other websites, including your IP address, browser type, internet service provider, referring/exit pages, and date/time stamp. For more information, please visit",
+      "#6": "You may opt-out of personalized advertising by visiting",
+      "#7": "Ads Settings",
+      "#8": "or by visiting",
+      "#9": "Changes to the Privacy Policy",
+      "#10": "We reserve the right to update, modify, or replace any part of the Policy at any time by posting the updated Policy on the Website. Your continued use of the Website or Service after the effective date of the updated Policy constitutes your acceptance of the new terms.",
+      "#11": "Contact Information",
+      "#12": "If you have any questions or concerns about this Policy, please contact the Website owner at",
+      "#13": "Acceptance of Privacy Policy",
+      "#14": "By accessing or using the Website or Service, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Policy."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "terms of service"
+      "title": "Terms Of Service"
     },
     "youtube-shorts-downloader": {
       "datePublished": "2021-10-01",

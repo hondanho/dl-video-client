@@ -20,14 +20,43 @@
       "btnLoadingText": "Mengambil"
     }
   },
+  "Footer": {
+    "#1": "pengunduh Youtube",
+    "#2": "Unduh Youtube ke mp4",
+    "#3": "Pengunduh Video Pendek Youtube",
+    "#4": "Pengunduh Video TikTok",
+    "#5": "Pengunduh Video Twitter",
+    "#6": "Pengunduh Video Kedutan",
+    "#7": "Pengunduh Klip Kedutan",
+    "#8": "Pengunduh Video Instagram",
+    "#9": "Unduh Cerita Instagram",
+    "#10": "Unduh Reel Instagram",
+    "#11": "Penampil Instagram",
+    "#12": "Pengunduh Video Facebook",
+    "#13": "Pengunduh Reel Facebook",
+    "#14": "Tentang kami",
+    "#15": "Kebijakan pribadi",
+    "#16": "Ketentuan Layanan",
+    "#17": "Kontak",
+    "#18": "Blog",
+    "#19": "Seluruh hak cipta."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "tanya jawab api"
+      "title": "API Pengunduhan Video",
+      "#1": "API {website_url} menyediakan metode yang mudah dan nyaman untuk mengambil file media dari situs web dan platform media sosial terpopuler. ",
+      "#2": "Untuk mendapatkan akses atau mendapatkan informasi lebih lanjut, silahkan menghubungi kami di "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "kontak"
+      "title": "Hubungi kami",
+      "#1": "Jika Anda memiliki pertanyaan, keluhan, atau klaim sehubungan dengan Layanan kami, silakan kirimkan pesan kepada kami ke",
+      "#2": "Masukan",
+      "#3": "Surel",
+      "#4": "Pesan",
+      "#5": "Kirim",
+      "#6": "Email berhasil dikirim !"
     },
     "download-facebook-video": {
       "title": "unduh video facebook"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "Kebijakan pribadi"
+      "title": "Kebijakan pribadi",
+      "#1": "Perkenalan",
+      "#2": "Kebijakan Privasi ini memberi tahu pengguna bahwa situs web ({website_url}) tidak mengumpulkan, menyimpan, atau memproses informasi pribadi apa pun. ",
+      "#3": "Harap diperhatikan bahwa Kebijakan ini diberikan sesuai dengan persyaratan hukum, meskipun Situs Web atau Layanan tidak mengumpulkan atau menyimpan informasi pribadi apa pun.",
+      "#4": "Periklanan dan Analisis Pihak Ketiga",
+      "#5": "Kami menggunakan layanan periklanan pihak ketiga, seperti Google AdSense, untuk menayangkan iklan di Situs Web. ",
+      "#6": "Anda dapat memilih untuk tidak menerima iklan hasil personalisasi dengan mengunjungi",
+      "#7": "Pengaturan Iklan",
+      "#8": "atau dengan mengunjungi",
+      "#9": "Perubahan pada Kebijakan Privasi",
+      "#10": "Kami berhak memperbarui, memodifikasi, atau mengganti bagian mana pun dari Kebijakan ini kapan saja dengan memasang Kebijakan yang diperbarui di Situs Web. ",
+      "#11": "Kontak informasi",
+      "#12": "Jika Anda memiliki pertanyaan atau kekhawatiran tentang Kebijakan ini, silakan menghubungi pemilik Situs Web di",
+      "#13": "Penerimaan Kebijakan Privasi",
+      "#14": "Dengan mengakses atau menggunakan Situs Web atau Layanan, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat pada syarat dan ketentuan Kebijakan ini."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "persyaratan layanan"
+      "title": "Ketentuan Layanan"
     },
     "youtube-shorts-downloader": {
       "datePublished": "01-10-2021",

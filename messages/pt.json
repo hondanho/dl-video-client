@@ -20,14 +20,43 @@
       "btnLoadingText": "Buscando"
     }
   },
+  "Footer": {
+    "#1": "Baixador do Youtube",
+    "#2": "Baixe o Youtube para mp4",
+    "#3": "Baixador de curtas do Youtube",
+    "#4": "Baixador de vídeos TikTok",
+    "#5": "Baixador de vídeos do Twitter",
+    "#6": "Baixador de vídeos Twitch",
+    "#7": "Downloader de clipes Twitch",
+    "#8": "Baixador de vídeos do Instagram",
+    "#9": "Baixar história do Instagram",
+    "#10": "Baixar carretéis do Instagram",
+    "#11": "Visualizador do Instagram",
+    "#12": "Baixador de vídeos do Facebook",
+    "#13": "Downloader de carretéis do Facebook",
+    "#14": "Sobre nós",
+    "#15": "política de Privacidade",
+    "#16": "Termos de serviço",
+    "#17": "Contato",
+    "#18": "Blogue",
+    "#19": "Todos os direitos reservados."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "perguntas frequentes sobre API"
+      "title": "API de download de vídeo",
+      "#1": "A API {website_url} fornece um método fácil e conveniente para recuperar arquivos de mídia dos sites e plataformas de mídia social mais populares. ",
+      "#2": "Para ter acesso ou obter mais informações, entre em contato conosco pelo email "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "contato"
+      "title": "Contate-nos",
+      "#1": "Se você tiver alguma dúvida, reclamação ou reclamação em relação aos nossos Serviços, envie-nos uma mensagem para",
+      "#2": "Opinião",
+      "#3": "E-mail",
+      "#4": "Mensagem",
+      "#5": "Enviar",
+      "#6": "E-mail enviado com sucesso !"
     },
     "download-facebook-video": {
       "title": "baixar vídeo facebook"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "política de Privacidade"
+      "title": "política de Privacidade",
+      "#1": "Introdução",
+      "#2": "Esta Política de Privacidade informa aos usuários que o site ({website_url}) não coleta, armazena ou processa qualquer informação pessoal. ",
+      "#3": "Observe que esta Política é fornecida em conformidade com os requisitos legais, embora o Site ou Serviço não colete ou armazene nenhuma informação pessoal.",
+      "#4": "Publicidade e análise de terceiros",
+      "#5": "Utilizamos serviços de publicidade de terceiros, como o Google AdSense, para veicular anúncios no Site. ",
+      "#6": "Você pode cancelar a publicidade personalizada visitando",
+      "#7": "Configurações de anúncios",
+      "#8": "ou visitando",
+      "#9": "Mudanças na Política de Privacidade",
+      "#10": "Reservamo-nos o direito de atualizar, modificar ou substituir qualquer parte da Política a qualquer momento, publicando a Política atualizada no Site. ",
+      "#11": "Informações de contato",
+      "#12": "Se você tiver alguma dúvida ou preocupação sobre esta Política, entre em contato com o proprietário do site em",
+      "#13": "Aceitação da Política de Privacidade",
+      "#14": "Ao acessar ou usar o Site ou Serviço, você reconhece que leu, compreendeu e concorda em ficar vinculado aos termos e condições desta Política."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "termos de serviço"
+      "title": "Termos de serviço"
     },
     "youtube-shorts-downloader": {
       "datePublished": "01-10-2021",

@@ -20,14 +20,43 @@
       "btnLoadingText": "Đang tìm nạp"
     }
   },
+  "Footer": {
+    "#1": "Trình tải xuống Youtube",
+    "#2": "Tải Youtube về mp4",
+    "#3": "Trình tải xuống video ngắn trên Youtube",
+    "#4": "Trình tải xuống video TikTok",
+    "#5": "Trình tải xuống video Twitter",
+    "#6": "Trình tải xuống video Twitch",
+    "#7": "Trình tải xuống clip Twitch",
+    "#8": "Trình tải xuống video trên Instagram",
+    "#9": "Tải xuống câu chuyện trên Instagram",
+    "#10": "Tải xuống cuộn phim Instagram",
+    "#11": "Trình xem Instagram",
+    "#12": "Trình tải xuống video trên Facebook",
+    "#13": "Trình tải xuống cuộn phim Facebook",
+    "#14": "Về chúng tôi",
+    "#15": "Chính sách bảo mật",
+    "#16": "Điều khoản dịch vụ",
+    "#17": "Liên hệ",
+    "#18": "Blog",
+    "#19": "Đã đăng ký Bản quyền."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "câu hỏi thường gặp về api"
+      "title": "API tải xuống video",
+      "#1": "API {website_url} cung cấp một phương pháp dễ dàng và thuận tiện để truy xuất các tệp phương tiện từ các trang web và nền tảng truyền thông xã hội phổ biến nhất. ",
+      "#2": "Để có quyền truy cập hoặc có thêm thông tin, vui lòng liên hệ với chúng tôi tại "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "liên hệ"
+      "title": "Liên hệ chúng tôi",
+      "#1": "Nếu bạn có bất kỳ câu hỏi, khiếu nại hoặc khiếu nại nào liên quan đến Dịch vụ của chúng tôi, vui lòng gửi tin nhắn cho chúng tôi tới",
+      "#2": "Nhận xét",
+      "#3": "E-mail",
+      "#4": "Tin nhắn",
+      "#5": "Nộp",
+      "#6": "Email đã được gửi thành công !"
     },
     "download-facebook-video": {
       "title": "tải video facebook"
@@ -127,11 +156,25 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "Chính sách bảo mật"
+      "title": "Chính sách bảo mật",
+      "#1": "Giới thiệu",
+      "#2": "Chính sách quyền riêng tư này thông báo cho người dùng rằng trang web ({website_url}) không thu thập, lưu trữ hoặc xử lý bất kỳ thông tin cá nhân nào. ",
+      "#3": "Xin lưu ý rằng Chính sách này được cung cấp tuân thủ các yêu cầu pháp lý, mặc dù Trang web hoặc Dịch vụ không thu thập hoặc lưu trữ bất kỳ thông tin cá nhân nào.",
+      "#4": "Quảng cáo và phân tích của bên thứ ba",
+      "#5": "Chúng tôi sử dụng các dịch vụ quảng cáo của bên thứ ba, chẳng hạn như Google AdSense, để phân phát quảng cáo trên Trang web. ",
+      "#6": "Bạn có thể từ chối quảng cáo được cá nhân hóa bằng cách truy cập",
+      "#7": "Cài đặt quảng cáo",
+      "#8": "hoặc bằng cách ghé thăm",
+      "#9": "Những thay đổi đối với Chính sách quyền riêng tư",
+      "#10": "Chúng tôi có quyền cập nhật, sửa đổi hoặc thay thế bất kỳ phần nào của Chính sách bất kỳ lúc nào bằng cách đăng Chính sách đã cập nhật trên Trang web. ",
+      "#11": "Thông tin liên lạc",
+      "#12": "Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về Chính sách này, vui lòng liên hệ với chủ sở hữu Trang web tại",
+      "#13": "Chấp nhận Chính sách quyền riêng tư",
+      "#14": "Bằng cách truy cập hoặc sử dụng Trang web hoặc Dịch vụ, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các điều khoản và điều kiện của Chính sách này."
     },
     "terms-of-service": {
       "slug-high-level": true,
-      "title": "điều khoản dịch vụ"
+      "title": "Điều khoản dịch vụ"
     },
     "youtube-shorts-downloader": {
       "datePublished": "2021-10-01",

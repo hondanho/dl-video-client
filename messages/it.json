@@ -20,14 +20,43 @@
       "btnLoadingText": "Recupero"
     }
   },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Scarica Youtube in mp4",
+    "#3": "Scaricatore di cortometraggi da Youtube",
+    "#4": "Scaricatore di video TikTok",
+    "#5": "Scaricatore di video da Twitter",
+    "#6": "Scaricatore di video Twitch",
+    "#7": "Scaricatore di clip per Twitch",
+    "#8": "Scaricatore di video da Instagram",
+    "#9": "Scarica la storia di Instagram",
+    "#10": "Scarica bobine di Instagram",
+    "#11": "Visualizzatore di Instagram",
+    "#12": "Scaricatore di video da Facebook",
+    "#13": "Scaricatore di bobine di Facebook",
+    "#14": "Chi siamo",
+    "#15": "politica sulla riservatezza",
+    "#16": "Termini di servizio",
+    "#17": "Contatto",
+    "#18": "Blog",
+    "#19": "Tutti i diritti riservati."
+  },
   "Page": {
     "api-faq": {
       "slug-high-level": true,
-      "title": "apifaq"
+      "title": "API per il download di video",
+      "#1": "L'API {website_url} fornisce un metodo semplice e conveniente per recuperare file multimediali dai siti Web e dalle piattaforme di social media più popolari. ",
+      "#2": "Per accedere o ottenere maggiori informazioni potete contattarci all'indirizzo "
     },
     "contact": {
       "slug-high-level": true,
-      "title": "contatto"
+      "title": "Contattaci",
+      "#1": "In caso di domande, reclami o reclami in merito ai nostri Servizi, inviare un messaggio a",
+      "#2": "Feedback",
+      "#3": "E-mail",
+      "#4": "Messaggio",
+      "#5": "Invia",
+      "#6": "Email inviata correttamente !"
     },
     "download-facebook-video": {
       "title": "scarica il video da facebook"
@@ -127,7 +156,21 @@
     },
     "privacy-policy": {
       "slug-high-level": true,
-      "title": "politica sulla riservatezza"
+      "title": "politica sulla riservatezza",
+      "#1": "introduzione",
+      "#2": "La presente Informativa sulla privacy informa gli utenti che il sito web ({website_url}) non raccoglie, archivia o elabora alcuna informazione personale. ",
+      "#3": "Si prega di notare che questa Politica è fornita in conformità con i requisiti legali, anche se il Sito Web o il Servizio non raccolgono né memorizzano alcuna informazione personale.",
+      "#4": "Pubblicità e analisi di terze parti",
+      "#5": "Utilizziamo servizi pubblicitari di terze parti, come Google AdSense, per pubblicare annunci pubblicitari sul sito web. ",
+      "#6": "È possibile disattivare la pubblicità personalizzata visitando",
+      "#7": "Impostazioni annunci",
+      "#8": "o visitando",
+      "#9": "Modifiche all'Informativa sulla privacy",
+      "#10": "Ci riserviamo il diritto di aggiornare, modificare o sostituire qualsiasi parte della Politica in qualsiasi momento pubblicando la Politica aggiornata sul Sito web. ",
+      "#11": "Informazioni sui contatti",
+      "#12": "In caso di domande o dubbi sulla presente Politica, contattare il proprietario del sito Web all'indirizzo",
+      "#13": "Accettazione dell'informativa sulla privacy",
+      "#14": "Accedendo o utilizzando il sito Web o il servizio, l'utente riconosce di aver letto, compreso e accettato di essere vincolato dai termini e dalle condizioni della presente Informativa."
     },
     "terms-of-service": {
       "slug-high-level": true,

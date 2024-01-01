@@ -1,7 +1,11 @@
+import { useTranslations } from "next-intl";
+
 const TermsOfServicePage = () => {
+  const t = useTranslations("Page.terms-of-service");
+  
   return (
     <div className="mx-auto my-8 h-fit max-w-4xl flex-1 bg-white p-4 shadow-sm md:rounded grid gap-3">
-      <h1 className="mb-2 text-2xl font-bold">Terms of use</h1>
+      <h1 className="mb-2 text-2xl font-bold">{t("title")}</h1>
       <p>Please review these terms and conditions of use carefully before using our website and services. This document states the terms and conditions (“Terms”) upon which {process.env.NEXT_PUBLIC_WEBSITE_URL} (“we” or “us”) will provide service to you on its website, applications and related services (collectively, the “Service”). As used in this document, the terms “you” or “your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices.</p>
       <p>By visiting, accessing, using, downloading, copying, installing and/or joining (collectively “using”) the Service, you express your understanding and acceptance of these Terms. We may, in our sole discretion, modify or update these Terms from time to time, and you should review this page periodically. Your continued use of the Service after any such change means your acceptance of the new Terms. If you do not agree with the Terms, do not use or access (or continue to access) the Service. We retain a separate Privacy Policy and your assent to these Terms also signifies that you have read and understand our Privacy Policy.</p>
       <h2 className="font-bold mt-5">1. General Terms</h2>
