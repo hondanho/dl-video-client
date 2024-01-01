@@ -5,6 +5,8 @@ import { useState } from "react";
 const ContactPage = () => {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
+  const [suscess, setSuscess] = useState(false);
+
 
   const handleSubmit = async (e: any) => {
     e.preventDefault();
@@ -12,15 +14,15 @@ const ContactPage = () => {
     const formData = { email, message };
   
     try {
-      const response = await fetch('/api/send-email', {
+      const response = await fetch(`${process.env.NEXT_PUBLIC_API_URL}/api/send-email`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify(formData),
       });
-  
       if (response.ok) {
+        setSuscess(true);
         console.log('Email sent successfully');
       } else {
         console.error('Failed to send email');
@@ -41,7 +43,7 @@ const ContactPage = () => {
           <iframe className="w-full h-full" frameBorder="0" title="map" scrolling="no" src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed" ></iframe>
         </div>
         <div className="container px-5 py-24 mx-auto flex">
-          <form className="lg:w-1/2 md:w-1/2 bg-white rounded p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md" onSubmit={handleSubmit}>
+          {!suscess && <form className="lg:w-1/2 md:w-1/2 bg-white rounded p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md" onSubmit={handleSubmit}>
             <h2 className="text-gray-900 text-lg mb-1 font-medium title-font">Feedback</h2>
             {/* <p className="leading-relaxed mb-5 text-gray-600">Post-ironic portland shabby chic echo park, banjo fashion axe</p> */}
             <div className="relative">
@@ -54,7 +56,10 @@ const ContactPage = () => {
             </div>
             <button className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg" type="submit">Submit</button>
             {/* <p className="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p> */}
-          </form>
+          </form>}
+          {suscess &&
+            <div className="lg:w-1/2 md:w-1/2 bg-white rounded p-8 min-h-[300px] flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md text-center text-green-500">Email sent successfully !</div>
+          }
         </div>
       </section>
     </div>

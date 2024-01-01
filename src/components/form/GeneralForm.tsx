@@ -112,7 +112,7 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
         <InputField
           id="url-input"
           type="url"
-          placeholder="Paste your video link here"
+          placeholder="Paste the video links for Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.."
           aria-label="Youtube video download URL input"
           title="Youtube video download URL input"
           value={postUrl}

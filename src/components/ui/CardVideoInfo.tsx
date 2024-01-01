@@ -51,7 +51,7 @@ export const CardVideoInfo = ({ videoInfo }: any) => {
               <div key={index}>
                 <Button
                   color="success"
-                  onClick={() => downloadFile(item.name, item.url)}
+                  onClick={() => downloadFile(`${item.name}_${process.env.DOMAIN}`, item.url)}
                   startContent={
                     <svg
                       stroke="currentColor"
