@@ -165,9 +165,9 @@ export default function Home() {
           </div>
         </section>
 
-        <section className="grid grid-flow-row text-center md:gap-16 pb-0 md:pb-0">
-          <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">How to download videos online</h2>
-          <div className="grid grid-cols-1 items-start justify-items-center gap-12 sm:grid-cols-3">
+        <section className="grid grid-flow-row text-center gap-12 pb-0 md:pb-0">
+          <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">How to download video online free</h2>
+          <div className="grid grid-cols-1 items-start justify-items-center md:gap-12 sm:grid-cols-3">
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">1. Paste a any video URL</h3>
               <div className="max-w-full prose prose-neutral prose-a:no-underline prose-a:text-blue-600 marker:text-xl marker:text-blue-600">

@@ -36,16 +36,8 @@ const nextConfig = {
     ];
   },
   images: {
-    domains: ["cdn-site-assets.veed.io", "scontent.cdninstagram.com"],
+    domains: ["scontent.cdninstagram.com"],
   },
-  // async rewrites() {
-  //   return [
-  //     {
-  //       source: '/ar/blog/:path*/',
-  //       destination: 'https://hxtpj9pph6wwzsm2hnopz9xw5.js.wpenginepowered.com/:path*/'
-  //     },
-  //   ];
-  // }
 };
 const withNextIntl = require("next-intl/plugin")("./src/utils/i18n.ts");
 module.exports = withNextIntl(nextConfig);
