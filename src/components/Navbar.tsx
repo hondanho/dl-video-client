@@ -44,6 +44,7 @@ const Language = () => {
       </DropdownTrigger>
       <DropdownMenu
         variant="flat"
+        style={{ maxHeight: "calc(100vh - 100px)", overflowY: "auto" }}
         aria-label="Static Actions"
         items={localeNames}
       >
@@ -53,7 +54,7 @@ const Language = () => {
             onClick={() => onSelectChange(item.value)}
             color={"default"}
           >
-            {item.name}
+            <span className={`sprite ${item.languageIcon}`}></span>{item.name}
           </DropdownItem>
         ))}
       </DropdownMenu>

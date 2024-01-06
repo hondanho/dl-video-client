@@ -52,65 +52,186 @@ export const { Link, redirect, usePathname, useRouter } =
 export const localeNames: {
   name: string;
   value: string;
+  languageIcon: string;
 }[] = [
-  {
-    name: "Arabic",
-    value: "ar",
-  },
-  {
-    name: "German",
-    value: "de",
-  },
   {
     name: "English",
     value: "en",
+    languageIcon: "english"
   },
   {
-    name: "Finnish",
-    value: "fi",
-  },
-  {
-    name: "French",
+    name: "Française",
     value: "fr",
+    languageIcon: "french"
   },
   {
-    name: "Hindi",
-    value: "hi",
+    name: "Deutsche",
+    value: "de",
+    languageIcon: "german"
   },
   {
-    name: "Indonesian",
-    value: "id",
-  },
-  {
-    name: "Italian",
+    name: "Italiano",
     value: "it",
+    languageIcon: "italian"
   },
   {
-    name: "Japanese",
-    value: "ja",
+    name: "Español",
+    value: "es",
+    languageIcon: "spanish"
   },
   {
-    name: "Korean",
-    value: "ko",
+    name: "भारतीय भाषा",
+    value: "hi",
+    languageIcon: "hindi"
   },
   {
-    name: "Portugal",
-    value: "pt",
-  },
-  {
-    name: "Russian",
-    value: "ru",
-  },
-  {
-    name: "Thai",
-    value: "th",
-  },
-  {
-    name: "Turkish",
+    name: "Türkçe",
     value: "tr",
+    languageIcon: "turkish"
   },
   {
-    name: "Vietnamese",
+    name: "Afrikaans",
+    value: "af",
+    languageIcon: "afrikaans"
+  },
+  {
+    name: "العربية",
+    value: "ar",
+    languageIcon: "arabic"
+  },
+  {
+    name: "Euskara",
+    value: "eu",
+    languageIcon: "basque"
+  },
+  {
+    name: "Català",
+    value: "ca",
+    languageIcon: "catalan"
+  },
+  {
+    name: "中文",
+    value: "zh",
+    languageIcon: "chinese"
+  },
+  {
+    name: "Hrvatski",
+    value: "hr",
+    languageIcon: "croatian"
+  },
+  {
+    name: "čeština",
+    value: "cs",
+    languageIcon: "czech"
+  },
+  {
+    name: "Dansk",
+    value: "da",
+    languageIcon: "danish"
+  },
+  {
+    name: "ქართული",
+    value: "ka",
+    languageIcon: "georgian"
+  },
+  {
+    name: "Ελληνικά",
+    value: "el",
+    languageIcon: "greek"
+  },
+  {
+    name: "עברית",
+    value: "he",
+    languageIcon: "hebrew"
+  },
+  {
+    name: "Magyar",
+    value: "hu",
+    languageIcon: "hungarian"
+  },
+  {
+    name: "Íslenska",
+    value: "is",
+    languageIcon: "icelandic"
+  },
+  {
+    name: "Indonesia",
+    value: "id",
+    languageIcon: "indonesian"
+  },
+  {
+    name: "日本語",
+    value: "ja",
+    languageIcon: "japanese"
+  },
+  {
+    name: "한국어",
+    value: "ko",
+    languageIcon: "korean"
+  },
+  {
+    name: "Norsk",
+    value: "no",
+    languageIcon: "norwegian"
+  },
+  {
+    name: "Polski",
+    value: "pl",
+    languageIcon: "polish"
+  },
+  {
+    name: "Português",
+    value: "pt",
+    languageIcon: "portuguese"
+  },
+  {
+    name: "Română",
+    value: "ro",
+    languageIcon: "romanian"
+  },
+  {
+    name: "Pусский",
+    value: "ru",
+    languageIcon: "russian"
+  },
+  {
+    name: "Српски",
+    value: "sr",
+    languageIcon: "serbian"
+  },
+  {
+    name: "Slovenský",
+    value: "sk",
+    languageIcon: "slovak"
+  },
+  {
+    name: "Slovenščina",
+    value: "sl",
+    languageIcon: "slovenian"
+  },
+  {
+    name: "Svenska",
+    value: "sv",
+    languageIcon: "swedish"
+  },
+  {
+    name: "ไทย",
+    value: "th",
+    languageIcon: "thai"
+  },
+  {
+    name: "Yкраїнська",
+    value: "uk",
+    languageIcon: "ukrainian"
+  },
+  {
+    name: "اردو",
+    value: "ur",
+    languageIcon: "urdu"
+  },
+  {
+    name: "Tiếng Việt",
     value: "vi",
+    languageIcon: "vietnamese"
   }
 ];

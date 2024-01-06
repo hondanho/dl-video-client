@@ -10,6 +10,8 @@ import GeneralForm from "@/components/form/GeneralForm";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
+import DisqusComments from "@/components/DisqusComments";
+
 type FAQ = {
   question: string;
   answer: string;
@@ -24,9 +26,9 @@ export default function Home() {
   let FAQ_LIST: FAQ[] = []
   const faq = useTranslations("Page.general.faq");
   Array.from({ length: 8 }, (_, i) => i + 1).map(x => {
-    FAQ_LIST.push({ 
+    FAQ_LIST.push({
       question: faq(`${x}.question`),
-      answer: faq(`${x}.answer`) 
+      answer: faq(`${x}.answer`)
     });
   })
 
@@ -296,6 +298,8 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        <DisqusComments title={t("title")}></DisqusComments>
       </div>
       <StructuredData data={structuredSoftwareApplicationJson} />
       <StructuredData data={structuredHowToJson} />

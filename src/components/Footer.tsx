@@ -143,6 +143,14 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    href={`/${locale}/dcma`}
+                    className="text-gray-600 hover:text-gray-800"
+                  >
+                    {t("#21")}
+                  </Link>
+                </li>
+                <li>
+                  <Link
                     href={`/${locale}/contact`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -170,7 +178,7 @@ const Footer = ({ locale }: { locale: string }) => {
           </div>
           <div className="w-full px-4 md:w-1/2 lg:w-1/4">
             <h2 className="title-font mb-3 font-medium tracking-widest text-gray-900">
-              Follow Us
+              {t("#20")}
             </h2>
             <span className="mt-2 inline-flex justify-center sm:ml-auto sm:mt-0 sm:justify-start gap-2">
               <Link target="_blank" title="youtube" href={`${process.env.SOCIAL_YOUTUBE}`} aria-label="Read more about facebook" className="text-gray-500">

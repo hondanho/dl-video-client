@@ -39,9 +39,14 @@
     "#16": "Terms of Service",
     "#17": "Contact",
     "#18": "Blog",
-    "#19": "All Rights Reserved."
+    "#19": "All Rights Reserved.",
+    "#20": "Follow Us",
+    "#21": "DCMA"
   },
   "Page": {
+    "thankyou": {
+      "title": "Thank you for installing the Download Video Online!"
+    },
     "api-faq": {
       "slug-high-level": true,
       "title": "Video Download API",
@@ -185,6 +190,22 @@
     },
     "youtube-to-mp4": {
       "title": "download youtube to mp4"
+    },
+    "dcma": {
+      "title": "Copyright (DMCA)",
+      "#1": "{name} respects copyright of all works, and doesn't allow users to use others' videos for anything that is against the copyright protection terms and conditions. Any kind of copyright infringement is not allowed on {name}, and we blacklist all the copyrighted contents from displaying in the search results.",
+      "#2": "{name} complies with the Digital Millennium Copyright Act (DMCA) and promptly suspends Content from access when properly notified.",
+      "#3": "To file a copyright infringement notification with {name}, you will need to use mail send us a message that includes substantially the information required by and stated in Section 512(c)(3) of the Digital Millennium Copyright Act.",
+      "#4": "Required information:",
+      "#5": "1. Identify yourself as either: a) The owner of a copyrighted work(s) b) A person 'authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.' Include a physical or electronic signature.",
+      "#6": "2. Identify the copyrighted work claimed to have been infringed.",
+      "#7": "3. Identify the Content that is claimed to be infringing or to be the subject of the infringing activity and that is to be suspended or access to which is to be disabled, as well as information reasonably sufficient to permit youtube4kdownloader to locate the Content. Providing URLs are required to help us locate the Content.",
+      "#8": "4. Provide contact information that is reasonably sufficient to permit us to contact you, such as an address, telephone number, and a valid email address.",
+      "#9": "5. State that you have a good faith belief that use of the Content in the manner complained of is not authorized by the copyright owner, its agents, or the law.",
+      "#10": "6. State that the information in the notification is accurate and under penalty of perjury the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.",
+      "#11": "Upon receipt of valid notification, as required by law, we will suspend access to copyright content from our website.",
+      "#12": "If you have any questions, please contact us at",
+      "#13": "this form"
     }
   }
 }

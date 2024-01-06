@@ -17,6 +17,7 @@
     "@upstash/redis": "^1.22.0",
     "axios": "^1.5.0",
     "cheerio": "^1.0.0-rc.12",
+    "disqus-react": "^1.1.5",
     "next": "^14.0.3",
     "next-intl": "^3.2.1",
     "react": "^18.2.0",
