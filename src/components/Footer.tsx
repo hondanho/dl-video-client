@@ -15,9 +15,9 @@ const Footer = ({ locale }: { locale: string }) => {
             </h2>
             <nav className="mb-10 grid list-none gap-3">
               <ul className="grid list-none gap-3">
-                <li>
+              <li>
                   <Link
-                    href={`/${locale}/youtube-to-mp4/${slugify(page("youtube-to-mp4.title"))}.html`}
+                    href={`/${locale}/youtube-downloader/${slugify(page("youtube-video-downloader.title"), {lower: true})}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#2")}
@@ -25,12 +25,30 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
-                    href={`/${locale}/youtube-shorts-downloader/${slugify(page("youtube-shorts-downloader.title"))}.html`}
+                    href={`/${locale}/youtube-downloader/${slugify(page("youtube-to-mp3-converter.title"), {lower: true})}.html`}
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#3")}
                   </Link>
                 </li>
+                <li>
+                  <Link
+                    href={`/${locale}/youtube-downloader/${slugify(page("youtube-to-mp4-converter.title"), {lower: true})}.html`}
+                    className="text-gray-600 hover:text-gray-800"
+                  >
+                    {t("#4")}
+                  </Link>
+                </li>
+                <li>
+                  <Link
+                    href={`/${locale}/youtube-downloader/${slugify(page("youtube-shorts-downloader.title"), {lower: true})}.html`}
+                    className="text-gray-600 hover:text-gray-800"
+                  >
+                    {t("#5")}
+                  </Link>
+                </li>
+
+{/* 
                 <li>
                   <Link
                     href={`/${locale}/download-from-tiktok/${slugify(page("download-from-tiktok.title"))}.html`}
@@ -64,7 +82,7 @@ const Footer = ({ locale }: { locale: string }) => {
                   >
                     {t("#7")}
                   </Link>
-                </li>
+                </li> */}
               </ul>
             </nav>
           </div>

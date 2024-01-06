@@ -26,7 +26,15 @@ const isValidFormInput = (postUrl: string) => {
   return "";
 };
 
-export default function YoutubeForm({ onValueClear, onValueChange }: any) {
+export default function YoutubeForm({
+  onValueClear,
+  onValueChange,
+  btnText,
+  btnLoadingText,
+  btnArialLabel,
+  placeholder,
+  arialLable
+}: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -103,9 +111,9 @@ export default function YoutubeForm({ onValueClear, onValueChange }: any) {
         <InputField
           id="url-input"
           type="url"
-          placeholder="Paste your video link here"
-          aria-label="Youtube video download URL input"
-          title="Youtube video download URL input"
+          placeholder={placeholder}
+          aria-label={arialLable}
+          title={placeholder}
           value={postUrl}
           onPaste={onPaste}
           onChange={(e) => setPostUrl(e.target.value)}
@@ -118,10 +126,10 @@ export default function YoutubeForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
-          btnText="Download"
-          btnLoadingText="Fetching"
-          title="Download Youtube video button"
-          aria-label="Download Youtube video button"
+          btnText={btnText}
+          btnLoadingText={btnLoadingText}
+          title={btnArialLabel}
+          aria-label={btnArialLabel}
           isLoading={isLoading}
         />
       </div>

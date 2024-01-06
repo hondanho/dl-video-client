@@ -35,3 +35,8 @@ export type ErrorResponse = {
 };
 
 export type APIResponse<T> = SuccessResponse<T> | ErrorResponse;
+
+export type FAQ = {
+  question: string;
+  answer: string;
+};

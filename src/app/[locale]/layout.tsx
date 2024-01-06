@@ -52,7 +52,7 @@ export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
 }
 
-RootLayout.getInitialProps = async ({ locale }: { locale: string}) => {
+RootLayout.getInitialProps = async ({ locale }: { locale: string }) => {
   return {
     props: {
       messages: {

@@ -22,10 +22,11 @@
   },
   "Footer": {
     "#1": "Youtube Downloader",
-    "#2": "Download Youtube to mp4",
-    "#3": "Youtube Shorts Downloader",
-    "#4": "TikTok Video Downloader",
-    "#5": "Twitter Video Downloader",
+    "#2": "Youtube Video Downloader",
+    "#3": "Youtube to MP3 Converter",
+    "#4": "Youtube to MP4 Converter",
+    "#5": "Youtube Shorts Downloader",
+
     "#6": "Twitch Video Downloader",
     "#7": "Twitch Clip Downloader",
     "#8": "Instagram Video Downloader",
@@ -44,25 +45,65 @@
     "#21": "DCMA"
   },
   "Page": {
-    "thankyou": {
-      "title": "Thank you for installing the Download Video Online!"
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+      "form": {
+        "placeholder": "Paste the video links Youtube",
+        "arialLable": "Paste the video links Youtube",
+        "btnArialLabel": "Download any video youtube button"
+      },
+      "faq": {
+        "1": {
+          "answer": "You can use this online tools or software designed for downloading YouTube videos. Copy the video URL and paste it into the chosen tool to initiate the download process.",
+          "question": " How do I download YouTube videos?"
+        },
+        "2": {
+          "answer": "Downloading YouTube videos without permission may violate YouTube's terms of service. It's advisable to check the platform's policies and obtain proper authorization before downloading content.",
+          "question": "Is it legal to download videos from YouTube?"
+        },
+        "3": {
+          "answer": "Yes, various online services offer YouTube video downloads. Be cautious about their legitimacy and ensure they comply with YouTube's terms of service.",
+          "question": "Are there online services for downloading YouTube videos?"
+        },
+        "4": {
+          "answer": "Yes, there are mobile apps and websites that allow you to download YouTube videos directly to your mobile device for offline viewing.",
+          "question": "Can I download YouTube videos on mobile devices?"
+        },
+        "5": {
+          "answer": "Commonly supported formats include MP#, MP4, MKV, and FLV. Choose a format compatible with your device and media player.",
+          "question": "What video formats are supported for downloaded YouTube videos?"
+        },
+        "6": {
+          "answer": "Yes, it's recommended to obtain permission from the content creator or check the video's licensing information before downloading and using it.",
+          "question": "Do I need permission to download and use YouTube videos?"
+        },
+        "7": {
+          "answer": "YouTube's terms of service prohibit unauthorized downloading of videos. Always adhere to the platform's guidelines to avoid any issues.",
+          "question": "Are there any restrictions on downloading YouTube content?"
+        },
+        "8": {
+          "answer": "Yes, YouTube offers a legal way to download videos for offline viewing through their app. Look for the download button below the video.",
+          "question": "Can I download YouTube videos for offline viewing?"
+        },
+        "9": {
+          "answer": "Ensure you have the right to download and use the content. Respect copyright laws, and consider using videos that have a Creative Commons license or are in the public domain.",
+          "question": "How can I avoid copyright infringement when downloading YouTube videos?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
     },
-    "api-faq": {
-      "slug-high-level": true,
-      "title": "Video Download API",
-      "#1": "The {website_url} API provides an easy and convenient method for retrieving media files from the most popular websites and social media platforms. With a high success rate and excellent response time, the {website_url} API stands out as the top choice in the market.",
-      "#2": "To gain access or obtain more information, please contact us at "
+    "youtube-to-mp3-converter": {
+      "title": "Youtube to MP3 Converter"
     },
-    "contact": {
-      "slug-high-level": true,
-      "title": "Contact Us",
-      "#1": "If you have any questions, complaints, or claims with respect to the our Services, please send us a message to",
-      "#2": "Feedback",
-      "#3": "Email",
-      "#4": "Message",
-      "#5": "Submit",
-      "#6": "Email sent successfully !"
+    "youtube-to-mp4-converter": {
+      "title": "Youtube to MP4 Converter"
     },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader"
+    },
+
     "download-facebook-video": {
       "title": "download video facebook"
     },
@@ -84,40 +125,13 @@
     "download-video-twitch-clip": {
       "title": "download video twitch clip"
     },
-    "download-video-youtube": {
-      "title": "download youtube video"
+    "instagram-reels-downloader": {
+      "title": "download video instagram short"
     },
+    
     "general": {
-      "headTitle": "Online Video Downloader",
-      "#1": "By downloading this video, you agree to the",
-      "#2": "No watermark",
-      "#3": "HD quality",
-      "#4": "Fast download",
-      "#5": "Easily editable",
-      "#6": "Any format",
-      "#7": "How to download videos:",
-      "#8": "Paste a any video URL",
-      "#9": "Paste a any video URL on the field provided and hit Download. Click “Accept” to acknowledge that you’ve read and agreed to our privacy policy.",
-      "#10": "Edit or download",
-      "#11": "You have the option to edit your video using our complete suite of video editing tools. Or click “Download now” to save your video to your device.",
-      "#12": "Share tool download video online",
-      "#13": "Export your video and share!",
-      "#14": "Instant Download Video Online",
-      "#15": "Download Video Online You can download video clips from",
-      "#16": "in just one click! Download Video Online lets you download video content from any platforms such as Youtube, Tiktok, Facebook, Twitter, Instagram, Twitch,... then you can edit, repurpose, and share them anywhere. No watermarks, no loss in video quality, and fast!",
-      "#17": "Download Video Online works straight from your Mobile or Desktop Browser or Mobile App. You can even edit your videos using our free built-in video editor. You can also add images, audio, text, subtitles, and more. For more information, you can view Terms of Service. Thank you.",
-      "#18": "Download video online and remove the watermark",
-      "#19": "Download Video Online lets you download content with no watermarks so you can repurpose and share them anywhere. No loss in video quality—download videos in HD and in any format the video has been uploaded. Perfect for content creators everywhere! Share your videos on your YouTube, gaming, and podcast channels and grow your following.",
-      "#20": "Add voice overs to your video instantly",
-      "#21": "If you don’t have the time or resources to add voiceovers, you can use Download Video Online text-to-speech software! Our TTS uses real human voices. Choose from different languages and voice profiles. Our text-to-voice AI will read your text in that accent. Just paste a text or start typing and add the audio to your video! It’s super easy to use and free. Adding voiceovers from text saves you a lot of time and effort in creating your video. ",
-      "#22": "Create professional-looking videos in a few clicks",
-      "#23": "If you’re a streamer, chances are you also have other social media channels to maintain. Repurposing your content for different platforms has never been easier. With Download Video Online’s built-in video editing software, you can create professional-looking videos in just a few clicks—straight from your browser. Add sound effects, background music, images, text, subtitles, and more. You can also record your screen and webcam using our free screen recorder. Create gaming walkthroughs and more! ",
-      "#24": "Frequently Asked Questions - FAQ",
-      "#25": "Download with app",
-      "#26": "We now provide an app for video Download. It is fast, easy, with no watermark and HD quality",
-      "#27": "googleplay app url",
-      "#28": "apple app url",
-      
+      "title": "Download Video Online",
+      "keywords": "Download Videos YouTube, Download Video Instagram , Download Video facebook, Download Videos TikTok, Download Videos Twitch, Download Video Twitter, Download Videos Pinterest, Download Social Media Videos, Download Online Videos, Download Videos Free",
       "datePublished": "2021-10-01",
       "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
       "faq": {
@@ -154,12 +168,42 @@
           "question": "What is the best format to download videos in?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
-      "title": "download youtube short"
+      "imageUrl": "/images/open-graph.png"
     },
-    "instagram-reels-downloader": {
-      "title": "download video instagram short"
+
+    "base": {
+      "#1": "By downloading this video, you agree to the",
+      "#2": "No watermark",
+      "#3": "HD quality",
+      "#4": "Fast download",
+      "#5": "Easily editable",
+      "#6": "Any format",
+      "#7": "How to download videos {name}:",
+      "#8": "Paste a any video URL",
+      "#9": "Paste a any video URL on the field provided and hit Download. Click “Accept” to acknowledge that you’ve read and agreed to our privacy policy.",
+      "#10": "Edit or download",
+      "#11": "You have the option to edit your video using our complete suite of video editing tools. Or click “Download now” to save your video to your device.",
+      "#12": "Share tool download video online",
+      "#13": "Export your video and share!",
+      "#14": "Instant Download Video Online",
+      "#15": "Download Video Online You can download video clips from",
+      "#16": "in just one click! Download Video Online lets you download video content from any platforms such as Youtube, Tiktok, Facebook, Twitter, Instagram, Twitch,... then you can edit, repurpose, and share them anywhere. No watermarks, no loss in video quality, and fast!",
+      "#17": "Download Video Online works straight from your Mobile or Desktop Browser or Mobile App. You can even edit your videos using our free built-in video editor. You can also add images, audio, text, subtitles, and more. For more information, you can view Terms of Service. Thank you.",
+      "#18": "Download video online and remove the watermark",
+      "#19": "Download Video Online lets you download content with no watermarks so you can repurpose and share them anywhere. No loss in video quality—download videos in HD and in any format the video has been uploaded. Perfect for content creators everywhere! Share your videos on your YouTube, gaming, and podcast channels and grow your following.",
+      "#20": "Add voice overs to your video instantly",
+      "#21": "If you don’t have the time or resources to add voiceovers, you can use Download Video Online text-to-speech software! Our TTS uses real human voices. Choose from different languages and voice profiles. Our text-to-voice AI will read your text in that accent. Just paste a text or start typing and add the audio to your video! It’s super easy to use and free. Adding voiceovers from text saves you a lot of time and effort in creating your video. ",
+      "#22": "Create professional-looking videos in a few clicks",
+      "#23": "If you’re a streamer, chances are you also have other social media channels to maintain. Repurposing your content for different platforms has never been easier. With Download Video Online’s built-in video editing software, you can create professional-looking videos in just a few clicks—straight from your browser. Add sound effects, background music, images, text, subtitles, and more. You can also record your screen and webcam using our free screen recorder. Create gaming walkthroughs and more! ",
+      "#24": "Frequently Asked Questions - FAQ",
+      "#25": "Download with app",
+      "#26": "We now provide an app for video Download. It is fast, easy, with no watermark and HD quality",
+      "#27": "googleplay app url",
+      "#28": "apple app url",
+      "btnText": "Download",
+      "btnLoadingText": "Fetching"
     },
+
     "privacy-policy": {
       "slug-high-level": true,
       "title": "Privacy Policy",
@@ -182,15 +226,6 @@
       "slug-high-level": true,
       "title": "Terms Of Service"
     },
-    "youtube-shorts-downloader": {
-      "datePublished": "2021-10-01",
-      "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
-      "imageUrl": "/images/open-graph.png",
-      "title": "download youtube short"
-    },
-    "youtube-to-mp4": {
-      "title": "download youtube to mp4"
-    },
     "dcma": {
       "title": "Copyright (DMCA)",
       "#1": "{name} respects copyright of all works, and doesn't allow users to use others' videos for anything that is against the copyright protection terms and conditions. Any kind of copyright infringement is not allowed on {name}, and we blacklist all the copyrighted contents from displaying in the search results.",
@@ -206,6 +241,25 @@
       "#11": "Upon receipt of valid notification, as required by law, we will suspend access to copyright content from our website.",
       "#12": "If you have any questions, please contact us at",
       "#13": "this form"
+    },
+    "thankyou": {
+      "title": "Thank you for installing the Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Video Download API",
+      "#1": "The {website_url} API provides an easy and convenient method for retrieving media files from the most popular websites and social media platforms. With a high success rate and excellent response time, the {website_url} API stands out as the top choice in the market.",
+      "#2": "To gain access or obtain more information, please contact us at "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Contact Us",
+      "#1": "If you have any questions, complaints, or claims with respect to the our Services, please send us a message to",
+      "#2": "Feedback",
+      "#3": "Email",
+      "#4": "Message",
+      "#5": "Submit",
+      "#6": "Email sent successfully !"
     }
   }
 }
