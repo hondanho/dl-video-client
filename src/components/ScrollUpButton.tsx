@@ -29,9 +29,12 @@ const ScrollUpButton = () => {
           behavior: "instant",
         })
       }
-      className={cn("fixed bottom-4 right-4 rounded-full bg-white p-3 shadow-form", {
-        hidden: !visible,
-      })}
+      className={cn(
+        "shadow-form fixed bottom-4 right-4 rounded-full bg-white p-3",
+        {
+          hidden: !visible,
+        }
+      )}
     >
       <svg
         stroke="currentColor"

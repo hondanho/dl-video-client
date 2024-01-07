@@ -2,10 +2,42 @@ import { createSharedPathnamesNavigation } from "next-intl/navigation";
 import { Pathnames } from "next-intl/navigation";
 
 export const locales = [
-  "en", "fr", "de", "it", "es", "hi", "tr", "af", "ar",
-  "eu", "ca", "zh", "hr", "cs", "da", "ka", "el", "he",
-  "hu", "is", "id", "ja", "ko", "no", "pl", "pt", "ro",
-  "ru", "sr", "sk", "sl", "sv", "th", "uk", "ur", "vi"
+  "en",
+  "fr",
+  "de",
+  "it",
+  "es",
+  "hi",
+  "tr",
+  "af",
+  "ar",
+  "eu",
+  "ca",
+  "zh",
+  "hr",
+  "cs",
+  "da",
+  "ka",
+  "el",
+  "he",
+  "hu",
+  "is",
+  "id",
+  "ja",
+  "ko",
+  "no",
+  "pl",
+  "pt",
+  "ro",
+  "ru",
+  "sr",
+  "sk",
+  "sl",
+  "sv",
+  "th",
+  "uk",
+  "ur",
+  "vi",
 ] as const;
 
 export const pathnames = {
@@ -46,181 +78,181 @@ export const localeNames: {
   {
     name: "English",
     value: "en",
-    languageIcon: "english"
+    languageIcon: "english",
   },
   {
     name: "Française",
     value: "fr",
-    languageIcon: "french"
+    languageIcon: "french",
   },
   {
     name: "Deutsche",
     value: "de",
-    languageIcon: "german"
+    languageIcon: "german",
   },
   {
     name: "Italiano",
     value: "it",
-    languageIcon: "italian"
+    languageIcon: "italian",
   },
   {
     name: "Español",
     value: "es",
-    languageIcon: "spanish"
+    languageIcon: "spanish",
   },
   {
     name: "भारतीय भाषा",
     value: "hi",
-    languageIcon: "hindi"
+    languageIcon: "hindi",
   },
   {
     name: "Türkçe",
     value: "tr",
-    languageIcon: "turkish"
+    languageIcon: "turkish",
   },
   {
     name: "Afrikaans",
     value: "af",
-    languageIcon: "afrikaans"
+    languageIcon: "afrikaans",
   },
   {
     name: "العربية",
     value: "ar",
-    languageIcon: "arabic"
+    languageIcon: "arabic",
   },
   {
     name: "Euskara",
     value: "eu",
-    languageIcon: "basque"
+    languageIcon: "basque",
   },
   {
     name: "Català",
     value: "ca",
-    languageIcon: "catalan"
+    languageIcon: "catalan",
   },
   {
     name: "中文",
     value: "zh",
-    languageIcon: "chinese"
+    languageIcon: "chinese",
   },
   {
     name: "Hrvatski",
     value: "hr",
-    languageIcon: "croatian"
+    languageIcon: "croatian",
   },
   {
     name: "čeština",
     value: "cs",
-    languageIcon: "czech"
+    languageIcon: "czech",
   },
   {
     name: "Dansk",
     value: "da",
-    languageIcon: "danish"
+    languageIcon: "danish",
   },
   {
     name: "ქართული",
     value: "ka",
-    languageIcon: "georgian"
+    languageIcon: "georgian",
   },
   {
     name: "Ελληνικά",
     value: "el",
-    languageIcon: "greek"
+    languageIcon: "greek",
   },
   {
     name: "עברית",
     value: "he",
-    languageIcon: "hebrew"
+    languageIcon: "hebrew",
   },
   {
     name: "Magyar",
     value: "hu",
-    languageIcon: "hungarian"
+    languageIcon: "hungarian",
   },
   {
     name: "Íslenska",
     value: "is",
-    languageIcon: "icelandic"
+    languageIcon: "icelandic",
   },
   {
     name: "Indonesia",
     value: "id",
-    languageIcon: "indonesian"
+    languageIcon: "indonesian",
   },
   {
     name: "日本語",
     value: "ja",
-    languageIcon: "japanese"
+    languageIcon: "japanese",
   },
   {
     name: "한국어",
     value: "ko",
-    languageIcon: "korean"
+    languageIcon: "korean",
   },
   {
     name: "Norsk",
     value: "no",
-    languageIcon: "norwegian"
+    languageIcon: "norwegian",
   },
   {
     name: "Polski",
     value: "pl",
-    languageIcon: "polish"
+    languageIcon: "polish",
   },
   {
     name: "Português",
     value: "pt",
-    languageIcon: "portuguese"
+    languageIcon: "portuguese",
   },
   {
     name: "Română",
     value: "ro",
-    languageIcon: "romanian"
+    languageIcon: "romanian",
   },
   {
     name: "Pусский",
     value: "ru",
-    languageIcon: "russian"
+    languageIcon: "russian",
   },
   {
     name: "Српски",
     value: "sr",
-    languageIcon: "serbian"
+    languageIcon: "serbian",
   },
   {
     name: "Slovenský",
     value: "sk",
-    languageIcon: "slovak"
+    languageIcon: "slovak",
   },
   {
     name: "Slovenščina",
     value: "sl",
-    languageIcon: "slovenian"
+    languageIcon: "slovenian",
   },
   {
     name: "Svenska",
     value: "sv",
-    languageIcon: "swedish"
+    languageIcon: "swedish",
   },
   {
     name: "ไทย",
     value: "th",
-    languageIcon: "thai"
+    languageIcon: "thai",
   },
   {
     name: "Yкраїнська",
     value: "uk",
-    languageIcon: "ukrainian"
+    languageIcon: "ukrainian",
   },
   {
     name: "اردو",
     value: "ur",
-    languageIcon: "urdu"
+    languageIcon: "urdu",
   },
   {
     name: "Tiếng Việt",
     value: "vi",
-    languageIcon: "vietnamese"
-  }
+    languageIcon: "vietnamese",
+  },
 ];

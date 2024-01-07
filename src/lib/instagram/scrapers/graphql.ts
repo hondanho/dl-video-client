@@ -30,20 +30,22 @@ export const formatGraphqlJson = (postJson: GraphQLResponse) => {
       duration: data.video_duration?.toString(),
       source: JSON.stringify(data),
       tags: [],
-      uploader: data.owner?.full_name
+      uploader: data.owner?.full_name,
     },
 
-    formats: [{
-      url: videoUrl,
-      audio : true,
-      name: "Download video HD",
-      quality: 1,
-      type: "video_yes_audio",
-      video: true
-    }],
+    formats: [
+      {
+        url: videoUrl,
+        audio: true,
+        name: "Download video HD",
+        quality: 1,
+        type: "video_yes_audio",
+        video: true,
+      },
+    ],
     video_quality: [],
     channel: "",
-    view_count: 0
+    view_count: 0,
   };
 
   return videoJson;

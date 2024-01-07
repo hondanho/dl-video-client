@@ -26,15 +26,6 @@ const nextConfig = {
       },
     ];
   },
-  async redirects() {
-    return [
-      {
-        source: '/about',
-        destination: '/',
-        permanent: true, // triggers 308
-      },
-    ];
-  },
   images: {
     domains: ["scontent.cdninstagram.com"],
   }

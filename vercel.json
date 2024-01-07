@@ -1,8 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/blog/:path*/",
-        "destination": "https://hxtpj9pph6wwzsm2hnopz9xw5.js.wpenginepowered.com/:path*/"
-      }
-    ]
+  "rewrites": [
+    {
+      "source": "/blog/:path*/",
+      "destination": "https://hxtpj9pph6wwzsm2hnopz9xw5.js.wpenginepowered.com/:path*/"
+    }
+  ]
 }

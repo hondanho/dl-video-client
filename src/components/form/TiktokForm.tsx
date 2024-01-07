@@ -23,14 +23,15 @@ const isValidFormInput = (postUrl: string) => {
   return "";
 };
 
-export default function TiktokForm({ 
+export default function TiktokForm({
   onValueClear,
   onValueChange,
   btnText,
   btnLoadingText,
   btnArialLabel,
   placeholder,
-  arialLabel }: any) {
+  arialLabel,
+}: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
   const [isLoading, setIsLoading] = useState(false);

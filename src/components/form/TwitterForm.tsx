@@ -30,7 +30,7 @@ export default function TwitterForm({
   btnLoadingText,
   btnArialLabel,
   placeholder,
-  arialLabel
+  arialLabel,
 }: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");

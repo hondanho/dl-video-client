@@ -41,15 +41,15 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
   async function instagram(postUrlValue: string) {
     const response = await fetchVideoInfoAction(postUrlValue);
 
-      if (response.status === "error") {
-        throw new ClientException(response.message);
-      }
+    if (response.status === "error") {
+      throw new ClientException(response.message);
+    }
 
-      if (!response.data) {
-        throw new ClientException();
-      }
+    if (!response.data) {
+      throw new ClientException();
+    }
 
-      downloadFile(response.data.meta.title, response.data.formats[0].url);
+    downloadFile(response.data.meta.title, response.data.formats[0].url);
   }
 
   async function handleSubmit(e?: React.FormEvent) {
@@ -62,14 +62,17 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
     setIsLoading(true);
     setErrorMsg("");
     onValueClear();
-    
+
     try {
       const inputError = isValidFormInput(postUrlValue);
       if (inputError) {
         throw new ClientException(inputError);
       }
 
-      if (postUrlValue.includes("instagram.com") || postUrlValue.includes("www.instagram.com")) {
+      if (
+        postUrlValue.includes("instagram.com") ||
+        postUrlValue.includes("www.instagram.com")
+      ) {
         await instagram(postUrlValue);
       } else {
         const apiPath = getPathApiFromUrl(postUrlValue);
@@ -78,15 +81,15 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
           postUrl: postUrlValue,
           timeout: 100000,
         });
-  
+
         if (response.status === "error") {
           throw new ClientException(response.message);
         }
-  
+
         if (!response.data) {
           throw new ClientException();
         }
-  
+
         onValueChange(response.data.data);
       }
     } catch (error: any) {
@@ -122,7 +125,7 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
           onChange={(e) => setPostUrl(e.target.value)}
           isLoading={isLoading}
           handleClear={handleClear}
-          className="h-[58px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base shadow-form"
+          className="shadow-form h-[58px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base"
           autoComplete="on"
           autoFocus
           required

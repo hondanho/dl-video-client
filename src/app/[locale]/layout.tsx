@@ -39,9 +39,17 @@ export default function RootLayout({
         )}
       >
         <Navbar />
-        <AppClientComponent {
-          ...{ messages, children, params: { locale }, timeZone: getTimeZone(), now: Date.now() }
-        }>{children}</AppClientComponent>
+        <AppClientComponent
+          {...{
+            messages,
+            children,
+            params: { locale },
+            timeZone: getTimeZone(),
+            now: Date.now(),
+          }}
+        >
+          {children}
+        </AppClientComponent>
         <Footer locale={locale} />
       </body>
     </html>
@@ -56,8 +64,8 @@ RootLayout.getInitialProps = async ({ locale }: { locale: string }) => {
   return {
     props: {
       messages: {
-        ...require(`../../../messages/${locale ?? 'en'}.json`),
+        ...require(`../../../messages/${locale ?? "en"}.json`),
       },
     },
-  }
+  };
 };

@@ -7,7 +7,8 @@ export interface DownloadButtonProps extends React.ComponentProps<"button"> {
 }
 
 const DownloadButton = (props: DownloadButtonProps) => {
-  const { isLoading, className, btnText, btnLoadingText, ...buttonProps } = props;
+  const { isLoading, className, btnText, btnLoadingText, ...buttonProps } =
+    props;
   return (
     <button
       disabled={isLoading}

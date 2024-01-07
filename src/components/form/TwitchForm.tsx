@@ -30,8 +30,8 @@ export default function TwitchForm({
   btnLoadingText,
   btnArialLabel,
   placeholder,
-  arialLabel 
- }: any) {
+  arialLabel,
+}: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
   const [isLoading, setIsLoading] = useState(false);

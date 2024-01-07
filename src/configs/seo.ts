@@ -3,7 +3,7 @@ import { getTranslations } from "next-intl/server";
 
 export const mainMetadata = async (): Promise<Metadata> => {
   const t = await getTranslations("Metadata");
-  
+
   return {
     metadataBase: new URL(`${process.env.WEBSITE_URL}`),
     title: t("name"),
@@ -30,13 +30,13 @@ export const mainMetadata = async (): Promise<Metadata> => {
       title: t("name"),
       description: t("description"),
       siteName: t("name"),
-      images: '/images/open-graph.png',
+      images: "/images/open-graph.png",
     },
     twitter: {
       card: "summary_large_image",
       title: t("name"),
       description: t("description"),
-      images: '/images/open-graph.png',
+      images: "/images/open-graph.png",
       creator: `@${process.env.WEBSITE_URL}`,
     },
     abstract: t("description"),

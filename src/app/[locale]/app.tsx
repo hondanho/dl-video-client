@@ -2,7 +2,7 @@
 import { NextUIProvider } from "@nextui-org/react";
 import ScrollUpButton from "@/components/ScrollUpButton";
 import Script from "next/script";
-import {NextIntlClientProvider} from 'next-intl';
+import { NextIntlClientProvider } from "next-intl";
 
 export default function AppClientComponent({
   children,
@@ -19,16 +19,20 @@ export default function AppClientComponent({
   timeZone: any;
   now: any;
 }) {
-
   return (
-    <NextIntlClientProvider locale={locale} timeZone={timeZone} now={now} messages={messages}>
+    <NextIntlClientProvider
+      locale={locale}
+      timeZone={timeZone}
+      now={now}
+      messages={messages}
+    >
       <Script
-          strategy="lazyOnload"
-          src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_ANALYTICS_ID}`}
-        />
+        strategy="lazyOnload"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_ANALYTICS_ID}`}
+      />
 
-        <Script strategy="lazyOnload">
-          {`
+      <Script strategy="lazyOnload">
+        {`
                       window.dataLayer = window.dataLayer || [];
                       function gtag(){dataLayer.push(arguments);}
                       gtag('js', new Date());
@@ -36,7 +40,7 @@ export default function AppClientComponent({
                       page_path: window.location.pathname,
                       });
                   `}
-        </Script>
+      </Script>
       <NextUIProvider>
         <ScrollUpButton />
         {children}

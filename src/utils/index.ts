@@ -67,29 +67,29 @@ export const getPathApiFromUrl = (url: string): string | undefined => {
   let urlApi = defaultGeneralApi;
   try {
     const urlObject = new URL(url);
-    
+
     if (urlObject.hostname) {
       entityDomains.forEach((entity: UrlApi) => {
-        if (entity.domain.some(x => urlObject.hostname.includes(x))) {
+        if (entity.domain.some((x) => urlObject.hostname.includes(x))) {
           urlApi = entity.path;
         }
       });
     }
   } catch (error) {
     // Handle invalid URL or other errors
-    console.error('Error parsing URL:', error);
+    console.error("Error parsing URL:", error);
   } finally {
     return urlApi;
   }
-}
+};
 
 export const getPathApiFromPlatform = (platform: string) => {
-  return entityDomains.find(x => x.name === platform)?.path;
-} 
+  return entityDomains.find((x) => x.name === platform)?.path;
+};
 
 export const getPathLastFromPath = (pathName: string): string => {
-  const pathSegments = pathName.split('/');
+  const pathSegments = pathName.split("/");
   const lastSegment = pathSegments[pathSegments.length - 1];
-  const slug = lastSegment.split('.')[0];
-  return slug
-}
+  const slug = lastSegment.split(".")[0];
+  return slug;
+};

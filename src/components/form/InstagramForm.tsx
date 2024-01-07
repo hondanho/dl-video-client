@@ -13,7 +13,10 @@ const isValidFormInput = (postUrl: string) => {
     return "Instagram URL was not provided";
   }
 
-  if (!postUrl.includes("instagram.com") && !postUrl.includes("www.instagram.com")) {
+  if (
+    !postUrl.includes("instagram.com") &&
+    !postUrl.includes("www.instagram.com")
+  ) {
     return "Invalid URL does not contain Instagram domain";
   }
 
@@ -31,7 +34,7 @@ export default function InstagramForm({
   btnLoadingText,
   btnArialLabel,
   placeholder,
-  arialLabel 
+  arialLabel,
 }: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
