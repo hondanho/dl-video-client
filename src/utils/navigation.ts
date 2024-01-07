@@ -2,21 +2,10 @@ import { createSharedPathnamesNavigation } from "next-intl/navigation";
 import { Pathnames } from "next-intl/navigation";
 
 export const locales = [
-  "ar",
-  "de",
-  "en",
-  "fi",
-  "fr",
-  "hi",
-  "id",
-  "it",
-  "ja",
-  "ko",
-  "pt",
-  "ru",
-  "th",
-  "tr",
-  "vi",
+  "en", "fr", "de", "it", "es", "hi", "tr", "af", "ar",
+  "eu", "ca", "zh", "hr", "cs", "da", "ka", "el", "he",
+  "hu", "is", "id", "ja", "ko", "no", "pl", "pt", "ro",
+  "ru", "sr", "sk", "sl", "sv", "th", "uk", "ur", "vi"
 ] as const;
 
 export const pathnames = {
