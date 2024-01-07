@@ -10,7 +10,6 @@ import {
 import { cn } from "@/utils";
 import { localeNames, usePathname, useRouter } from "@/utils/navigation";
 import { useLocale } from "next-intl";
-// import Image from 'next/image'
 
 const Language = () => {
   const router = useRouter();

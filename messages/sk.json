@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Zmeniť jazyk",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+    "keywords": "Stiahnite si videá YouTube, stiahnite si video Instagram, stiahnite si video z facebooku, stiahnite si videá TikTok, stiahnite si videá Twitch, stiahnite si video Twitter, stiahnite si videá Pinterest, stiahnite si videá zo sociálnych médií, stiahnite si online videá, stiahnite si videá zadarmo",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Stiahnite si video online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Prilepte odkazy na videá pre Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "arialLabel": "Prilepte odkazy na videá pre Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "btnArialLabel": "Stiahnuť ľubovoľné tlačidlo videa",
+      "btnText": "Stiahnuť ▼",
+      "btnLoadingText": "Načítavanie"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Youtube Video Downloader",
+    "#3": "Prevodník Youtube na MP3",
+    "#4": "Prevodník Youtube na MP4",
+    "#5": "Youtube Shorts Downloader",
+    "#6": "Facebook Downloader",
+    "#7": "Stiahnite si video z facebooku",
+    "#8": "Konvertor z Facebooku na MP4",
+    "#9": "Stiahnite si Facebook Reel",
+    "#10": "Instagram Downloader",
+    "#11": "Stiahnite si video Instagram",
+    "#12": "Stiahnite si Instagram Reel",
+    "#13": "Prevodník z Instagramu na Mp4",
+    "#14": "Iný Downloader",
+    "#15": "Stiahnite si video TikTok",
+    "#16": "Stiahnite si Video Twitter",
+    "#17": "Stiahnite si Video Twitch",
+    "#18": "Stiahnite si Video Twitch Clip",
+    "#20": "Právne",
+    "#21": "Zásady ochrany osobných údajov",
+    "#22": "Podmienky služby",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blog",
+    "#26": "Pripoj sa k nám!",
+    "#27": "Prihlásiť sa na odber",
+    "#28": "Všetky práva vyhradené."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Stiahnite si Video Twitch Clip",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si klipy Twitch ,Sťahovanie klipov Twitch ,Ukladanie klipov Twitch ,Ako sťahovať klipy z Twitch ,Sťahovanie klipov Twitch online ,Bezplatné stiahnutie klipov Twitch ,Šetrič klipov Twitch ,Sťahovanie klipov Twitch bez vodoznaku ,Uchopenie klipov Twitch ,Sťahovanie klipov Twitch do MP4",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Twitch Clip",
+        "arialLabel": "Prilepte odkazy na videá Twitch Clip",
+        "btnArialLabel": "Stiahnite si ľubovoľné video tlačidlo Twitch Clip"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho skopírujte odkaz na video Twitch a vložte ho do nášho nástroja. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí Twitch?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby Twitch. ",
+          "question": "Je legálne sťahovať videá Twitch pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je optimalizovaný pre mobilné použitie a umožňuje používateľom sťahovať videá Twitch na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť videá Twitch na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí Twitch, vrátane videí rôznych dĺžok a formátov. ",
+          "question": "Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí Twitch, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) Twitch videí a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD Twitch videá pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Ak sa vyskytnú nejaké problémy, pozrite si našu časť s často kladenými otázkami na webovej lokalite, kde nájdete tipy na riešenie problémov. ",
+          "question": "Čo mám robiť, ak pri používaní vášho nástroja narazím na nejaké problémy?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá Twitch na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": " Môžem si stiahnuť videá Twitch na pozeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Twitch, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami Twitchu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Stiahnite si Video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si Twitch videá ,Twitch video downloader ,Uložte Twitch videá ,Ako sťahovať videá z Twitch ,Twitch sťahovanie klipov ,Bezplatné sťahovanie videí Twitch ,Twitch VOD downloader ,Sťahovanie Twitch highlightov ,Twitch video grabber ,Twitch to MP4 download",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Twitch",
+        "arialLabel": "Prilepte odkazy na videá Twitch",
+        "btnArialLabel": "Stiahnite si ľubovoľné video tlačidlo Twitch reel"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho skopírujte odkaz na video Twitch a vložte ho do nášho nástroja. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí Twitch?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby Twitch. ",
+          "question": "Je legálne sťahovať videá Twitch pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je optimalizovaný pre mobilné použitie a umožňuje používateľom sťahovať videá Twitch na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť videá Twitch na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí Twitch, vrátane videí rôznych dĺžok a formátov. ",
+          "question": "Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí Twitch, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) Twitch videí a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD Twitch videá pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Ak sa vyskytnú nejaké problémy, pozrite si našu časť s často kladenými otázkami na webovej lokalite, kde nájdete tipy na riešenie problémov. ",
+          "question": "Čo mám robiť, ak pri používaní vášho nástroja narazím na nejaké problémy?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá Twitch na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": " Môžem si stiahnuť videá Twitch na pozeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Twitch, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami Twitchu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Stiahnite si Video Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si videá z Twitteru,Preberač videa z Twitteru,Uloženie videí z Twitteru,Ako stiahnete videá z Twitteru,Stiahnutie videa z Twitteru online,Bezplatné stiahnutie videa z Twitteru,Šetrič videa z Twitteru,Stiahnutie z Twitteru bez vodoznaku,Twitter video grabber ,Stiahnutie z Twitteru do MP4",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Twitter",
+        "arialLabel": "Prilepte odkazy na videá Twitter",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa na Twitteri"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho skopírujte odkaz na video na Twitteri a vložte ho do nášho nástroja. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z Twitteru?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval zmluvné podmienky služby Twitter. ",
+          "question": "Je legálne sťahovať videá z Twitteru pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je optimalizovaný pre mobilné použitie a umožňuje používateľom sťahovať videá z Twitteru na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť videá z Twitteru na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí zo služby Twitter vrátane videí rôznych dĺžok a formátov. ",
+          "question": "Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí na Twitteri, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) videí z Twitteru a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD Twitter videá pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Ak sa vyskytnú nejaké problémy, pozrite si našu časť s často kladenými otázkami na webovej lokalite, kde nájdete tipy na riešenie problémov. ",
+          "question": "Čo mám robiť, ak pri používaní vášho nástroja narazím na nejaké problémy?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť sťahovať videá z Twitteru na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": " Môžem si stiahnuť videá z Twitteru na pozeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Pravidelne aktualizujeme náš nástroj, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Twitteru, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami služby Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video z Twitteru"
+    },
+    "download-video-tiktok": {
+      "title": "Stiahnite si Video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si videá TikTok, sťahovanie videa TikTok, uložte videá TikTok, ako sťahujte videá z TikTok, sťahovanie videa TikTok online, bezplatné sťahovanie videa TikTok, šetrič videa TikTok, stiahnite si TikTok bez vodoznaku, sťahovanie videa TikTok, sťahovanie TikTok do MP4",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá tiktok",
+        "arialLabel": "Prilepte odkazy na videá tiktok",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa tiktok"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho skopírujte odkaz na video TikTok a vložte ho do nášho nástroja. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí TikTok?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby TikTok. ",
+          "question": "Je legálne sťahovať videá TikTok pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je optimalizovaný pre mobilné použitie a umožňuje používateľom sťahovať videá TikTok na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť videá TikTok na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí TikTok vrátane videí rôznych dĺžok a formátov. ",
+          "question": "Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí TikTok, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) videí TikTok a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD TikTok videá pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Ak sa vyskytnú nejaké problémy, pozrite si našu časť s často kladenými otázkami na webovej lokalite, kde nájdete tipy na riešenie problémov. ",
+          "question": "Čo mám robiť, ak pri používaní vášho nástroja narazím na nejaké problémy?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá TikTok na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez pripojenia k internetu.",
+          "question": " Môžem si stiahnuť videá TikTok na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme TikTok, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Stiahnite si video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte instagramový kotúč s odkazmi na video",
+        "arialLabel": "Prilepte instagramový kotúč s odkazmi na video",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa na Instagrame"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte webovú adresu videa na Instagrame do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z instagramu?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval zmluvné podmienky instagramu. ",
+          "question": "Je legálne sťahovať videá z instagramu pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať instagramové videá na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť instagramové videá na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály instagramových videí vrátane videí rôznych dĺžok a formátov. ",
+          "question": " Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu instagramových videí, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) videí z instagramu a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD videá z instagramu pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Instagramu?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si instagramové videá na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": "Môžem si stiahnuť instagramové videá na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Pravidelne aktualizujeme náš nástroj, aby sme sa prispôsobili akýmkoľvek zmenám na platforme instagramu, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často sa aktualizuje váš nástroj, aby bola zaistená kompatibilita so zmenami na Instagrame?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video z instagramu"
+    },
+    "download-instagram-reel": {
+      "title": "Stiahnite si Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte instagramový kotúč s odkazmi na video",
+        "arialLabel": "Prilepte instagramový kotúč s odkazmi na video",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa na Instagrame"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte webovú adresu videa na Instagrame do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z instagramu?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval zmluvné podmienky instagramu. ",
+          "question": "Je legálne sťahovať videá z instagramu pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať instagramové videá na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť instagramové videá na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály instagramových videí vrátane videí rôznych dĺžok a formátov. ",
+          "question": " Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu instagramových videí, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) videí z instagramu a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD videá z instagramu pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Instagramu?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si instagramové videá na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": "Môžem si stiahnuť instagramové videá na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Pravidelne aktualizujeme náš nástroj, aby sme sa prispôsobili akýmkoľvek zmenám na platforme instagramu, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často sa aktualizuje váš nástroj, aby bola zaistená kompatibilita so zmenami na Instagrame?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "ako stiahnuť instagramové video do mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Stiahnite si video instagram do mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte instagramový kotúč s odkazmi na video",
+        "arialLabel": "Prilepte instagramový kotúč s odkazmi na video",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa na Instagrame"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte webovú adresu videa na Instagrame do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z instagramu?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval zmluvné podmienky instagramu. ",
+          "question": "Je legálne sťahovať videá z instagramu pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať instagramové videá na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť instagramové videá na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály instagramových videí vrátane videí rôznych dĺžok a formátov. ",
+          "question": " Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu instagramových videí, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD (high-definition) videí z instagramu a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD videá z instagramu pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Instagramu?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si instagramové videá na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez internetového pripojenia.",
+          "question": "Môžem si stiahnuť instagramové videá na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Pravidelne aktualizujeme náš nástroj, aby sme sa prispôsobili akýmkoľvek zmenám na platforme instagramu, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často sa aktualizuje váš nástroj, aby bola zaistená kompatibilita so zmenami na Instagrame?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "ako stiahnuť video instagram do mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Stiahnite si Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si Facebook Reel ,Facebook Reel Downloader ,Uložte Facebook Reel video ,Ako sťahovať Reel na Facebook ,Facebook Reel sťahovanie online ,Bezplatné stiahnutie Facebook Reel ,Facebook Reel video šetrič ,Sťahovanie Reelov z Facebooku ,Facebook Reel video grabber ,Facebook Reel sťahovanie offline",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na video na Facebooku",
+        "arialLabel": "Prilepte odkazy na video na Facebooku",
+        "btnArialLabel": "Stiahnite si ľubovoľné tlačidlo navíjania videa na Facebooku"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte adresu URL videa na Facebooku do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z Facebooku?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby Facebooku. ",
+          "question": "Je legálne sťahovať videá z Facebooku pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať videá z Facebooku na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si pomocou vášho nástroja stiahnuť videá z Facebooku na mobilné zariadenia?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí z Facebooku vrátane videí rôznych dĺžok a formátov. ",
+          "question": " Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí z Facebooku, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD videí (high-definition) z Facebooku a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD videá z Facebooku pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Facebooku?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá z Facebooku na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez pripojenia k internetu.",
+          "question": "Môžem si stiahnuť videá z Facebooku na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Facebooku, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "ako stiahnuť video z facebooku do mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Konvertor z Facebooku na MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Konvertor Facebook na MP4 ,Konvertovať Facebook na MP4 ,Facebook video do MP4 ,Facebook sťahovanie MP4 ,Online Facebook do MP4 ,Bezplatný Facebook do MP4 ,Facebook video konvertor ,Uložiť Facebook video ako MP4 ,Stiahnuť Facebook vo formáte MP4 ,Facebook MP4 online prevodník",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na video na facebook",
+        "arialLabel": "Prilepte odkazy na video na facebook",
+        "btnArialLabel": "Stiahnite si ľubovoľné video tlačidlo facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte adresu URL videa Facebook Reel do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na stiahnutie kotúčov z Facebooku?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby Facebooku. ",
+          "question": "Je legálne sťahovať Facebook cievky pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať videá z Facebooku na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si stiahnuť Facebook cievky na mobilné zariadenia pomocou vášho nástroja?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí z Facebooku vrátane videí rôznych dĺžok a formátov. ",
+          "question": "Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu kotúčov Facebooku, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD videí (high-definition) z Facebooku a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné stiahnuť HD Facebook cievky pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Facebooku?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá z Facebooku na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez pripojenia k internetu.",
+          "question": "Môžem si stiahnuť Facebook cievky na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Facebooku, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "ako stiahnuť video z facebooku do mp4"
+    },
+    "download-video-facebook": {
+      "title": "Stiahnite si video z Facebooku",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si videá z Facebooku ,Sťahovanie videí z Facebooku ,Ukladanie videí z Facebooku ,Ako sťahovať videá z Facebooku ,Sťahovanie videí z Facebooku online ,Bezplatné sťahovanie videí z Facebooku ,Šetrič videa z Facebooku ,Sťahovanie súkromných videí z Facebooku ,Sťahovanie HD videí z Facebooku ,Sťahovanie z Facebooku do MP4, sťahovanie videa ",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na video na facebook",
+        "arialLabel": "Prilepte odkazy na video na facebook",
+        "btnArialLabel": "Stiahnite si ľubovoľné video tlačidlo facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednoducho vložte adresu URL videa na Facebooku do nášho nástroja a prevedie vás procesom sťahovania. ",
+          "question": "Ako môžem použiť váš nástroj na sťahovanie videí z Facebooku?"
+        },
+        "2": {
+          "answer": "Náš nástroj je navrhnutý tak, aby rešpektoval podmienky služby Facebooku. ",
+          "question": "Je legálne sťahovať videá z Facebooku pomocou vášho nástroja?"
+        },
+        "3": {
+          "answer": "Áno, náš nástroj je vhodný pre mobilné zariadenia a umožňuje používateľom sťahovať videá z Facebooku na rôzne zariadenia vrátane smartfónov a tabletov.",
+          "question": "Môžem si pomocou vášho nástroja stiahnuť videá z Facebooku na mobilné zariadenia?"
+        },
+        "4": {
+          "answer": "Náš nástroj podporuje sťahovanie širokej škály videí z Facebooku vrátane videí rôznych dĺžok a formátov. ",
+          "question": " Existujú nejaké obmedzenia týkajúce sa dĺžky alebo typu videí z Facebooku, ktoré je možné stiahnuť?"
+        },
+        "5": {
+          "answer": "Áno, náš nástroj podporuje sťahovanie HD videí (high-definition) z Facebooku a poskytuje používateľom možnosť vychutnať si obsah vo vyššej kvalite.",
+          "question": "Je možné sťahovať HD videá z Facebooku pomocou vášho nástroja?"
+        },
+        "6": {
+          "answer": "Bezpečnosť berieme vážne. ",
+          "question": "Existujú nejaké riziká spojené s používaním vášho nástroja na sťahovanie videí z Facebooku?"
+        },
+        "7": {
+          "answer": "Áno, náš nástroj poskytuje možnosť stiahnuť si videá z Facebooku na prezeranie offline, čo používateľom umožňuje vychutnať si obsah aj bez pripojenia k internetu.",
+          "question": "Môžem si stiahnuť videá z Facebooku na prezeranie offline pomocou vášho nástroja?"
+        },
+        "8": {
+          "answer": "Náš nástroj pravidelne aktualizujeme, aby sme sa prispôsobili akýmkoľvek zmenám na platforme Facebooku, čím zaisťujeme nepretržitú kompatibilitu a bezproblémovú používateľskú skúsenosť.",
+          "question": "Ako často je váš nástroj aktualizovaný, aby bola zaistená kompatibilita so zmenami Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video z facebooku"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Sťahovanie videa z YouTube, sťahovanie videí z YouTube, sťahovanie z YouTube, ukladanie videí z YouTube, ako sťahovať videá z YouTube, sťahovanie videa z YouTube online, sťahovanie HD videí z YouTube, šetrič videa YouTube, zachytávanie videa z YouTube, bezplatné sťahovanie videí z YouTube",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Youtube",
+        "arialLabel": "Prilepte odkazy na videá Youtube",
+        "btnArialLabel": "Stiahnuť ľubovoľné video tlačidlo youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Môžete použiť tieto online nástroje alebo softvér určený na sťahovanie videí z YouTube. ",
+          "question": "Ako stiahnem videá z YouTube?"
+        },
+        "2": {
+          "answer": "Sťahovanie videí YouTube bez povolenia môže porušovať zmluvné podmienky služby YouTube. ",
+          "question": "Je legálne sťahovať videá z YouTube?"
+        },
+        "3": {
+          "answer": "Áno, rôzne online služby ponúkajú sťahovanie videí z YouTube. ",
+          "question": "Existujú online služby na sťahovanie videí z YouTube?"
+        },
+        "4": {
+          "answer": "Áno, existujú mobilné aplikácie a webové stránky, ktoré vám umožňujú sťahovať videá z YouTube priamo do mobilného zariadenia na prezeranie offline.",
+          "question": "Môžem si stiahnuť videá z YouTube na mobilné zariadenia?"
+        },
+        "5": {
+          "answer": "Medzi bežne podporované formáty patrí MP",
+          "question": "Aké formáty videa sú podporované pre stiahnuté videá YouTube?"
+        },
+        "6": {
+          "answer": "Áno, pred stiahnutím a použitím videa sa odporúča získať povolenie od tvorcu obsahu alebo skontrolovať licenčné informácie.",
+          "question": "Potrebujem povolenie na sťahovanie a používanie videí YouTube?"
+        },
+        "7": {
+          "answer": "Zmluvné podmienky služby YouTube zakazujú neoprávnené sťahovanie videí. ",
+          "question": "Existujú nejaké obmedzenia na sťahovanie obsahu YouTube?"
+        },
+        "8": {
+          "answer": "Áno, YouTube ponúka legálny spôsob sťahovania videí na pozeranie offline prostredníctvom ich aplikácie. ",
+          "question": "Môžem si stiahnuť videá z YouTube na pozeranie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť video z youtube online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Prevodník Youtube na MP3",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube do MP3 ,Prevod YouTube na MP3 ,YouTube MP3 prevodník ,YouTube sťahovanie zvuku ,YouTube do MP3 online ,Zadarmo YouTube do MP3 ,YouTube do MP3 konvertor online ,Prevod videa YouTube do MP3 ,YouTube zvukový prevodník ,Sťahovanie zvuku YouTube",
+      "description": "Youtube to MP3 Converter je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videí z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Youtube",
+        "arialLabel": "Prilepte odkazy na videá Youtube",
+        "btnArialLabel": "Stiahnuť akékoľvek video z youtube mp3 tlačidlo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Môžete použiť tieto online nástroje alebo softvér určený na sťahovanie videí z YouTube. ",
+          "question": "Ako stiahnem videá z YouTube?"
+        },
+        "2": {
+          "answer": "Sťahovanie videí YouTube bez povolenia môže porušovať zmluvné podmienky služby YouTube. ",
+          "question": "Je legálne sťahovať videá z YouTube?"
+        },
+        "3": {
+          "answer": "Áno, rôzne online služby ponúkajú sťahovanie videí z YouTube. ",
+          "question": "Existujú online služby na sťahovanie videí z YouTube?"
+        },
+        "4": {
+          "answer": "Áno, existujú mobilné aplikácie a webové stránky, ktoré vám umožňujú sťahovať videá z YouTube priamo do mobilného zariadenia na prezeranie offline.",
+          "question": "Môžem si stiahnuť videá z YouTube na mobilné zariadenia?"
+        },
+        "5": {
+          "answer": "Medzi bežne podporované formáty patrí MP",
+          "question": "Aké formáty videa sú podporované pre stiahnuté videá YouTube?"
+        },
+        "6": {
+          "answer": "Áno, pred stiahnutím a použitím videa sa odporúča získať povolenie od tvorcu obsahu alebo skontrolovať licenčné informácie.",
+          "question": "Potrebujem povolenie na sťahovanie a používanie videí YouTube?"
+        },
+        "7": {
+          "answer": "Zmluvné podmienky služby YouTube zakazujú neoprávnené sťahovanie videí. ",
+          "question": "Existujú nejaké obmedzenia na sťahovanie obsahu YouTube?"
+        },
+        "8": {
+          "answer": "Áno, YouTube ponúka legálny spôsob sťahovania videí na pozeranie offline prostredníctvom ich aplikácie. ",
+          "question": "Môžem si stiahnuť videá z YouTube na pozeranie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako sťahovať Youtube do MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Prevodník Youtube na MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube do MP4 ,Prevod YouTube na MP4 ,YouTube MP4 converter ,YouTube audio download ,YouTube to MP4 online ,Free YouTube to MP4 ,YouTube to MP4 converter online ,Convert YouTube video to MP4 ,YouTube sound converter ,Stiahnutie zvuku YouTube",
+      "description": "Youtube to MP4 Converter je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videí z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Youtube",
+        "arialLabel": "Prilepte odkazy na videá Youtube",
+        "btnArialLabel": "Stiahnuť akékoľvek video z youtube MP4 tlačidlo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Môžete použiť tieto online nástroje alebo softvér určený na sťahovanie videí z YouTube. ",
+          "question": "Ako stiahnem videá z YouTube?"
+        },
+        "2": {
+          "answer": "Sťahovanie videí YouTube bez povolenia môže porušovať zmluvné podmienky služby YouTube. ",
+          "question": "Je legálne sťahovať videá z YouTube?"
+        },
+        "3": {
+          "answer": "Áno, rôzne online služby ponúkajú sťahovanie videí z YouTube. ",
+          "question": "Existujú online služby na sťahovanie videí z YouTube?"
+        },
+        "4": {
+          "answer": "Áno, existujú mobilné aplikácie a webové stránky, ktoré vám umožňujú sťahovať videá z YouTube priamo do mobilného zariadenia na prezeranie offline.",
+          "question": "Môžem si stiahnuť videá z YouTube na mobilné zariadenia?"
+        },
+        "5": {
+          "answer": "Medzi bežne podporované formáty patrí MP",
+          "question": "Aké formáty videa sú podporované pre stiahnuté videá YouTube?"
+        },
+        "6": {
+          "answer": "Áno, pred stiahnutím a použitím videa sa odporúča získať povolenie od tvorcu obsahu alebo skontrolovať licenčné informácie.",
+          "question": "Potrebujem povolenie na sťahovanie a používanie videí YouTube?"
+        },
+        "7": {
+          "answer": "Zmluvné podmienky služby YouTube zakazujú neoprávnené sťahovanie videí. ",
+          "question": "Existujú nejaké obmedzenia na sťahovanie obsahu YouTube?"
+        },
+        "8": {
+          "answer": "Áno, YouTube ponúka legálny spôsob sťahovania videí na pozeranie offline prostredníctvom ich aplikácie. ",
+          "question": "Môžem si stiahnuť videá z YouTube na pozeranie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť Youtube do MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Stiahnite si YouTube Shorts ,YouTube Shorts download ,Uložte YouTube Shorts ,Stiahnite si Shorts z YouTube ,Sťahovanie krátkych videí YouTube ,Ako uložiť YouTube Shorts ,Stiahnuť krátke videá na YouTube ,Sťahovač YouTube Shorts ,YouTube Shorts sťahovanie offline ,Bezplatné stiahnutie YouTube Shorts",
+      "description": "Youtube Shorts Downloader je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videí z internetu. ",
+      "form": {
+        "placeholder": "Prilepte odkazy na videá Youtube Short",
+        "arialLabel": "Prilepte odkazy na videá Youtube Short",
+        "btnArialLabel": "Stiahnuť ľubovoľné video z youtube krátke tlačidlo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Od mojej poslednej aktualizácie v januári 2022 sú krátke videá YouTube Shorts určené predovšetkým na krátke mobilné sledovanie a nemusia mať možnosť priameho sťahovania. ",
+          "question": "Ako si stiahnem YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Sťahovanie krátkych videí YouTube bez riadneho povolenia môže porušovať zmluvné podmienky služby YouTube. ",
+          "question": "Je sťahovanie krátkych videí YouTube legálne?"
+        },
+        "3": {
+          "answer": "Áno, rôzne online služby ponúkajú sťahovanie videí z YouTube. ",
+          "question": "Môžem si stiahnuť YouTube Shorts do mobilných zariadení?"
+        },
+        "4": {
+          "answer": "Zmluvné podmienky služby YouTube vo všeobecnosti zakazujú neoprávnené sťahovanie obsahu. ",
+          "question": "Existujú nejaké obmedzenia na sťahovanie krátkych videí YouTube?"
+        },
+        "5": {
+          "answer": "YouTube poskytuje v rámci aplikácie možnosti na zdieľanie krátkych videí Shorts na rôznych platformách. ",
+          "question": "Ako môžem legálne uložiť alebo zdieľať krátke videá YouTube Shorts?"
+        },
+        "6": {
+          "answer": "Krátke videá YouTube sú zvyčajne navrhnuté na pozeranie online. ",
+          "question": "Môžem si stiahnuť YouTube Shorts na pozeranie offline?"
+        },
+        "7": {
+          "answer": "Zmluvné podmienky služby YouTube zakazujú neoprávnené sťahovanie videí. ",
+          "question": "Existujú nejaké obmedzenia na sťahovanie obsahu YouTube?"
+        },
+        "8": {
+          "answer": "Ak narazíte na problémy so službou YouTube Shorts alebo jej funkciami, obráťte sa na podporu služby YouTube alebo si pozrite ich centrum pomoci, kde nájdete pokyny k nahlasovaniu problémov.",
+          "question": "Ako môžem nahlásiť problémy so službou YouTube Shorts alebo funkciami sťahovania?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Ako stiahnuť Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "stiahnite si video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "stiahnite si twitter videá"
+    },
+    "general": {
+      "title": "Stiahnite si video online",
+      "keywords": "Stiahnite si videá YouTube, stiahnite si video Instagram, stiahnite si video z facebooku, stiahnite si videá TikTok, stiahnite si videá Twitch, stiahnite si video Twitter, stiahnite si videá Pinterest, stiahnite si videá zo sociálnych médií, stiahnite si online videá, stiahnite si videá zadarmo",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online je rýchly a bezpečný softvér, ktorý umožňuje neobmedzené sťahovanie videa z internetu. ",
+      "faq": {
+        "1": {
+          "answer": "Áno, tento web je bezplatný. ",
+          "question": "Je tento web zadarmo?"
+        },
+        "2": {
+          "answer": "Nie, sťahovanie príbehov nie je podporované.",
+          "question": "Môžem si stiahnuť príbehy?"
+        },
+        "3": {
+          "answer": "Nie, poskytujeme iba službu sťahovania videí.",
+          "question": "Môžem si stiahnuť obrázky z ?"
+        },
+        "4": {
+          "answer": "Áno, tento web je bezpečný. ",
+          "question": "Je tento web bezpečný?"
+        },
+        "5": {
+          "answer": "Áno, webovú stránku môžete používať z mobilu alebo tabletu.",
+          "question": "Môžem používať webovú stránku z mobilu?"
+        },
+        "6": {
+          "answer": "Ak video, ktoré chcete stiahnuť, nie je k dispozícii, skúste to znova neskôr.",
+          "question": "Čo ak video, ktoré chcem stiahnuť, nie je dostupné?"
+        },
+        "7": {
+          "answer": "Nie, nemôžete sťahovať videá zo súkromných účtov.",
+          "question": "Môžem sťahovať videá zo súkromných účtov?"
+        },
+        "8": {
+          "answer": "Najlepší formát na sťahovanie videí je MP4. ",
+          "question": "V akom formáte je najlepšie sťahovať videá?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Stiahnutím tohto videa súhlasíte s",
+      "#2": "Bez vodoznaku",
+      "#3": "HD kvalite",
+      "#4": "Rýchle sťahovanie",
+      "#5": "Ľahko upraviteľné",
+      "#6": "Akýkoľvek formát",
+      "#7": "Ako sťahovať videá {name}:",
+      "#8": "Prilepte ľubovoľnú webovú adresu videa",
+      "#9": "Prilepte ľubovoľnú webovú adresu videa do poskytnutého poľa a stlačte Stiahnuť. ",
+      "#10": "Upraviť alebo stiahnuť",
+      "#11": "Máte možnosť upraviť svoje video pomocou našej kompletnej sady nástrojov na úpravu videa. ",
+      "#12": "Zdieľajte video na stiahnutie nástroja online",
+      "#13": "Exportujte svoje video a zdieľajte ho!",
+      "#14": "Okamžité stiahnutie videa online",
+      "#15": "Stiahnuť video online Môžete si stiahnuť videoklipy z",
+      "#16": "jediným kliknutím! ",
+      "#17": "Sťahovanie videa online funguje priamo z vášho mobilného alebo stolného prehliadača alebo mobilnej aplikácie. ",
+      "#18": "Stiahnite si video online a odstráňte vodoznak",
+      "#19": "Download Video Online vám umožňuje sťahovať obsah bez vodoznakov, takže ho môžete použiť a zdieľať kdekoľvek. ",
+      "#20": "Okamžite pridajte hlasové prenosy do svojho videa",
+      "#21": "Ak nemáte čas alebo zdroje na pridávanie komentárov, môžete použiť softvér na prevod textu na reč Download Video Online!  ",
+      "#22": "Vytvorte profesionálne vyzerajúce videá niekoľkými kliknutiami",
+      "#23": "Ak ste streamer, je pravdepodobné, že musíte udržiavať aj iné kanály sociálnych médií.  ",
+      "#24": "Často kladené otázky - FAQ",
+      "#25": "Stiahnite si pomocou aplikácie",
+      "#26": "Teraz poskytujeme aplikáciu na stiahnutie videa. ",
+      "#27": "adresa URL aplikácie googleplay",
+      "#28": "adresa URL aplikácie Apple",
+      "btnText": "Stiahnuť ▼",
+      "btnLoadingText": "Načítavanie"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Zásady ochrany osobných údajov",
+      "#1": "Úvod",
+      "#2": "Tieto pravidlá ochrany osobných údajov informujú používateľov, že webová lokalita ({website_url}) nezhromažďuje, neukladá ani nespracúva žiadne osobné údaje. ",
+      "#3": "Upozorňujeme, že tieto zásady sú poskytované v súlade s právnymi požiadavkami, aj keď webová lokalita alebo služba nezhromažďuje ani neuchováva žiadne osobné údaje.",
+      "#4": "Reklama a analýza tretej strany",
+      "#5": "Na zobrazovanie reklám na webovej stránke používame reklamné služby tretích strán, ako je Google AdSense. ",
+      "#6": "Môžete sa odhlásiť z personalizovanej reklamy návštevou stránky",
+      "#7": "Nastavenia reklám",
+      "#8": "alebo návštevou",
+      "#9": "Zmeny v Zásadách ochrany osobných údajov",
+      "#10": "Vyhradzujeme si právo kedykoľvek aktualizovať, upraviť alebo nahradiť ktorúkoľvek časť Zásad zverejnením aktualizovaných Zásad na Webovej stránke. ",
+      "#11": "Kontaktné informácie",
+      "#12": "Ak máte akékoľvek otázky alebo obavy týkajúce sa týchto Zásad, kontaktujte vlastníka webovej stránky na adrese",
+      "#13": "Prijatie Zásad ochrany osobných údajov",
+      "#14": "Vstupom na webovú stránku alebo službu alebo ich používaním potvrdzujete, že ste si prečítali, porozumeli a súhlasíte s tým, že budete viazaní podmienkami tejto politiky."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Podmienky služby"
+    },
+    "dcma": {
+      "title": "autorské práva (DMCA)",
+      "#1": "{name} rešpektuje autorské práva na všetky diela a nepovoľuje používateľom používať videá iných používateľov na nič, čo je v rozpore so zmluvnými podmienkami ochrany autorských práv. ",
+      "#2": "{name} je v súlade so zákonom DMCA (Digital Millennium Copyright Act) a po náležitom upozornení okamžite pozastaví prístup k Obsahu.",
+      "#3": "Ak chcete podať oznámenie o porušení autorských práv spoločnosti {name}, musíte nám poslať e-mailom správu, ktorá v podstate obsahuje informácie požadované a uvedené v sekcii 512(c)(3) zákona Digital Millennium Copyright Act.",
+      "#4": "Požadované informácie:",
+      "#5": "1. Identifikujte sa buď ako: a) Vlastník diela chráneného autorskými právami b) Osoba „oprávnená konať v mene vlastníka výhradných práv, ktoré sú údajne porušené“. ",
+      "#6": "2. Identifikujte dielo chránené autorskými právami, ktoré údajne bolo porušené.",
+      "#7": "3. Identifikujte Obsah, o ktorom sa tvrdí, že porušuje autorské práva alebo je predmetom aktivity porušujúcej autorské práva, a ktorý má byť pozastavený alebo ku ktorému má byť zakázaný prístup, ako aj informácie primerane dostatočné na to, aby umožnili službe youtube4kdownloader nájsť Obsah. ",
+      "#8": "4. Poskytnite kontaktné informácie, ktoré sú primerane dostatočné na to, aby sme vás mohli kontaktovať, ako je adresa, telefónne číslo a platná e-mailová adresa.",
+      "#9": "5. Uveďte, že v dobrej viere veríte, že použitie Obsahu spôsobom, na ktorý sa sťažujete, nie je povolené vlastníkom autorských práv, jeho zástupcami alebo zákonom.",
+      "#10": "6. Uveďte, že informácie v oznámení sú presné a pod hrozbou trestu za krivú prísahu je žalujúca strana oprávnená konať v mene vlastníka výhradného práva, ktoré je údajne porušené.",
+      "#11": "Po prijatí platného oznámenia, ako to vyžaduje zákon, pozastavíme prístup k obsahu chránenému autorskými právami z našej webovej stránky.",
+      "#12": "Ak máte akékoľvek otázky, kontaktujte nás na",
+      "#13": "tento formulár"
+    },
+    "thankyou": {
+      "title": "Ďakujeme, že ste si nainštalovali aplikáciu Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Rozhranie API na stiahnutie videa",
+      "#1": "Rozhranie API {website_url} poskytuje jednoduchú a pohodlnú metódu na načítanie mediálnych súborov z najpopulárnejších webových stránok a platforiem sociálnych médií. ",
+      "#2": "Ak chcete získať prístup alebo získať ďalšie informácie, kontaktujte nás na "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontaktuj nás",
+      "#1": "Ak máte akékoľvek otázky, sťažnosti alebo nároky týkajúce sa našich služieb, pošlite nám správu na",
+      "#2": "Spätná väzba",
+      "#3": "Email",
+      "#4": "Správa",
+      "#5": "Predložiť",
+      "#6": "E-mail bol úspešne odoslaný!"
+    }
+  }
+}

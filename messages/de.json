@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Sprache ändern",
+    "locale": "{locale, select, de {Deutsch} en {Englisch} other {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+    "keywords": "Videos auf YouTube herunterladen, Videos auf Instagram herunterladen, Videos auf Facebook herunterladen, Videos auf TikTok herunterladen, Videos auf Twitch herunterladen, Videos auf Twitter herunterladen, Videos auf Pinterest herunterladen, Social-Media-Videos herunterladen, Online-Videos herunterladen, Videos kostenlos herunterladen",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Laden Sie das Video online herunter"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Fügen Sie die Videolinks für Facebook, Instagram, TikTok, Twitter, Twitch, Youtube ein.",
+      "arialLabel": "Fügen Sie die Videolinks für Facebook, Instagram, TikTok, Twitter, Twitch, Youtube ein.",
+      "btnArialLabel": "Laden Sie eine beliebige Videoschaltfläche herunter",
+      "btnText": "Herunterladen",
+      "btnLoadingText": "Holen"
+    }
+  },
+  "Footer": {
+    "#1": "YouTube Downloader",
+    "#2": "YouTube-Video-Downloader",
+    "#3": "YouTube-zu-MP3-Konverter",
+    "#4": "YouTube-zu-MP4-Konverter",
+    "#5": "YouTube-Shorts-Downloader",
+    "#6": "Facebook-Downloader",
+    "#7": "Laden Sie das Facebook-Video herunter",
+    "#8": "Facebook-zu-MP4-Konverter",
+    "#9": "Laden Sie Facebook Reel herunter",
+    "#10": "Instagram-Downloader",
+    "#11": "Laden Sie das Video Instagram herunter",
+    "#12": "Laden Sie Instagram Reel herunter",
+    "#13": "Instagram-zu-MP4-Konverter",
+    "#14": "Anderer Downloader",
+    "#15": "Laden Sie das TikTok-Video herunter",
+    "#16": "Laden Sie das Twitter-Video herunter",
+    "#17": "Video Twitch herunterladen",
+    "#18": "Laden Sie den Video-Twitch-Clip herunter",
+    "#20": "Legal",
+    "#21": "Datenschutzrichtlinie",
+    "#22": "Nutzungsbedingungen",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blog",
+    "#26": "Begleiten Sie uns!",
+    "#27": "Abonnieren",
+    "#28": "Alle Rechte vorbehalten."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Laden Sie den Video-Twitch-Clip herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Twitch-Clips herunterladen, Twitch-Clip-Downloader, Twitch-Clips speichern, Clips von Twitch herunterladen, Twitch-Clips online herunterladen, Twitch-Clips kostenlos herunterladen, Twitch-Clip-Sparer, Twitch-Clips ohne Wasserzeichen herunterladen, Twitch-Clip-Grabber, Twitch-Clips als MP4 herunterladen",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks des Twitch-Clips ein",
+        "arialLabel": "Fügen Sie die Videolinks des Twitch-Clips ein",
+        "btnArialLabel": "Laden Sie einen beliebigen Video-Twitch-Clip herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieren Sie einfach den Twitch-Videolink und fügen Sie ihn in unser Tool ein. ",
+          "question": "Wie verwende ich Ihr Tool, um Twitch-Videos herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Twitch respektiert. ",
+          "question": "Ist es legal, Twitch-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist für den mobilen Einsatz optimiert und ermöglicht Benutzern das Herunterladen von Twitch-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Twitch-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von Twitch-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": "Gibt es Einschränkungen hinsichtlich der Länge oder Art der herunterladbaren Twitch-Videos?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Twitch-Videos (High-Definition) und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es möglich, HD-Twitch-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "6": {
+          "answer": "Sollten Sie auf Schwierigkeiten stoßen, schauen Sie bitte in unserem FAQ-Bereich auf der Website nach, um Tipps zur Fehlerbehebung zu erhalten. ",
+          "question": "Was soll ich tun, wenn bei der Verwendung Ihres Tools Probleme auftreten?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Twitch-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": " Kann ich mit Ihrem Tool Twitch-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Plattform von Twitch anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Twitch sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie einen Video-Twitch-Clip herunter"
+    },
+    "download-video-twitch": {
+      "title": "Video Twitch herunterladen",
+      "datePublished": "01.10.2021",
+      "keywords": "Laden Sie Twitch-Videos herunter, Twitch-Video-Downloader, Speichern Sie Twitch-Videos, So laden Sie Videos von Twitch herunter, Laden Sie Twitch-Clips herunter, Kostenloser Download von Twitch-Videos, Twitch VOD-Downloader, Laden Sie Twitch-Highlights herunter, Twitch-Video-Grabber, Laden Sie Twitch in MP4 herunter",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks Twitch ein",
+        "arialLabel": "Fügen Sie die Videolinks Twitch ein",
+        "btnArialLabel": "Laden Sie eine beliebige Video-Twitch-Reel-Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieren Sie einfach den Twitch-Videolink und fügen Sie ihn in unser Tool ein. ",
+          "question": "Wie verwende ich Ihr Tool, um Twitch-Videos herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Twitch respektiert. ",
+          "question": "Ist es legal, Twitch-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist für den mobilen Einsatz optimiert und ermöglicht Benutzern das Herunterladen von Twitch-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Twitch-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von Twitch-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": "Gibt es Einschränkungen hinsichtlich der Länge oder Art der herunterladbaren Twitch-Videos?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Twitch-Videos (High-Definition) und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es möglich, HD-Twitch-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "6": {
+          "answer": "Sollten Sie auf Schwierigkeiten stoßen, schauen Sie bitte in unserem FAQ-Bereich auf der Website nach, um Tipps zur Fehlerbehebung zu erhalten. ",
+          "question": "Was soll ich tun, wenn bei der Verwendung Ihres Tools Probleme auftreten?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Twitch-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": " Kann ich mit Ihrem Tool Twitch-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Plattform von Twitch anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Twitch sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie ein Twitch-Video herunter"
+    },
+    "download-video-twitter": {
+      "title": "Laden Sie das Twitter-Video herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Twitter-Videos herunterladen, Twitter-Video-Downloader, Twitter-Videos speichern, Videos von Twitter herunterladen, Twitter-Videos online herunterladen, Twitter-Videos kostenlos herunterladen, Twitter-Video-Sparer, Twitter ohne Wasserzeichen herunterladen, Twitter-Video-Grabber, Twitter in MP4 herunterladen",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks Twitter ein",
+        "arialLabel": "Fügen Sie die Videolinks Twitter ein",
+        "btnArialLabel": "Laden Sie die Twitter-Reel-Schaltfläche für ein beliebiges Video herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieren Sie einfach den Twitter-Videolink und fügen Sie ihn in unser Tool ein. ",
+          "question": "Wie verwende ich Ihr Tool, um Twitter-Videos herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Twitter respektiert. ",
+          "question": "Ist es legal, Twitter-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist für den mobilen Einsatz optimiert und ermöglicht Benutzern das Herunterladen von Twitter-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Twitter-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer Vielzahl von Twitter-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": "Gibt es Einschränkungen hinsichtlich der Länge oder Art der Twitter-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Twitter-Videos (High-Definition) und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es möglich, HD-Twitter-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "6": {
+          "answer": "Sollten Sie auf Schwierigkeiten stoßen, schauen Sie bitte in unserem FAQ-Bereich auf der Website nach, um Tipps zur Fehlerbehebung zu erhalten. ",
+          "question": "Was soll ich tun, wenn bei der Verwendung Ihres Tools Probleme auftreten?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Twitter-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": " Kann ich mit Ihrem Tool Twitter-Videos zur Offline-Anzeige herunterladen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Twitter-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Twitter sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Twitter-Videos herunter"
+    },
+    "download-video-tiktok": {
+      "title": "Video Tiktok herunterladen",
+      "datePublished": "01.10.2021",
+      "keywords": "TikTok-Videos herunterladen, TikTok-Video-Downloader, TikTok-Videos speichern, Videos von TikTok herunterladen, TikTok-Videos online herunterladen, kostenloser TikTok-Video-Download, TikTok-Video-Sparer, TikTok ohne Wasserzeichen herunterladen, TikTok-Video-Grabber, TikTok in MP4 herunterladen",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks Tiktok ein",
+        "arialLabel": "Fügen Sie die Videolinks Tiktok ein",
+        "btnArialLabel": "Laden Sie einen beliebigen Video-Tiktok-Reel-Button herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieren Sie einfach den TikTok-Videolink und fügen Sie ihn in unser Tool ein. ",
+          "question": "Wie verwende ich Ihr Tool, um TikTok-Videos herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von TikTok respektiert. ",
+          "question": "Ist es legal, TikTok-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist für den mobilen Einsatz optimiert und ermöglicht Benutzern das Herunterladen von TikTok-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool TikTok-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von TikTok-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": "Gibt es Einschränkungen hinsichtlich der Länge oder Art der herunterladbaren TikTok-Videos?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-TikTok-Videos (High-Definition) und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es möglich, HD-TikTok-Videos mit Ihrem Tool herunterzuladen?"
+        },
+        "6": {
+          "answer": "Sollten Sie auf Schwierigkeiten stoßen, schauen Sie bitte in unserem FAQ-Bereich auf der Website nach, um Tipps zur Fehlerbehebung zu erhalten. ",
+          "question": "Was soll ich tun, wenn bei der Verwendung Ihres Tools Probleme auftreten?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, TikTok-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": " Kann ich mit Ihrem Tool TikTok-Videos zur Offline-Anzeige herunterladen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Plattform von TikTok anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von TikTok sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie ein Tiktok-Video herunter"
+    },
+    "download-video-instagram": {
+      "title": "Laden Sie das Video Instagram herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "arialLabel": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "btnArialLabel": "Laden Sie eine beliebige Video-Instagram-Reel-Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die URL des Instagram-Videos in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Videos von Instagram herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Instagram respektiert. ",
+          "question": "Ist es legal, mit Ihrem Tool Videos von Instagram herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Instagram-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von Instagram-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": " Gibt es Einschränkungen hinsichtlich der Länge oder Art der Instagram-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Instagram und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es mit Ihrem Tool möglich, HD-Videos von Instagram herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Instagram-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Instagram-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Instagram-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Instagram sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie ein Instagram-Video herunter"
+    },
+    "download-instagram-reel": {
+      "title": "Laden Sie Instagram Reel herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "arialLabel": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "btnArialLabel": "Laden Sie eine beliebige Video-Instagram-Reel-Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die URL des Instagram-Videos in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Videos von Instagram herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Instagram respektiert. ",
+          "question": "Ist es legal, mit Ihrem Tool Videos von Instagram herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Instagram-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von Instagram-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": " Gibt es Einschränkungen hinsichtlich der Länge oder Art der Instagram-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Instagram und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es mit Ihrem Tool möglich, HD-Videos von Instagram herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Instagram-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Instagram-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Instagram-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Instagram sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Instagram-Videos als MP4 herunter"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Laden Sie das Instagram-Video auf mp4 herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "arialLabel": "Fügen Sie die Instagram-Reel mit den Videolinks ein",
+        "btnArialLabel": "Laden Sie eine beliebige Video-Instagram-Reel-Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die URL des Instagram-Videos in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Videos von Instagram herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Instagram respektiert. ",
+          "question": "Ist es legal, mit Ihrem Tool Videos von Instagram herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Instagram-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer breiten Palette von Instagram-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": " Gibt es Einschränkungen hinsichtlich der Länge oder Art der Instagram-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Instagram und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es mit Ihrem Tool möglich, HD-Videos von Instagram herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Instagram-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Instagram-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Instagram-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Instagram-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Instagram sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Instagram-Videos als MP4 herunter"
+    },
+    "download-facebook-reel": {
+      "title": "Laden Sie Facebook Reel herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Facebook Reel herunterladen, Facebook Reel-Downloader, Facebook Reel-Video speichern, Reels auf Facebook herunterladen, Facebook Reel online herunterladen, Facebook Reel kostenlos herunterladen, Facebook Reel-Video-Sparer, Reels von Facebook herunterladen, Facebook Reel-Video-Grabber, Facebook Reel offline herunterladen",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Facebook-Reel mit den Videolinks ein",
+        "arialLabel": "Fügen Sie die Facebook-Reel mit den Videolinks ein",
+        "btnArialLabel": "Laden Sie einen beliebigen Video-Facebook-Reel-Button herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die Facebook-Video-URL in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Videos von Facebook herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Facebook respektiert. ",
+          "question": "Ist es legal, mit Ihrem Tool Videos von Facebook herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Facebook-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Facebook-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer Vielzahl von Facebook-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": " Gibt es Einschränkungen hinsichtlich der Länge oder Art der Facebook-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Facebook und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es mit Ihrem Tool möglich, HD-Videos von Facebook herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Facebook-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Facebook-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Facebook-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Facebook-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Facebook sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Facebook-Videos auf mp4 herunter"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook-zu-MP4-Konverter",
+      "datePublished": "01.10.2021",
+      "keywords": "Facebook-zu-MP4-Konverter, Facebook in MP4 konvertieren, Facebook-Video in MP4, Facebook-MP4-Download, Online-Facebook in MP4, kostenloser Facebook-in-MP4, Facebook-Videokonverter, Facebook-Video als MP4 speichern, Facebook in MP4 herunterladen, Facebook-MP4-Online-Konverter",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks auf Facebook ein",
+        "arialLabel": "Fügen Sie die Videolinks auf Facebook ein",
+        "btnArialLabel": "Laden Sie einen beliebigen Video-Facebook-Button herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die Facebook-Reel-Video-URL in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Facebook Reels herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Facebook respektiert. ",
+          "question": "Ist es legal, Facebook Reels mit Ihrem Tool herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Facebook-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Facebook Reels auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer Vielzahl von Facebook-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": "Gibt es Einschränkungen hinsichtlich der Länge oder Art der Facebook Reels, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Facebook und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es möglich, HD-Facebook-Reels mit Ihrem Tool herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Facebook-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Facebook-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Facebook Reels zur Offline-Anzeige herunterladen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Facebook-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Facebook sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Facebook-Videos auf mp4 herunter"
+    },
+    "download-video-facebook": {
+      "title": "Laden Sie das Facebook-Video herunter",
+      "datePublished": "01.10.2021",
+      "keywords": "Facebook-Videos herunterladen, Facebook-Video-Downloader, Facebook-Videos speichern, Videos von Facebook herunterladen, Facebook-Videos online herunterladen, kostenloser Facebook-Video-Download, Facebook-Video-Sparer, private Facebook-Videos herunterladen, HD-Facebook-Videos herunterladen, Facebook in MP4 herunterladen, Video herunterladen ",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks auf Facebook ein",
+        "arialLabel": "Fügen Sie die Videolinks auf Facebook ein",
+        "btnArialLabel": "Laden Sie einen beliebigen Video-Facebook-Button herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fügen Sie einfach die Facebook-Video-URL in unser Tool ein und es wird Sie durch den Download-Prozess führen. ",
+          "question": "Wie verwende ich Ihr Tool, um Videos von Facebook herunterzuladen?"
+        },
+        "2": {
+          "answer": "Unser Tool ist so konzipiert, dass es die Nutzungsbedingungen von Facebook respektiert. ",
+          "question": "Ist es legal, mit Ihrem Tool Videos von Facebook herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, unser Tool ist mobilfreundlich und ermöglicht Benutzern das Herunterladen von Facebook-Videos auf verschiedenen Geräten, einschließlich Smartphones und Tablets.",
+          "question": "Kann ich mit Ihrem Tool Facebook-Videos auf Mobilgeräte herunterladen?"
+        },
+        "4": {
+          "answer": "Unser Tool unterstützt das Herunterladen einer Vielzahl von Facebook-Videos, auch in unterschiedlichen Längen und Formaten. ",
+          "question": " Gibt es Einschränkungen hinsichtlich der Länge oder Art der Facebook-Videos, die heruntergeladen werden können?"
+        },
+        "5": {
+          "answer": "Ja, unser Tool unterstützt das Herunterladen von HD-Videos (High-Definition) von Facebook und bietet Benutzern die Möglichkeit, Inhalte in höherer Qualität zu genießen.",
+          "question": "Ist es mit Ihrem Tool möglich, HD-Videos von Facebook herunterzuladen?"
+        },
+        "6": {
+          "answer": "Wir nehmen Sicherheit ernst. ",
+          "question": "Sind mit der Verwendung Ihres Tools zum Herunterladen von Facebook-Videos Risiken verbunden?"
+        },
+        "7": {
+          "answer": "Ja, unser Tool bietet die Möglichkeit, Facebook-Videos zur Offline-Anzeige herunterzuladen, sodass Benutzer Inhalte auch ohne Internetverbindung genießen können.",
+          "question": "Kann ich mit Ihrem Tool Facebook-Videos herunterladen, um sie offline anzusehen?"
+        },
+        "8": {
+          "answer": "Wir aktualisieren unser Tool regelmäßig, um es an alle Änderungen auf der Facebook-Plattform anzupassen und so eine kontinuierliche Kompatibilität und ein nahtloses Benutzererlebnis zu gewährleisten.",
+          "question": "Wie oft wird Ihr Tool aktualisiert, um die Kompatibilität mit den Änderungen von Facebook sicherzustellen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie Facebook-Videos herunter"
+    },
+    "youtube-video-downloader": {
+      "title": "YouTube-Video-Downloader",
+      "datePublished": "01.10.2021",
+      "keywords": "YouTube-Video-Download, YouTube-Videos herunterladen, YouTube-Downloader, YouTube-Videos speichern, Videos von YouTube herunterladen, YouTube-Video online herunterladen, HD-Videos von YouTube herunterladen, YouTube-Video-Sparer, YouTube-Video-Grabber, kostenloser YouTube-Video-Download",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks auf YouTube ein",
+        "arialLabel": "Fügen Sie die Videolinks auf YouTube ein",
+        "btnArialLabel": "Schaltfläche zum Herunterladen eines beliebigen YouTube-Videos"
+      },
+      "faq": {
+        "1": {
+          "answer": "Sie können diese Online-Tools oder Software zum Herunterladen von YouTube-Videos verwenden. ",
+          "question": "Wie lade ich YouTube-Videos herunter?"
+        },
+        "2": {
+          "answer": "Das Herunterladen von YouTube-Videos ohne Genehmigung verstößt möglicherweise gegen die Nutzungsbedingungen von YouTube. ",
+          "question": "Ist es legal, Videos von YouTube herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, verschiedene Online-Dienste bieten YouTube-Video-Downloads an. ",
+          "question": "Gibt es Online-Dienste zum Herunterladen von YouTube-Videos?"
+        },
+        "4": {
+          "answer": "Ja, es gibt mobile Apps und Websites, mit denen Sie YouTube-Videos direkt auf Ihr Mobilgerät herunterladen und offline ansehen können.",
+          "question": "Kann ich YouTube-Videos auf Mobilgeräten herunterladen?"
+        },
+        "5": {
+          "answer": "Zu den häufig unterstützten Formaten gehört MP",
+          "question": "Welche Videoformate werden für heruntergeladene YouTube-Videos unterstützt?"
+        },
+        "6": {
+          "answer": "Ja, es wird empfohlen, die Erlaubnis des Erstellers des Inhalts einzuholen oder die Lizenzinformationen des Videos zu überprüfen, bevor Sie es herunterladen und verwenden.",
+          "question": "Benötige ich eine Erlaubnis, um YouTube-Videos herunterzuladen und zu verwenden?"
+        },
+        "7": {
+          "answer": "Die Nutzungsbedingungen von YouTube verbieten das unbefugte Herunterladen von Videos. ",
+          "question": "Gibt es Einschränkungen beim Herunterladen von YouTube-Inhalten?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bietet über seine App eine legale Möglichkeit, Videos zur Offline-Ansicht herunterzuladen. ",
+          "question": "Kann ich YouTube-Videos herunterladen, um sie offline anzusehen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie YouTube-Videos online herunter"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "YouTube-zu-MP3-Konverter",
+      "datePublished": "01.10.2021",
+      "keywords": "YouTube in MP3, YouTube in MP3 konvertieren, YouTube MP3-Konverter, YouTube-Audio herunterladen, YouTube in MP3 online, kostenloser YouTube in MP3, YouTube in MP3-Konverter online, YouTube-Video in MP3 konvertieren, YouTube-Soundkonverter, YouTube-Audio herunterladen",
+      "description": "Youtube to MP3 Converter ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks auf YouTube ein",
+        "arialLabel": "Fügen Sie die Videolinks auf YouTube ein",
+        "btnArialLabel": "Laden Sie eine beliebige YouTube-MP3-Schaltfläche für Videos herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Sie können diese Online-Tools oder Software zum Herunterladen von YouTube-Videos verwenden. ",
+          "question": "Wie lade ich YouTube-Videos herunter?"
+        },
+        "2": {
+          "answer": "Das Herunterladen von YouTube-Videos ohne Genehmigung verstößt möglicherweise gegen die Nutzungsbedingungen von YouTube. ",
+          "question": "Ist es legal, Videos von YouTube herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, verschiedene Online-Dienste bieten YouTube-Video-Downloads an. ",
+          "question": "Gibt es Online-Dienste zum Herunterladen von YouTube-Videos?"
+        },
+        "4": {
+          "answer": "Ja, es gibt mobile Apps und Websites, mit denen Sie YouTube-Videos direkt auf Ihr Mobilgerät herunterladen und offline ansehen können.",
+          "question": "Kann ich YouTube-Videos auf Mobilgeräten herunterladen?"
+        },
+        "5": {
+          "answer": "Zu den häufig unterstützten Formaten gehört MP",
+          "question": "Welche Videoformate werden für heruntergeladene YouTube-Videos unterstützt?"
+        },
+        "6": {
+          "answer": "Ja, es wird empfohlen, die Erlaubnis des Erstellers des Inhalts einzuholen oder die Lizenzinformationen des Videos zu überprüfen, bevor Sie es herunterladen und verwenden.",
+          "question": "Benötige ich eine Erlaubnis, um YouTube-Videos herunterzuladen und zu verwenden?"
+        },
+        "7": {
+          "answer": "Die Nutzungsbedingungen von YouTube verbieten das unbefugte Herunterladen von Videos. ",
+          "question": "Gibt es Einschränkungen beim Herunterladen von YouTube-Inhalten?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bietet über seine App eine legale Möglichkeit, Videos zur Offline-Ansicht herunterzuladen. ",
+          "question": "Kann ich YouTube-Videos herunterladen, um sie offline anzusehen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie YouTube als MP3 herunter"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "YouTube-zu-MP4-Konverter",
+      "datePublished": "01.10.2021",
+      "keywords": "YouTube zu MP4, YouTube zu MP4 konvertieren, YouTube MP4-Konverter, YouTube-Audio herunterladen, YouTube zu MP4 online, kostenloser YouTube zu MP4, YouTube zu MP4-Konverter online, YouTube-Video zu MP4 konvertieren, YouTube-Soundkonverter, YouTube-Audio herunterladen",
+      "description": "Youtube to MP4 Converter ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks auf YouTube ein",
+        "arialLabel": "Fügen Sie die Videolinks auf YouTube ein",
+        "btnArialLabel": "Laden Sie ein beliebiges YouTube-Video über die MP4-Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Sie können diese Online-Tools oder Software zum Herunterladen von YouTube-Videos verwenden. ",
+          "question": "Wie lade ich YouTube-Videos herunter?"
+        },
+        "2": {
+          "answer": "Das Herunterladen von YouTube-Videos ohne Genehmigung verstößt möglicherweise gegen die Nutzungsbedingungen von YouTube. ",
+          "question": "Ist es legal, Videos von YouTube herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, verschiedene Online-Dienste bieten YouTube-Video-Downloads an. ",
+          "question": "Gibt es Online-Dienste zum Herunterladen von YouTube-Videos?"
+        },
+        "4": {
+          "answer": "Ja, es gibt mobile Apps und Websites, mit denen Sie YouTube-Videos direkt auf Ihr Mobilgerät herunterladen und offline ansehen können.",
+          "question": "Kann ich YouTube-Videos auf Mobilgeräten herunterladen?"
+        },
+        "5": {
+          "answer": "Zu den häufig unterstützten Formaten gehört MP",
+          "question": "Welche Videoformate werden für heruntergeladene YouTube-Videos unterstützt?"
+        },
+        "6": {
+          "answer": "Ja, es wird empfohlen, die Erlaubnis des Erstellers des Inhalts einzuholen oder die Lizenzinformationen des Videos zu überprüfen, bevor Sie es herunterladen und verwenden.",
+          "question": "Benötige ich eine Erlaubnis, um YouTube-Videos herunterzuladen und zu verwenden?"
+        },
+        "7": {
+          "answer": "Die Nutzungsbedingungen von YouTube verbieten das unbefugte Herunterladen von Videos. ",
+          "question": "Gibt es Einschränkungen beim Herunterladen von YouTube-Inhalten?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bietet über seine App eine legale Möglichkeit, Videos zur Offline-Ansicht herunterzuladen. ",
+          "question": "Kann ich YouTube-Videos herunterladen, um sie offline anzusehen?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie YouTube als MP4 herunter"
+    },
+    "youtube-shorts-downloader": {
+      "title": "YouTube-Shorts-Downloader",
+      "datePublished": "01.10.2021",
+      "keywords": "YouTube-Shorts herunterladen, YouTube-Shorts herunterladen, YouTube-Shorts speichern, Shorts von YouTube herunterladen, YouTube-Kurzvideos herunterladen, YouTube-Shorts speichern, Shorts auf YouTube herunterladen, YouTube-Shorts-Downloader, YouTube-Shorts offline herunterladen, YouTube-Shorts kostenlos herunterladen",
+      "description": "Youtube Shorts Downloader ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "form": {
+        "placeholder": "Fügen Sie die Videolinks YouTube Short ein",
+        "arialLabel": "Fügen Sie die Videolinks YouTube Short ein",
+        "btnArialLabel": "Laden Sie ein beliebiges YouTube-Video mit einer kurzen Schaltfläche herunter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Seit meinem letzten Update im Januar 2022 sind YouTube Shorts in erster Linie für die kurze Wiedergabe auf Mobilgeräten gedacht und verfügen möglicherweise nicht über eine direkte Download-Option. ",
+          "question": "Wie lade ich YouTube Shorts herunter?"
+        },
+        "2": {
+          "answer": "Das Herunterladen von YouTube-Shorts ohne entsprechende Genehmigung verstößt möglicherweise gegen die Nutzungsbedingungen von YouTube. ",
+          "question": "Ist es legal, YouTube Shorts herunterzuladen?"
+        },
+        "3": {
+          "answer": "Ja, verschiedene Online-Dienste bieten YouTube-Video-Downloads an. ",
+          "question": "Kann ich YouTube Shorts auf Mobilgeräten herunterladen?"
+        },
+        "4": {
+          "answer": "Die Nutzungsbedingungen von YouTube verbieten grundsätzlich das unbefugte Herunterladen von Inhalten. ",
+          "question": "Gibt es Einschränkungen beim Herunterladen von YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube bietet in der App Optionen zum Teilen von Shorts auf verschiedenen Plattformen. ",
+          "question": "Wie kann ich YouTube-Shorts legal speichern oder teilen?"
+        },
+        "6": {
+          "answer": "YouTube-Shorts sind in der Regel für die Online-Anzeige konzipiert. ",
+          "question": "Kann ich YouTube Shorts herunterladen, um sie offline anzusehen?"
+        },
+        "7": {
+          "answer": "Die Nutzungsbedingungen von YouTube verbieten das unbefugte Herunterladen von Videos. ",
+          "question": "Gibt es Einschränkungen beim Herunterladen von YouTube-Inhalten?"
+        },
+        "8": {
+          "answer": "Wenn Sie Probleme mit YouTube Shorts oder seinen Funktionen haben, wenden Sie sich an den YouTube-Support oder schauen Sie in der Hilfe nach, um Hilfe bei der Meldung von Problemen zu erhalten.",
+          "question": "Wie kann ich Probleme mit YouTube Shorts oder seinen Download-Funktionen melden?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "So laden Sie YouTube-Shorts herunter"
+    },
+    "download-from-tiktok": {
+      "title": "Laden Sie das Tiktok-Video herunter"
+    },
+    "download-from-twitter": {
+      "title": "Laden Sie Twitter-Videos herunter"
+    },
+    "general": {
+      "title": "Laden Sie das Video online herunter",
+      "keywords": "Videos auf YouTube herunterladen, Videos auf Instagram herunterladen, Videos auf Facebook herunterladen, Videos auf TikTok herunterladen, Videos auf Twitch herunterladen, Videos auf Twitter herunterladen, Videos auf Pinterest herunterladen, Social-Media-Videos herunterladen, Online-Videos herunterladen, Videos kostenlos herunterladen",
+      "datePublished": "01.10.2021",
+      "description": "Video online herunterladen ist eine schnelle und sichere Software, die unbegrenzte Video-Downloads aus dem Internet ermöglicht. ",
+      "faq": {
+        "1": {
+          "answer": "Ja, diese Website ist kostenlos. ",
+          "question": "Ist diese Website kostenlos?"
+        },
+        "2": {
+          "answer": "Nein, das Herunterladen von Geschichten wird nicht unterstützt.",
+          "question": "Kann ich Geschichten herunterladen?"
+        },
+        "3": {
+          "answer": "Nein, wir bieten nur den Service zum Herunterladen von Videos an.",
+          "question": "Kann ich Bilder von herunterladen?"
+        },
+        "4": {
+          "answer": "Ja, diese Website ist sicher. ",
+          "question": "Ist diese Website sicher?"
+        },
+        "5": {
+          "answer": "Ja, Sie können die Website von Ihrem Handy oder Tablet aus nutzen.",
+          "question": "Kann ich die Website von meinem Handy aus nutzen?"
+        },
+        "6": {
+          "answer": "Wenn das Video, das Sie herunterladen möchten, nicht verfügbar ist, versuchen Sie es später erneut.",
+          "question": "Was passiert, wenn das Video, das ich herunterladen möchte, nicht verfügbar ist?"
+        },
+        "7": {
+          "answer": "Nein, Sie können keine Videos von privaten Konten herunterladen.",
+          "question": "Kann ich Videos von privaten Konten herunterladen?"
+        },
+        "8": {
+          "answer": "Das beste Format zum Herunterladen von Videos ist MP4. ",
+          "question": "Was ist das beste Format zum Herunterladen von Videos?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Mit dem Herunterladen dieses Videos stimmen Sie dem zu",
+      "#2": "Kein Wasserzeichen",
+      "#3": "HD-Qualität",
+      "#4": "Schneller Download",
+      "#5": "Leicht editierbar",
+      "#6": "Jedes Format",
+      "#7": "So laden Sie Videos {name} herunter:",
+      "#8": "Fügen Sie eine beliebige Video-URL ein",
+      "#9": "Fügen Sie eine beliebige Video-URL in das dafür vorgesehene Feld ein und klicken Sie auf „Herunterladen“. ",
+      "#10": "Bearbeiten oder herunterladen",
+      "#11": "Sie haben die Möglichkeit, Ihr Video mit unserem kompletten Paket an Videobearbeitungstools zu bearbeiten. ",
+      "#12": "Teilen Sie das Tool-Download-Video online",
+      "#13": "Exportieren Sie Ihr Video und teilen Sie es!",
+      "#14": "Sofortiges Herunterladen von Videos online",
+      "#15": "Video online herunterladen Sie können Videoclips von herunterladen",
+      "#16": "mit nur einem Klick! ",
+      "#17": "Das Herunterladen von Videos online funktioniert direkt über Ihren Mobil- oder Desktop-Browser oder Ihre mobile App. ",
+      "#18": "Laden Sie das Video online herunter und entfernen Sie das Wasserzeichen",
+      "#19": "Mit „Download Video Online“ können Sie Inhalte ohne Wasserzeichen herunterladen, sodass Sie sie für andere Zwecke verwenden und überall teilen können. ",
+      "#20": "Fügen Sie Ihrem Video sofort Voice-Overs hinzu",
+      "#21": "Wenn Sie nicht die Zeit oder die Ressourcen haben, Voice-Overs hinzuzufügen, können Sie die Text-to-Speech-Software „Download Video Online“ verwenden!  ",
+      "#22": "Erstellen Sie mit wenigen Klicks professionell aussehende Videos",
+      "#23": "Wenn Sie ein Streamer sind, müssen Sie wahrscheinlich auch andere Social-Media-Kanäle pflegen.  ",
+      "#24": "Häufig gestellte Fragen – FAQ",
+      "#25": "Mit App herunterladen",
+      "#26": "Wir bieten jetzt eine App zum Video-Download an. ",
+      "#27": "Googleplay-App-URL",
+      "#28": "Apple-App-URL",
+      "btnText": "Herunterladen",
+      "btnLoadingText": "Holen"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Datenschutzrichtlinie",
+      "#1": "Einführung",
+      "#2": "Diese Datenschutzrichtlinie informiert Benutzer darüber, dass die Website ({website_url}) keine persönlichen Daten sammelt, speichert oder verarbeitet. ",
+      "#3": "Bitte beachten Sie, dass diese Richtlinie in Übereinstimmung mit den gesetzlichen Anforderungen bereitgestellt wird, auch wenn die Website oder der Dienst keine personenbezogenen Daten erfasst oder speichert.",
+      "#4": "Werbung und Analysen Dritter",
+      "#5": "Wir nutzen Werbedienste von Drittanbietern wie Google AdSense, um Werbung auf der Website zu schalten. ",
+      "#6": "Sie können personalisierte Werbung deaktivieren, indem Sie hier klicken",
+      "#7": "Anzeigeneinstellungen",
+      "#8": "oder bei einem Besuch",
+      "#9": "Änderungen der Datenschutzrichtlinie",
+      "#10": "Wir behalten uns das Recht vor, Teile der Richtlinie jederzeit zu aktualisieren, zu ändern oder zu ersetzen, indem wir die aktualisierte Richtlinie auf der Website veröffentlichen. ",
+      "#11": "Kontaktinformationen",
+      "#12": "Wenn Sie Fragen oder Bedenken zu dieser Richtlinie haben, wenden Sie sich bitte an den Eigentümer der Website unter",
+      "#13": "Akzeptanz der Datenschutzrichtlinie",
+      "#14": "Durch den Zugriff auf oder die Nutzung der Website oder des Dienstes bestätigen Sie, dass Sie die Bedingungen dieser Richtlinie gelesen und verstanden haben und damit einverstanden sind, an sie gebunden zu sein."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Nutzungsbedingungen"
+    },
+    "dcma": {
+      "title": "Urheberrecht (DMCA)",
+      "#1": "{name} respektiert das Urheberrecht aller Werke und erlaubt Benutzern nicht, die Videos anderer für etwas zu verwenden, das gegen die Urheberrechtsschutzbedingungen verstößt. ",
+      "#2": "{name} hält sich an den Digital Millennium Copyright Act (DMCA) und sperrt bei ordnungsgemäßer Benachrichtigung den Zugriff auf Inhalte umgehend.",
+      "#3": "Um eine Urheberrechtsverletzungsbenachrichtigung bei {Name} einzureichen, müssen Sie uns per E-Mail eine Nachricht senden, die im Wesentlichen die in Abschnitt 512(c)(3) des Digital Millennium Copyright Act erforderlichen und aufgeführten Informationen enthält.",
+      "#4": "Benötigte Information:",
+      "#5": "1. Identifizieren Sie sich als: a) Der Eigentümer eines urheberrechtlich geschützten Werks oder b) Eine Person, „die befugt ist, im Namen des Eigentümers eines ausschließlichen Rechts zu handeln, das angeblich verletzt wird“. ",
+      "#6": "2. Identifizieren Sie das urheberrechtlich geschützte Werk, von dem behauptet wird, dass es verletzt wurde.",
+      "#7": "3. Identifizieren Sie den Inhalt, der mutmaßlich einen Verstoß darstellt oder Gegenstand der rechtsverletzenden Aktivität ist und der gesperrt oder der Zugriff gesperrt werden soll, sowie ausreichende Informationen, die es youtube4kdownloader ermöglichen, den Inhalt zu lokalisieren. ",
+      "#8": "4. Geben Sie Kontaktinformationen an, die ausreichend sind, damit wir Sie kontaktieren können, z. B. eine Adresse, Telefonnummer und eine gültige E-Mail-Adresse.",
+      "#9": "5. Geben Sie an, dass Sie in gutem Glauben davon ausgehen, dass die Nutzung des Inhalts in der beanstandeten Weise nicht vom Urheberrechtsinhaber, seinen Vertretern oder dem Gesetz genehmigt ist.",
+      "#10": "6. Geben Sie an, dass die Informationen in der Mitteilung korrekt sind und dass die beschwerdeführende Partei unter Strafe des Meineids berechtigt ist, im Namen des Inhabers eines ausschließlichen Rechts zu handeln, das angeblich verletzt wurde.",
+      "#11": "Nach Erhalt einer gültigen Benachrichtigung werden wir, wie gesetzlich vorgeschrieben, den Zugriff auf urheberrechtlich geschützte Inhalte auf unserer Website sperren.",
+      "#12": "Wenn Sie Fragen haben, kontaktieren Sie uns bitte unter",
+      "#13": "diese Form"
+    },
+    "thankyou": {
+      "title": "Vielen Dank für die Installation des Download-Videos online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Video-Download-API",
+      "#1": "Die {website_url}-API bietet eine einfache und bequeme Methode zum Abrufen von Mediendateien von den beliebtesten Websites und Social-Media-Plattformen. ",
+      "#2": "Um Zugang zu erhalten oder weitere Informationen zu erhalten, kontaktieren Sie uns bitte unter "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontaktiere uns",
+      "#1": "Wenn Sie Fragen, Beschwerden oder Ansprüche in Bezug auf unsere Dienste haben, senden Sie uns bitte eine Nachricht an",
+      "#2": "Rückmeldung",
+      "#3": "Email",
+      "#4": "Nachricht",
+      "#5": "Einreichen",
+      "#6": "Email wurde erfolgreich Versendet !"
+    }
+  }
+}

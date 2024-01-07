@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Dili değiştir",
+    "locale": "{locale, select, de {Almanca} ve {İngilizce} other {Bilinmeyen}}"
+  },
+  "Metadata": {
+    "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+    "keywords": "Video İndir YouTube, Video İndir Instagram, Video İndir facebook, Video İndir TikTok, Video İndir Twitch, Video İndir Twitter, Video İndir Pinterest, Sosyal Medya Videolarını İndir, Çevrimiçi Video İndir, Ücretsiz Video İndir",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Videoyu Çevrimiçi İndirin"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Facebook, Instagram, TikTok, Twitter, Twitch, Youtube için video bağlantılarını yapıştırın..",
+      "arialLabel": "Facebook, Instagram, TikTok, Twitter, Twitch, Youtube için video bağlantılarını yapıştırın..",
+      "btnArialLabel": "Herhangi bir video düğmesini indirin",
+      "btnText": "İndirmek",
+      "btnLoadingText": "Getiriliyor"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube indirici",
+    "#2": "Youtube Video İndirici",
+    "#3": "Youtube'dan MP3'e Dönüştürücü",
+    "#4": "Youtube'dan MP4'e Dönüştürücü",
+    "#5": "Youtube Shorts İndiricisi",
+    "#6": "Facebook İndirici",
+    "#7": "Facebook'tan video indir",
+    "#8": "Facebook'tan MP4'ye Dönüştürücü",
+    "#9": "Facebook Reel'ı indirin",
+    "#10": "Instagram İndirici",
+    "#11": "Instagram Videosunu İndir",
+    "#12": "Instagram Reel'ı İndirin",
+    "#13": "Instagram'dan Mp4'e Dönüştürücü",
+    "#14": "Diğer İndirici",
+    "#15": "Video TikTok'u İndirin",
+    "#16": "Videoyu İndir Twitter",
+    "#17": "Video Twitch'i İndirin",
+    "#18": "Video Twitch Klibi İndir",
+    "#20": "Yasal",
+    "#21": "Gizlilik Politikası",
+    "#22": "Kullanım Şartları",
+    "#23": "DCMA",
+    "#24": "Temas etmek",
+    "#25": "Blog",
+    "#26": "Bize katılın!",
+    "#27": "Abone",
+    "#28": "Her hakkı saklıdır."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Video Twitch Klibi İndir",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitch kliplerini indirin ,Twitch klip indiricisi ,Twitch kliplerini kaydedin ,Twitch'ten klipler nasıl indirilir ,Twitch klibi çevrimiçi indir ,Ücretsiz Twitch klip indir ,Twitch klip koruyucu ,Twitch kliplerini filigran olmadan indirin ,Twitch klip yakalayıcı ,Twitch klibi MP4'e indirin",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını Twitch Clip'e yapıştırın",
+        "arialLabel": "Video bağlantılarını Twitch Clip'e yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin Twitch Klip düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "Twitch video bağlantısını kopyalayıp aracımıza yapıştırmanız yeterli. ",
+          "question": "Twitch videolarını indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Twitch'in hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Twitch videolarını indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil kullanım için optimize edilmiştir ve kullanıcıların Twitch videolarını akıllı telefonlar ve tabletler de dahil olmak üzere çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Twitch videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardakiler de dahil olmak üzere çok çeşitli Twitch videolarının indirilmesini destekler. ",
+          "question": "İndirilebilecek Twitch videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız HD (yüksek tanımlı) Twitch videolarının indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla HD Twitch videolarını indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Herhangi bir zorlukla karşılaşırsanız sorun giderme ipuçları için lütfen web sitesindeki SSS bölümümüze bakın. ",
+          "question": "Aracınızı kullanırken herhangi bir sorunla karşılaşırsam ne yapmalıyım?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Twitch videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": " Aracınızı kullanarak Twitch videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Twitch platformundaki değişikliklere uyum sağlamak için aracımızı düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız Twitch'teki değişikliklerle uyumluluğun sağlanması için ne sıklıkta güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Video Twitch Klip nasıl indirilir"
+    },
+    "download-video-twitch": {
+      "title": "Video Twitch'i İndirin",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitch videolarını indirin ,Twitch video indiricisi ,Twitch videolarını kaydetme ,Twitch'ten video indirme ,Twitch klip indirme ,Ücretsiz Twitch video indirme ,Twitch VOD indirici ,Twitch'in önemli anlarını indirin ,Twitch video yakalayıcı ,Twitch'ten MP4'e indirme",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Twitch video bağlantılarını yapıştırın",
+        "arialLabel": "Twitch video bağlantılarını yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu Twitch makarası düğmesini indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "Twitch video bağlantısını kopyalayıp aracımıza yapıştırmanız yeterli. ",
+          "question": "Twitch videolarını indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Twitch'in hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Twitch videolarını indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil kullanım için optimize edilmiştir ve kullanıcıların Twitch videolarını akıllı telefonlar ve tabletler de dahil olmak üzere çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Twitch videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardakiler de dahil olmak üzere çok çeşitli Twitch videolarının indirilmesini destekler. ",
+          "question": "İndirilebilecek Twitch videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız HD (yüksek tanımlı) Twitch videolarının indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla HD Twitch videolarını indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Herhangi bir zorlukla karşılaşırsanız sorun giderme ipuçları için lütfen web sitesindeki SSS bölümümüze bakın. ",
+          "question": "Aracınızı kullanırken herhangi bir sorunla karşılaşırsam ne yapmalıyım?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Twitch videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": " Aracınızı kullanarak Twitch videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Twitch platformundaki değişikliklere uyum sağlamak için aracımızı düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız Twitch'teki değişikliklerle uyumluluğun sağlanması için ne sıklıkta güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Twitch videosu nasıl indirilir"
+    },
+    "download-video-twitter": {
+      "title": "Videoyu İndir Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitter videolarını indirin ,Twitter video indiricisi ,Twitter videolarını kaydedin ,Twitter'dan nasıl video indirilir ,Çevrimiçi Twitter video indirme ,Ücretsiz Twitter video indirme ,Twitter video koruyucu ,Twitter'ı filigran olmadan indirin ,Twitter video yakalayıcı ,Twitter'dan MP4'e indirme",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını Twitter'a yapıştırın",
+        "arialLabel": "Video bağlantılarını Twitter'a yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu Twitter makarası düğmesini indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "Twitter video bağlantısını kopyalayıp aracımıza yapıştırmanız yeterlidir. ",
+          "question": "Twitter videolarını indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Twitter'ın hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Twitter videolarını indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil kullanım için optimize edilmiştir ve kullanıcıların Twitter videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Twitter videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formattakiler de dahil olmak üzere çok çeşitli Twitter videolarının indirilmesini destekler. ",
+          "question": "İndirilebilecek Twitter videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız HD (yüksek tanımlı) Twitter videolarının indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla HD Twitter videolarını indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Herhangi bir zorlukla karşılaşırsanız sorun giderme ipuçları için lütfen web sitesindeki SSS bölümümüze bakın. ",
+          "question": "Aracınızı kullanırken herhangi bir sorunla karşılaşırsam ne yapmalıyım?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Twitter videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": " Aracınızı kullanarak Twitter videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Aracımızı Twitter platformundaki değişikliklere uyum sağlayacak şekilde düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız Twitter'daki değişikliklerle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Twitter'dan video nasıl indirilir"
+    },
+    "download-video-tiktok": {
+      "title": "Video Tiktok'u İndirin",
+      "datePublished": "2021-10-01",
+      "keywords": "TikTok videolarını indirin ,TikTok video indiricisi ,TikTok videolarını kaydedin ,TikTok'tan video nasıl indirilir ,TikTok çevrimiçi video indir ,Ücretsiz TikTok video indirme ,TikTok video koruyucu ,TikTok'u filigran olmadan indirin ,TikTok video yakalayıcı ,TikTok'u MP4'e indirin",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını tiktok'a yapıştırın",
+        "arialLabel": "Video bağlantılarını tiktok'a yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu tiktok reel düğmesini indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "TikTok video bağlantısını kopyalayıp aracımıza yapıştırmanız yeterlidir. ",
+          "question": "Aracınızı TikTok videolarını indirmek için nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız TikTok'un hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak TikTok videolarını indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil kullanım için optimize edilmiştir ve kullanıcıların TikTok videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak TikTok videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardaki videolar da dahil olmak üzere çok çeşitli TikTok videolarının indirilmesini destekler. ",
+          "question": "İndirilebilecek TikTok videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız HD (yüksek tanımlı) TikTok videolarının indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla HD TikTok videolarını indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Herhangi bir zorlukla karşılaşırsanız sorun giderme ipuçları için lütfen web sitesindeki SSS bölümümüze bakın. ",
+          "question": "Aracınızı kullanırken herhangi bir sorunla karşılaşırsam ne yapmalıyım?"
+        },
+        "7": {
+          "answer": "Evet, aracımız, TikTok videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": " Aracınızı kullanarak TikTok videolarını çevrimdışı görüntülemek için indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Aracımızı, TikTok platformundaki değişikliklere uyum sağlayacak şekilde düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız TikTok'taki değişikliklerle uyumluluğu sağlamak için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Tiktok videosu nasıl indirilir"
+    },
+    "download-video-instagram": {
+      "title": "Instagram Videosunu İndir",
+      "datePublished": "2021-10-01",
+      "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını instagram makarasına yapıştırın",
+        "arialLabel": "Video bağlantılarını instagram makarasına yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu instagram reel butonunu indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "İnstagram video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size rehberlik edecektir. ",
+          "question": "Instagram'dan video indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız instagramın hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak instagram'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların instagram videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardakiler de dahil olmak üzere çok çeşitli Instagram videolarının indirilmesini destekler. ",
+          "question": " İndirilebilecek instagram videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız instagramdan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla instagramdan HD videolar indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Instagram videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız, çevrimdışı görüntüleme için instagram videolarını indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Aracımızı instagram platformundaki değişikliklere uyum sağlayacak şekilde düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız instagramdaki değişikliklerle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "instagramdan video nasıl indirilir"
+    },
+    "download-instagram-reel": {
+      "title": "Instagram Reel'ı İndirin",
+      "datePublished": "2021-10-01",
+      "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını instagram makarasına yapıştırın",
+        "arialLabel": "Video bağlantılarını instagram makarasına yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu instagram reel butonunu indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "İnstagram video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size rehberlik edecektir. ",
+          "question": "Instagram'dan video indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız instagramın hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak instagram'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların instagram videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardakiler de dahil olmak üzere çok çeşitli Instagram videolarının indirilmesini destekler. ",
+          "question": " İndirilebilecek instagram videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız instagramdan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla instagramdan HD videolar indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Instagram videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız, çevrimdışı görüntüleme için instagram videolarını indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Aracımızı instagram platformundaki değişikliklere uyum sağlayacak şekilde düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız instagramdaki değişikliklerle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Instagram videosunu mp4'e nasıl indirebilirim?"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Instagram videosunu mp4'e indirin",
+      "datePublished": "2021-10-01",
+      "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını instagram makarasına yapıştırın",
+        "arialLabel": "Video bağlantılarını instagram makarasına yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu instagram reel butonunu indirin"
+      },
+      "faq": {
+        "1": {
+          "answer": "İnstagram video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size rehberlik edecektir. ",
+          "question": "Instagram'dan video indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız instagramın hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak instagram'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların instagram videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formatlardakiler de dahil olmak üzere çok çeşitli Instagram videolarının indirilmesini destekler. ",
+          "question": " İndirilebilecek instagram videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız instagramdan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla instagramdan HD videolar indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Instagram videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız, çevrimdışı görüntüleme için instagram videolarını indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak instagram videolarını çevrimdışı görüntülemek üzere indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Aracımızı instagram platformundaki değişikliklere uyum sağlayacak şekilde düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız instagramdaki değişikliklerle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Instagram'dan mp4'e video nasıl indirilir"
+    },
+    "download-facebook-reel": {
+      "title": "Facebook Reel'ı indirin",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook Reel'i indirin,Facebook Reel indiricisi,Facebook Reel videosunu kaydedin,Facebook'ta Reels nasıl indirilir,Facebook Reel çevrimiçi indir,Ücretsiz Facebook Reel indir,Facebook Reel video koruyucu,Facebook'tan Reel indirme,Facebook Reel video yakalayıcı,Facebook Reel çevrimdışı indirme",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını facebook reel'e yapıştırın",
+        "arialLabel": "Video bağlantılarını facebook reel'e yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin facebook reel düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "Facebook video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size yol gösterecektir. ",
+          "question": "Facebook'tan video indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Facebook'un hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Facebook'tan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların Facebook videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Facebook videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formattakiler de dahil olmak üzere çok çeşitli Facebook videolarının indirilmesini destekler. ",
+          "question": " İndirilebilecek Facebook videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız Facebook'tan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla Facebook'tan HD videolar indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Facebook videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Facebook videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak Facebook videolarını çevrimdışı görüntülemek için indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Facebook platformundaki değişikliklere uyum sağlamak için aracımızı düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız, Facebook'un değişiklikleriyle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Facebook'tan mp4'e video nasıl indirilir"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook'tan MP4'ye Dönüştürücü",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook'tan MP4'e dönüştürücü, Facebook'u MP4'e dönüştürün, Facebook videosunu MP4'e dönüştürün, Facebook MP4 indirin, Çevrimiçi Facebook'tan MP4'e, Ücretsiz Facebook'tan MP4'e, Facebook video dönüştürücü, Facebook videosunu MP4 olarak kaydedin, Facebook'u MP4'e indirin, Facebook MP4 çevrimiçi dönüştürücü",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını facebook'a yapıştırın",
+        "arialLabel": "Video bağlantılarını facebook'a yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin facebook düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "Facebook Reel video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size yol gösterecektir. ",
+          "question": "Facebook Reels'i indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Facebook'un hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Facebook Reels'i indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların Facebook videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Facebook Reels'i mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formattakiler de dahil olmak üzere çok çeşitli Facebook videolarının indirilmesini destekler. ",
+          "question": "İndirilebilecek Facebook Reels'in uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız Facebook'tan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla HD Facebook Reels'i indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Facebook videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Facebook videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak çevrimdışı görüntülemek için Facebook Reels'i indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Facebook platformundaki değişikliklere uyum sağlamak için aracımızı düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız, Facebook'un değişiklikleriyle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Facebook'tan mp4'e video nasıl indirilir"
+    },
+    "download-video-facebook": {
+      "title": "Videoyu İndir Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook videolarını indirin ,Facebook video indiricisi ,Facebook videolarını kaydedin ,Facebook'tan nasıl video indirilir ,Çevrimiçi Facebook video indirme ,Ücretsiz Facebook video indirme ,Facebook video koruyucu ,Özel Facebook videolarını indirin ,HD Facebook video indirme ,Facebook'tan MP4'e indirme, video indirme ",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını facebook'a yapıştırın",
+        "arialLabel": "Video bağlantılarını facebook'a yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin facebook düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "Facebook video URL'sini aracımıza yapıştırmanız yeterlidir; indirme işlemi boyunca size yol gösterecektir. ",
+          "question": "Facebook'tan video indirmek için aracınızı nasıl kullanırım?"
+        },
+        "2": {
+          "answer": "Aracımız Facebook'un hizmet şartlarına uyacak şekilde tasarlanmıştır. ",
+          "question": "Aracınızı kullanarak Facebook'tan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, aracımız mobil uyumludur ve kullanıcıların Facebook videolarını akıllı telefonlar ve tabletler dahil çeşitli cihazlara indirmelerine olanak tanır.",
+          "question": "Aracınızı kullanarak Facebook videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "Aracımız, farklı uzunluk ve formattakiler de dahil olmak üzere çok çeşitli Facebook videolarının indirilmesini destekler. ",
+          "question": " İndirilebilecek Facebook videolarının uzunluğu veya türü konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "Evet, aracımız Facebook'tan HD (yüksek tanımlı) videoların indirilmesini destekleyerek kullanıcılara daha yüksek kaliteli içeriğin keyfini çıkarma seçeneği sunar.",
+          "question": "Aracınızla Facebook'tan HD videolar indirmek mümkün mü?"
+        },
+        "6": {
+          "answer": "Güvenliği ciddiye alıyoruz. ",
+          "question": "Facebook videolarını indirmek için aracınızı kullanmanın herhangi bir riski var mı?"
+        },
+        "7": {
+          "answer": "Evet, aracımız Facebook videolarını çevrimdışı görüntüleme için indirme seçeneği sunarak kullanıcıların internet bağlantısı olmasa bile içeriğin keyfini çıkarmasına olanak tanır.",
+          "question": "Aracınızı kullanarak Facebook videolarını çevrimdışı görüntülemek için indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Facebook platformundaki değişikliklere uyum sağlamak için aracımızı düzenli olarak güncelleyerek sürekli uyumluluk ve kusursuz bir kullanıcı deneyimi sağlıyoruz.",
+          "question": "Aracınız, Facebook'un değişiklikleriyle uyumluluğun sağlanması için ne sıklıkla güncelleniyor?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Facebook'tan video nasıl indirilir"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video İndirici",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube video indirme, YouTube videolarını indirme, YouTube indirici, YouTube videolarını kaydetme, YouTube'dan video indirme, Çevrimiçi YouTube video indirme, YouTube'dan HD videolar indirme, YouTube video koruyucu, YouTube video yakalayıcı, Ücretsiz YouTube video indirme",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Youtube video bağlantılarını yapıştırın",
+        "arialLabel": "Youtube video bağlantılarını yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin youtube düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube videolarını indirmek için tasarlanmış bu çevrimiçi araçları veya yazılımı kullanabilirsiniz. ",
+          "question": "YouTube videolarını nasıl indiririm?"
+        },
+        "2": {
+          "answer": "YouTube videolarını izinsiz indirmek YouTube'un hizmet şartlarını ihlal edebilir. ",
+          "question": "YouTube'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, çeşitli çevrimiçi hizmetler YouTube video indirme olanağı sunar. ",
+          "question": "YouTube videolarını indirmek için çevrimiçi hizmetler var mı?"
+        },
+        "4": {
+          "answer": "Evet, YouTube videolarını çevrimdışı görüntülemek üzere doğrudan mobil cihazınıza indirmenize olanak tanıyan mobil uygulamalar ve web siteleri vardır.",
+          "question": "YouTube videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "5": {
+          "answer": "Yaygın olarak desteklenen formatlar arasında MP bulunur",
+          "question": "İndirilen YouTube videoları için hangi video formatları destekleniyor?"
+        },
+        "6": {
+          "answer": "Evet, indirip kullanmadan önce içerik oluşturucudan izin almanız veya videonun lisans bilgilerini kontrol etmeniz önerilir.",
+          "question": "YouTube videolarını indirmek ve kullanmak için izne ihtiyacım var mı?"
+        },
+        "7": {
+          "answer": "YouTube'un hizmet şartları, videoların izinsiz indirilmesini yasaklar. ",
+          "question": "YouTube içeriğini indirme konusunda herhangi bir kısıtlama var mı?"
+        },
+        "8": {
+          "answer": "Evet, YouTube, uygulamaları aracılığıyla videoları çevrimdışı görüntülemek üzere indirmenin yasal bir yolunu sunuyor. ",
+          "question": "Çevrimdışı görüntüleme için YouTube videolarını indirebilir miyim?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Youtube videosunu çevrimiçi olarak nasıl indirebilirim?"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube'dan MP3'e Dönüştürücü",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube'dan MP3'e ,YouTube'u MP3'e dönüştürün ,YouTube MP3 dönüştürücü ,YouTube ses indirme ,YouTube'dan MP3'e çevrimiçi ,Ücretsiz YouTube'dan MP3'e ,YouTube'dan MP3'e çevrimiçi dönüştürücü ,YouTube videosunu MP3'e dönüştürün ,YouTube ses dönüştürücü ,YouTube sesini indirin",
+      "description": "Youtube to MP3 Converter, internetten sınırsız video indirmeye olanak tanıyan hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Youtube video bağlantılarını yapıştırın",
+        "arialLabel": "Youtube video bağlantılarını yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin youtube mp3 düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube videolarını indirmek için tasarlanmış bu çevrimiçi araçları veya yazılımı kullanabilirsiniz. ",
+          "question": "YouTube videolarını nasıl indiririm?"
+        },
+        "2": {
+          "answer": "YouTube videolarını izinsiz indirmek YouTube'un hizmet şartlarını ihlal edebilir. ",
+          "question": "YouTube'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, çeşitli çevrimiçi hizmetler YouTube video indirme olanağı sunar. ",
+          "question": "YouTube videolarını indirmek için çevrimiçi hizmetler var mı?"
+        },
+        "4": {
+          "answer": "Evet, YouTube videolarını çevrimdışı görüntülemek üzere doğrudan mobil cihazınıza indirmenize olanak tanıyan mobil uygulamalar ve web siteleri vardır.",
+          "question": "YouTube videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "5": {
+          "answer": "Yaygın olarak desteklenen formatlar arasında MP bulunur",
+          "question": "İndirilen YouTube videoları için hangi video formatları destekleniyor?"
+        },
+        "6": {
+          "answer": "Evet, indirip kullanmadan önce içerik oluşturucudan izin almanız veya videonun lisans bilgilerini kontrol etmeniz önerilir.",
+          "question": "YouTube videolarını indirmek ve kullanmak için izne ihtiyacım var mı?"
+        },
+        "7": {
+          "answer": "YouTube'un hizmet şartları, videoların izinsiz indirilmesini yasaklar. ",
+          "question": "YouTube içeriğini indirme konusunda herhangi bir kısıtlama var mı?"
+        },
+        "8": {
+          "answer": "Evet, YouTube, uygulamaları aracılığıyla videoları çevrimdışı görüntülemek üzere indirmenin yasal bir yolunu sunuyor. ",
+          "question": "Çevrimdışı görüntüleme için YouTube videolarını indirebilir miyim?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Youtube'u MP3'e nasıl indirebilirim?"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube'dan MP4'e Dönüştürücü",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube'dan MP4'e ,YouTube'u MP4'e dönüştürün ,YouTube MP4 dönüştürücü ,YouTube ses indirme ,YouTube'dan MP4'e çevrimiçi ,Ücretsiz YouTube'dan MP4'e ,YouTube'dan MP4'e çevrimiçi dönüştürücü ,YouTube videosunu MP4'e dönüştürün ,YouTube ses dönüştürücü ,YouTube sesini indirin",
+      "description": "Youtube to MP4 Converter, internetten sınırsız video indirmeye olanak tanıyan hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Youtube video bağlantılarını yapıştırın",
+        "arialLabel": "Youtube video bağlantılarını yapıştırın",
+        "btnArialLabel": "Herhangi bir videoyu indirin youtube MP4 düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube videolarını indirmek için tasarlanmış bu çevrimiçi araçları veya yazılımı kullanabilirsiniz. ",
+          "question": "YouTube videolarını nasıl indiririm?"
+        },
+        "2": {
+          "answer": "YouTube videolarını izinsiz indirmek YouTube'un hizmet şartlarını ihlal edebilir. ",
+          "question": "YouTube'dan video indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, çeşitli çevrimiçi hizmetler YouTube video indirme olanağı sunar. ",
+          "question": "YouTube videolarını indirmek için çevrimiçi hizmetler var mı?"
+        },
+        "4": {
+          "answer": "Evet, YouTube videolarını çevrimdışı görüntülemek üzere doğrudan mobil cihazınıza indirmenize olanak tanıyan mobil uygulamalar ve web siteleri vardır.",
+          "question": "YouTube videolarını mobil cihazlara indirebilir miyim?"
+        },
+        "5": {
+          "answer": "Yaygın olarak desteklenen formatlar arasında MP bulunur",
+          "question": "İndirilen YouTube videoları için hangi video formatları destekleniyor?"
+        },
+        "6": {
+          "answer": "Evet, indirip kullanmadan önce içerik oluşturucudan izin almanız veya videonun lisans bilgilerini kontrol etmeniz önerilir.",
+          "question": "YouTube videolarını indirmek ve kullanmak için izne ihtiyacım var mı?"
+        },
+        "7": {
+          "answer": "YouTube'un hizmet şartları, videoların izinsiz indirilmesini yasaklar. ",
+          "question": "YouTube içeriğini indirme konusunda herhangi bir kısıtlama var mı?"
+        },
+        "8": {
+          "answer": "Evet, YouTube, uygulamaları aracılığıyla videoları çevrimdışı görüntülemek üzere indirmenin yasal bir yolunu sunuyor. ",
+          "question": "Çevrimdışı görüntüleme için YouTube videolarını indirebilir miyim?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Youtube'u MP4'e nasıl indirebilirim?"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts İndiricisi",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube Shorts'u indirin ,YouTube Shorts'u indirin ,YouTube Shorts'u kaydedin ,YouTube'dan Shorts indirin ,YouTube kısa video indirme ,YouTube Shorts nasıl kaydedilir ,YouTube'da Shorts indirin ,YouTube Shorts indiricisi ,YouTube Shorts çevrimdışı indirme ,YouTube Shorts'u ücretsiz indirin",
+      "description": "Youtube Shorts Downloader, internetten sınırsız video indirmeye olanak tanıyan hızlı ve güvenli bir yazılımdır. ",
+      "form": {
+        "placeholder": "Video bağlantılarını yapıştırın Youtube Kısa",
+        "arialLabel": "Video bağlantılarını yapıştırın Youtube Kısa",
+        "btnArialLabel": "Herhangi bir videoyu indirin youtube kısa düğmesi"
+      },
+      "faq": {
+        "1": {
+          "answer": "Ocak 2022'deki son güncellemem itibarıyla, YouTube Shorts öncelikli olarak kısa süreli mobil görüntülemeye yöneliktir ve doğrudan indirme seçeneği bulunmayabilir. ",
+          "question": "YouTube Shorts'u nasıl indirebilirim?"
+        },
+        "2": {
+          "answer": "YouTube Shorts'un uygun yetkilendirme olmadan indirilmesi YouTube'un hizmet şartlarını ihlal edebilir. ",
+          "question": "YouTube Shorts'u indirmek yasal mı?"
+        },
+        "3": {
+          "answer": "Evet, çeşitli çevrimiçi hizmetler YouTube video indirme olanağı sunar. ",
+          "question": "YouTube Shorts'u mobil cihazlara indirebilir miyim?"
+        },
+        "4": {
+          "answer": "YouTube'un hizmet şartları genellikle içeriğin izinsiz indirilmesini yasaklar. ",
+          "question": "YouTube Shorts'u indirme konusunda herhangi bir kısıtlama var mı?"
+        },
+        "5": {
+          "answer": "YouTube, kısa videoların çeşitli platformlarda paylaşılması için uygulama içinde seçenekler sunar. ",
+          "question": "YouTube Shorts'u yasal olarak nasıl kaydedebilir veya paylaşabilirim?"
+        },
+        "6": {
+          "answer": "YouTube Shorts genellikle çevrimiçi görüntüleme için tasarlanmıştır. ",
+          "question": "Çevrimdışı görüntülemek için YouTube Shorts'u indirebilir miyim?"
+        },
+        "7": {
+          "answer": "YouTube'un hizmet şartları, videoların izinsiz indirilmesini yasaklar. ",
+          "question": "YouTube içeriğini indirme konusunda herhangi bir kısıtlama var mı?"
+        },
+        "8": {
+          "answer": "YouTube Shorts veya özellikleriyle ilgili sorunlarla karşılaşırsanız sorunları bildirme konusunda rehberlik almak için YouTube destek ekibiyle iletişime geçin veya Yardım Merkezine bakın.",
+          "question": "YouTube Shorts veya indirme özellikleriyle ilgili sorunları nasıl bildirebilirim?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Youtube Shorts nasıl indirilir"
+    },
+    "download-from-tiktok": {
+      "title": "tiktok videosunu indir"
+    },
+    "download-from-twitter": {
+      "title": "twitter videolarını indir"
+    },
+    "general": {
+      "title": "Videoyu Çevrimiçi İndirin",
+      "keywords": "Video İndir YouTube, Video İndir Instagram, Video İndir facebook, Video İndir TikTok, Video İndir Twitch, Video İndir Twitter, Video İndir Pinterest, Sosyal Medya Videolarını İndir, Çevrimiçi Video İndir, Ücretsiz Video İndir",
+      "datePublished": "2021-10-01",
+      "description": "Video İndir Çevrimiçi, internetten sınırsız video indirmeye izin veren hızlı ve güvenli bir yazılımdır. ",
+      "faq": {
+        "1": {
+          "answer": "Evet, bu web sitesi ücretsizdir. ",
+          "question": "Bu web sitesi ücretsiz mi?"
+        },
+        "2": {
+          "answer": "Hayır, hikayelerin indirilmesi desteklenmiyor.",
+          "question": "Hikayeleri indirebilir miyim?"
+        },
+        "3": {
+          "answer": "Hayır, yalnızca video indirme hizmeti veriyoruz.",
+          "question": "Resimleri nereden indirebilirim?"
+        },
+        "4": {
+          "answer": "Evet, bu web sitesi güvenlidir. ",
+          "question": "Bu web sitesi güvenli mi?"
+        },
+        "5": {
+          "answer": "Evet, web sitesini cep telefonunuzdan veya tabletinizden kullanabilirsiniz.",
+          "question": "Web sitesini cep telefonumdan kullanabilir miyim?"
+        },
+        "6": {
+          "answer": "İndirmek istediğiniz video mevcut değilse lütfen daha sonra tekrar deneyin.",
+          "question": "İndirmek istediğim video mevcut değilse ne olur?"
+        },
+        "7": {
+          "answer": "Hayır, özel hesaplardan video indiremezsiniz.",
+          "question": "Özel hesaplardan video indirebilir miyim?"
+        },
+        "8": {
+          "answer": "Videoları indirmek için en iyi format MP4'tür. ",
+          "question": "Videoları indirmek için en iyi format hangisidir?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Bu videoyu indirerek şunları kabul etmiş olursunuz:",
+      "#2": "Filigran yok",
+      "#3": "HD kalitesi",
+      "#4": "Hızlı indirme",
+      "#5": "Kolayca düzenlenebilir",
+      "#6": "Herhangi bir format",
+      "#7": "{name} videoları nasıl indirilir:",
+      "#8": "Herhangi bir videonun URL'sini yapıştırın",
+      "#9": "Sağlanan alana herhangi bir video URL'sini yapıştırın ve İndir'e basın. ",
+      "#10": "Düzenle veya indir",
+      "#11": "Eksiksiz video düzenleme araçlarımızı kullanarak videonuzu düzenleme seçeneğiniz vardır. ",
+      "#12": "Araç indirme videosunu çevrimiçi paylaşın",
+      "#13": "Videonuzu dışa aktarın ve paylaşın!",
+      "#14": "Çevrimiçi Videoyu Anında İndirin",
+      "#15": "Videoyu Çevrimiçi İndirin Video klipleri şuradan indirebilirsiniz:",
+      "#16": "sadece tek bir tıklamayla! ",
+      "#17": "Çevrimiçi Videoyu İndir, doğrudan Mobil veya Masaüstü Tarayıcınızdan veya Mobil Uygulamanızdan çalışır. ",
+      "#18": "Videoyu çevrimiçi indirin ve filigranı kaldırın",
+      "#19": "Download Video Online, filigran içermeyen içerikleri indirmenize olanak tanır, böylece bunları istediğiniz yerde yeniden tasarlayabilir ve paylaşabilirsiniz. ",
+      "#20": "Videonuza anında seslendirme ekleyin",
+      "#21": "Seslendirme eklemek için zamanınız veya kaynağınız yoksa Download Video Online metinden konuşmaya yazılımını kullanabilirsiniz!  ",
+      "#22": "Birkaç tıklamayla profesyonel görünümlü videolar oluşturun",
+      "#23": "Eğer bir yayıncıysanız muhtemelen sürdürmeniz gereken başka sosyal medya kanallarınız da vardır.  ",
+      "#24": "Sık Sorulan Sorular (SSS",
+      "#25": "Uygulamayla indirin",
+      "#26": "Artık video indirme için bir uygulama sunuyoruz. ",
+      "#27": "googleplay uygulamasının URL'si",
+      "#28": "elma uygulamasının URL'si",
+      "btnText": "İndirmek",
+      "btnLoadingText": "Getiriliyor"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Gizlilik Politikası",
+      "#1": "giriiş",
+      "#2": "Bu Gizlilik Politikası, kullanıcılara web sitesinin ({website_url}) herhangi bir kişisel bilgiyi toplamadığını, saklamadığını veya işlemediğini bildirir. ",
+      "#3": "Web Sitesi veya Hizmet herhangi bir kişisel bilgi toplamasa veya saklamasa da, bu Politikanın yasal gerekliliklere uygun olarak sağlandığını lütfen unutmayın.",
+      "#4": "Üçüncü Taraf Reklamcılığı ve Analizi",
+      "#5": "Web Sitesinde reklam sunmak için Google AdSense gibi üçüncü taraf reklam hizmetlerini kullanıyoruz. ",
+      "#6": "adresini ziyaret ederek kişiselleştirilmiş reklamlardan vazgeçebilirsiniz.",
+      "#7": "Reklam Ayarları",
+      "#8": "veya ziyaret ederek",
+      "#9": "Gizlilik Politikasındaki Değişiklikler",
+      "#10": "Güncellenmiş Politikayı Web Sitesinde yayınlayarak Politikanın herhangi bir bölümünü herhangi bir zamanda güncelleme, değiştirme veya değiştirme hakkını saklı tutuyoruz. ",
+      "#11": "İletişim bilgileri",
+      "#12": "Bu Politikayla ilgili herhangi bir sorunuz veya endişeniz varsa lütfen şu adresten Web Sitesi sahibiyle iletişime geçin:",
+      "#13": "Gizlilik Politikasının Kabulü",
+      "#14": "Web Sitesine veya Hizmete erişerek veya bunları kullanarak, bu Politikanın hüküm ve koşullarını okuduğunuzu, anladığınızı ve bunlara bağlı kalmayı kabul ettiğinizi onaylamış olursunuz."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Kullanım Şartları"
+    },
+    "dcma": {
+      "title": "Telif Hakkı (DMCA)",
+      "#1": "{name}, tüm eserlerin telif haklarına saygı duyar ve kullanıcıların başkalarının videolarını, telif hakkı koruma şartlar ve koşullarına aykırı herhangi bir amaçla kullanmasına izin vermez. ",
+      "#2": "{name}, Dijital Binyıl Telif Hakkı Yasası'na (DMCA) uygundur ve uygun şekilde bildirildiğinde İçeriğin erişimini derhal askıya alır.",
+      "#3": "{name} adına bir telif hakkı ihlali bildiriminde bulunmak için, Dijital Binyıl Telif Hakkı Yasası'nın 512(c)(3) Bölümünde belirtilen ve gerekli olan bilgileri büyük ölçüde içeren bir mesajı bize posta yoluyla göndermeniz gerekecektir.",
+      "#4": "Gerekli Bilgi:",
+      "#5": "1. Kendinizi aşağıdakilerden biri olarak tanımlayın: a) Telif hakkıyla korunan eserin/çalışmaların sahibi b) 'İhlal edildiği iddia edilen münhasır hakkın sahibi adına hareket etme yetkisine sahip' bir kişi. ",
+      "#6": "2. İhlal edildiği iddia edilen telif hakkıyla korunan çalışmayı tanımlayın.",
+      "#7": "3. İhlalde bulunduğu veya ihlal faaliyetine konu olduğu iddia edilen ve askıya alınacak veya erişimi devre dışı bırakılacak İçeriğin yanı sıra youtube4kdownloader'ın İçeriği bulmasına izin verecek makul ölçüde yeterli bilgiyi tanımlayın. ",
+      "#8": "4. Adres, telefon numarası ve geçerli bir e-posta adresi gibi sizinle iletişim kurmamıza izin verecek makul ölçüde yeterli iletişim bilgilerini sağlayın.",
+      "#9": "5. İçeriğin şikayet edilen şekilde kullanılmasına telif hakkı sahibi, temsilcileri veya yasalar tarafından izin verilmediğine iyi niyetle inandığınızı belirtin.",
+      "#10": "6. Bildirimdeki bilgilerin doğru olduğunu ve yalan beyanda bulunma cezası kapsamında şikayette bulunan tarafın, ihlal edildiği iddia edilen münhasır hakkın sahibi adına hareket etme yetkisine sahip olduğunu belirtin.",
+      "#11": "Geçerli bir bildirimin alınması üzerine, yasaların gerektirdiği şekilde, web sitemizdeki telif hakkı içeriğine erişimi askıya alacağız.",
+      "#12": "Herhangi bir sorunuz varsa lütfen bizimle iletişime geçin:",
+      "#13": "bu form"
+    },
+    "thankyou": {
+      "title": "Download Video Online'ı yüklediğiniz için teşekkür ederiz!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Video İndirme API'si",
+      "#1": "{website_url} API'si, en popüler web sitelerinden ve sosyal medya platformlarından medya dosyalarını almak için kolay ve kullanışlı bir yöntem sağlar. ",
+      "#2": "Erişim sağlamak veya daha fazla bilgi edinmek için lütfen bizimle şu adresten iletişime geçin: "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Bize Ulaşın",
+      "#1": "Hizmetlerimize ilişkin herhangi bir sorunuz, şikayetiniz veya talebiniz varsa lütfen bize şu adrese bir mesaj gönderin:",
+      "#2": "Geri bildirim",
+      "#3": "E-posta",
+      "#4": "İleti",
+      "#5": "Göndermek",
+      "#6": "E-posta başarıyla gönderildi !"
+    }
+  }
+}

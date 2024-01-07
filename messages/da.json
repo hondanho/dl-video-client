@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Skift sprog",
+    "locale": "{locale, select, de {tysk} en {engelsk} anden {Ukendt}}"
+  },
+  "Metadata": {
+    "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+    "keywords": "Download videoer YouTube, download video Instagram, download video facebook, download videoer TikTok, download videoer Twitch, download videoer Twitter, download videoer Pinterest, download sociale medie videoer, download online videoer, download videoer gratis",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Download video online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Indsæt videolinkene til Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Indsæt videolinkene til Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Download en hvilken som helst videoknap",
+      "btnText": "Hent",
+      "btnLoadingText": "Henter"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube downloader",
+    "#2": "Youtube video downloader",
+    "#3": "Youtube til MP3 konverter",
+    "#4": "Youtube til MP4 konverter",
+    "#5": "Youtube Shorts Downloader",
+    "#6": "Facebook Downloader",
+    "#7": "Download video facebook",
+    "#8": "Konverter fra Facebook til MP4",
+    "#9": "Download Facebook Reel",
+    "#10": "Instagram downloader",
+    "#11": "Download video Instagram",
+    "#12": "Download Instagram Reel",
+    "#13": "Instagram til mp4 konverter",
+    "#14": "Anden downloader",
+    "#15": "Download video TikTok",
+    "#16": "Download video på Twitter",
+    "#17": "Download video Twitch",
+    "#18": "Download video Twitch klip",
+    "#20": "gyldige",
+    "#21": "Fortrolighedspolitik",
+    "#22": "Servicevilkår",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blog",
+    "#26": "Kom med os!",
+    "#27": "Abonner",
+    "#28": "Alle rettigheder forbeholdes."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Download video Twitch klip",
+      "datePublished": "2021-10-01",
+      "keywords": "Download Twitch-klip ,Twitch-klipdownloader ,Gem Twitch-klip ,Sådan downloader du klip fra Twitch ,Twitch-klip download online ,Gratis download af Twitch-klip ,Twitch-klipsparer ,Download Twitch-klip uden vandmærke ,Twitch-klip-grabber til MP4",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Twitch Clip",
+        "arialLabel": "Indsæt videolinkene Twitch Clip",
+        "btnArialLabel": "Download en hvilken som helst video Twitch Clip-knap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du skal blot kopiere Twitch-videolinket og indsætte det i vores værktøj. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade Twitch-videoer?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Twitchs servicevilkår. ",
+          "question": "Er det lovligt at downloade Twitch-videoer ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er optimeret til mobilbrug, hvilket giver brugerne mulighed for at downloade Twitch-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Twitch-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Twitch-videoer, inklusive dem af forskellig længde og format. ",
+          "question": "Er der nogen begrænsninger på længden eller typen af ​​Twitch-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) Twitch-videoer, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD Twitch-videoer med dit værktøj?"
+        },
+        "6": {
+          "answer": "Hvis du oplever problemer, bedes du tjekke vores ofte stillede spørgsmål på webstedet for fejlfindingstip. ",
+          "question": "Hvad skal jeg gøre, hvis jeg støder på problemer, mens jeg bruger dit værktøj?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Twitch-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": " Kan jeg downloade Twitch-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer regelmæssigt vores værktøj for at tilpasse os eventuelle ændringer i Twitchs platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Twitchs ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader video Twitch klip"
+    },
+    "download-video-twitch": {
+      "title": "Download video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Download Twitch-videoer ,Twitch-videodownloader ,Gem Twitch-videoer ,Sådan downloader du videoer fra Twitch ,Twitch klipdownload ,Gratis Twitch videodownload ,Twitch VOD downloader ,Download Twitch højdepunkter ,Twitch videograbber ,Twitch til MP4 download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Twitch",
+        "arialLabel": "Indsæt videolinkene Twitch",
+        "btnArialLabel": "Download en hvilken som helst video Twitch-hjulsknap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du skal blot kopiere Twitch-videolinket og indsætte det i vores værktøj. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade Twitch-videoer?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Twitchs servicevilkår. ",
+          "question": "Er det lovligt at downloade Twitch-videoer ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er optimeret til mobilbrug, hvilket giver brugerne mulighed for at downloade Twitch-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Twitch-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Twitch-videoer, inklusive dem af forskellig længde og format. ",
+          "question": "Er der nogen begrænsninger på længden eller typen af ​​Twitch-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) Twitch-videoer, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD Twitch-videoer med dit værktøj?"
+        },
+        "6": {
+          "answer": "Hvis du oplever problemer, bedes du tjekke vores ofte stillede spørgsmål på webstedet for fejlfindingstip. ",
+          "question": "Hvad skal jeg gøre, hvis jeg støder på problemer, mens jeg bruger dit værktøj?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Twitch-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": " Kan jeg downloade Twitch-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer regelmæssigt vores værktøj for at tilpasse os eventuelle ændringer i Twitchs platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Twitchs ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Download video på Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Download Twitter-videoer ,Twitter-videodownloader ,Gem Twitter-videoer ,Sådan downloader du videoer fra Twitter ,Twitter-videodownload online ,Gratis Twitter-videodownload ,Twitter-videosparer ,Download Twitter uden vandmærke ,Twitter-videograbber ,Twitter til MP4-download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Twitter",
+        "arialLabel": "Indsæt videolinkene Twitter",
+        "btnArialLabel": "Download en hvilken som helst video Twitter-hjulsknap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du skal blot kopiere Twitter-videolinket og indsætte det i vores værktøj. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade Twitter-videoer?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Twitters servicevilkår. ",
+          "question": "Er det lovligt at downloade Twitter-videoer ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er optimeret til mobilbrug, hvilket giver brugerne mulighed for at downloade Twitter-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Twitter-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Twitter-videoer, inklusive dem af forskellig længde og format. ",
+          "question": "Er der nogen begrænsninger på længden eller typen af ​​Twitter-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) Twitter-videoer, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD Twitter-videoer med dit værktøj?"
+        },
+        "6": {
+          "answer": "Hvis du oplever problemer, bedes du tjekke vores ofte stillede spørgsmål på webstedet for fejlfindingstip. ",
+          "question": "Hvad skal jeg gøre, hvis jeg støder på problemer, mens jeg bruger dit værktøj?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Twitter-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": " Kan jeg downloade Twitter-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer regelmæssigt vores værktøj for at tilpasse os eventuelle ændringer i Twitters platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Twitters ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader videoer på Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Download video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Download TikTok-videoer, TikTok-videodownloader, Gem TikTok-videoer, Sådan downloader du videoer fra TikTok, TikTok-videodownload online, Gratis TikTok-videodownload, TikTok-videosparer, Download TikTok uden vandmærke, TikTok-videograbber til MP4 download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks tiktok",
+        "arialLabel": "Indsæt videolinks tiktok",
+        "btnArialLabel": "Download en hvilken som helst video tiktok hjulknap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du skal blot kopiere TikTok-videolinket og indsætte det i vores værktøj. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade TikTok-videoer?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere TikToks servicevilkår. ",
+          "question": "Er det lovligt at downloade TikTok-videoer ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er optimeret til mobilbrug, hvilket giver brugerne mulighed for at downloade TikTok-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade TikTok-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en lang række TikTok-videoer, inklusive dem af forskellig længde og format. ",
+          "question": "Er der nogen begrænsninger for længden eller typen af ​​TikTok-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) TikTok-videoer, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD TikTok-videoer med dit værktøj?"
+        },
+        "6": {
+          "answer": "Hvis du oplever problemer, bedes du tjekke vores ofte stillede spørgsmål på webstedet for fejlfindingstip. ",
+          "question": "Hvad skal jeg gøre, hvis jeg støder på problemer, mens jeg bruger dit værktøj?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade TikTok-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": " Kan jeg downloade TikTok-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer regelmæssigt vores værktøj for at tilpasse os eventuelle ændringer i TikToks platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med TikToks ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Download video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks instagram hjul",
+        "arialLabel": "Indsæt videolinks instagram hjul",
+        "btnArialLabel": "Download en hvilken som helst videoknap på instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot instagram-videoens URL i vores værktøj, og det vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade videoer fra instagram?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere servicevilkårene for instagram. ",
+          "question": "Er det lovligt at downloade videoer fra instagram ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade instagram-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade instagram-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af instagram-videoer, inklusive dem af forskellig længde og format. ",
+          "question": " Er der nogen begrænsninger på længden eller typen af ​​instagram-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra instagram, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD-videoer fra instagram med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade instagram-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade instagram-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade instagram-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i instagrams platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte opdateres dit værktøj for at sikre kompatibilitet med instagrams ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader video instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Download Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks instagram hjul",
+        "arialLabel": "Indsæt videolinks instagram hjul",
+        "btnArialLabel": "Download en hvilken som helst videoknap på instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot instagram-videoens URL i vores værktøj, og det vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade videoer fra instagram?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere servicevilkårene for instagram. ",
+          "question": "Er det lovligt at downloade videoer fra instagram ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade instagram-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade instagram-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af instagram-videoer, inklusive dem af forskellig længde og format. ",
+          "question": " Er der nogen begrænsninger på længden eller typen af ​​instagram-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra instagram, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD-videoer fra instagram med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade instagram-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade instagram-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade instagram-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i instagrams platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte opdateres dit værktøj for at sikre kompatibilitet med instagrams ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader instagram video til mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Download video instagram til mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks instagram hjul",
+        "arialLabel": "Indsæt videolinks instagram hjul",
+        "btnArialLabel": "Download en hvilken som helst videoknap på instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot instagram-videoens URL i vores værktøj, og det vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade videoer fra instagram?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere servicevilkårene for instagram. ",
+          "question": "Er det lovligt at downloade videoer fra instagram ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade instagram-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade instagram-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af instagram-videoer, inklusive dem af forskellig længde og format. ",
+          "question": " Er der nogen begrænsninger på længden eller typen af ​​instagram-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra instagram, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD-videoer fra instagram med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade instagram-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade instagram-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade instagram-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i instagrams platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte opdateres dit værktøj for at sikre kompatibilitet med instagrams ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader video instagram til mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Download Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Download Facebook Reel ,Facebook Reel downloader ,Gem Facebook Reel video ,Sådan downloader du Reels på Facebook ,Facebook Reel download online ,Gratis Facebook Reel download ,Facebook Reel video saver ,Download Reels fra Facebook ,Facebook Reel videograbber ,Facebook Reel offline download",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks facebook hjul",
+        "arialLabel": "Indsæt videolinks facebook hjul",
+        "btnArialLabel": "Download en hvilken som helst videoknap på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot Facebook-video-URL'en i vores værktøj, og den vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade videoer fra Facebook?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Facebooks servicevilkår. ",
+          "question": "Er det lovligt at downloade videoer fra Facebook ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade Facebook-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Facebook-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Facebook-videoer, inklusive dem af forskellig længde og format. ",
+          "question": " Er der nogen begrænsninger på længden eller typen af ​​Facebook-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra Facebook, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD-videoer fra Facebook med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade Facebook-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Facebook-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade Facebook-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i Facebooks platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Facebooks ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader facebook video til mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Konverter fra Facebook til MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook til MP4 konverter , Konverter Facebook til MP4 , Facebook video til MP4 , Facebook MP4 download , Online Facebook til MP4 , Gratis Facebook til MP4 , Facebook video konverter , Gem Facebook video som MP4 , Download Facebook i MP4 , Facebook MP4 online konverter",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks facebook",
+        "arialLabel": "Indsæt videolinks facebook",
+        "btnArialLabel": "Download en hvilken som helst videoknap på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot Facebook Reel-video-URL'en i vores værktøj, og den vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade Facebook Reels?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Facebooks servicevilkår. ",
+          "question": "Er det lovligt at downloade Facebook Reels ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade Facebook-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Facebook Reels på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Facebook-videoer, inklusive dem af forskellig længde og format. ",
+          "question": "Er der nogen begrænsninger på længden eller typen af ​​Facebook-ruller, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra Facebook, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD Facebook Reels med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade Facebook-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Facebook-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade Facebook Reels til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i Facebooks platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Facebooks ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader facebook video til mp4"
+    },
+    "download-video-facebook": {
+      "title": "Download video på Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Download Facebook-videoer ,Facebook-videodownloader ,Gem Facebook-videoer ,Sådan downloader du videoer fra Facebook ,Facebook-videodownload online ,Gratis Facebook-videodownload ,Facebook-videosparer ,Download private Facebook-videoer ,HD Facebook-videodownload ,Facebook til MP4 download, download video ",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinks facebook",
+        "arialLabel": "Indsæt videolinks facebook",
+        "btnArialLabel": "Download en hvilken som helst videoknap på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Indsæt blot Facebook-video-URL'en i vores værktøj, og den vil guide dig gennem downloadprocessen. ",
+          "question": "Hvordan bruger jeg dit værktøj til at downloade videoer fra Facebook?"
+        },
+        "2": {
+          "answer": "Vores værktøj er designet til at respektere Facebooks servicevilkår. ",
+          "question": "Er det lovligt at downloade videoer fra Facebook ved hjælp af dit værktøj?"
+        },
+        "3": {
+          "answer": "Ja, vores værktøj er mobilvenligt, hvilket giver brugerne mulighed for at downloade Facebook-videoer på forskellige enheder, herunder smartphones og tablets.",
+          "question": "Kan jeg downloade Facebook-videoer på mobile enheder ved hjælp af dit værktøj?"
+        },
+        "4": {
+          "answer": "Vores værktøj understøtter download af en bred vifte af Facebook-videoer, inklusive dem af forskellig længde og format. ",
+          "question": " Er der nogen begrænsninger på længden eller typen af ​​Facebook-videoer, der kan downloades?"
+        },
+        "5": {
+          "answer": "Ja, vores værktøj understøtter download af HD (high-definition) videoer fra Facebook, hvilket giver brugerne mulighed for at nyde indhold af højere kvalitet.",
+          "question": "Er det muligt at downloade HD-videoer fra Facebook med dit værktøj?"
+        },
+        "6": {
+          "answer": "Vi tager sikkerhed alvorligt. ",
+          "question": "Er der nogen risici forbundet med at bruge dit værktøj til at downloade Facebook-videoer?"
+        },
+        "7": {
+          "answer": "Ja, vores værktøj giver mulighed for at downloade Facebook-videoer til offlinevisning, hvilket giver brugerne mulighed for at nyde indhold selv uden internetforbindelse.",
+          "question": "Kan jeg downloade Facebook-videoer til offlinevisning ved hjælp af dit værktøj?"
+        },
+        "8": {
+          "answer": "Vi opdaterer løbende vores værktøj for at tilpasse os eventuelle ændringer i Facebooks platform, hvilket sikrer fortsat kompatibilitet og en problemfri brugeroplevelse.",
+          "question": "Hvor ofte bliver dit værktøj opdateret for at sikre kompatibilitet med Facebooks ændringer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader videoer på facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube video downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube-videodownload, Download YouTube-videoer, YouTube-downloader, Gem YouTube-videoer, Sådan downloader du videoer fra YouTube, YouTube-videodownload online, Download HD-videoer fra YouTube, YouTube-videosparer, YouTube-videograbber, Gratis YouTube-videodownload",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Youtube",
+        "arialLabel": "Indsæt videolinkene Youtube",
+        "btnArialLabel": "Download en hvilken som helst video-youtube-knap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan bruge disse onlineværktøjer eller software designet til at downloade YouTube-videoer. ",
+          "question": "Hvordan downloader jeg YouTube-videoer?"
+        },
+        "2": {
+          "answer": "At downloade YouTube-videoer uden tilladelse kan være i modstrid med YouTubes servicevilkår. ",
+          "question": "Er det lovligt at downloade videoer fra YouTube?"
+        },
+        "3": {
+          "answer": "Ja, forskellige onlinetjenester tilbyder YouTube-videodownloads. ",
+          "question": "Er der onlinetjenester til at downloade YouTube-videoer?"
+        },
+        "4": {
+          "answer": "Ja, der er mobilapps og websteder, der giver dig mulighed for at downloade YouTube-videoer direkte til din mobilenhed til offlinevisning.",
+          "question": "Kan jeg downloade YouTube-videoer på mobile enheder?"
+        },
+        "5": {
+          "answer": "Almindeligt understøttede formater inkluderer MP",
+          "question": "Hvilke videoformater understøttes for downloadede YouTube-videoer?"
+        },
+        "6": {
+          "answer": "Ja, det anbefales at indhente tilladelse fra indholdsskaberen eller kontrollere videoens licensoplysninger, før du downloader og bruger den.",
+          "question": "Skal jeg have tilladelse til at downloade og bruge YouTube-videoer?"
+        },
+        "7": {
+          "answer": "YouTubes servicevilkår forbyder uautoriseret download af videoer. ",
+          "question": "Er der nogen begrænsninger for at downloade YouTube-indhold?"
+        },
+        "8": {
+          "answer": "Ja, YouTube tilbyder en lovlig måde at downloade videoer til offlinevisning via deres app. ",
+          "question": "Kan jeg downloade YouTube-videoer til offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader youtube video online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube til MP3 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube til MP3, Konverter YouTube til MP3, YouTube MP3-konverter, YouTube-lyddownload, YouTube til MP3 online, Gratis YouTube til MP3, YouTube til MP3-konverter online, Konverter YouTube-video til MP3, YouTube-lydkonverter, Download YouTube-lyd",
+      "description": "Youtube til MP3 Converter er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Youtube",
+        "arialLabel": "Indsæt videolinkene Youtube",
+        "btnArialLabel": "Download enhver video youtube mp3-knap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan bruge disse onlineværktøjer eller software designet til at downloade YouTube-videoer. ",
+          "question": "Hvordan downloader jeg YouTube-videoer?"
+        },
+        "2": {
+          "answer": "At downloade YouTube-videoer uden tilladelse kan være i modstrid med YouTubes servicevilkår. ",
+          "question": "Er det lovligt at downloade videoer fra YouTube?"
+        },
+        "3": {
+          "answer": "Ja, forskellige onlinetjenester tilbyder YouTube-videodownloads. ",
+          "question": "Er der onlinetjenester til at downloade YouTube-videoer?"
+        },
+        "4": {
+          "answer": "Ja, der er mobilapps og websteder, der giver dig mulighed for at downloade YouTube-videoer direkte til din mobilenhed til offlinevisning.",
+          "question": "Kan jeg downloade YouTube-videoer på mobile enheder?"
+        },
+        "5": {
+          "answer": "Almindeligt understøttede formater inkluderer MP",
+          "question": "Hvilke videoformater understøttes for downloadede YouTube-videoer?"
+        },
+        "6": {
+          "answer": "Ja, det anbefales at indhente tilladelse fra indholdsskaberen eller kontrollere videoens licensoplysninger, før du downloader og bruger den.",
+          "question": "Skal jeg have tilladelse til at downloade og bruge YouTube-videoer?"
+        },
+        "7": {
+          "answer": "YouTubes servicevilkår forbyder uautoriseret download af videoer. ",
+          "question": "Er der nogen begrænsninger for at downloade YouTube-indhold?"
+        },
+        "8": {
+          "answer": "Ja, YouTube tilbyder en lovlig måde at downloade videoer til offlinevisning via deres app. ",
+          "question": "Kan jeg downloade YouTube-videoer til offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader YouTube til MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube til MP4 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube til MP4, Konverter YouTube til MP4, YouTube MP4-konverter, YouTube-lyddownload, YouTube til MP4 online, Gratis YouTube til MP4, YouTube til MP4-konverter online, Konverter YouTube-video til MP4, YouTube-lydkonverter, Download YouTube-lyd",
+      "description": "Youtube til MP4 Converter er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Youtube",
+        "arialLabel": "Indsæt videolinkene Youtube",
+        "btnArialLabel": "Download en hvilken som helst video youtube MP4-knap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan bruge disse onlineværktøjer eller software designet til at downloade YouTube-videoer. ",
+          "question": "Hvordan downloader jeg YouTube-videoer?"
+        },
+        "2": {
+          "answer": "At downloade YouTube-videoer uden tilladelse kan være i modstrid med YouTubes servicevilkår. ",
+          "question": "Er det lovligt at downloade videoer fra YouTube?"
+        },
+        "3": {
+          "answer": "Ja, forskellige onlinetjenester tilbyder YouTube-videodownloads. ",
+          "question": "Er der onlinetjenester til at downloade YouTube-videoer?"
+        },
+        "4": {
+          "answer": "Ja, der er mobilapps og websteder, der giver dig mulighed for at downloade YouTube-videoer direkte til din mobilenhed til offlinevisning.",
+          "question": "Kan jeg downloade YouTube-videoer på mobile enheder?"
+        },
+        "5": {
+          "answer": "Almindeligt understøttede formater inkluderer MP",
+          "question": "Hvilke videoformater understøttes for downloadede YouTube-videoer?"
+        },
+        "6": {
+          "answer": "Ja, det anbefales at indhente tilladelse fra indholdsskaberen eller kontrollere videoens licensoplysninger, før du downloader og bruger den.",
+          "question": "Skal jeg have tilladelse til at downloade og bruge YouTube-videoer?"
+        },
+        "7": {
+          "answer": "YouTubes servicevilkår forbyder uautoriseret download af videoer. ",
+          "question": "Er der nogen begrænsninger for at downloade YouTube-indhold?"
+        },
+        "8": {
+          "answer": "Ja, YouTube tilbyder en lovlig måde at downloade videoer til offlinevisning via deres app. ",
+          "question": "Kan jeg downloade YouTube-videoer til offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvordan man downloader YouTube til MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Download YouTube Shorts ,YouTube Shorts download ,Gem YouTube Shorts ,Download Shorts fra YouTube ,YouTube korte videodownload ,Sådan gemmer du YouTube Shorts ,Download Shorts på YouTube ,YouTube Shorts downloader ,YouTube Shorts offline download ,Gratis download YouTube Shorts",
+      "description": "Youtube Shorts Downloader er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "form": {
+        "placeholder": "Indsæt videolinkene Youtube Short",
+        "arialLabel": "Indsæt videolinkene Youtube Short",
+        "btnArialLabel": "Download enhver video youtube kort knap"
+      },
+      "faq": {
+        "1": {
+          "answer": "Fra min sidste opdatering i januar 2022 er YouTube Shorts primært beregnet til mobilvisning i kort form og har muligvis ikke en mulighed for direkte download. ",
+          "question": "Hvordan downloader jeg YouTube Shorts?"
+        },
+        "2": {
+          "answer": "At downloade YouTube Shorts uden behørig tilladelse kan være i strid med YouTubes servicevilkår. ",
+          "question": "Er det lovligt at downloade YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Ja, forskellige onlinetjenester tilbyder YouTube-videodownloads. ",
+          "question": "Kan jeg downloade YouTube Shorts på mobilenheder?"
+        },
+        "4": {
+          "answer": "YouTubes servicevilkår forbyder generelt uautoriseret download af indhold. ",
+          "question": "Er der nogen begrænsninger for at downloade YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube giver muligheder i appen for at dele Shorts på forskellige platforme. ",
+          "question": "Hvordan kan jeg lovligt gemme eller dele YouTube Shorts?"
+        },
+        "6": {
+          "answer": "YouTube Shorts er typisk designet til onlinevisning. ",
+          "question": "Kan jeg downloade YouTube Shorts til offlinevisning?"
+        },
+        "7": {
+          "answer": "YouTubes servicevilkår forbyder uautoriseret download af videoer. ",
+          "question": "Er der nogen begrænsninger for at downloade YouTube-indhold?"
+        },
+        "8": {
+          "answer": "Hvis du støder på problemer med YouTube Shorts eller dets funktioner, skal du kontakte YouTube-support eller tjekke deres Hjælp for at få vejledning om rapportering af problemer.",
+          "question": "Hvordan kan jeg rapportere problemer med YouTube Shorts eller dets downloadfunktioner?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Sådan downloader du YouTube-shorts"
+    },
+    "download-from-tiktok": {
+      "title": "Download video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "download twitter videoer"
+    },
+    "general": {
+      "title": "Download video online",
+      "keywords": "Download videoer YouTube, download video Instagram, download video facebook, download videoer TikTok, download videoer Twitch, download videoer Twitter, download videoer Pinterest, download sociale medie videoer, download online videoer, download videoer gratis",
+      "datePublished": "2021-10-01",
+      "description": "Download video online er en hurtig og sikker software, der tillader ubegrænsede videodownloads fra internettet. ",
+      "faq": {
+        "1": {
+          "answer": "Ja, denne hjemmeside er gratis. ",
+          "question": "Er denne hjemmeside gratis?"
+        },
+        "2": {
+          "answer": "Nej, download af historier understøttes ikke.",
+          "question": "Kan jeg downloade historier?"
+        },
+        "3": {
+          "answer": "Nej, vi leverer kun tjenesten med at downloade videoer.",
+          "question": "Kan jeg downloade billeder fra?"
+        },
+        "4": {
+          "answer": "Ja, denne hjemmeside er sikker. ",
+          "question": "Er denne hjemmeside sikker?"
+        },
+        "5": {
+          "answer": "Ja, du kan bruge hjemmesiden fra din mobil eller tablet.",
+          "question": "Kan jeg bruge hjemmesiden fra min mobil?"
+        },
+        "6": {
+          "answer": "Hvis den video, du vil downloade, ikke er tilgængelig, prøv venligst igen senere.",
+          "question": "Hvad hvis den video, jeg vil downloade, ikke er tilgængelig?"
+        },
+        "7": {
+          "answer": "Nej, du kan ikke downloade videoer fra private konti.",
+          "question": "Kan jeg downloade videoer fra private konti?"
+        },
+        "8": {
+          "answer": "Det bedste format at downloade videoer i er MP4. ",
+          "question": "Hvad er det bedste format at downloade videoer i?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Ved at downloade denne video accepterer du",
+      "#2": "Intet vandmærke",
+      "#3": "HD kvalitet",
+      "#4": "Hurtig download",
+      "#5": "Let redigerbar",
+      "#6": "Ethvert format",
+      "#7": "Sådan downloader du videoer {name}:",
+      "#8": "Indsæt en hvilken som helst video-URL",
+      "#9": "Indsæt en hvilken som helst video-URL i det angivne felt, og tryk på Download. ",
+      "#10": "Rediger eller download",
+      "#11": "Du har mulighed for at redigere din video ved hjælp af vores komplette suite af videoredigeringsværktøjer. ",
+      "#12": "Del værktøj download video online",
+      "#13": "Eksporter din video og del!",
+      "#14": "Øjeblikkelig download video online",
+      "#15": "Download video online Du kan downloade videoklip fra",
+      "#16": "med et enkelt klik! ",
+      "#17": "Download video online virker direkte fra din mobil- eller desktopbrowser eller mobilapp. ",
+      "#18": "Download video online og fjern vandmærket",
+      "#19": "Download video online giver dig mulighed for at downloade indhold uden vandmærker, så du kan genbruge og dele dem hvor som helst. ",
+      "#20": "Tilføj voice overs til din video med det samme",
+      "#21": "Hvis du ikke har tid eller ressourcer til at tilføje voiceovers, kan du bruge Download Video Online tekst-til-tale-software!  ",
+      "#22": "Opret professionelt udseende videoer med få klik",
+      "#23": "Hvis du er en streamer, er der stor sandsynlighed for, at du også har andre sociale mediekanaler at vedligeholde.  ",
+      "#24": "Ofte stillede spørgsmål - FAQ",
+      "#25": "Download med app",
+      "#26": "Vi leverer nu en app til videodownload. ",
+      "#27": "googleplay app url",
+      "#28": "app url",
+      "btnText": "Hent",
+      "btnLoadingText": "Henter"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Fortrolighedspolitik",
+      "#1": "Introduktion",
+      "#2": "Denne privatlivspolitik informerer brugerne om, at webstedet ({website_url}) ikke indsamler, opbevarer eller behandler nogen personlige oplysninger. ",
+      "#3": "Bemærk venligst, at denne politik leveres i overensstemmelse med lovkrav, selvom webstedet eller tjenesten ikke indsamler eller opbevarer nogen personlige oplysninger.",
+      "#4": "Tredjepartsannoncering og analyse",
+      "#5": "Vi bruger tredjeparts annonceringstjenester, såsom Google AdSense, til at vise annoncer på webstedet. ",
+      "#6": "Du kan fravælge personlig annoncering ved at besøge",
+      "#7": "Annonceindstillinger",
+      "#8": "eller ved at besøge",
+      "#9": "Ændringer i privatlivspolitikken",
+      "#10": "Vi forbeholder os retten til at opdatere, ændre eller erstatte enhver del af politikken til enhver tid ved at offentliggøre den opdaterede politik på webstedet. ",
+      "#11": "Kontakt information",
+      "#12": "Hvis du har spørgsmål eller bekymringer vedrørende denne politik, bedes du kontakte webstedets ejer på",
+      "#13": "Accept af privatlivspolitik",
+      "#14": "Ved at tilgå eller bruge webstedet eller tjenesten anerkender du, at du har læst, forstået og accepterer at være bundet af vilkårene og betingelserne i denne politik."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Servicevilkår"
+    },
+    "dcma": {
+      "title": "Copyright (DMCA)",
+      "#1": "{name} respekterer ophavsretten til alle værker og tillader ikke brugere at bruge andres videoer til noget, der er i strid med vilkårene og betingelserne for ophavsretsbeskyttelse. ",
+      "#2": "{name} overholder Digital Millennium Copyright Act (DMCA) og suspenderer øjeblikkeligt indhold fra adgang, når det er korrekt underrettet.",
+      "#3": "For at indsende en underretning om krænkelse af ophavsretten til {name}, skal du bruge e-mail og sende os en meddelelse, der i det væsentlige indeholder de oplysninger, der kræves af og er angivet i Section 512(c)(3) i Digital Millennium Copyright Act.",
+      "#4": "Nødvendig information:",
+      "#5": "1. Identificer dig selv som enten: a) Ejeren af ​​et eller flere ophavsretligt beskyttede værker b) En person \"autoriseret til at handle på vegne af ejeren af ​​en eksklusiv rettighed, der angiveligt er krænket.\" ",
+      "#6": "2. Identificer det ophavsretligt beskyttede værk, der hævdes at være blevet krænket.",
+      "#7": "3. Identificer det Indhold, der hævdes at være krænkende eller at være genstand for den krænkende aktivitet, og som skal suspenderes eller adgang til, som skal deaktiveres, samt oplysninger, der er rimeligt tilstrækkelige til at tillade youtube4kdownloader at lokalisere Indholdet. ",
+      "#8": "4. Angiv kontaktoplysninger, der med rimelighed er tilstrækkelige til, at vi kan kontakte dig, såsom en adresse, et telefonnummer og en gyldig e-mailadresse.",
+      "#9": "5. Angiv, at du i god tro mener, at brug af indholdet på den måde, der klages over, ikke er godkendt af ejeren af ​​ophavsretten, dennes agenter eller loven.",
+      "#10": "6. Angiv, at oplysningerne i meddelelsen er nøjagtige, og under straf for mened er den klagende part bemyndiget til at handle på vegne af ejeren af ​​en eksklusiv rettighed, der angiveligt er krænket.",
+      "#11": "Efter modtagelse af gyldig meddelelse, som krævet ved lov, vil vi suspendere adgangen til ophavsretligt beskyttet indhold fra vores hjemmeside.",
+      "#12": "Hvis du har spørgsmål, bedes du kontakte os på",
+      "#13": "denne form"
+    },
+    "thankyou": {
+      "title": "Tak, fordi du installerede Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Video download API",
+      "#1": "{website_url} API'en giver en nem og bekvem metode til at hente mediefiler fra de mest populære websteder og sociale medieplatforme. ",
+      "#2": "For at få adgang eller få flere oplysninger, bedes du kontakte os på "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontakt os",
+      "#1": "Hvis du har spørgsmål, klager eller krav med hensyn til vores tjenester, bedes du sende os en besked til",
+      "#2": "Feedback",
+      "#3": "E-mail",
+      "#4": "Besked",
+      "#5": "Indsend",
+      "#6": "E-mail sendt med succes!"
+    }
+  }
+}

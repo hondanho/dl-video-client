@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Verander taal",
+    "locale": "{locale, select, de {German} en {Engels} ander {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+    "keywords": "Laai video's YouTube af, Laai Video Instagram af, Laai Video af Facebook af, Laai Video's TikTok af, Laai Video's Twitch af, Laai Video Twitter af, Laai Video's af Pinterest, Laai Sosiale Media-video's af, Laai aanlynvideo's af, Laai video's gratis af",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Laai video aanlyn af"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Plak die videoskakels vir Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "arialLabel": "Plak die videoskakels vir Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "btnArialLabel": "Laai enige videoknoppie af",
+      "btnText": "Aflaai",
+      "btnLoadingText": "Gaan haal"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube-aflaaier",
+    "#2": "YouTube-video-aflaaier",
+    "#3": "Youtube na MP3-omskakelaar",
+    "#4": "Youtube na MP4-omskakelaar",
+    "#5": "YouTube-kortbroek-aflaaier",
+    "#6": "Facebook-aflaaier",
+    "#7": "Laai video Facebook af",
+    "#8": "Facebook na MP4-omskakelaar",
+    "#9": "Laai Facebook Reel af",
+    "#10": "Instagram-aflaaier",
+    "#11": "Laai video Instagram af",
+    "#12": "Laai Instagram Reel af",
+    "#13": "Instagram na mp4-omskakelaar",
+    "#14": "Ander aflaaier",
+    "#15": "Laai video TikTok af",
+    "#16": "Laai Video Twitter af",
+    "#17": "Laai Video Twitch af",
+    "#18": "Laai Video Twitch Clip af",
+    "#20": "Wettig",
+    "#21": "Privaatheidsbeleid",
+    "#22": "Diensbepalings",
+    "#23": "DCMA",
+    "#24": "Kontak",
+    "#25": "Blog",
+    "#26": "Sluit by ons aan!",
+    "#27": "Teken in",
+    "#28": "Alle regte voorbehou."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Laai Video Twitch Clip af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Twitch snitte af ,Twitch clip downloader ,Stoor Twitch clips ,Hoe om snitte van Twitch af te laai ,Twitch clip aflaai aanlyn af ,Gratis Twitch clip aflaai ,Twitch clip saver ,Laai Twitch clips af sonder watermerk af ,Twitch clip aflaai clip ,T4wit",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die videoskakels Twitch Clip",
+        "arialLabel": "Plak die videoskakels Twitch Clip",
+        "btnArialLabel": "Laai enige video Twitch Clip-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieer eenvoudig die Twitch-videoskakel en plak dit in ons instrument. ",
+          "question": "Hoe gebruik ek jou instrument om Twitch-video's af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om Twitch se diensbepalings te respekteer. ",
+          "question": "Is dit wettig om Twitch-video's af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is geoptimaliseer vir mobiele gebruik, sodat gebruikers Twitch-video's op verskeie toestelle, insluitend slimfone en tablette, kan aflaai.",
+          "question": "Kan ek Twitch-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Twitch-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": "Is daar enige beperkings op die lengte of tipe Twitch-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) Twitch-video's, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD Twitch-video's af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "As jy enige probleme ondervind, kyk asseblief na ons FAQs-afdeling op die webwerf vir wenke vir probleemoplossing. ",
+          "question": "Wat moet ek doen as ek enige probleme ondervind tydens die gebruik van jou instrument?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Twitch-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": " Kan ek Twitch-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Twitch se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitch se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video Twitch Clip af te laai"
+    },
+    "download-video-twitch": {
+      "title": "Laai Video Twitch af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Twitch-video's af, Twitch-video-aflaaier, Stoor Twitch-video's, Hoe om video's van Twitch af te laai, Twitch-snit aflaai, Gratis Twitch-video-aflaai, Twitch VOD-aflaaier, Laai Twitch-hoogtepunte af, Twitch-videogryper, Twitch na MP4-aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die videoskakels Twitch",
+        "arialLabel": "Plak die videoskakels Twitch",
+        "btnArialLabel": "Laai enige video Twitch-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieer eenvoudig die Twitch-videoskakel en plak dit in ons instrument. ",
+          "question": "Hoe gebruik ek jou instrument om Twitch-video's af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om Twitch se diensbepalings te respekteer. ",
+          "question": "Is dit wettig om Twitch-video's af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is geoptimaliseer vir mobiele gebruik, sodat gebruikers Twitch-video's op verskeie toestelle, insluitend slimfone en tablette, kan aflaai.",
+          "question": "Kan ek Twitch-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Twitch-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": "Is daar enige beperkings op die lengte of tipe Twitch-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) Twitch-video's, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD Twitch-video's af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "As jy enige probleme ondervind, kyk asseblief na ons FAQs-afdeling op die webwerf vir wenke vir probleemoplossing. ",
+          "question": "Wat moet ek doen as ek enige probleme ondervind tydens die gebruik van jou instrument?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Twitch-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": " Kan ek Twitch-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Twitch se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitch se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video Twitch af te laai"
+    },
+    "download-video-twitter": {
+      "title": "Laai Video Twitter af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Twitter-video's af, Twitter-video-aflaaier, Stoor Twitter-video's, Hoe om video's van Twitter af te laai, Twitter-video's aanlyn af te laai, Gratis Twitter-video-aflaai, Twitter-videobespaarder, Laai Twitter sonder watermerk af, Twitter-videogryper, Twitter na MP4-aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels Twitter",
+        "arialLabel": "Plak die video skakels Twitter",
+        "btnArialLabel": "Laai enige video Twitter-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieer eenvoudig die Twitter-videoskakel en plak dit in ons instrument. ",
+          "question": "Hoe gebruik ek jou instrument om Twitter-video's af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om Twitter se diensbepalings te respekteer. ",
+          "question": "Is dit wettig om Twitter-video's af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is geoptimaliseer vir mobiele gebruik, sodat gebruikers Twitter-video's op verskeie toestelle, insluitend slimfone en tablette, kan aflaai.",
+          "question": "Kan ek Twitter-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Twitter-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": "Is daar enige beperkings op die lengte of tipe Twitter-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) Twitter-video's, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD Twitter-video's af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "As jy enige probleme ondervind, kyk asseblief na ons FAQs-afdeling op die webwerf vir wenke vir probleemoplossing. ",
+          "question": "Wat moet ek doen as ek enige probleme ondervind tydens die gebruik van jou instrument?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Twitter-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": " Kan ek Twitter-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Twitter se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitter se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video's op Twitter af te laai"
+    },
+    "download-video-tiktok": {
+      "title": "Laai Video Tiktok af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai TikTok-video's af, TikTok-video-aflaaier, Stoor TikTok-video's, Hoe om video's van TikTok af te laai, TikTok-video-aflaai aanlyn, Gratis TikTok-video-aflaai, TikTok-videobespaarder, Laai TikTok af sonder watermerk, TikTok-videogryper na MP4, TikTok",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels tiktok",
+        "arialLabel": "Plak die video skakels tiktok",
+        "btnArialLabel": "Laai enige video-tiktok-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopieer eenvoudig die TikTok-videoskakel en plak dit in ons instrument. ",
+          "question": "Hoe gebruik ek jou instrument om TikTok-video's af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om TikTok se diensbepalings te respekteer. ",
+          "question": "Is dit wettig om TikTok-video's af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is geoptimaliseer vir mobiele gebruik, sodat gebruikers TikTok-video's op verskeie toestelle kan aflaai, insluitend slimfone en tablette.",
+          "question": "Kan ek TikTok-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks TikTok-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": "Is daar enige beperkings op die lengte of tipe TikTok-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoë-definisie) TikTok-video's, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD TikTok-video's af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "As jy enige probleme ondervind, kyk asseblief na ons FAQs-afdeling op die webwerf vir wenke vir probleemoplossing. ",
+          "question": "Wat moet ek doen as ek enige probleme ondervind tydens die gebruik van jou instrument?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om TikTok-video's af te laai om vanlyn te kyk, wat gebruikers toelaat om inhoud te geniet selfs sonder 'n internetverbinding.",
+          "question": " Kan ek TikTok-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in TikTok se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word u instrument opgedateer om versoenbaarheid met TikTok se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video tiktok af te laai"
+    },
+    "download-video-instagram": {
+      "title": "Laai video Instagram af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels instagram reel",
+        "arialLabel": "Plak die video skakels instagram reel",
+        "btnArialLabel": "Laai enige video-instagram-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Instagram-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om video's van Instagram af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Instagram te respekteer. ",
+          "question": "Is dit wettig om video's van Instagram af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Instagram-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Instagram-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Instagram-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": " Is daar enige beperkings op die lengte of tipe Instagram-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Instagram, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD-video's van Instagram af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Instagram-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Instagram-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Instagram-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Instagram se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Instagram se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video instagram af te laai"
+    },
+    "download-instagram-reel": {
+      "title": "Laai Instagram Reel af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels instagram reel",
+        "arialLabel": "Plak die video skakels instagram reel",
+        "btnArialLabel": "Laai enige video-instagram-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Instagram-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om video's van Instagram af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Instagram te respekteer. ",
+          "question": "Is dit wettig om video's van Instagram af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Instagram-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Instagram-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Instagram-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": " Is daar enige beperkings op die lengte of tipe Instagram-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Instagram, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD-video's van Instagram af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Instagram-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Instagram-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Instagram-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Instagram se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Instagram se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om Instagram-video na mp4 af te laai"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Laai video instagram af na mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels instagram reel",
+        "arialLabel": "Plak die video skakels instagram reel",
+        "btnArialLabel": "Laai enige video-instagram-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Instagram-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om video's van Instagram af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Instagram te respekteer. ",
+          "question": "Is dit wettig om video's van Instagram af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Instagram-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Instagram-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Instagram-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": " Is daar enige beperkings op die lengte of tipe Instagram-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Instagram, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD-video's van Instagram af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Instagram-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Instagram-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Instagram-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Instagram se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Instagram se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video instagram na mp4 af te laai"
+    },
+    "download-facebook-reel": {
+      "title": "Laai Facebook Reel af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Facebook Reel af , Facebook Reel aflaaier , Stoor Facebook Reel video , Hoe om rolle af te laai op Facebook , Facebook Reel laai aanlyn af , Gratis Facebook Reel aflaai , Facebook Reel videobespaarder , Laai rolle van Facebook af , Facebook Reel video gryper , Facebook Reel vanlyn aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels facebook reel",
+        "arialLabel": "Plak die video skakels facebook reel",
+        "btnArialLabel": "Laai enige video Facebook-rolknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Facebook-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om video's van Facebook af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Facebook te respekteer. ",
+          "question": "Is dit wettig om video's van Facebook af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Facebook-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Facebook-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Facebook-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": " Is daar enige beperkings op die lengte of tipe Facebook-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Facebook, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD-video's van Facebook af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Facebook-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Facebook-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Facebook-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Facebook se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Facebook se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om Facebook-video na mp4 af te laai"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook na MP4-omskakelaar",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook na MP4-omskakelaar, Skakel Facebook na MP4 om, Facebook-video na MP4, Facebook MP4-aflaai, Aanlyn Facebook na MP4, Gratis Facebook na MP4, Facebook-video-omskakelaar, Stoor Facebook-video as MP4, Laai Facebook af in MP4, Facebook MP4 aanlyn-omskakelaar",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels facebook",
+        "arialLabel": "Plak die video skakels facebook",
+        "btnArialLabel": "Laai enige video Facebook-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Facebook Reel-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om Facebook Reels af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Facebook te respekteer. ",
+          "question": "Is dit wettig om Facebook Reels af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Facebook-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Facebook Reels op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Facebook-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": "Is daar enige beperkings op die lengte of tipe Facebook-rolletjies wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Facebook, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD Facebook Reels af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Facebook-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Facebook-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Facebook Reels aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Facebook se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Facebook se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om Facebook-video na mp4 af te laai"
+    },
+    "download-video-facebook": {
+      "title": "Laai video Facebook af",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai Facebook-video's af, Facebook-video-aflaaier, Stoor Facebook-video's, Hoe om video's van Facebook af te laai, Facebook-video's aanlyn af te laai, Gratis Facebook-video-aflaai, Facebook-videobespaarder, Laai privaat Facebook-video's af, HD Facebook-video-aflaai, Facebook-aflaai na MP4, laai video af ",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels facebook",
+        "arialLabel": "Plak die video skakels facebook",
+        "btnArialLabel": "Laai enige video Facebook-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Plak eenvoudig die Facebook-video-URL in ons instrument, en dit sal jou deur die aflaaiproses lei. ",
+          "question": "Hoe gebruik ek jou instrument om video's van Facebook af te laai?"
+        },
+        "2": {
+          "answer": "Ons instrument is ontwerp om die diensbepalings van Facebook te respekteer. ",
+          "question": "Is dit wettig om video's van Facebook af te laai met jou instrument?"
+        },
+        "3": {
+          "answer": "Ja, ons instrument is selfoonvriendelik, wat gebruikers in staat stel om Facebook-video's op verskeie toestelle af te laai, insluitend slimfone en tablette.",
+          "question": "Kan ek Facebook-video's op mobiele toestelle aflaai met jou instrument?"
+        },
+        "4": {
+          "answer": "Ons instrument ondersteun die aflaai van 'n wye reeks Facebook-video's, insluitend dié van verskillende lengtes en formate. ",
+          "question": " Is daar enige beperkings op die lengte of tipe Facebook-video's wat afgelaai kan word?"
+        },
+        "5": {
+          "answer": "Ja, ons instrument ondersteun die aflaai van HD (hoëdefinisie) video's vanaf Facebook, wat gebruikers die opsie bied om inhoud van hoër gehalte te geniet.",
+          "question": "Is dit moontlik om HD-video's van Facebook af te laai met jou instrument?"
+        },
+        "6": {
+          "answer": "Ons neem sekuriteit ernstig op. ",
+          "question": "Is daar enige risiko's verbonde aan die gebruik van jou instrument om Facebook-video's af te laai?"
+        },
+        "7": {
+          "answer": "Ja, ons instrument bied 'n opsie om Facebook-video's af te laai om vanlyn te kyk, wat gebruikers in staat stel om inhoud selfs sonder 'n internetverbinding te geniet.",
+          "question": "Kan ek Facebook-video's aflaai om vanlyn te kyk met jou instrument?"
+        },
+        "8": {
+          "answer": "Ons werk gereeld ons instrument op om aan te pas by enige veranderinge in Facebook se platform, wat volgehoue ​​versoenbaarheid en 'n naatlose gebruikerservaring verseker.",
+          "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Facebook se veranderinge te verseker?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om video's op Facebook af te laai"
+    },
+    "youtube-video-downloader": {
+      "title": "YouTube-video-aflaaier",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube-video aflaai, YouTube-video's aflaai, YouTube-aflaaier, stoor YouTube-video's, Hoe om video's van YouTube af te laai, YouTube-video aanlyn aflaai, HD-video's van YouTube aflaai, YouTube-videobespaarder, YouTube-videogryper, Gratis YouTube-video-aflaai",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels Youtube",
+        "arialLabel": "Plak die video skakels Youtube",
+        "btnArialLabel": "Laai enige video YouTube-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jy kan hierdie aanlyn gereedskap of sagteware gebruik wat ontwerp is vir die aflaai van YouTube-video's. ",
+          "question": "Hoe laai ek YouTube-video's af?"
+        },
+        "2": {
+          "answer": "Die aflaai van YouTube-video's sonder toestemming kan YouTube se diensbepalings oortree. ",
+          "question": "Is dit wettig om video's van YouTube af te laai?"
+        },
+        "3": {
+          "answer": "Ja, verskeie aanlyndienste bied YouTube-video-aflaaie aan. ",
+          "question": "Is daar aanlyn dienste om YouTube-video's af te laai?"
+        },
+        "4": {
+          "answer": "Ja, daar is mobiele toepassings en webwerwe wat jou toelaat om YouTube-video's direk na jou mobiele toestel af te laai vir vanlyn kyk.",
+          "question": "Kan ek YouTube-video's op mobiele toestelle aflaai?"
+        },
+        "5": {
+          "answer": "Gewoonlik ondersteunde formate sluit MP in",
+          "question": "Watter videoformate word ondersteun vir afgelaaide YouTube-video's?"
+        },
+        "6": {
+          "answer": "Ja, dit word aanbeveel om toestemming van die inhoudskepper te verkry of die video se lisensie-inligting na te gaan voordat dit afgelaai en gebruik word.",
+          "question": "Het ek toestemming nodig om YouTube-video's af te laai en te gebruik?"
+        },
+        "7": {
+          "answer": "YouTube se diensbepalings verbied ongemagtigde aflaai van video's. ",
+          "question": "Is daar enige beperkings op die aflaai van YouTube-inhoud?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bied 'n wettige manier om video's af te laai vir vanlyn kyk deur hul toepassing. ",
+          "question": "Kan ek YouTube-video's aflaai om vanlyn te kyk?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om YouTube-video aanlyn af te laai"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube na MP3-omskakelaar",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube na MP3 , Skakel YouTube na MP3 om , YouTube MP3-omskakelaar , YouTube-klankaflaai , YouTube na MP3 aanlyn , Gratis YouTube na MP3 , YouTube na MP3-omskakelaar aanlyn , Skakel YouTube-video na MP3 om , YouTube-klankomskakelaar , Laai YouTube-klank af",
+      "description": "Youtube na MP3 Converter is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels Youtube",
+        "arialLabel": "Plak die video skakels Youtube",
+        "btnArialLabel": "Laai enige video youtube mp3-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jy kan hierdie aanlyn gereedskap of sagteware gebruik wat ontwerp is vir die aflaai van YouTube-video's. ",
+          "question": "Hoe laai ek YouTube-video's af?"
+        },
+        "2": {
+          "answer": "Die aflaai van YouTube-video's sonder toestemming kan YouTube se diensbepalings oortree. ",
+          "question": "Is dit wettig om video's van YouTube af te laai?"
+        },
+        "3": {
+          "answer": "Ja, verskeie aanlyndienste bied YouTube-video-aflaaie aan. ",
+          "question": "Is daar aanlyn dienste om YouTube-video's af te laai?"
+        },
+        "4": {
+          "answer": "Ja, daar is mobiele toepassings en webwerwe wat jou toelaat om YouTube-video's direk na jou mobiele toestel af te laai vir vanlyn kyk.",
+          "question": "Kan ek YouTube-video's op mobiele toestelle aflaai?"
+        },
+        "5": {
+          "answer": "Gewoonlik ondersteunde formate sluit MP in",
+          "question": "Watter videoformate word ondersteun vir afgelaaide YouTube-video's?"
+        },
+        "6": {
+          "answer": "Ja, dit word aanbeveel om toestemming van die inhoudskepper te verkry of die video se lisensie-inligting na te gaan voordat dit afgelaai en gebruik word.",
+          "question": "Het ek toestemming nodig om YouTube-video's af te laai en te gebruik?"
+        },
+        "7": {
+          "answer": "YouTube se diensbepalings verbied ongemagtigde aflaai van video's. ",
+          "question": "Is daar enige beperkings op die aflaai van YouTube-inhoud?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bied 'n wettige manier om video's af te laai vir vanlyn kyk deur hul toepassing. ",
+          "question": "Kan ek YouTube-video's aflaai om vanlyn te kyk?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om YouTube na MP3 af te laai"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube na MP4-omskakelaar",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube na MP4 , Skakel YouTube na MP4 om , YouTube MP4-omskakelaar , YouTube-klankaflaai , YouTube na MP4 aanlyn , Gratis YouTube na MP4 , YouTube na MP4-omskakelaar aanlyn , Skakel YouTube-video na MP4 om , YouTube-klankomskakelaar , Laai YouTube-klank af",
+      "description": "Youtube na MP4 Converter is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie vanaf die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die video skakels Youtube",
+        "arialLabel": "Plak die video skakels Youtube",
+        "btnArialLabel": "Laai enige video YouTube MP4-knoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jy kan hierdie aanlyn gereedskap of sagteware gebruik wat ontwerp is vir die aflaai van YouTube-video's. ",
+          "question": "Hoe laai ek YouTube-video's af?"
+        },
+        "2": {
+          "answer": "Die aflaai van YouTube-video's sonder toestemming kan YouTube se diensbepalings oortree. ",
+          "question": "Is dit wettig om video's van YouTube af te laai?"
+        },
+        "3": {
+          "answer": "Ja, verskeie aanlyndienste bied YouTube-video-aflaaie aan. ",
+          "question": "Is daar aanlyn dienste om YouTube-video's af te laai?"
+        },
+        "4": {
+          "answer": "Ja, daar is mobiele toepassings en webwerwe wat jou toelaat om YouTube-video's direk na jou mobiele toestel af te laai vir vanlyn kyk.",
+          "question": "Kan ek YouTube-video's op mobiele toestelle aflaai?"
+        },
+        "5": {
+          "answer": "Gewoonlik ondersteunde formate sluit MP in",
+          "question": "Watter videoformate word ondersteun vir afgelaaide YouTube-video's?"
+        },
+        "6": {
+          "answer": "Ja, dit word aanbeveel om toestemming van die inhoudskepper te verkry of die video se lisensie-inligting na te gaan voordat dit afgelaai en gebruik word.",
+          "question": "Het ek toestemming nodig om YouTube-video's af te laai en te gebruik?"
+        },
+        "7": {
+          "answer": "YouTube se diensbepalings verbied ongemagtigde aflaai van video's. ",
+          "question": "Is daar enige beperkings op die aflaai van YouTube-inhoud?"
+        },
+        "8": {
+          "answer": "Ja, YouTube bied 'n wettige manier om video's af te laai vir vanlyn kyk deur hul toepassing. ",
+          "question": "Kan ek YouTube-video's aflaai om vanlyn te kyk?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om YouTube na MP4 af te laai"
+    },
+    "youtube-shorts-downloader": {
+      "title": "YouTube-kortbroek-aflaaier",
+      "datePublished": "2021-10-01",
+      "keywords": "Laai YouTube Shorts af ,YouTube Shorts aflaai ,Stoor YouTube Shorts ,Laai Shorts van YouTube af ,YouTube kort video aflaai ,Hoe om YouTube Shorts te stoor ,Laai Shorts op YouTube af ,YouTube Shorts aflaaier ,YouTube Shorts vanlyn aflaai ,Gratis aflaai YouTube Shorts",
+      "description": "Youtube Shorts Downloader is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie vanaf die internet toelaat. ",
+      "form": {
+        "placeholder": "Plak die videoskakels Youtube Short",
+        "arialLabel": "Plak die videoskakels Youtube Short",
+        "btnArialLabel": "Laai enige video YouTube-kortknoppie af"
+      },
+      "faq": {
+        "1": {
+          "answer": "Vanaf my laaste opdatering in Januarie 2022, is YouTube Shorts hoofsaaklik bedoel vir kort-vorm mobiele kyk en het dalk nie 'n direkte aflaai-opsie nie. ",
+          "question": "Hoe laai ek YouTube Shorts af?"
+        },
+        "2": {
+          "answer": "Die aflaai van YouTube Shorts sonder behoorlike magtiging kan YouTube se diensbepalings oortree. ",
+          "question": "Is dit wettig om YouTube Shorts af te laai?"
+        },
+        "3": {
+          "answer": "Ja, verskeie aanlyndienste bied YouTube-video-aflaaie aan. ",
+          "question": "Kan ek YouTube Shorts op mobiele toestelle aflaai?"
+        },
+        "4": {
+          "answer": "YouTube se diensbepalings verbied oor die algemeen ongemagtigde aflaai van inhoud. ",
+          "question": "Is daar enige beperkings op die aflaai van YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube bied opsies binne die toepassing om Kortbroeke op verskeie platforms te deel. ",
+          "question": "Hoe kan ek YouTube Shorts wettiglik stoor of deel?"
+        },
+        "6": {
+          "answer": "YouTube Shorts is tipies ontwerp om aanlyn te kyk. ",
+          "question": "Kan ek YouTube Shorts aflaai om vanlyn te kyk?"
+        },
+        "7": {
+          "answer": "YouTube se diensbepalings verbied ongemagtigde aflaai van video's. ",
+          "question": "Is daar enige beperkings op die aflaai van YouTube-inhoud?"
+        },
+        "8": {
+          "answer": "As jy probleme met YouTube Shorts of sy kenmerke teëkom, kontak YouTube-steundiens of gaan na hul hulpsentrum vir leiding oor hoe om kwessies aan te gee.",
+          "question": "Hoe kan ek probleme met YouTube Shorts of sy aflaaikenmerke rapporteer?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hoe om YouTube Shorts af te laai"
+    },
+    "download-from-tiktok": {
+      "title": "laai video tiktok af"
+    },
+    "download-from-twitter": {
+      "title": "laai twitter video's af"
+    },
+    "general": {
+      "title": "Laai video aanlyn af",
+      "keywords": "Laai video's YouTube af, Laai Video Instagram af, Laai Video af Facebook af, Laai Video's TikTok af, Laai Video's Twitch af, Laai Video Twitter af, Laai Video's af Pinterest, Laai Sosiale Media-video's af, Laai aanlynvideo's af, Laai video's gratis af",
+      "datePublished": "2021-10-01",
+      "description": "Laai video aanlyn af is 'n vinnige en veilige sagteware wat onbeperkte video-aflaaie van die internet toelaat. ",
+      "faq": {
+        "1": {
+          "answer": "Ja, hierdie webwerf is gratis. ",
+          "question": "Is hierdie webwerf gratis?"
+        },
+        "2": {
+          "answer": "Nee, die aflaai van stories word nie ondersteun nie.",
+          "question": "Kan ek stories aflaai?"
+        },
+        "3": {
+          "answer": "Nee, ons verskaf slegs die diens om video's af te laai.",
+          "question": "Kan ek beelde aflaai vanaf?"
+        },
+        "4": {
+          "answer": "Ja, hierdie webwerf is veilig. ",
+          "question": "Is hierdie webwerf veilig?"
+        },
+        "5": {
+          "answer": "Ja, jy kan die webwerf vanaf jou selfoon of tablet gebruik.",
+          "question": "Kan ek die webwerf vanaf my selfoon gebruik?"
+        },
+        "6": {
+          "answer": "As die video wat jy wil aflaai nie beskikbaar is nie, probeer asseblief later weer.",
+          "question": "Wat as die video wat ek wil aflaai nie beskikbaar is nie?"
+        },
+        "7": {
+          "answer": "Nee, jy kan nie video's van private rekeninge aflaai nie.",
+          "question": "Kan ek video's van privaat rekeninge aflaai?"
+        },
+        "8": {
+          "answer": "Die beste formaat om video's in af te laai is MP4. ",
+          "question": "Wat is die beste formaat om video's in af te laai?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Deur hierdie video af te laai, stem jy in tot die",
+      "#2": "Geen watermerk nie",
+      "#3": "HD kwaliteit",
+      "#4": "Vinnige aflaai",
+      "#5": "Maklik redigeerbaar",
+      "#6": "Enige formaat",
+      "#7": "Hoe om video's {name} af te laai:",
+      "#8": "Plak 'n enige video-URL",
+      "#9": "Plak 'n video-URL op die verskafde veld en druk Laai af. ",
+      "#10": "Redigeer of laai af",
+      "#11": "Jy het die opsie om jou video te redigeer deur ons volledige reeks videoredigeringsnutsgoed te gebruik. ",
+      "#12": "Deel instrument aflaai video aanlyn",
+      "#13": "Voer jou video uit en deel!",
+      "#14": "Onmiddellike aflaai video aanlyn",
+      "#15": "Laai video aanlyn af Jy kan videogrepe aflaai vanaf",
+      "#16": "in net een klik! ",
+      "#17": "Aflaai Video Online werk direk vanaf jou selfoon- of rekenaarblaaier of mobiele toepassing. ",
+      "#18": "Laai video aanlyn af en verwyder die watermerk",
+      "#19": "Download Video Online laat jou inhoud sonder watermerke aflaai sodat jy dit enige plek kan hergebruik en deel. ",
+      "#20": "Voeg voice-overs onmiddellik by jou video",
+      "#21": "As jy nie die tyd of hulpbronne het om voiceovers by te voeg nie, kan jy Download Video Online teks-na-spraak sagteware gebruik!  ",
+      "#22": "Skep professionele video's met 'n paar kliks",
+      "#23": "As jy 'n streamer is, is die kans goed dat jy ook ander sosiale media-kanale het om te onderhou.  ",
+      "#24": "Gereelde Vrae - Gereelde Vrae",
+      "#25": "Laai af met die toepassing",
+      "#26": "Ons verskaf nou 'n toepassing vir video-aflaai. ",
+      "#27": "googleplay app url",
+      "#28": "appel app url",
+      "btnText": "Aflaai",
+      "btnLoadingText": "Gaan haal"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Privaatheidsbeleid",
+      "#1": "Inleiding",
+      "#2": "Hierdie privaatheidsbeleid lig gebruikers in dat die webwerf ({website_url}) geen persoonlike inligting insamel, berg of verwerk nie. ",
+      "#3": "Neem asseblief kennis dat hierdie beleid verskaf word in ooreenstemming met wetlike vereistes, alhoewel die webwerf of diens nie enige persoonlike inligting versamel of stoor nie.",
+      "#4": "Derdeparty-advertensies en -analise",
+      "#5": "Ons gebruik derdeparty-advertensiedienste, soos Google AdSense, om advertensies op die webwerf te bedien. ",
+      "#6": "Jy kan onttrek van gepersonaliseerde advertensies deur te besoek",
+      "#7": "Advertensie-instellings",
+      "#8": "of deur te besoek",
+      "#9": "Veranderinge aan die Privaatheidsbeleid",
+      "#10": "Ons behou die reg voor om enige deel van die Beleid enige tyd op te dateer, te wysig of te vervang deur die opgedateerde Beleid op die webwerf te plaas. ",
+      "#11": "Kontak inligting",
+      "#12": "As jy enige vrae of bekommernisse oor hierdie Beleid het, kontak asseblief die webwerf-eienaar by",
+      "#13": "Aanvaarding van Privaatheidsbeleid",
+      "#14": "Deur toegang tot die webwerf of diens te verkry of te gebruik, erken jy dat jy gelees het, verstaan ​​en instem om gebonde te wees aan die bepalings en voorwaardes van hierdie beleid."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Diensbepalings"
+    },
+    "dcma": {
+      "title": "Kopiereg (DMCA)",
+      "#1": "{name} respekteer kopiereg van alle werke en laat nie gebruikers toe om ander se video's te gebruik vir enigiets wat teen die kopieregbeskermingsbepalings en -voorwaardes is nie. ",
+      "#2": "{name} voldoen aan die Digital Millennium Copyright Act (DMCA) en skort inhoud onmiddellik van toegang op wanneer dit behoorlik in kennis gestel word.",
+      "#3": "Om 'n kopieregskendingkennisgewing by {name} in te dien, sal jy pos moet gebruik, stuur vir ons 'n boodskap wat in wese die inligting insluit wat vereis word deur en vermeld word in Artikel 512(c)(3) van die Digital Millennium Copyright Act.",
+      "#4": "Vereiste inligting:",
+      "#5": "1. Identifiseer jouself as óf: a) Die eienaar van 'n kopieregbeskermde werk(e) b) 'n Persoon 'gemagtig om op te tree namens die eienaar van 'n eksklusiewe reg wat na bewering geskend word'. ",
+      "#6": "2. Identifiseer die kopieregbeskermde werk wat beweer word dat dit geskend is.",
+      "#7": "3. Identifiseer die Inhoud wat beweer word dat dit inbreuk maak of die onderwerp van die inbreukmakende aktiwiteit is en wat opgeskort gaan word of toegang waartoe gedeaktiveer moet word, sowel as inligting wat redelik genoeg is om youtube4kdownloader toe te laat om die Inhoud op te spoor. ",
+      "#8": "4. Verskaf kontakinligting wat redelik genoeg is om ons toe te laat om jou te kontak, soos 'n adres, telefoonnommer en 'n geldige e-posadres.",
+      "#9": "5. Meld dat jy in goeie trou glo dat die gebruik van die Inhoud op die wyse waaroor gekla word nie deur die kopieregeienaar, sy agente of die wet gemagtig word nie.",
+      "#10": "6. Meld dat die inligting in die kennisgewing akkuraat is en onder die straf van meineed is die klaende party gemagtig om op te tree namens die eienaar van 'n eksklusiewe reg wat na bewering geskend word.",
+      "#11": "By ontvangs van geldige kennisgewing, soos deur die wet vereis, sal ons toegang tot kopiereg-inhoud vanaf ons webwerf opskort.",
+      "#12": "As jy enige vrae het, kontak ons ​​asseblief by",
+      "#13": "hierdie vorm"
+    },
+    "thankyou": {
+      "title": "Dankie vir die installering van die Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Video aflaai API",
+      "#1": "Die {website_url} API bied 'n maklike en gerieflike metode om medialêers van die gewildste webwerwe en sosialemediaplatforms af te haal. ",
+      "#2": "Om toegang te verkry of meer inligting te bekom, kontak ons ​​asseblief by "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontak Ons",
+      "#1": "Indien jy enige vrae, klagtes of eise met betrekking tot ons Dienste het, stuur asseblief vir ons 'n boodskap aan",
+      "#2": "Terugvoer",
+      "#3": "E-pos",
+      "#4": "Boodskap",
+      "#5": "Indien",
+      "#6": "E-pos suksesvol gestuur!"
+    }
+  }
+}

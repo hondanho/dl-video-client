@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Skipta um tungumál",
+    "locale": "{locale, select, de {Þýska} en {enska} annað {Óþekkt}}"
+  },
+  "Metadata": {
+    "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+    "keywords": "Hlaða niður myndböndum YouTube, hlaða niður myndbandi Instagram, hlaða niður myndbandi facebook, hlaða niður myndböndum TikTok, hlaða niður myndböndum Twitch, hlaða niður myndbandi Twitter, hlaða niður myndböndum Pinterest, hlaða niður myndböndum á samfélagsmiðlum, hlaða niður myndböndum á netinu, hlaða niður myndböndum ókeypis",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Sækja myndbandið á netinu"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Límdu myndbandstenglana fyrir Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Límdu myndbandstenglana fyrir Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Sækja hvaða myndbandshnapp sem er",
+      "btnText": "Sækja",
+      "btnLoadingText": "Að sækja"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube niðurhalstæki",
+    "#2": "Youtube myndbönd niðurhal",
+    "#3": "Youtube í MP3 Breytir",
+    "#4": "Youtube í MP4 Breytir",
+    "#5": "Youtube stuttbuxur til að hlaða niður",
+    "#6": "Facebook niðurhalari",
+    "#7": "Sækja myndbandið Facebook",
+    "#8": "Facebook til MP4 Breytir",
+    "#9": "Sækja Facebook Reel",
+    "#10": "Instagram niðurhalari",
+    "#11": "Sækja myndbandið Instagram",
+    "#12": "Sækja Instagram Reel",
+    "#13": "Instagram í mp4 breytir",
+    "#14": "Annar niðurhalari",
+    "#15": "Sækja myndbandið TikTok",
+    "#16": "Sækja myndbandið Twitter",
+    "#17": "Sækja myndbandið Twitch",
+    "#18": "Sækja myndbandið Twitch myndband",
+    "#20": "Löglegt",
+    "#21": "Friðhelgisstefna",
+    "#22": "Skilmálar þjónustu",
+    "#23": "DCMA",
+    "#24": "Hafðu samband",
+    "#25": "Blogg",
+    "#26": "Gakktu til liðs við okkur!",
+    "#27": "Gerast áskrifandi",
+    "#28": "Allur réttur áskilinn."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Sækja myndbandið Twitch myndband",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður Twitch innskotum ,Twitch bút til að hlaða niður ,Vista Twitch bút ,Hvernig á að hlaða niður myndskeiðum frá Twitch ,Twitch bút niðurhal á netinu , Ókeypis niðurhal á Twitch bút ,Twitch bút vistun ,Hlaða niður Twitch bút án vatnsmerkis,Twitch bút til að hlaða niður myndbandi,T4wit",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Twitch Clip",
+        "arialLabel": "Límdu myndbandstenglana Twitch Clip",
+        "btnArialLabel": "Sæktu hvaða myndskeið sem er Twitch Clip hnappinn"
+      },
+      "faq": {
+        "1": {
+          "answer": "Afritaðu einfaldlega Twitch myndbandstengilinn og límdu hann inn í tólið okkar. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður Twitch myndböndum?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Twitch. ",
+          "question": "Er það löglegt að hlaða niður Twitch myndböndum með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er fínstillt fyrir farsímanotkun, sem gerir notendum kleift að hlaða niður Twitch myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég halað niður Twitch myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Twitch myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": "Eru einhverjar takmarkanir á lengd eða gerð Twitch myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) Twitch myndböndum, sem veitir notendum möguleika á að njóta efnis í hærra gæðum.",
+          "question": "Er hægt að hlaða niður HD Twitch myndböndum með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Ef þú lendir í einhverjum erfiðleikum, vinsamlegast skoðaðu hlutann okkar með algengum spurningum á vefsíðunni til að fá ráðleggingar um bilanaleit. ",
+          "question": "Hvað ætti ég að gera ef ég lendi í vandræðum þegar ég nota tækið þitt?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Twitch myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": " Get ég halað niður Twitch myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Twitch, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja eindrægni við breytingar á Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið Twitch myndband"
+    },
+    "download-video-twitch": {
+      "title": "Sækja myndbandið Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður Twitch myndböndum,Twitch myndbandsniðurhalara,Vista Twitch myndbönd,Hvernig á að hlaða niður myndböndum frá Twitch,Twitch myndbandsniðurhali,ókeypis niðurhali á Twitch myndbandi,Twitch VOD niðurhalar,Hlaða niður Twitch hápunktum,Twitch myndböndum,Twitch til MP4 niðurhali",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Twitch",
+        "arialLabel": "Límdu myndbandstenglana Twitch",
+        "btnArialLabel": "Sæktu hvaða Twitch spóluhnapp sem er fyrir myndband"
+      },
+      "faq": {
+        "1": {
+          "answer": "Afritaðu einfaldlega Twitch myndbandstengilinn og límdu hann inn í tólið okkar. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður Twitch myndböndum?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Twitch. ",
+          "question": "Er það löglegt að hlaða niður Twitch myndböndum með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er fínstillt fyrir farsímanotkun, sem gerir notendum kleift að hlaða niður Twitch myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég halað niður Twitch myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Twitch myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": "Eru einhverjar takmarkanir á lengd eða gerð Twitch myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) Twitch myndböndum, sem veitir notendum möguleika á að njóta efnis í hærra gæðum.",
+          "question": "Er hægt að hlaða niður HD Twitch myndböndum með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Ef þú lendir í einhverjum erfiðleikum, vinsamlegast skoðaðu hlutann okkar með algengum spurningum á vefsíðunni til að fá ráðleggingar um bilanaleit. ",
+          "question": "Hvað ætti ég að gera ef ég lendi í vandræðum þegar ég nota tækið þitt?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Twitch myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": " Get ég halað niður Twitch myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Twitch, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja eindrægni við breytingar á Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Sækja myndbandið Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Sæktu Twitter myndbönd, Twitter myndbönd niðurhal, Vistaðu Twitter myndbönd, Hvernig á að hlaða niður myndböndum frá Twitter, Twitter myndband niðurhal á netinu, Ókeypis niðurhal á Twitter myndbandi, Twitter myndbandssparnaður, Sækja Twitter án vatnsmerkis, Twitter myndbönd, Twitter í MP4 niðurhal",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Twitter",
+        "arialLabel": "Límdu myndbandstenglana Twitter",
+        "btnArialLabel": "Sæktu hvaða Twitter spóluhnapp sem er fyrir myndband"
+      },
+      "faq": {
+        "1": {
+          "answer": "Afritaðu einfaldlega Twitter myndbandstengilinn og límdu hann inn í tólið okkar. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður Twitter myndböndum?"
+        },
+        "2": {
+          "answer": "Verkfæri okkar er hannað til að virða þjónustuskilmála Twitter. ",
+          "question": "Er það löglegt að hlaða niður Twitter myndböndum með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er fínstillt fyrir farsímanotkun, sem gerir notendum kleift að hlaða niður Twitter myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Twitter myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Twitter myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": "Eru einhverjar takmarkanir á lengd eða gerð Twitter myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) Twitter myndböndum, sem veitir notendum möguleika á að njóta efnis í meiri gæðum.",
+          "question": "Er hægt að hlaða niður HD Twitter myndböndum með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Ef þú lendir í einhverjum erfiðleikum, vinsamlegast skoðaðu hlutann okkar með algengum spurningum á vefsíðunni til að fá ráðleggingar um bilanaleit. ",
+          "question": "Hvað ætti ég að gera ef ég lendi í vandræðum þegar ég nota tækið þitt?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Twitter myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": " Get ég hlaðið niður Twitter myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Twitter, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Sækja myndbandið Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Sæktu TikTok myndbönd, TikTok myndbandsniðurhal, Vista TikTok myndbönd, Hvernig á að hlaða niður myndböndum frá TikTok, TikTok myndband niðurhal á netinu, Ókeypis niðurhal á TikTok myndbandi, TikTok vídeó bjargvættur, Sæktu TikTok án vatnsmerkis, TikTok myndbandsgripur í MP4, TikTok",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana tiktok",
+        "arialLabel": "Límdu myndbandstenglana tiktok",
+        "btnArialLabel": "Sæktu hvaða tiktok myndbandshnapp sem er"
+      },
+      "faq": {
+        "1": {
+          "answer": "Afritaðu einfaldlega TikTok myndbandstengilinn og límdu hann inn í tólið okkar. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður TikTok myndböndum?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála TikTok. ",
+          "question": "Er það löglegt að hlaða niður TikTok myndböndum með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er fínstillt fyrir farsímanotkun, sem gerir notendum kleift að hlaða niður TikTok myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég halað niður TikTok myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum TikTok myndböndum, þar á meðal myndböndum af mismunandi lengd og sniðum. ",
+          "question": "Eru einhverjar takmarkanir á lengd eða gerð TikTok myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) TikTok myndböndum, sem veitir notendum möguleika á að njóta meiri gæði efnis.",
+          "question": "Er hægt að hlaða niður HD TikTok myndböndum með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Ef þú lendir í einhverjum erfiðleikum, vinsamlegast skoðaðu hlutann okkar með algengum spurningum á vefsíðunni til að fá ráðleggingar um bilanaleit. ",
+          "question": "Hvað ætti ég að gera ef ég lendi í vandræðum þegar ég nota tækið þitt?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður TikTok myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": " Get ég halað niður TikTok myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi TikTok, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja eindrægni við breytingar á TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Sækja myndbandið Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana instagram spólu",
+        "arialLabel": "Límdu myndbandstenglana instagram spólu",
+        "btnArialLabel": "Sæktu hvaða myndbandshnapp sem er á Instagram spólu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega instagram myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður myndböndum frá Instagram?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Instagram. ",
+          "question": "Er það löglegt að hlaða niður myndböndum frá Instagram með því að nota tólið þitt?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt, sem gerir notendum kleift að hlaða niður Instagram myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Instagram myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Instagram myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": " Eru einhverjar takmarkanir á lengd eða gerð Instagram myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Instagram, sem veitir notendum möguleika á að njóta efnis í hærra gæðum.",
+          "question": "Er hægt að hlaða niður HD myndböndum frá Instagram með tólinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Instagram myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Instagram myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég hlaðið niður Instagram myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi instagram, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Sækja Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana instagram spólu",
+        "arialLabel": "Límdu myndbandstenglana instagram spólu",
+        "btnArialLabel": "Sæktu hvaða myndbandshnapp sem er á Instagram spólu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega instagram myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður myndböndum frá Instagram?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Instagram. ",
+          "question": "Er það löglegt að hlaða niður myndböndum frá Instagram með því að nota tólið þitt?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt, sem gerir notendum kleift að hlaða niður Instagram myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Instagram myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Instagram myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": " Eru einhverjar takmarkanir á lengd eða gerð Instagram myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Instagram, sem veitir notendum möguleika á að njóta efnis í hærra gæðum.",
+          "question": "Er hægt að hlaða niður HD myndböndum frá Instagram með tólinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Instagram myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Instagram myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég hlaðið niður Instagram myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi instagram, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja instagram myndband í mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Sækja myndbandið instagram í mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana instagram spólu",
+        "arialLabel": "Límdu myndbandstenglana instagram spólu",
+        "btnArialLabel": "Sæktu hvaða myndbandshnapp sem er á Instagram spólu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega instagram myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður myndböndum frá Instagram?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Instagram. ",
+          "question": "Er það löglegt að hlaða niður myndböndum frá Instagram með því að nota tólið þitt?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt, sem gerir notendum kleift að hlaða niður Instagram myndböndum á ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Instagram myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Instagram myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": " Eru einhverjar takmarkanir á lengd eða gerð Instagram myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Instagram, sem veitir notendum möguleika á að njóta efnis í hærra gæðum.",
+          "question": "Er hægt að hlaða niður HD myndböndum frá Instagram með tólinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Instagram myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Instagram myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég hlaðið niður Instagram myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi instagram, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið instagram í mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Sækja Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Sæktu Facebook Reel ,Facebook Reel downloader ,Vista Facebook Reel myndband ,Hvernig á að hlaða niður Reels á Facebook ,Facebook Reel niðurhal á netinu ,Free Facebook Reel niðurhal ,Facebook spóla myndbandssparnaður,Hlaða niður spólum frá Facebook,Facebook spóla myndbandsgripur,Facebook spóla offline niðurhal",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana á facebook spólu",
+        "arialLabel": "Límdu myndbandstenglana á facebook spólu",
+        "btnArialLabel": "Sæktu hvaða Facebook spóluhnapp sem er fyrir myndband"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega Facebook myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður myndböndum frá Facebook?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Facebook. ",
+          "question": "Er það löglegt að hlaða niður myndböndum frá Facebook með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt og gerir notendum kleift að hlaða niður Facebook myndböndum í ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Facebook myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Facebook myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": " Eru einhverjar takmarkanir á lengd eða gerð Facebook myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Facebook, sem veitir notendum möguleika á að njóta efnis í meiri gæðum.",
+          "question": "Er hægt að hlaða niður HD myndböndum frá Facebook með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Facebook myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Facebook myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég hlaðið niður Facebook myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Facebook, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja facebook myndband í mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook til MP4 Breytir",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook til MP4 breytir, Umbreyta Facebook í MP4, Facebook myndband í MP4, Facebook MP4 niðurhal, Facebook í MP4 á netinu, Ókeypis Facebook í MP4, Facebook myndbandsbreytir, Vista Facebook myndband sem MP4, Sækja Facebook í MP4, Facebook MP4 breytir á netinu",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana á facebook",
+        "arialLabel": "Límdu myndbandstenglana á facebook",
+        "btnArialLabel": "Sækja hvaða Facebook hnapp sem er fyrir myndband"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega Facebook Reel myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður Facebook hjólum?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Facebook. ",
+          "question": "Er það löglegt að hlaða niður Facebook hjólum með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt og gerir notendum kleift að hlaða niður Facebook myndböndum í ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég halað niður Facebook hjólum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Facebook myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": "Eru einhverjar takmarkanir á lengd eða gerð Facebook hjóla sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Facebook, sem veitir notendum möguleika á að njóta efnis í meiri gæðum.",
+          "question": "Er hægt að hlaða niður HD Facebook Reels með tólinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Facebook myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Facebook myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég halað niður Facebook hjólum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Facebook, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja facebook myndband í mp4"
+    },
+    "download-video-facebook": {
+      "title": "Sækja myndbandið Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður Facebook myndböndum, Facebook myndbandsniðurhali, Vista Facebook myndböndum, Hvernig á að hlaða niður myndböndum frá Facebook, Facebook myndbandi niðurhal á netinu, Ókeypis niðurhal á Facebook myndbandi, Facebook myndbandssparnaður, Sækja einka Facebook myndbönd, HD Facebook myndband niðurhal, Facebook í MP4 niðurhal, niðurhal myndband ",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana á facebook",
+        "arialLabel": "Límdu myndbandstenglana á facebook",
+        "btnArialLabel": "Sækja hvaða Facebook hnapp sem er fyrir myndband"
+      },
+      "faq": {
+        "1": {
+          "answer": "Límdu einfaldlega Facebook myndbandsslóðina inn í tólið okkar og það mun leiða þig í gegnum niðurhalsferlið. ",
+          "question": "Hvernig nota ég tólið þitt til að hlaða niður myndböndum frá Facebook?"
+        },
+        "2": {
+          "answer": "Tólið okkar er hannað til að virða þjónustuskilmála Facebook. ",
+          "question": "Er það löglegt að hlaða niður myndböndum frá Facebook með tólinu þínu?"
+        },
+        "3": {
+          "answer": "Já, tólið okkar er farsímavænt og gerir notendum kleift að hlaða niður Facebook myndböndum í ýmis tæki, þar á meðal snjallsíma og spjaldtölvur.",
+          "question": "Get ég hlaðið niður Facebook myndböndum í farsímum með því að nota tólið þitt?"
+        },
+        "4": {
+          "answer": "Tólið okkar styður niðurhal á fjölmörgum Facebook myndböndum, þar á meðal þeirra sem eru af mismunandi lengd og sniðum. ",
+          "question": " Eru einhverjar takmarkanir á lengd eða gerð Facebook myndbanda sem hægt er að hlaða niður?"
+        },
+        "5": {
+          "answer": "Já, tólið okkar styður niðurhal á HD (háskerpu) myndböndum frá Facebook, sem veitir notendum möguleika á að njóta efnis í meiri gæðum.",
+          "question": "Er hægt að hlaða niður HD myndböndum frá Facebook með tækinu þínu?"
+        },
+        "6": {
+          "answer": "Við tökum öryggi alvarlega. ",
+          "question": "Er einhver áhætta tengd því að nota tólið þitt til að hlaða niður Facebook myndböndum?"
+        },
+        "7": {
+          "answer": "Já, tólið okkar býður upp á möguleika á að hlaða niður Facebook myndböndum til að skoða án nettengingar, sem gerir notendum kleift að njóta efnis jafnvel án nettengingar.",
+          "question": "Get ég hlaðið niður Facebook myndböndum til að skoða án nettengingar með því að nota tólið þitt?"
+        },
+        "8": {
+          "answer": "Við uppfærum tólið okkar reglulega til að laga sig að öllum breytingum á vettvangi Facebook, sem tryggir áframhaldandi eindrægni og óaðfinnanlega notendaupplifun.",
+          "question": "Hversu oft er tólið þitt uppfært til að tryggja samhæfni við breytingar á Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið Facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube myndbönd niðurhal",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube vídeó niðurhal, niðurhal YouTube myndbönd, YouTube niðurhal, Vista YouTube myndbönd, Hvernig á að hlaða niður myndböndum frá YouTube, YouTube myndband niðurhal á netinu, Sækja HD myndbönd frá YouTube, YouTube video saver, YouTube myndband grípa, Ókeypis niðurhal á YouTube myndbandi",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Youtube",
+        "arialLabel": "Límdu myndbandstenglana Youtube",
+        "btnArialLabel": "Sækja hvaða myndband sem er á YouTube hnappinn"
+      },
+      "faq": {
+        "1": {
+          "answer": "Þú getur notað þetta nettól eða hugbúnað sem er hannaður til að hlaða niður YouTube myndböndum. ",
+          "question": "Hvernig sæki ég YouTube myndbönd?"
+        },
+        "2": {
+          "answer": "Að hala niður YouTube myndböndum án leyfis gæti brotið gegn þjónustuskilmálum YouTube. ",
+          "question": "Er löglegt að hlaða niður myndböndum frá YouTube?"
+        },
+        "3": {
+          "answer": "Já, ýmsar netþjónustur bjóða upp á niðurhal á YouTube myndböndum. ",
+          "question": "Er til netþjónusta til að hlaða niður YouTube myndböndum?"
+        },
+        "4": {
+          "answer": "Já, það eru til farsímaforrit og vefsíður sem gera þér kleift að hlaða niður YouTube myndböndum beint í farsímann þinn til að skoða án nettengingar.",
+          "question": "Get ég hlaðið niður YouTube myndböndum í farsímum?"
+        },
+        "5": {
+          "answer": "Algengt studd snið eru MP",
+          "question": "Hvaða myndbandssnið eru studd fyrir niðurhalað YouTube myndbönd?"
+        },
+        "6": {
+          "answer": "Já, það er mælt með því að fá leyfi frá efnishöfundinum eða athuga leyfisupplýsingar myndbandsins áður en það er hlaðið niður og notað.",
+          "question": "Þarf ég leyfi til að hlaða niður og nota YouTube myndbönd?"
+        },
+        "7": {
+          "answer": "Þjónustuskilmálar YouTube banna óleyfilegt niðurhal á myndböndum. ",
+          "question": "Eru einhverjar takmarkanir á niðurhali á YouTube efni?"
+        },
+        "8": {
+          "answer": "Já, YouTube býður upp á löglega leið til að hlaða niður myndböndum til að skoða án nettengingar í gegnum appið þeirra. ",
+          "question": "Get ég hlaðið niður YouTube myndböndum til að skoða án nettengingar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja myndbandið frá YouTube á netinu"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube í MP3 Breytir",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube í MP3 ,Breyta YouTube í MP3 , YouTube MP3 breytir , YouTube hljóð niðurhal , YouTube í MP3 á netinu , Ókeypis YouTube í MP3 , YouTube í MP3 breytir á netinu , Umbreyta YouTube myndbandi í MP3 , YouTube hljóðbreytir , Sækja YouTube hljóð",
+      "description": "Youtube til MP3 Breytir er hraðvirkur og öruggur hugbúnaður sem leyfir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Youtube",
+        "arialLabel": "Límdu myndbandstenglana Youtube",
+        "btnArialLabel": "Sækja hvaða myndband sem er á youtube mp3 hnappinn"
+      },
+      "faq": {
+        "1": {
+          "answer": "Þú getur notað þetta nettól eða hugbúnað sem er hannaður til að hlaða niður YouTube myndböndum. ",
+          "question": "Hvernig sæki ég YouTube myndbönd?"
+        },
+        "2": {
+          "answer": "Að hala niður YouTube myndböndum án leyfis gæti brotið gegn þjónustuskilmálum YouTube. ",
+          "question": "Er löglegt að hlaða niður myndböndum frá YouTube?"
+        },
+        "3": {
+          "answer": "Já, ýmsar netþjónustur bjóða upp á niðurhal á YouTube myndböndum. ",
+          "question": "Er til netþjónusta til að hlaða niður YouTube myndböndum?"
+        },
+        "4": {
+          "answer": "Já, það eru til farsímaforrit og vefsíður sem gera þér kleift að hlaða niður YouTube myndböndum beint í farsímann þinn til að skoða án nettengingar.",
+          "question": "Get ég hlaðið niður YouTube myndböndum í farsímum?"
+        },
+        "5": {
+          "answer": "Algengt studd snið eru MP",
+          "question": "Hvaða myndbandssnið eru studd fyrir niðurhalað YouTube myndbönd?"
+        },
+        "6": {
+          "answer": "Já, það er mælt með því að fá leyfi frá efnishöfundinum eða athuga leyfisupplýsingar myndbandsins áður en það er hlaðið niður og notað.",
+          "question": "Þarf ég leyfi til að hlaða niður og nota YouTube myndbönd?"
+        },
+        "7": {
+          "answer": "Þjónustuskilmálar YouTube banna óleyfilegt niðurhal á myndböndum. ",
+          "question": "Eru einhverjar takmarkanir á niðurhali á YouTube efni?"
+        },
+        "8": {
+          "answer": "Já, YouTube býður upp á löglega leið til að hlaða niður myndböndum til að skoða án nettengingar í gegnum appið þeirra. ",
+          "question": "Get ég hlaðið niður YouTube myndböndum til að skoða án nettengingar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja YouTube í MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube í MP4 Breytir",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube í MP4 , Umbreyta YouTube í MP4 , YouTube MP4 breytir , YouTube hljóð niðurhal , YouTube í MP4 á netinu , Ókeypis YouTube í MP4 , YouTube í MP4 breytir á netinu , Umbreyta YouTube myndbandi í MP4 , YouTube hljóðbreytir , Sækja YouTube hljóð",
+      "description": "Youtube til MP4 Breytir er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Youtube",
+        "arialLabel": "Límdu myndbandstenglana Youtube",
+        "btnArialLabel": "Sækja hvaða myndband sem er á YouTube MP4 hnappinn"
+      },
+      "faq": {
+        "1": {
+          "answer": "Þú getur notað þetta nettól eða hugbúnað sem er hannaður til að hlaða niður YouTube myndböndum. ",
+          "question": "Hvernig sæki ég YouTube myndbönd?"
+        },
+        "2": {
+          "answer": "Að hala niður YouTube myndböndum án leyfis gæti brotið gegn þjónustuskilmálum YouTube. ",
+          "question": "Er löglegt að hlaða niður myndböndum frá YouTube?"
+        },
+        "3": {
+          "answer": "Já, ýmsar netþjónustur bjóða upp á niðurhal á YouTube myndböndum. ",
+          "question": "Er til netþjónusta til að hlaða niður YouTube myndböndum?"
+        },
+        "4": {
+          "answer": "Já, það eru til farsímaforrit og vefsíður sem gera þér kleift að hlaða niður YouTube myndböndum beint í farsímann þinn til að skoða án nettengingar.",
+          "question": "Get ég hlaðið niður YouTube myndböndum í farsímum?"
+        },
+        "5": {
+          "answer": "Algengt studd snið eru MP",
+          "question": "Hvaða myndbandssnið eru studd fyrir niðurhalað YouTube myndbönd?"
+        },
+        "6": {
+          "answer": "Já, það er mælt með því að fá leyfi frá efnishöfundinum eða athuga leyfisupplýsingar myndbandsins áður en það er hlaðið niður og notað.",
+          "question": "Þarf ég leyfi til að hlaða niður og nota YouTube myndbönd?"
+        },
+        "7": {
+          "answer": "Þjónustuskilmálar YouTube banna óleyfilegt niðurhal á myndböndum. ",
+          "question": "Eru einhverjar takmarkanir á niðurhali á YouTube efni?"
+        },
+        "8": {
+          "answer": "Já, YouTube býður upp á löglega leið til að hlaða niður myndböndum til að skoða án nettengingar í gegnum appið þeirra. ",
+          "question": "Get ég hlaðið niður YouTube myndböndum til að skoða án nettengingar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja YouTube í MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube stuttbuxur til að hlaða niður",
+      "datePublished": "2021-10-01",
+      "keywords": "Hlaða niður YouTube stuttbuxum ,YouTube stuttbuxur niðurhal ,Vista YouTube stuttbuxur ,Hlaða niður stuttbuxum frá YouTube ,YouTube stuttmyndbönd niðurhal ,Hvernig á að vista YouTube stuttbuxur ,Hlaða niður stuttbuxum á YouTube ,YouTube stuttbuxur niðurhalar ,YouTube stuttbuxur niðurhal án nettengingar ,ókeypis niðurhal YouTube stuttbuxur",
+      "description": "Youtube Shorts Downloader er fljótur og öruggur hugbúnaður sem leyfir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "form": {
+        "placeholder": "Límdu myndbandstenglana Youtube Short",
+        "arialLabel": "Límdu myndbandstenglana Youtube Short",
+        "btnArialLabel": "Sæktu hvaða myndband sem er stutt á YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Frá og með síðustu uppfærslu minni í janúar 2022 eru stuttmyndir á YouTube fyrst og fremst ætlaðar til að horfa á í stuttu formi fyrir farsíma og eru ef til vill ekki með beinan niðurhalsmöguleika. ",
+          "question": "Hvernig sæki ég YouTube stuttmyndir?"
+        },
+        "2": {
+          "answer": "Að hlaða niður stuttmyndum YouTube án viðeigandi heimildar gæti brotið gegn þjónustuskilmálum YouTube. ",
+          "question": "Er löglegt að hlaða niður stuttmyndum frá YouTube?"
+        },
+        "3": {
+          "answer": "Já, ýmsar netþjónustur bjóða upp á niðurhal á YouTube myndböndum. ",
+          "question": "Get ég hlaðið niður stuttmyndum frá YouTube í farsímum?"
+        },
+        "4": {
+          "answer": "Þjónustuskilmálar YouTube banna almennt óleyfilegt niðurhal á efni. ",
+          "question": "Eru einhverjar takmarkanir á niðurhali á YouTube stuttmyndum?"
+        },
+        "5": {
+          "answer": "YouTube býður upp á valkosti innan forritsins til að deila stuttmyndum á ýmsum kerfum. ",
+          "question": "Hvernig get ég vistað eða deilt stuttmyndum frá YouTube löglega?"
+        },
+        "6": {
+          "answer": "YouTube stuttmyndir eru venjulega hannaðar til að skoða á netinu. ",
+          "question": "Get ég halað niður stuttmyndum frá YouTube til að skoða án nettengingar?"
+        },
+        "7": {
+          "answer": "Þjónustuskilmálar YouTube banna óleyfilegt niðurhal á myndböndum. ",
+          "question": "Eru einhverjar takmarkanir á niðurhali á YouTube efni?"
+        },
+        "8": {
+          "answer": "Ef þú lendir í vandræðum með YouTube stuttmyndir eða eiginleika þess skaltu hafa samband við YouTube þjónustudeild eða skoða hjálparmiðstöð þeirra til að fá leiðbeiningar um að tilkynna vandamál.",
+          "question": "Hvernig get ég tilkynnt vandamál með stuttmyndir á YouTube eða niðurhalseiginleika þess?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hvernig á að sækja stuttmyndir frá Youtube"
+    },
+    "download-from-tiktok": {
+      "title": "Sækja myndbandið tiktok"
+    },
+    "download-from-twitter": {
+      "title": "Sækja twitter myndbönd"
+    },
+    "general": {
+      "title": "Sækja myndbandið á netinu",
+      "keywords": "Hlaða niður myndböndum YouTube, hlaða niður myndbandi Instagram, hlaða niður myndbandi facebook, hlaða niður myndböndum TikTok, hlaða niður myndböndum Twitch, hlaða niður myndbandi Twitter, hlaða niður myndböndum Pinterest, hlaða niður myndböndum á samfélagsmiðlum, hlaða niður myndböndum á netinu, hlaða niður myndböndum ókeypis",
+      "datePublished": "2021-10-01",
+      "description": "Sækja myndbandið á netinu er fljótur og öruggur hugbúnaður sem gerir ótakmarkað myndbandsniðurhal af internetinu. ",
+      "faq": {
+        "1": {
+          "answer": "Já, þessi vefsíða er ókeypis. ",
+          "question": "Er þessi vefsíða ókeypis?"
+        },
+        "2": {
+          "answer": "Nei, niðurhal á sögum er ekki stutt.",
+          "question": "Get ég sótt sögur?"
+        },
+        "3": {
+          "answer": "Nei, við bjóðum aðeins upp á þá þjónustu að hlaða niður myndböndum.",
+          "question": "Get ég sótt myndir frá?"
+        },
+        "4": {
+          "answer": "Já, þessi vefsíða er örugg. ",
+          "question": "Er þessi vefsíða örugg?"
+        },
+        "5": {
+          "answer": "Já, þú getur notað vefsíðuna úr farsímanum þínum eða spjaldtölvunni.",
+          "question": "Get ég notað vefsíðuna úr farsímanum mínum?"
+        },
+        "6": {
+          "answer": "Ef myndbandið sem þú vilt hlaða niður er ekki tiltækt skaltu reyna aftur síðar.",
+          "question": "Hvað ef myndbandið sem ég vil hlaða niður er ekki tiltækt?"
+        },
+        "7": {
+          "answer": "Nei, þú getur ekki hlaðið niður myndböndum af einkareikningum.",
+          "question": "Get ég hlaðið niður myndböndum af einkareikningum?"
+        },
+        "8": {
+          "answer": "Besta sniðið til að hlaða niður myndböndum á er MP4. ",
+          "question": "Hvaða snið er best til að hlaða niður myndböndum á?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Með því að hlaða niður þessu myndbandi samþykkir þú",
+      "#2": "Ekkert vatnsmerki",
+      "#3": "HD gæði",
+      "#4": "Hratt niðurhal",
+      "#5": "Auðvelt að breyta",
+      "#6": "Hvaða snið sem er",
+      "#7": "Hvernig á að hlaða niður myndböndum {name}:",
+      "#8": "Límdu hvaða vídeóslóð sem er",
+      "#9": "Límdu hvaða vídeóslóð sem er á reitinn sem gefinn er upp og smelltu á Sækja. ",
+      "#10": "Breyta eða hlaða niður",
+      "#11": "Þú hefur möguleika á að breyta myndbandinu þínu með því að nota fullkomna föruneytið okkar af myndvinnsluverkfærum. ",
+      "#12": "Deildu tól til að hlaða niður myndbandi á netinu",
+      "#13": "Flyttu út myndbandið þitt og deildu!",
+      "#14": "Augnablik niðurhal myndband á netinu",
+      "#15": "Hlaða niður myndskeiðum á netinu Þú getur hlaðið niður myndskeiðum frá",
+      "#16": "með einum smelli! ",
+      "#17": "Download Video Online virkar beint úr farsíma- eða tölvuvafranum þínum eða farsímaforritinu. ",
+      "#18": "Sæktu myndbandið á netinu og fjarlægðu vatnsmerkið",
+      "#19": "Niðurhal myndbands á netinu gerir þér kleift að hlaða niður efni án vatnsmerkja svo þú getur endurnýtt og deilt þeim hvar sem er. ",
+      "#20": "Bættu raddstýringum við myndbandið þitt samstundis",
+      "#21": "Ef þú hefur ekki tíma eða fjármagn til að bæta talsetningu geturðu notað Download Video Online texta-til-tal hugbúnað!  ",
+      "#22": "Búðu til myndbönd í faglegu útliti með nokkrum smellum",
+      "#23": "Ef þú ert straumspilari eru líkurnar á að þú hafir líka aðrar samfélagsmiðlarásir til að viðhalda.  ",
+      "#24": "Algengar spurningar - Algengar spurningar",
+      "#25": "Sækja með app",
+      "#26": "Við bjóðum nú upp á app fyrir niðurhal myndbands. ",
+      "#27": "googleplay app slóð",
+      "#28": "slóð apple apps",
+      "btnText": "Sækja",
+      "btnLoadingText": "Að sækja"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Friðhelgisstefna",
+      "#1": "Kynning",
+      "#2": "Þessi persónuverndarstefna upplýsir notendur um að vefsíðan ({website_url}) safnar ekki, geymir eða vinnur með neinar persónuupplýsingar. ",
+      "#3": "Vinsamlegast athugaðu að þessi stefna er veitt í samræmi við lagaskilyrði, jafnvel þó að vefsíðan eða þjónustan safni ekki eða geymir neinar persónuupplýsingar.",
+      "#4": "Auglýsingar og greiningar þriðja aðila",
+      "#5": "Við notum auglýsingaþjónustu þriðja aðila, eins og Google AdSense, til að birta auglýsingar á vefsíðunni. ",
+      "#6": "Þú getur afþakkað sérsniðnar auglýsingar með því að heimsækja",
+      "#7": "Auglýsingastillingar",
+      "#8": "eða með heimsókn",
+      "#9": "Breytingar á persónuverndarstefnunni",
+      "#10": "Við áskiljum okkur rétt til að uppfæra, breyta eða skipta út hvaða hluta sem er af stefnunni hvenær sem er með því að birta uppfærða stefnu á vefsíðunni. ",
+      "#11": "Upplýsingar um tengiliði",
+      "#12": "Ef þú hefur einhverjar spurningar eða áhyggjur af þessari stefnu skaltu hafa samband við eiganda vefsíðunnar á",
+      "#13": "Samþykki persónuverndarstefnu",
+      "#14": "Með því að fá aðgang að eða nota vefsíðuna eða þjónustuna, viðurkennir þú að þú hafir lesið, skilið og samþykkir að vera bundinn af skilmálum og skilyrðum þessarar stefnu."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Skilmálar þjónustu"
+    },
+    "dcma": {
+      "title": "Höfundarréttur (DMCA)",
+      "#1": "{name} virðir höfundarrétt allra verka og leyfir ekki notendum að nota vídeó annarra fyrir neitt sem stríðir gegn skilmálum og skilyrðum höfundarréttarverndar. ",
+      "#2": "{name} er í samræmi við Digital Millennium Copyright Act (DMCA) og lokar tafarlaust aðgangi að efni þegar það er rétt tilkynnt.",
+      "#3": "Til að senda inn tilkynningu um brot á höfundarrétti til {name} þarftu að nota póst og senda okkur skilaboð sem innihalda efnislega þær upplýsingar sem krafist er í og ​​fram kemur í kafla 512(c)(3) í Digital Millennium Copyright Act.",
+      "#4": "Nauðsynlegar upplýsingar:",
+      "#5": "1. Tilgreindu sjálfan þig sem annað hvort: a) Eiganda höfundarréttarvarins verks b) Einstaklingur sem „hefur heimild til að koma fram fyrir hönd eiganda einkaréttar sem meint er brotið á. ",
+      "#6": "2. Þekkja höfundarréttarvarið verk sem fullyrt er að hafi verið brotið á.",
+      "#7": "3. Þekkja efnið sem fullyrt er að brjóta gegn eða vera viðfangsefni brotastarfseminnar og sem á að loka fyrir eða gera aðgang að óvirkjaður, svo og upplýsingar sem eru nægilega góðar til að leyfa youtube4kdownloader að finna efnið. ",
+      "#8": "4. Gefðu upp samskiptaupplýsingar sem nægja til þess að við getum haft samband við þig, svo sem heimilisfang, símanúmer og gilt netfang.",
+      "#9": "5. Taktu fram að þú trúir því í góðri trú að notkun efnisins á þann hátt sem kvartað er yfir sé ekki heimiluð af eiganda höfundarréttar, umboðsmönnum hans eða lögum.",
+      "#10": "6. Takið fram að upplýsingarnar í tilkynningunni séu réttar og að kærandi hafi heimild til að koma fram fyrir hönd eiganda einkaréttar sem meintur er brotinn, að fengnum meinsæri.",
+      "#11": "Við móttöku gildrar tilkynningar, eins og krafist er í lögum, munum við loka fyrir aðgang að höfundarréttarlegu efni af vefsíðu okkar.",
+      "#12": "Ef þú hefur einhverjar spurningar, vinsamlegast hafðu samband við okkur á",
+      "#13": "þetta form"
+    },
+    "thankyou": {
+      "title": "Þakka þér fyrir að setja upp Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API fyrir niðurhal myndbands",
+      "#1": "{website_url} API býður upp á auðvelda og þægilega aðferð til að sækja miðlunarskrár frá vinsælustu vefsíðunum og samfélagsmiðlum. ",
+      "#2": "Til að fá aðgang eða fá frekari upplýsingar, vinsamlegast hafðu samband við okkur á "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Hafðu samband við okkur",
+      "#1": "Ef þú hefur einhverjar spurningar, kvartanir eða kröfur varðandi þjónustu okkar, vinsamlegast sendu okkur skilaboð á",
+      "#2": "Endurgjöf",
+      "#3": "Tölvupóstur",
+      "#4": "Skilaboð",
+      "#5": "Sendu inn",
+      "#6": "Tölvupóstur sendur!"
+    }
+  }
+}

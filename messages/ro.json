@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Schimbați limba",
+    "locale": "{locale, select, de {germană} în {engleză} altele {Necunoscute}}"
+  },
+  "Metadata": {
+    "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+    "keywords": "Descărcați videoclipuri YouTube, Descărcați videoclipuri Instagram , Descărcați videoclipuri facebook, Descărcați videoclipuri TikTok, Descărcați videoclipuri Twitch, Descărcați videoclipuri Twitter, Descărcați videoclipuri Pinterest, Descărcați videoclipuri pe rețelele sociale, Descărcați videoclipuri online, Descărcați videoclipuri gratis",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Descărcați video online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Lipiți linkurile video pentru Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Lipiți linkurile video pentru Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Descărcați orice buton video",
+      "btnText": "Descarca",
+      "btnLoadingText": "Preluare"
+    }
+  },
+  "Footer": {
+    "#1": "YouTube Downloader",
+    "#2": "Youtube Video Downloader",
+    "#3": "Convertor Youtube în MP3",
+    "#4": "Convertor Youtube în MP4",
+    "#5": "YouTube Shorts Downloader",
+    "#6": "Descărcător Facebook",
+    "#7": "Descărcați videoclipul facebook",
+    "#8": "Convertor Facebook în MP4",
+    "#9": "Descărcați Facebook Reel",
+    "#10": "Instagram Downloader",
+    "#11": "Descărcați videoclipul Instagram",
+    "#12": "Descărcați Instagram Reel",
+    "#13": "Convertor Instagram în Mp4",
+    "#14": "Alt program de descărcare",
+    "#15": "Descărcați Video TikTok",
+    "#16": "Descărcați videoclipul Twitter",
+    "#17": "Descărcați Video Twitch",
+    "#18": "Descărcați videoclipul Twitch Clip",
+    "#20": "Legal",
+    "#21": "Politica de confidențialitate",
+    "#22": "Termenii serviciului",
+    "#23": "DCMA",
+    "#24": "a lua legatura",
+    "#25": "Blog",
+    "#26": "Alăturaţi-ne!",
+    "#27": "Abonati-va",
+    "#28": "Toate drepturile rezervate."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Descărcați videoclipul Twitch Clip",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați clipuri Twitch ,Descărcător de clipuri Twitch ,Salvați clipuri Twitch ,Cum să descărcați clipuri din Twitch ,Descărcare clipuri Twitch online ,Descărcare gratuită a clipurilor Twitch ,Economisor de clipuri Twitch ,Descărcați clipuri Twitch fără filigran ,Capturator de clipuri Twitch ,Descărcare clipuri Twitch în MP4",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Twitch Clip",
+        "arialLabel": "Lipiți linkurile video Twitch Clip",
+        "btnArialLabel": "Descărcați orice buton Twitch Clip video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu copiați linkul video Twitch și inserați-l în instrumentul nostru. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri Twitch?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Twitch. ",
+          "question": "Este legal să descărcați videoclipuri Twitch folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este optimizat pentru utilizarea mobilă, permițând utilizatorilor să descarce videoclipuri Twitch pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Twitch pe dispozitive mobile folosind instrumentul dvs.?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Twitch, inclusiv cele de diferite lungimi și formate. ",
+          "question": "Există restricții privind durata sau tipul videoclipurilor Twitch care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri Twitch HD (de înaltă definiție), oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD Twitch cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Dacă întâmpinați dificultăți, vă rugăm să consultați secțiunea noastră Întrebări frecvente de pe site pentru sfaturi de depanare. ",
+          "question": "Ce ar trebui să fac dacă întâmpin probleme în timpul utilizării instrumentului dvs.?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Twitch pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": " Pot descărca videoclipuri Twitch pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Ne actualizăm în mod regulat instrumentul pentru a ne adapta oricăror modificări din platforma Twitch, asigurând o compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați videoclipul Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Descărcați Video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați videoclipuri Twitch ,Descărcător de videoclipuri Twitch ,Salvați videoclipuri Twitch ,Cum să descărcați videoclipuri din Twitch ,Descărcare clipuri Twitch ,Descărcare gratuită de videoclipuri Twitch ,Descărcător Twitch VOD ,Descărcați momentele principale Twitch ,Capturare video Twitch ,Descărcare Twitch în MP4",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Twitch",
+        "arialLabel": "Lipiți linkurile video Twitch",
+        "btnArialLabel": "Descărcați orice buton de film Twitch video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu copiați linkul video Twitch și inserați-l în instrumentul nostru. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri Twitch?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Twitch. ",
+          "question": "Este legal să descărcați videoclipuri Twitch folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este optimizat pentru utilizarea mobilă, permițând utilizatorilor să descarce videoclipuri Twitch pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Twitch pe dispozitive mobile folosind instrumentul dvs.?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Twitch, inclusiv cele de diferite lungimi și formate. ",
+          "question": "Există restricții privind durata sau tipul videoclipurilor Twitch care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri Twitch HD (de înaltă definiție), oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD Twitch cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Dacă întâmpinați dificultăți, vă rugăm să consultați secțiunea noastră Întrebări frecvente de pe site pentru sfaturi de depanare. ",
+          "question": "Ce ar trebui să fac dacă întâmpin probleme în timpul utilizării instrumentului dvs.?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Twitch pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": " Pot descărca videoclipuri Twitch pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Ne actualizăm în mod regulat instrumentul pentru a ne adapta oricăror modificări din platforma Twitch, asigurând o compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați videoclipul Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Descărcați videoclipul Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați videoclipuri Twitter ,Descărcător de videoclipuri Twitter ,Salvați videoclipuri Twitter ,Cum să descărcați videoclipuri de pe Twitter ,Descărcare video Twitter online ,Descărcare gratuită de videoclipuri Twitter ,Economisor video Twitter ,Descărcați Twitter fără filigran ,Captură video Twitter ,Descărcare Twitter în MP4",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Twitter",
+        "arialLabel": "Lipiți linkurile video Twitter",
+        "btnArialLabel": "Descărcați orice buton video Twitter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu copiați linkul video Twitter și inserați-l în instrumentul nostru. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri Twitter?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Twitter. ",
+          "question": "Este legal să descărcați videoclipuri Twitter folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este optimizat pentru utilizarea mobilă, permițând utilizatorilor să descarce videoclipuri Twitter pe diferite dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Twitter pe dispozitive mobile folosind instrumentul dvs.?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Twitter, inclusiv cele de diferite lungimi și formate. ",
+          "question": "Există restricții privind durata sau tipul videoclipurilor Twitter care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) Twitter, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD Twitter cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Dacă întâmpinați dificultăți, vă rugăm să consultați secțiunea noastră Întrebări frecvente de pe site pentru sfaturi de depanare. ",
+          "question": "Ce ar trebui să fac dacă întâmpin probleme în timpul utilizării instrumentului dvs.?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Twitter pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": " Pot descărca videoclipuri Twitter pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Ne actualizăm în mod regulat instrumentul pentru a ne adapta oricăror modificări în platforma Twitter, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați videoclipul Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Descărcați Video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați videoclipuri TikTok ,Descărcător de videoclipuri TikTok ,Salvați videoclipuri TikTok ,Cum să descărcați videoclipuri din TikTok ,Descărcare video TikTok online ,Descărcare gratuită video TikTok ,Economisor video TikTok ,Descărcați TikTok fără filigran ,Captură video TikTok ,Descărcare TikTok în MP4",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video tiktok",
+        "arialLabel": "Lipiți linkurile video tiktok",
+        "btnArialLabel": "Descărcați orice buton pentru video tiktok"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu copiați linkul video TikTok și inserați-l în instrumentul nostru. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri TikTok?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile TikTok. ",
+          "question": "Este legal să descărcați videoclipuri TikTok folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este optimizat pentru utilizarea mobilă, permițând utilizatorilor să descarce videoclipuri TikTok pe diferite dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri TikTok pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri TikTok, inclusiv cele de diferite lungimi și formate. ",
+          "question": "Există restricții privind durata sau tipul videoclipurilor TikTok care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) TikTok, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD TikTok cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Dacă întâmpinați dificultăți, vă rugăm să consultați secțiunea noastră Întrebări frecvente de pe site pentru sfaturi de depanare. ",
+          "question": "Ce ar trebui să fac dacă întâmpin probleme în timpul utilizării instrumentului dvs.?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri TikTok pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": " Pot descărca videoclipuri TikTok pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Ne actualizăm în mod regulat instrumentul pentru a ne adapta oricăror modificări din platforma TikTok, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Descărcați videoclipul Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Instagram reel",
+        "arialLabel": "Lipiți linkurile video Instagram reel",
+        "btnArialLabel": "Descărcați orice buton pentru reel de instagram video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului instagram în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri de pe Instagram?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile instagramului. ",
+          "question": "Este legal să descărcați videoclipuri de pe Instagram folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Instagram pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Instagram pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Instagram, inclusiv cele de diferite lungimi și formate. ",
+          "question": " Există restricții privind durata sau tipul videoclipurilor Instagram care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe instagram, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD de pe Instagram cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului pentru a descărca videoclipuri Instagram?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Instagram pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca videoclipuri instagram pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror modificări în platforma Instagram, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările instagramului?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum se descarcă un videoclip pe instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Descărcați Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Instagram reel",
+        "arialLabel": "Lipiți linkurile video Instagram reel",
+        "btnArialLabel": "Descărcați orice buton pentru reel de instagram video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului instagram în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri de pe Instagram?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile instagramului. ",
+          "question": "Este legal să descărcați videoclipuri de pe Instagram folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Instagram pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Instagram pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Instagram, inclusiv cele de diferite lungimi și formate. ",
+          "question": " Există restricții privind durata sau tipul videoclipurilor Instagram care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe instagram, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD de pe Instagram cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului pentru a descărca videoclipuri Instagram?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Instagram pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca videoclipuri instagram pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror modificări în platforma Instagram, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările instagramului?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descarc videoclipul instagram în mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Descărcați videoclipul instagram pe mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Instagram reel",
+        "arialLabel": "Lipiți linkurile video Instagram reel",
+        "btnArialLabel": "Descărcați orice buton pentru reel de instagram video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului instagram în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri de pe Instagram?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile instagramului. ",
+          "question": "Este legal să descărcați videoclipuri de pe Instagram folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Instagram pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Instagram pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Instagram, inclusiv cele de diferite lungimi și formate. ",
+          "question": " Există restricții privind durata sau tipul videoclipurilor Instagram care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe instagram, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD de pe Instagram cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului pentru a descărca videoclipuri Instagram?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Instagram pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca videoclipuri instagram pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror modificări în platforma Instagram, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările instagramului?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum se descarcă videoclipul instagram în mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Descărcați Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați Facebook Reel ,Descărcător Facebook Reel ,Salvați videoclipul Facebook Reel ,Cum să descărcați Reels pe Facebook ,Descărcare Facebook Reel online ,Descărcare gratuită Facebook Reel ,Economisor video Facebook Reel ,Descărcare Reels de pe Facebook ,Capturare video Facebook Reel ,Descărcare offline Facebook Reel",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți link-urile video facebook reel",
+        "arialLabel": "Lipiți link-urile video facebook reel",
+        "btnArialLabel": "Descărcați orice buton video de pe facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului Facebook în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri de pe Facebook?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Facebook. ",
+          "question": "Este legal să descărcați videoclipuri de pe Facebook folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Facebook pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Facebook pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Facebook, inclusiv cele de diferite lungimi și formate. ",
+          "question": " Există restricții privind durata sau tipul videoclipurilor de pe Facebook care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe Facebook, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD de pe Facebook cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului dvs. pentru a descărca videoclipuri Facebook?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Facebook pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca videoclipuri Facebook pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror schimbări în platforma Facebook, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum se descarcă videoclipul de pe Facebook în mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Convertor Facebook în MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Convertor Facebook în MP4 ,Conversie Facebook în MP4 ,Video Facebook în MP4 ,Descărcare MP4 Facebook ,Facebook online în MP4 ,Facebook gratuit în MP4 ,Convertor video Facebook ,Salvează videoclipul Facebook ca MP4 ,Descarcă Facebook în MP4 ,Convertor online MP4 Facebook",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video facebook",
+        "arialLabel": "Lipiți linkurile video facebook",
+        "btnArialLabel": "Descărcați orice buton facebook video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului Facebook Reel în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca Facebook Reels?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Facebook. ",
+          "question": "Este legal să descărcați Facebook Reels folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Facebook pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca Facebook Reels pe dispozitive mobile folosind instrumentul dvs.?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Facebook, inclusiv cele de diferite lungimi și formate. ",
+          "question": "Există restricții privind lungimea sau tipul de role Facebook care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe Facebook, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați HD Facebook Reels cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului dvs. pentru a descărca videoclipuri Facebook?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Facebook pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca Facebook Reels pentru vizualizare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror schimbări în platforma Facebook, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum se descarcă videoclipul de pe Facebook în mp4"
+    },
+    "download-video-facebook": {
+      "title": "Descărcați videoclipul Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați videoclipuri Facebook ,Descărcător video Facebook ,Salvați videoclipuri Facebook ,Cum să descărcați videoclipuri de pe Facebook ,Descărcare video Facebook online ,Descărcare gratuită video Facebook ,Economisor video Facebook ,Descărcare videoclipuri private Facebook ,Descărcare video HD Facebook ,Descărcare pe Facebook în MP4, descărcare video ",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video facebook",
+        "arialLabel": "Lipiți linkurile video facebook",
+        "btnArialLabel": "Descărcați orice buton facebook video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pur și simplu inserați adresa URL a videoclipului Facebook în instrumentul nostru și vă va ghida prin procesul de descărcare. ",
+          "question": "Cum folosesc instrumentul tău pentru a descărca videoclipuri de pe Facebook?"
+        },
+        "2": {
+          "answer": "Instrumentul nostru este conceput pentru a respecta termenii și condițiile Facebook. ",
+          "question": "Este legal să descărcați videoclipuri de pe Facebook folosind instrumentul dvs.?"
+        },
+        "3": {
+          "answer": "Da, instrumentul nostru este compatibil cu dispozitivele mobile, permițând utilizatorilor să descarce videoclipuri Facebook pe diverse dispozitive, inclusiv smartphone-uri și tablete.",
+          "question": "Pot descărca videoclipuri Facebook pe dispozitive mobile folosind instrumentul tău?"
+        },
+        "4": {
+          "answer": "Instrumentul nostru acceptă descărcarea unei game largi de videoclipuri Facebook, inclusiv cele de diferite lungimi și formate. ",
+          "question": " Există restricții privind durata sau tipul videoclipurilor de pe Facebook care pot fi descărcate?"
+        },
+        "5": {
+          "answer": "Da, instrumentul nostru acceptă descărcarea de videoclipuri HD (de înaltă definiție) de pe Facebook, oferind utilizatorilor opțiunea de a se bucura de conținut de calitate superioară.",
+          "question": "Este posibil să descărcați videoclipuri HD de pe Facebook cu instrumentul dvs.?"
+        },
+        "6": {
+          "answer": "Luăm securitatea în serios. ",
+          "question": "Există riscuri asociate cu utilizarea instrumentului dvs. pentru a descărca videoclipuri Facebook?"
+        },
+        "7": {
+          "answer": "Da, instrumentul nostru oferă o opțiune de a descărca videoclipuri Facebook pentru vizionare offline, permițând utilizatorilor să se bucure de conținut chiar și fără o conexiune la internet.",
+          "question": "Pot descărca videoclipuri Facebook pentru vizionare offline folosind instrumentul dvs.?"
+        },
+        "8": {
+          "answer": "Actualizăm în mod regulat instrumentul nostru pentru a ne adapta oricăror schimbări în platforma Facebook, asigurând compatibilitate continuă și o experiență de utilizator fără probleme.",
+          "question": "Cât de des este actualizat instrumentul dvs. pentru a asigura compatibilitatea cu modificările Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum se descarcă videoclipul facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcarea videoclipurilor YouTube, Descărcarea videoclipurilor YouTube, Instrumentul de descărcare YouTube, Salvarea videoclipurilor YouTube, Cum să descărcați videoclipuri de pe YouTube, Descărcarea videoclipurilor YouTube online, Descărcarea videoclipurilor HD de pe YouTube, Economizor de videoclipuri YouTube, Captură video YouTube, Descărcare gratuită de videoclipuri YouTube",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Youtube",
+        "arialLabel": "Lipiți linkurile video Youtube",
+        "btnArialLabel": "Descărcați orice buton video de pe youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Puteți utiliza aceste instrumente online sau software conceput pentru descărcarea videoclipurilor YouTube. ",
+          "question": "Cum descarc videoclipuri de pe YouTube?"
+        },
+        "2": {
+          "answer": "Descărcarea videoclipurilor YouTube fără permisiune poate încălca termenii și condițiile YouTube. ",
+          "question": "Este legal să descărcați videoclipuri de pe YouTube?"
+        },
+        "3": {
+          "answer": "Da, diverse servicii online oferă descărcări de videoclipuri YouTube. ",
+          "question": "Există servicii online pentru descărcarea videoclipurilor YouTube?"
+        },
+        "4": {
+          "answer": "Da, există aplicații mobile și site-uri web care vă permit să descărcați videoclipuri YouTube direct pe dispozitivul mobil pentru vizionare offline.",
+          "question": "Pot descărca videoclipuri YouTube pe dispozitive mobile?"
+        },
+        "5": {
+          "answer": "Formatele acceptate în mod obișnuit includ MP",
+          "question": "Ce formate video sunt acceptate pentru videoclipurile YouTube descărcate?"
+        },
+        "6": {
+          "answer": "Da, este recomandat să obțineți permisiunea de la creatorul de conținut sau să verificați informațiile de licență ale videoclipului înainte de a-l descărca și utiliza.",
+          "question": "Am nevoie de permisiunea pentru a descărca și utiliza videoclipuri YouTube?"
+        },
+        "7": {
+          "answer": "Termenii și condițiile YouTube interzic descărcarea neautorizată de videoclipuri. ",
+          "question": "Există restricții privind descărcarea conținutului YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube oferă o modalitate legală de a descărca videoclipuri pentru vizionare offline prin aplicația lor. ",
+          "question": "Pot descărca videoclipuri YouTube pentru vizionare offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați video de pe youtube online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Convertor Youtube în MP3",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube în MP3 ,Conversie YouTube în MP3 ,Convertor YouTube MP3 ,Descărcare audio YouTube ,YouTube în MP3 online ,YouTube în MP3 gratuit ,Convertor YouTube în MP3 online ,Conversie video YouTube în MP3 ,Convertor sunet YouTube ,Descărcare audio YouTube",
+      "description": "Youtube to MP3 Converter este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Youtube",
+        "arialLabel": "Lipiți linkurile video Youtube",
+        "btnArialLabel": "Descărcați orice buton video youtube mp3"
+      },
+      "faq": {
+        "1": {
+          "answer": "Puteți utiliza aceste instrumente online sau software conceput pentru descărcarea videoclipurilor YouTube. ",
+          "question": "Cum descarc videoclipuri de pe YouTube?"
+        },
+        "2": {
+          "answer": "Descărcarea videoclipurilor YouTube fără permisiune poate încălca termenii și condițiile YouTube. ",
+          "question": "Este legal să descărcați videoclipuri de pe YouTube?"
+        },
+        "3": {
+          "answer": "Da, diverse servicii online oferă descărcări de videoclipuri YouTube. ",
+          "question": "Există servicii online pentru descărcarea videoclipurilor YouTube?"
+        },
+        "4": {
+          "answer": "Da, există aplicații mobile și site-uri web care vă permit să descărcați videoclipuri YouTube direct pe dispozitivul mobil pentru vizionare offline.",
+          "question": "Pot descărca videoclipuri YouTube pe dispozitive mobile?"
+        },
+        "5": {
+          "answer": "Formatele acceptate în mod obișnuit includ MP",
+          "question": "Ce formate video sunt acceptate pentru videoclipurile YouTube descărcate?"
+        },
+        "6": {
+          "answer": "Da, este recomandat să obțineți permisiunea de la creatorul de conținut sau să verificați informațiile de licență ale videoclipului înainte de a-l descărca și utiliza.",
+          "question": "Am nevoie de permisiunea pentru a descărca și utiliza videoclipuri YouTube?"
+        },
+        "7": {
+          "answer": "Termenii și condițiile YouTube interzic descărcarea neautorizată de videoclipuri. ",
+          "question": "Există restricții privind descărcarea conținutului YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube oferă o modalitate legală de a descărca videoclipuri pentru vizionare offline prin aplicația lor. ",
+          "question": "Pot descărca videoclipuri YouTube pentru vizionare offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați Youtube pe MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Convertor Youtube în MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube în MP4 ,Conversie YouTube în MP4 ,Convertor YouTube MP4 ,Descărcare audio YouTube ,YouTube în MP4 online ,YouTube în MP4 gratuit ,Convertor YouTube în MP4 online ,Conversie video YouTube în MP4 ,Convertor sunet YouTube ,Descărcare audio YouTube",
+      "description": "Youtube to MP4 Converter este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Youtube",
+        "arialLabel": "Lipiți linkurile video Youtube",
+        "btnArialLabel": "Descărcați orice buton video youtube MP4"
+      },
+      "faq": {
+        "1": {
+          "answer": "Puteți utiliza aceste instrumente online sau software conceput pentru descărcarea videoclipurilor YouTube. ",
+          "question": "Cum descarc videoclipuri de pe YouTube?"
+        },
+        "2": {
+          "answer": "Descărcarea videoclipurilor YouTube fără permisiune poate încălca termenii și condițiile YouTube. ",
+          "question": "Este legal să descărcați videoclipuri de pe YouTube?"
+        },
+        "3": {
+          "answer": "Da, diverse servicii online oferă descărcări de videoclipuri YouTube. ",
+          "question": "Există servicii online pentru descărcarea videoclipurilor YouTube?"
+        },
+        "4": {
+          "answer": "Da, există aplicații mobile și site-uri web care vă permit să descărcați videoclipuri YouTube direct pe dispozitivul mobil pentru vizionare offline.",
+          "question": "Pot descărca videoclipuri YouTube pe dispozitive mobile?"
+        },
+        "5": {
+          "answer": "Formatele acceptate în mod obișnuit includ MP",
+          "question": "Ce formate video sunt acceptate pentru videoclipurile YouTube descărcate?"
+        },
+        "6": {
+          "answer": "Da, este recomandat să obțineți permisiunea de la creatorul de conținut sau să verificați informațiile de licență ale videoclipului înainte de a-l descărca și utiliza.",
+          "question": "Am nevoie de permisiunea pentru a descărca și utiliza videoclipuri YouTube?"
+        },
+        "7": {
+          "answer": "Termenii și condițiile YouTube interzic descărcarea neautorizată de videoclipuri. ",
+          "question": "Există restricții privind descărcarea conținutului YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube oferă o modalitate legală de a descărca videoclipuri pentru vizionare offline prin aplicația lor. ",
+          "question": "Pot descărca videoclipuri YouTube pentru vizionare offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați Youtube pe MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "YouTube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Descărcați scurtmetraje YouTube ,Descărcați scurtmetraje YouTube ,Salvați scurtmetraje YouTube ,Descărcați scurtmetraje de pe YouTube ,Descărcați scurt video YouTube ,Cum să salvați scurtmetraje YouTube ,Descărcați scurtmetraje pe YouTube ,Descărcător de scurtmetraje YouTube ,Descărcare scurtă YouTube offline ,Descărcare gratuită Shorts YouTube",
+      "description": "Youtube Shorts Downloader este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "form": {
+        "placeholder": "Lipiți linkurile video Youtube Short",
+        "arialLabel": "Lipiți linkurile video Youtube Short",
+        "btnArialLabel": "Descărcați orice buton scurt youtube video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Începând cu ultima mea actualizare din ianuarie 2022, YouTube Shorts sunt destinate în principal vizionării scurte pe mobil și este posibil să nu aibă o opțiune de descărcare directă. ",
+          "question": "Cum descarc YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Descărcarea de scurtmetraje YouTube fără autorizarea corespunzătoare poate încălca termenii și condițiile YouTube. ",
+          "question": "Este legal să descărcați YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Da, diverse servicii online oferă descărcări de videoclipuri YouTube. ",
+          "question": "Pot descărca YouTube Shorts pe dispozitive mobile?"
+        },
+        "4": {
+          "answer": "Termenii și condițiile YouTube interzic în general descărcarea neautorizată de conținut. ",
+          "question": "Există restricții cu privire la descărcarea YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube oferă opțiuni în cadrul aplicației pentru a partaja scurtmetraje pe diverse platforme. ",
+          "question": "Cum pot salva sau distribui în mod legal scurtmetraje YouTube?"
+        },
+        "6": {
+          "answer": "Shorts YouTube sunt de obicei concepute pentru vizionare online. ",
+          "question": "Pot descărca YouTube Shorts pentru vizionare offline?"
+        },
+        "7": {
+          "answer": "Termenii și condițiile YouTube interzic descărcarea neautorizată de videoclipuri. ",
+          "question": "Există restricții privind descărcarea conținutului YouTube?"
+        },
+        "8": {
+          "answer": "Dacă întâmpinați probleme cu YouTube Shorts sau cu funcțiile sale, contactați asistența YouTube sau consultați Centrul de ajutor pentru îndrumări cu privire la raportarea problemelor.",
+          "question": "Cum pot raporta probleme cu YouTube Shorts sau cu funcțiile sale de descărcare?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cum să descărcați YouTube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "descarca video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "descărcați videoclipuri pe Twitter"
+    },
+    "general": {
+      "title": "Descărcați video online",
+      "keywords": "Descărcați videoclipuri YouTube, Descărcați videoclipuri Instagram , Descărcați videoclipuri facebook, Descărcați videoclipuri TikTok, Descărcați videoclipuri Twitch, Descărcați videoclipuri Twitter, Descărcați videoclipuri Pinterest, Descărcați videoclipuri pe rețelele sociale, Descărcați videoclipuri online, Descărcați videoclipuri gratis",
+      "datePublished": "2021-10-01",
+      "description": "Descărcare video online este un software rapid și sigur care permite descărcări nelimitate de videoclipuri de pe internet. ",
+      "faq": {
+        "1": {
+          "answer": "Da, acest site este gratuit. ",
+          "question": "Acest site este gratuit?"
+        },
+        "2": {
+          "answer": "Nu, descărcarea poveștilor nu este acceptată.",
+          "question": "Pot descărca povești?"
+        },
+        "3": {
+          "answer": "Nu, oferim doar serviciul de descărcare a videoclipurilor.",
+          "question": "Pot descărca imagini de la?"
+        },
+        "4": {
+          "answer": "Da, acest site este sigur. ",
+          "question": "Acest site este sigur?"
+        },
+        "5": {
+          "answer": "Da, puteți utiliza site-ul de pe mobil sau tabletă.",
+          "question": "Pot folosi site-ul de pe mobil?"
+        },
+        "6": {
+          "answer": "Dacă videoclipul pe care doriți să îl descărcați nu este disponibil, încercați din nou mai târziu.",
+          "question": "Ce se întâmplă dacă videoclipul pe care vreau să-l descarc nu este disponibil?"
+        },
+        "7": {
+          "answer": "Nu, nu puteți descărca videoclipuri din conturi private.",
+          "question": "Pot descărca videoclipuri din conturi private?"
+        },
+        "8": {
+          "answer": "Cel mai bun format pentru a descărca videoclipuri este MP4. ",
+          "question": "Care este cel mai bun format pentru a descărca videoclipuri?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Descărcând acest videoclip, sunteți de acord cu",
+      "#2": "Fără filigran",
+      "#3": "calitate HD",
+      "#4": "Descarcare rapida",
+      "#5": "Ușor de editat",
+      "#6": "Orice format",
+      "#7": "Cum să descărcați videoclipuri {name}:",
+      "#8": "Inserați o adresă URL a oricărui videoclip",
+      "#9": "Lipiți o adresă URL a oricărui videoclip în câmpul furnizat și apăsați Descărcare. ",
+      "#10": "Editați sau descărcați",
+      "#11": "Aveți opțiunea de a vă edita videoclipul folosind suita noastră completă de instrumente de editare video. ",
+      "#12": "Partajați instrumentul de descărcare video online",
+      "#13": "Exportați videoclipul și distribuiți-l!",
+      "#14": "Descărcare instantanee video online",
+      "#15": "Descărcare video online Puteți descărca clipuri video de la",
+      "#16": "într-un singur clic! ",
+      "#17": "Descărcarea video online funcționează direct din browserul mobil sau desktop sau din aplicația mobilă. ",
+      "#18": "Descărcați videoclipul online și eliminați filigranul",
+      "#19": "Descărcați video online vă permite să descărcați conținut fără filigrane, astfel încât să le puteți reutiliza și partaja oriunde. ",
+      "#20": "Adăugați instantaneu voci la videoclipul dvs",
+      "#21": "Dacă nu aveți timp sau resurse pentru a adăuga voce în off, puteți utiliza software-ul Download Video Online de conversie a textului în vorbire!  ",
+      "#22": "Creează videoclipuri cu aspect profesional în câteva clicuri",
+      "#23": "Dacă sunteți un streamer, sunt șanse să aveți și alte canale de rețele sociale de întreținut.  ",
+      "#24": "Întrebări frecvente - Întrebări frecvente",
+      "#25": "Descărcați cu aplicația",
+      "#26": "Acum oferim o aplicație pentru descărcare video. ",
+      "#27": "adresa URL a aplicației googleplay",
+      "#28": "adresa URL a aplicației Apple",
+      "btnText": "Descarca",
+      "btnLoadingText": "Preluare"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Politica de confidențialitate",
+      "#1": "Introducere",
+      "#2": "Această Politică de confidențialitate informează utilizatorii că site-ul web ({website_url}) nu colectează, stochează și nu procesează nicio informație cu caracter personal. ",
+      "#3": "Vă rugăm să rețineți că această Politică este furnizată în conformitate cu cerințele legale, chiar dacă site-ul sau Serviciul nu colectează și nu stochează informații personale.",
+      "#4": "Publicitate și analiză terță parte",
+      "#5": "Folosim servicii de publicitate terță parte, cum ar fi Google AdSense, pentru a difuza reclame pe site. ",
+      "#6": "Puteți renunța la publicitatea personalizată vizitând",
+      "#7": "Setări pentru anunțuri",
+      "#8": "sau prin vizitare",
+      "#9": "Modificări ale Politicii de confidențialitate",
+      "#10": "Ne rezervăm dreptul de a actualiza, modifica sau înlocui orice parte a Politicii în orice moment prin publicarea Politicii actualizate pe Site. ",
+      "#11": "Informații de contact",
+      "#12": "Dacă aveți întrebări sau nelămuriri cu privire la această politică, vă rugăm să contactați proprietarul site-ului la adresa",
+      "#13": "Acceptarea Politicii de confidențialitate",
+      "#14": "Prin accesarea sau utilizarea site-ului sau a serviciului, confirmați că ați citit, înțeles și sunteți de acord să respectați termenii și condițiile acestei Politici."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Termenii serviciului"
+    },
+    "dcma": {
+      "title": "Drepturi de autor (DMCA)",
+      "#1": "{name} respectă drepturile de autor pentru toate lucrările și nu permite utilizatorilor să folosească videoclipurile altora pentru orice contravine termenilor și condițiilor de protecție a drepturilor de autor. ",
+      "#2": "{name} respectă Digital Millennium Copyright Act (DMCA) și suspendă imediat accesul la Conținut atunci când este notificat corespunzător.",
+      "#3": "Pentru a depune o notificare de încălcare a drepturilor de autor cu {name}, va trebui să folosiți e-mailul și să ne trimiteți un mesaj care include în mod substanțial informațiile cerute de și menționate în Secțiunea 512(c)(3) din Digital Millennium Copyright Act.",
+      "#4": "Informatia necesara:",
+      "#5": "1. Identificați-vă fie ca: a) proprietarul unei lucrări protejate prin drepturi de autor b) o persoană „autorizată să acționeze în numele proprietarului unui drept exclusiv despre care se presupune că este încălcat”. ",
+      "#6": "2. Identificați lucrarea protejată prin drepturi de autor despre care se pretinde că a fost încălcată.",
+      "#7": "3. Identificați Conținutul despre care se pretinde că încalcă drepturile de autor sau că face obiectul activității care încalcă drepturile de autor și care urmează să fie suspendat sau accesul la care urmează să fie dezactivat, precum și informații suficiente pentru a permite youtube4kdownloader să localizeze Conținutul. ",
+      "#8": "4. Furnizați informații de contact care sunt suficient de rezonabile pentru a ne permite să vă contactăm, cum ar fi o adresă, un număr de telefon și o adresă de e-mail validă.",
+      "#9": "5. Declarați că credeți cu bună-credință că utilizarea Conținutului în modul reclamat nu este autorizată de proprietarul drepturilor de autor, de agenții săi sau de lege.",
+      "#10": "6. Precizați că informațiile din notificare sunt exacte și, sub sancțiunea de sperjur, partea reclamantă este autorizată să acționeze în numele proprietarului unui drept exclusiv despre care se presupune că a fost încălcat.",
+      "#11": "La primirea unei notificări valide, conform prevederilor legale, vom suspenda accesul la conținutul drepturilor de autor de pe site-ul nostru.",
+      "#12": "Dacă aveți întrebări, vă rugăm să ne contactați la",
+      "#13": "acest formular"
+    },
+    "thankyou": {
+      "title": "Vă mulțumim pentru instalarea Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API de descărcare video",
+      "#1": "API-ul {website_url} oferă o metodă ușoară și convenabilă pentru preluarea fișierelor media de pe cele mai populare site-uri web și platforme de social media. ",
+      "#2": "Pentru a obține acces sau pentru a obține mai multe informații, vă rugăm să ne contactați la "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Contactaţi-ne",
+      "#1": "Dacă aveți întrebări, reclamații sau reclamații cu privire la Serviciile noastre, vă rugăm să ne trimiteți un mesaj la adresa",
+      "#2": "Părere",
+      "#3": "E-mail",
+      "#4": "Mesaj",
+      "#5": "Trimite",
+      "#6": "Email-ul a fost trimis cu succes !"
+    }
+  }
+}

@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "改变语言",
+    "locale": "{locale, select, de {德语} en {英语} 其他 {未知}}"
+  },
+  "Metadata": {
+    "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+    "keywords": "下载视频 YouTube、下载视频 Instagram、下载视频 facebook、下载视频 TikTok、下载视频 Twitch、下载视频 Twitter、下载视频 Pinterest、下载社交媒体视频、下载在线视频、免费下载视频",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "在线下载视频"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "粘贴 Facebook、Instagram、TikTok、Twitter、Twitch、Youtube 的视频链接。",
+      "arialLabel": "粘贴 Facebook、Instagram、TikTok、Twitter、Twitch、Youtube 的视频链接。",
+      "btnArialLabel": "下载任何视频按钮",
+      "btnText": "下载",
+      "btnLoadingText": "抓取"
+    }
+  },
+  "Footer": {
+    "#1": "影片下载",
+    "#2": "YouTube 视频下载器",
+    "#3": "YouTube 到 MP3 转换器",
+    "#4": "YouTube 到 MP4 转换器",
+    "#5": "YouTube 短片下载器",
+    "#6": "脸书下载器",
+    "#7": "下载视频脸书",
+    "#8": "Facebook 到 MP4 转换器",
+    "#9": "下载 Facebook 卷轴",
+    "#10": "Instagram 下载器",
+    "#11": "下载视频 Instagram",
+    "#12": "下载 Instagram 卷轴",
+    "#13": "Instagram 到 Mp4 转换器",
+    "#14": "其他下载器",
+    "#15": "下载视频 TikTok",
+    "#16": "下载视频",
+    "#17": "下载视频 Twitch",
+    "#18": "下载视频 Twitch 剪辑",
+    "#20": "合法的",
+    "#21": "隐私政策",
+    "#22": "服务条款",
+    "#23": "二甲基丙烯酸甲酯",
+    "#24": "接触",
+    "#25": "博客",
+    "#26": "加入我们！",
+    "#27": "订阅",
+    "#28": "版权所有。"
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "下载视频 Twitch 剪辑",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 Twitch 剪辑，Twitch 剪辑下载器，保存 Twitch 剪辑，如何从 Twitch 下载剪辑，Twitch 剪辑在线下载，免费 Twitch 剪辑下载，Twitch 剪辑保护程序，下载无水印的 Twitch 剪辑，Twitch 剪辑抓取器，Twitch 剪辑到 MP4 下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Twitch Clip",
+        "arialLabel": "粘贴视频链接 Twitch Clip",
+        "btnArialLabel": "下载任何视频 Twitch Clip 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需复制 Twitch 视频链接并将其粘贴到我们的工具中即可。",
+          "question": "如何使用你们的工具下载 Twitch 视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Twitch 的服务条款。",
+          "question": "使用您的工具下载 Twitch 视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具针对移动使用进行了优化，允许用户在各种设备上下载 Twitch 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用您的工具在移动设备上下载 Twitch 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Twitch 视频，包括不同长度和格式的视频。",
+          "question": "可下载的 Twitch 视频的长度或类型有任何限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持下载 HD（高清）Twitch 视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具下载高清 Twitch 视频？"
+        },
+        "6": {
+          "answer": "如果您遇到任何困难，请查看网站上的常见问题解答部分以获取故障排除提示。",
+          "question": "如果我在使用你们的工具时遇到任何问题，我该怎么办？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Twitch 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": " 我可以使用您的工具下载 Twitch 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 Twitch 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Twitch 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载视频 Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "下载视频 Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 Twitch 视频、Twitch 视频下载器、保存 Twitch 视频、如何从 Twitch 下载视频、Twitch 剪辑下载、免费 Twitch 视频下载、Twitch VOD 下载器、下载 Twitch 精彩集锦、Twitch 视频采集器、Twitch 到 MP4 下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Twitch",
+        "arialLabel": "粘贴视频链接 Twitch",
+        "btnArialLabel": "下载任何视频 Twitch 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需复制 Twitch 视频链接并将其粘贴到我们的工具中即可。",
+          "question": "如何使用你们的工具下载 Twitch 视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Twitch 的服务条款。",
+          "question": "使用您的工具下载 Twitch 视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具针对移动使用进行了优化，允许用户在各种设备上下载 Twitch 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用您的工具在移动设备上下载 Twitch 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Twitch 视频，包括不同长度和格式的视频。",
+          "question": "可下载的 Twitch 视频的长度或类型有任何限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持下载 HD（高清）Twitch 视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具下载高清 Twitch 视频？"
+        },
+        "6": {
+          "answer": "如果您遇到任何困难，请查看网站上的常见问题解答部分以获取故障排除提示。",
+          "question": "如果我在使用你们的工具时遇到任何问题，我该怎么办？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Twitch 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": " 我可以使用您的工具下载 Twitch 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 Twitch 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Twitch 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载视频 Twitch"
+    },
+    "download-video-twitter": {
+      "title": "下载视频",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 Twitter 视频，Twitter 视频下载器，保存 Twitter 视频，如何从 Twitter 下载视频，Twitter 视频在线下载，免费 Twitter 视频下载，Twitter 视频保护程序，下载无水印的 Twitter，Twitter 视频采集器，Twitter 到 MP4 下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Twitter",
+        "arialLabel": "粘贴视频链接 Twitter",
+        "btnArialLabel": "下载任何视频 Twitter 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需复制 Twitter 视频链接并将其粘贴到我们的工具中即可。",
+          "question": "如何使用你们的工具下载 Twitter 视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Twitter 的服务条款。",
+          "question": "使用你们的工具下载 Twitter 视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具针对移动使用进行了优化，允许用户在各种设备上下载 Twitter 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Twitter 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Twitter 视频，包括不同长度和格式的视频。",
+          "question": "可下载的 Twitter 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持下载HD（高清）Twitter 视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具下载高清 Twitter 视频？"
+        },
+        "6": {
+          "answer": "如果您遇到任何困难，请查看网站上的常见问题解答部分以获取故障排除提示。",
+          "question": "如果我在使用你们的工具时遇到任何问题，我该怎么办？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Twitter 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": " 我可以使用你们的工具下载 Twitter 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具以适应 Twitter 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Twitter 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载视频 Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "下载视频抖音",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 TikTok 视频，TikTok 视频下载器，保存 TikTok 视频，如何从 TikTok 下载视频，TikTok 视频在线下载，免费 TikTok 视频下载，TikTok 视频保护程序，下载无水印的 TikTok，TikTok 视频抓取器，TikTok 到 MP4 下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴抖音视频链接",
+        "arialLabel": "粘贴抖音视频链接",
+        "btnArialLabel": "下载任何视频 tiktok 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需复制 TikTok 视频链接并将其粘贴到我们的工具中即可。",
+          "question": "如何使用你们的工具下载 TikTok 视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 TikTok 的服务条款。",
+          "question": "使用你们的工具下载 TikTok 视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具针对移动使用进行了优化，允许用户在各种设备上下载 TikTok 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 TikTok 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 TikTok 视频，包括不同长度和格式的视频。",
+          "question": "可下载的 TikTok 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持下载HD（高清）TikTok视频，为用户提供享受更高质量内容的选择。",
+          "question": "可以使用你们的工具下载高清 TikTok 视频吗？"
+        },
+        "6": {
+          "answer": "如果您遇到任何困难，请查看网站上的常见问题解答部分以获取故障排除提示。",
+          "question": "如果我在使用你们的工具时遇到任何问题，我该怎么办？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 TikTok 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": " 我可以使用你们的工具下载 TikTok 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 TikTok 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 TikTok 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载抖音视频"
+    },
+    "download-video-instagram": {
+      "title": "下载视频 Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Instagram 卷轴",
+        "arialLabel": "粘贴视频链接 Instagram 卷轴",
+        "btnArialLabel": "下载任何视频 Instagram 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Instagram 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "我如何使用你们的工具从 Instagram 下载视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Instagram 的服务条款。",
+          "question": "使用您的工具从 Instagram 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Instagram 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Instagram 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Instagram 视频，包括不同长度和格式的视频。",
+          "question": " 可下载的 Instagram 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Instagram 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具从 Instagram 下载高清视频？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Instagram 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Instagram 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Instagram 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 Instagram 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Instagram 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载 Instagram 视频"
+    },
+    "download-instagram-reel": {
+      "title": "下载 Instagram 卷轴",
+      "datePublished": "2021-10-01",
+      "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Instagram 卷轴",
+        "arialLabel": "粘贴视频链接 Instagram 卷轴",
+        "btnArialLabel": "下载任何视频 Instagram 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Instagram 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "我如何使用你们的工具从 Instagram 下载视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Instagram 的服务条款。",
+          "question": "使用您的工具从 Instagram 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Instagram 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Instagram 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Instagram 视频，包括不同长度和格式的视频。",
+          "question": " 可下载的 Instagram 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Instagram 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具从 Instagram 下载高清视频？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Instagram 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Instagram 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Instagram 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 Instagram 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Instagram 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 Instagram 视频下载到 mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "将 Instagram 视频下载到 mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Instagram 卷轴",
+        "arialLabel": "粘贴视频链接 Instagram 卷轴",
+        "btnArialLabel": "下载任何视频 Instagram 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Instagram 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "我如何使用你们的工具从 Instagram 下载视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Instagram 的服务条款。",
+          "question": "使用您的工具从 Instagram 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Instagram 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Instagram 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Instagram 视频，包括不同长度和格式的视频。",
+          "question": " 可下载的 Instagram 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Instagram 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具从 Instagram 下载高清视频？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Instagram 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Instagram 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Instagram 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具，以适应 Instagram 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Instagram 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 Instagram 视频下载到 mp4"
+    },
+    "download-facebook-reel": {
+      "title": "下载 Facebook 卷轴",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 Facebook Reel，Facebook Reel 下载器，保存 Facebook Reel 视频，如何在 Facebook 下载 Reels，Facebook Reel 在线下载，免费 Facebook Reel 下载，Facebook Reel 视频保存程序，从 Facebook 下载 Reels，Facebook Reel 视频采集器，Facebook Reel 离线下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Facebook 卷轴",
+        "arialLabel": "粘贴视频链接 Facebook 卷轴",
+        "btnArialLabel": "下载任何视频 Facebook 卷轴按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Facebook 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "如何使用你们的工具从 Facebook 下载视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Facebook 的服务条款。",
+          "question": "使用您的工具从 Facebook 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Facebook 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Facebook 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Facebook 视频，包括不同长度和格式的视频。",
+          "question": " 可下载的 Facebook 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Facebook 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具从 Facebook 下载高清视频？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Facebook 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Facebook 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Facebook 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具以适应 Facebook 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Facebook 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 Facebook 视频下载到 mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook 到 MP4 转换器",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook 到 MP4 转换器，将 Facebook 转换为 MP4，Facebook 视频到 MP4，Facebook MP4 下载，在线 Facebook 到 MP4，免费 Facebook 到 MP4，Facebook 视频转换器，将 Facebook 视频另存为 MP4，下载 Facebook 中的 MP4，Facebook MP4 在线转换器",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 facebook",
+        "arialLabel": "粘贴视频链接 facebook",
+        "btnArialLabel": "下载任何视频 Facebook 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Facebook Reel 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "如何使用你们的工具下载 Facebook Reels？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Facebook 的服务条款。",
+          "question": "使用你们的工具下载 Facebook Reels 是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Facebook 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Facebook Reels 吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Facebook 视频，包括不同长度和格式的视频。",
+          "question": "可下载的 Facebook Reels 的长度或类型有任何限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Facebook 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具下载 HD Facebook Reels？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Facebook 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Facebook 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Facebook Reels 以便离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具以适应 Facebook 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Facebook 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 Facebook 视频下载到 mp4"
+    },
+    "download-video-facebook": {
+      "title": "下载视频 Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 Facebook 视频，Facebook 视频下载器，保存 Facebook 视频，如何从 Facebook 下载视频，Facebook 视频在线下载，免费 Facebook 视频下载，Facebook 视频保护程序，下载私人 Facebook 视频，高清 Facebook 视频下载，Facebook 到 MP4 下载，下载视频",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 facebook",
+        "arialLabel": "粘贴视频链接 facebook",
+        "btnArialLabel": "下载任何视频 Facebook 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "只需将 Facebook 视频 URL 粘贴到我们的工具中，它就会引导您完成下载过程。",
+          "question": "如何使用你们的工具从 Facebook 下载视频？"
+        },
+        "2": {
+          "answer": "我们的工具旨在尊重 Facebook 的服务条款。",
+          "question": "使用您的工具从 Facebook 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，我们的工具适合移动设备，允许用户在各种设备上下载 Facebook 视频，包括智能手机和平板电脑。",
+          "question": "我可以使用你们的工具在移动设备上下载 Facebook 视频吗？"
+        },
+        "4": {
+          "answer": "我们的工具支持下载各种 Facebook 视频，包括不同长度和格式的视频。",
+          "question": " 可下载的 Facebook 视频的长度或类型有限制吗？"
+        },
+        "5": {
+          "answer": "是的，我们的工具支持从 Facebook 下载 HD（高清）视频，为用户提供享受更高质量内容的选择。",
+          "question": "是否可以使用您的工具从 Facebook 下载高清视频？"
+        },
+        "6": {
+          "answer": "我们非常重视安全。",
+          "question": "使用您的工具下载 Facebook 视频是否存在任何风险？"
+        },
+        "7": {
+          "answer": "是的，我们的工具提供了下载 Facebook 视频以供离线观看的选项，让用户即使没有互联网连接也能欣赏内容。",
+          "question": "我可以使用你们的工具下载 Facebook 视频以供离线观看吗？"
+        },
+        "8": {
+          "answer": "我们定期更新我们的工具以适应 Facebook 平台的任何变化，确保持续的兼容性和无缝的用户体验。",
+          "question": "您的工具多久更新一次以确保与 Facebook 的更改兼容？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载 Facebook 视频"
+    },
+    "youtube-video-downloader": {
+      "title": "YouTube 视频下载器",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube 视频下载, 下载 YouTube 视频, YouTube 下载器, 保存 YouTube 视频, 如何从 YouTube 下载视频, YouTube 视频在线下载, 从 YouTube 下载高清视频, YouTube 视频保护程序, YouTube 视频采集器, 免费 YouTube 视频下载",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 YouTube",
+        "arialLabel": "粘贴视频链接 YouTube",
+        "btnArialLabel": "下载任何视频 youtube 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "您可以使用此在线工具或专为下载 YouTube 视频而设计的软件。",
+          "question": "如何下载 YouTube 视频？"
+        },
+        "2": {
+          "answer": "未经许可下载 YouTube 视频可能会违反 YouTube 的服务条款。",
+          "question": "从 YouTube 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，各种在线服务都提供 YouTube 视频下载。",
+          "question": "有下载 YouTube 视频的在线服务吗？"
+        },
+        "4": {
+          "answer": "是的，有些移动应用程序和网站允许您将 YouTube 视频直接下载到移动设备上以供离线观看。",
+          "question": "我可以在移动设备上下载 YouTube 视频吗？"
+        },
+        "5": {
+          "answer": "常见支持的格式包括 MP",
+          "question": "下载的 YouTube 视频支持哪些视频格式？"
+        },
+        "6": {
+          "answer": "是的，建议在下载和使用视频之前获得内容创建者的许可或检查视频的许可信息。",
+          "question": "下载和使用 YouTube 视频是否需要获得许可？"
+        },
+        "7": {
+          "answer": "YouTube 的服务条款禁止未经授权下载视频。",
+          "question": "下载 YouTube 内容有任何限制吗？"
+        },
+        "8": {
+          "answer": "是的，YouTube 提供了一种合法的方式来下载视频以通过其应用程序离线观看。",
+          "question": "我可以下载 YouTube 视频以供离线观看吗？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何在线下载 youtube 视频"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "YouTube 到 MP3 转换器",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube 到 MP3，将 YouTube 转换为 MP3，YouTube MP3 转换器，YouTube 音频下载，YouTube 到 MP3 在线，免费 YouTube 到 MP3，YouTube 到 MP3 转换器在线，将 YouTube 视频转换为 MP3，YouTube 声音转换器，下载 YouTube 音频",
+      "description": "Youtube to MP3 Converter 是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 YouTube",
+        "arialLabel": "粘贴视频链接 YouTube",
+        "btnArialLabel": "下载任何视频 youtube mp3 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "您可以使用此在线工具或专为下载 YouTube 视频而设计的软件。",
+          "question": "如何下载 YouTube 视频？"
+        },
+        "2": {
+          "answer": "未经许可下载 YouTube 视频可能会违反 YouTube 的服务条款。",
+          "question": "从 YouTube 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，各种在线服务都提供 YouTube 视频下载。",
+          "question": "有下载 YouTube 视频的在线服务吗？"
+        },
+        "4": {
+          "answer": "是的，有些移动应用程序和网站允许您将 YouTube 视频直接下载到移动设备上以供离线观看。",
+          "question": "我可以在移动设备上下载 YouTube 视频吗？"
+        },
+        "5": {
+          "answer": "常见支持的格式包括 MP",
+          "question": "下载的 YouTube 视频支持哪些视频格式？"
+        },
+        "6": {
+          "answer": "是的，建议在下载和使用视频之前获得内容创建者的许可或检查视频的许可信息。",
+          "question": "下载和使用 YouTube 视频是否需要获得许可？"
+        },
+        "7": {
+          "answer": "YouTube 的服务条款禁止未经授权下载视频。",
+          "question": "下载 YouTube 内容有任何限制吗？"
+        },
+        "8": {
+          "answer": "是的，YouTube 提供了一种合法的方式来下载视频以通过其应用程序离线观看。",
+          "question": "我可以下载 YouTube 视频以供离线观看吗？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 YouTube 下载到 MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "YouTube 到 MP4 转换器",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube 到 MP4，将 YouTube 转换为 MP4，YouTube MP4 转换器，YouTube 音频下载，YouTube 到 MP4 在线，免费 YouTube 到 MP4，YouTube 到 MP4 转换器在线，将 YouTube 视频转换为 MP4，YouTube 声音转换器，下载 YouTube 音频",
+      "description": "Youtube to MP4 Converter 是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 YouTube",
+        "arialLabel": "粘贴视频链接 YouTube",
+        "btnArialLabel": "下载任何 YouTube 视频 MP4 按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "您可以使用此在线工具或专为下载 YouTube 视频而设计的软件。",
+          "question": "如何下载 YouTube 视频？"
+        },
+        "2": {
+          "answer": "未经许可下载 YouTube 视频可能会违反 YouTube 的服务条款。",
+          "question": "从 YouTube 下载视频是否合法？"
+        },
+        "3": {
+          "answer": "是的，各种在线服务都提供 YouTube 视频下载。",
+          "question": "有下载 YouTube 视频的在线服务吗？"
+        },
+        "4": {
+          "answer": "是的，有些移动应用程序和网站允许您将 YouTube 视频直接下载到移动设备上以供离线观看。",
+          "question": "我可以在移动设备上下载 YouTube 视频吗？"
+        },
+        "5": {
+          "answer": "常见支持的格式包括 MP",
+          "question": "下载的 YouTube 视频支持哪些视频格式？"
+        },
+        "6": {
+          "answer": "是的，建议在下载和使用视频之前获得内容创建者的许可或检查视频的许可信息。",
+          "question": "下载和使用 YouTube 视频是否需要获得许可？"
+        },
+        "7": {
+          "answer": "YouTube 的服务条款禁止未经授权下载视频。",
+          "question": "下载 YouTube 内容有任何限制吗？"
+        },
+        "8": {
+          "answer": "是的，YouTube 提供了一种合法的方式来下载视频以通过其应用程序离线观看。",
+          "question": "我可以下载 YouTube 视频以供离线观看吗？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何将 YouTube 下载到 MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "YouTube 短片下载器",
+      "datePublished": "2021-10-01",
+      "keywords": "下载 YouTube Shorts ,YouTube Shorts 下载 ,保存 YouTube Shorts ,从 YouTube 下载 Shorts ,YouTube 短视频下载 ,如何保存 YouTube Shorts ,在 YouTube 上下载 Shorts ,YouTube Shorts 下载器 ,YouTube Shorts 离线下载 ,免费下载 YouTube Shorts",
+      "description": "Youtube Shorts Downloader 是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "form": {
+        "placeholder": "粘贴视频链接 Youtube Short",
+        "arialLabel": "粘贴视频链接 Youtube Short",
+        "btnArialLabel": "下载任何视频 youtube 短按钮"
+      },
+      "faq": {
+        "1": {
+          "answer": "截至 2022 年 1 月我的最后一次更新，YouTube Shorts 主要用于短格式的移动观看，可能没有直接下载选项。",
+          "question": "如何下载 YouTube Shorts？"
+        },
+        "2": {
+          "answer": "未经适当授权下载 YouTube Shorts 可能会违反 YouTube 的服务条款。",
+          "question": "下载 YouTube Shorts 是否合法？"
+        },
+        "3": {
+          "answer": "是的，各种在线服务都提供 YouTube 视频下载。",
+          "question": "我可以在移动设备上下载 YouTube Shorts 吗？"
+        },
+        "4": {
+          "answer": "YouTube 的服务条款通常禁止未经授权下载内容。",
+          "question": "下载 YouTube Shorts 有任何限制吗？"
+        },
+        "5": {
+          "answer": "YouTube 在应用内提供了在各种平台上分享 Shorts 的选项。",
+          "question": "如何合法保存或分享 YouTube Shorts？"
+        },
+        "6": {
+          "answer": "YouTube Shorts 通常是为在线观看而设计的。",
+          "question": "我可以下载 YouTube Shorts 供离线观看吗？"
+        },
+        "7": {
+          "answer": "YouTube 的服务条款禁止未经授权下载视频。",
+          "question": "下载 YouTube 内容有任何限制吗？"
+        },
+        "8": {
+          "answer": "如果您在使用 YouTube Shorts 或其功能时遇到问题，请联系 YouTube 支持人员或查看其帮助中心以获取有关报告问题的指导。",
+          "question": "如何报告 YouTube Shorts 或其下载功能的问题？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "如何下载 YouTube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "下载视频抖音"
+    },
+    "download-from-twitter": {
+      "title": "下载推特视频"
+    },
+    "general": {
+      "title": "在线下载视频",
+      "keywords": "下载视频 YouTube、下载视频 Instagram、下载视频 facebook、下载视频 TikTok、下载视频 Twitch、下载视频 Twitter、下载视频 Pinterest、下载社交媒体视频、下载在线视频、免费下载视频",
+      "datePublished": "2021-10-01",
+      "description": "在线下载视频是一款快速、安全的软件，允许从互联网上无限制地下载视频。",
+      "faq": {
+        "1": {
+          "answer": "是的，这个网站是免费的。",
+          "question": "这个网站是免费的吗？"
+        },
+        "2": {
+          "answer": "不，不支持下载故事。",
+          "question": "我可以下载故事吗？"
+        },
+        "3": {
+          "answer": "不，我们只提供视频下载服务。",
+          "question": "我可以从 处下载图像吗？"
+        },
+        "4": {
+          "answer": "是的，这个网站是安全的。",
+          "question": "这个网站安全吗？"
+        },
+        "5": {
+          "answer": "是的，您可以通过手机或平板电脑使用该网站。",
+          "question": "我可以通过手机使用该网站吗？"
+        },
+        "6": {
+          "answer": "如果您要下载的视频不可用，请稍后重试。",
+          "question": "如果我要下载的视频不可用怎么办？"
+        },
+        "7": {
+          "answer": "不可以，您无法从私人帐户下载视频。",
+          "question": "我可以从私人帐户下载视频吗？"
+        },
+        "8": {
+          "answer": "下载视频的最佳格式是 MP4。 ",
+          "question": "下载视频的最佳格式是什么？"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "下载该视频即表示您同意",
+      "#2": "无水印",
+      "#3": "高清画质",
+      "#4": "快速下载",
+      "#5": "轻松编辑",
+      "#6": "任何格式",
+      "#7": "如何下载视频{name}：",
+      "#8": "粘贴任意视频网址",
+      "#9": "将任意视频 URL 粘贴到提供的字段中，然后点击“下载”。",
+      "#10": "编辑或下载",
+      "#11": "您可以选择使用我们完整的视频编辑工具套件来编辑视频。",
+      "#12": "分享工具 在线下载视频",
+      "#13": "导出您的视频并分享！",
+      "#14": "在线即时下载视频",
+      "#15": "在线下载视频 您可以从以下位置下载视频片段",
+      "#16": "只需轻轻一按！",
+      "#17": "在线下载视频可以直接从您的移动或桌面浏览器或移动应用程序进行。",
+      "#18": "在线下载视频并去除水印",
+      "#19": "在线下载视频可让您下载没有水印的内容，以便您可以重新调整用途并在任何地方共享它们。",
+      "#20": "立即为您的视频添加旁白",
+      "#21": "如果您没有时间或资源添加画外音，您可以使用在线下载视频文本转语音软件！ ",
+      "#22": "只需点击几下即可创建具有专业水准的视频",
+      "#23": "如果您是主播，您很可能还需要维护其他社交媒体渠道。 ",
+      "#24": "常见问题 - FAQ",
+      "#25": "使用应用程序下载",
+      "#26": "我们现在提供一个用于视频下载的应用程序。",
+      "#27": "谷歌播放应用程序网址",
+      "#28": "苹果应用程序网址",
+      "btnText": "下载",
+      "btnLoadingText": "抓取"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "隐私政策",
+      "#1": "介绍",
+      "#2": "本隐私政策告知用户，网站 ({website_url}) 不会收集、存储或处理任何个人信息。",
+      "#3": "请注意，即使网站或服务不收集或存储任何个人信息，本政策也是根据法律要求提供的。",
+      "#4": "第三方广告和分析",
+      "#5": "我们使用第三方广告服务（例如 Google AdSense）在网站上投放广告。",
+      "#6": "您可以通过访问选择退出个性化广告",
+      "#7": "广告设置",
+      "#8": "或通过访问",
+      "#9": "隐私政策的变更",
+      "#10": "我们保留通过在网站上发布更新后的政策来随时更新、修改或替换本政策任何部分的权利。",
+      "#11": "联系信息",
+      "#12": "如果您对本政策有任何疑问或疑虑，请联系网站所有者：",
+      "#13": "接受隐私政策",
+      "#14": "通过访问或使用本网站或服务，您承认您已阅读、理解并同意受本政策的条款和条件的约束。"
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "服务条款"
+    },
+    "dcma": {
+      "title": "版权所有 (DMCA)",
+      "#1": "{name}尊重所有作品的版权，不允许用户将他人的视频用于任何违反版权保护条款和条件的用途。 ",
+      "#2": "{name} 遵守《数字千年版权法》(DMCA)，并在收到适当通知后立即暂停内容访问。",
+      "#3": "要向 {name} 提交版权侵权通知，您需要使用邮件向我们发送一条消息，其中包含《数字千年版权法》第 512(c)(3) 条要求和规定的基本信息。",
+      "#4": "要求（提供）的信息：",
+      "#5": "1. 表明您自己是： a) 受版权保护的作品的所有者 b) “被授权代表涉嫌受到侵犯的专有权所有者行事的人”。",
+      "#6": "2. 指出声称受到侵权的版权作品。",
+      "#7": "3. 确定被指控侵权或侵权活动的内容以及将被暂停或禁止访问的内容，以及足以允许 youtube4kdownloader 找到该内容的信息。",
+      "#8": "4. 提供足以让我们与您联系的联系信息，例如地址、电话号码和有效的电子邮件地址。",
+      "#9": "5. 声明您真诚地相信以所投诉的方式使用内容未经版权所有者、其代理人或法律的授权。",
+      "#10": "6. 声明通知中的信息准确无误，并且投诉方被授权代表据称受到侵犯的专有权所有者行事，如有伪证，愿受处罚。",
+      "#11": "收到有效通知后，根据法律要求，我们将暂停从我们的网站访问版权内容。",
+      "#12": "如果您有任何疑问，请通过以下方式联系我们",
+      "#13": "这个表格"
+    },
+    "thankyou": {
+      "title": "感谢您安装在线下载视频！"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "视频下载接口",
+      "#1": "{website_url} API 提供了一种简单便捷的方法来从最流行的网站和社交媒体平台检索媒体文件。",
+      "#2": "要获得访问权限或获取更多信息，请通过以下方式联系我们： "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "联系我们",
+      "#1": "如果您对我们的服务有任何疑问、投诉或索赔，请给我们发送消息",
+      "#2": "反馈",
+      "#3": "电子邮件",
+      "#4": "信息",
+      "#5": "提交",
+      "#6": "邮件发送成功！"
+    }
+  }
+}

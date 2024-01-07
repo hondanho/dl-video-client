@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Hizkuntza aldatu",
+    "locale": "{locale, select, de {alemana} eta {ingelesa} beste {Ezezaguna}}"
+  },
+  "Metadata": {
+    "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+    "keywords": "Deskargatu Bideoak YouTube, Deskargatu Bideoa Instagram , Deskargatu Bideoa facebook, Deskargatu Bideoak TikTok, Deskargatu Bideoak Twitch, Deskargatu Bideoak Twitter, Deskargatu Bideoak Pinterest, Deskargatu Sare Sozialen Bideoak, Deskargatu Lineako Bideoak, Deskargatu Bideoak Dohainik",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Deskargatu bideoa sarean"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Itsatsi bideo estekak Facebook, Instagram, TikTok, Twitter, Twitch, Youtube...",
+      "arialLabel": "Itsatsi bideo estekak Facebook, Instagram, TikTok, Twitter, Twitch, Youtube...",
+      "btnArialLabel": "Deskargatu edozein bideo-botoi",
+      "btnText": "Deskargatu",
+      "btnLoadingText": "Ekartzen"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube deskargatzailea",
+    "#2": "Youtubeko bideo deskargatzailea",
+    "#3": "Youtubera MP3 bihurgailua",
+    "#4": "Youtubera MP4 bihurgailua",
+    "#5": "Youtubeko laburren deskargatzailea",
+    "#6": "Facebook deskargatzailea",
+    "#7": "Deskargatu bideoa facebook",
+    "#8": "Facebook-en MP4 bihurgailua",
+    "#9": "Deskargatu Facebook Reel",
+    "#10": "Instagram deskargatzailea",
+    "#11": "Deskargatu Instagram bideoa",
+    "#12": "Deskargatu Instagram Reel",
+    "#13": "Instagram To Mp4 Bihurtzailea",
+    "#14": "Beste deskargatzailea",
+    "#15": "Deskargatu TikTok bideoa",
+    "#16": "Deskargatu bideoa Twitter",
+    "#17": "Deskargatu Video Twitch",
+    "#18": "Deskargatu Bideo Twitch Clip",
+    "#20": "Legezkoa",
+    "#21": "Pribatutasun politika",
+    "#22": "Zerbitzu-baldintzak",
+    "#23": "DCMA",
+    "#24": "Harremanetan jarri",
+    "#25": "Bloga",
+    "#26": "Batu zaitez!",
+    "#27": "Harpidetu",
+    "#28": "Eskubide guztiak erreserbatuak."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Deskargatu Bideo Twitch Clip",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu Twitch klipak ,Twitch klipak deskargatzeko ,Twitch klipak gorde ,Twitch klipak nola deskargatu ,Twitch klipak linean deskargatu ,Twitch klipak doako deskarga ,Twitch klipak babeslea ,Twitch klipak ur markarik gabe ,Twitch klipak harrapatzeko ,Twitch klipak MP4 deskargatzeko",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi Twitch Clip bideoaren estekak",
+        "arialLabel": "Itsatsi Twitch Clip bideoaren estekak",
+        "btnArialLabel": "Deskargatu edozein bideo Twitch Clip botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, kopiatu Twitch bideoaren esteka eta itsatsi gure tresnan. ",
+          "question": "Nola erabiltzen dut zure tresna Twitch bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Twitch-en zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Twitch bideoak zure tresna erabiliz deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako erabilerarako optimizatuta dago, erabiltzaileei Twitch bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket Twitch bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Twitch bideo sorta zabala deskargatzen du, luzera eta formatu ezberdinetakoak barne. ",
+          "question": "Ba al dago deskargatu daitezkeen Twitch bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) Twitch bideoak deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD Twitch bideoak deskargatu zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Arazoren bat aurkitzen baduzu, mesedez begiratu gure webguneko Ohiko galderak atala arazoak konpontzeko aholkuak lortzeko. ",
+          "question": "Zer egin behar dut zure tresna erabiltzean arazoren bat aurkitzen badut?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Twitch bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, erabiltzaileek edukiaz gozatu ahal izateko Interneteko konexiorik gabe ere.",
+          "question": " Deskarga al ditzaket Twitch bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Twitch-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Twitch-en aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu bideoa Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Deskargatu Video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu Twitch bideoak ,Twitch bideo deskargatzailea ,Twitch bideoak gorde ,Twitch bideoak nola deskargatu Twitch-tik ,Twitch klipak deskargatu ,Twitch bideo deskargatu doan ,Twitch VOD deskargatzailea ,Twitch-en deskarga aipagarrienak ,Twitch bideo-grabbera ,Twitch MP4 deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi Twitch bideoaren estekak",
+        "arialLabel": "Itsatsi Twitch bideoaren estekak",
+        "btnArialLabel": "Deskargatu edozein bideo Twitch bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, kopiatu Twitch bideoaren esteka eta itsatsi gure tresnan. ",
+          "question": "Nola erabiltzen dut zure tresna Twitch bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Twitch-en zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Twitch bideoak zure tresna erabiliz deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako erabilerarako optimizatuta dago, erabiltzaileei Twitch bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket Twitch bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Twitch bideo sorta zabala deskargatzen du, luzera eta formatu ezberdinetakoak barne. ",
+          "question": "Ba al dago deskargatu daitezkeen Twitch bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) Twitch bideoak deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD Twitch bideoak deskargatu zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Arazoren bat aurkitzen baduzu, mesedez begiratu gure webguneko Ohiko galderak atala arazoak konpontzeko aholkuak lortzeko. ",
+          "question": "Zer egin behar dut zure tresna erabiltzean arazoren bat aurkitzen badut?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Twitch bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, erabiltzaileek edukiaz gozatu ahal izateko Interneteko konexiorik gabe ere.",
+          "question": " Deskarga al ditzaket Twitch bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Twitch-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Twitch-en aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu Twitch bideoa"
+    },
+    "download-video-twitter": {
+      "title": "Deskargatu bideoa Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu Twitter bideoak ,Twitter bideo deskargatzailea ,Twitter bideoak gorde ,Twitter bideoak nola deskargatu ,Twitter bideoak linean deskargatu ,Doako Twitter bideo deskargatu ,Twitter bideo-aurrezlea ,Twitter deskargatu ur-markarik gabe ,Twitter bideo-grabber ,Twitter MP4 deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak Twitter",
+        "arialLabel": "Itsatsi bideo estekak Twitter",
+        "btnArialLabel": "Deskargatu edozein bideo Twitterren bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, kopiatu Twitter bideoaren esteka eta itsatsi gure tresnan. ",
+          "question": "Nola erabiltzen dut zure tresna Twitter bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Twitterren zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Twitter bideoak zure tresna erabiliz deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako erabilerarako optimizatuta dago, erabiltzaileek Twitter bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket Twitter bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Twitterren bideo sorta zabala deskargatzen du, luzera eta formatu ezberdinetakoak barne. ",
+          "question": "Deskargatu daitezkeen Twitter-eko bideoen iraupenari edo motari buruzko mugarik al dago?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) Twitter bideoak deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD Twitter bideoak zure tresnarekin deskargatzea?"
+        },
+        "6": {
+          "answer": "Arazoren bat aurkitzen baduzu, mesedez begiratu gure webguneko Ohiko galderak atala arazoak konpontzeko aholkuak lortzeko. ",
+          "question": "Zer egin behar dut zure tresna erabiltzean arazoren bat aurkitzen badut?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Twitter-eko bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": " Deskargatu al ditzaket Twitter bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Twitterren plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Twitterren aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu bideoa Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Deskargatu Video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu TikTok bideoak, TikTok bideo deskargatzailea, TikTok bideoak gorde, TikTok bideoak nola deskargatu TikTok, TikTok bideo deskargatu online, TikTok bideo deskarga doan, TikTok bideo-aurrezlea, TikTok ur-markarik gabe deskargatu, TikTok bideo-grabber, TikTok MP4 deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak tiktok",
+        "arialLabel": "Itsatsi bideo estekak tiktok",
+        "btnArialLabel": "Deskargatu edozein bideo tiktok bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, kopiatu TikTok bideoaren esteka eta itsatsi gure tresnan. ",
+          "question": "Nola erabiltzen dut zure tresna TikTok bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna TikToken zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da TikTok bideoak deskargatzea zure tresna erabiliz?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako erabilerarako optimizatuta dago, erabiltzaileei TikTok bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskargatu al ditzaket TikTok bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak TikTok bideo sorta zabala deskargatzen du, luzera eta formatu desberdinetakoak barne. ",
+          "question": "Ba al dago deskargatu daitezkeen TikTok bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) TikTok bideoak deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD TikTok bideoak deskargatu zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Arazoren bat aurkitzen baduzu, mesedez begiratu gure webguneko Ohiko galderak atala arazoak konpontzeko aholkuak lortzeko. ",
+          "question": "Zer egin behar dut zure tresna erabiltzean arazoren bat aurkitzen badut?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak TikTok bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": " Deskargatu al ditzaket TikTok bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian gure tresna eguneratzen dugu TikTok-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna TikTok-en aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu bideo tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Deskargatu Instagram bideoa",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak instagram erreela",
+        "arialLabel": "Itsatsi bideo estekak instagram erreela",
+        "btnArialLabel": "Deskargatu edozein bideo instagram bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi instagram bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna instagrametik bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna instagramen zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Instagrametik bideoak deskargatzea zure tresna erabiliz?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako errespetua da, eta erabiltzaileek instagram bideoak deskargatu ditzakete hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket instagram bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak instagram bideo ugari deskargatzen ditu, luzera eta formatu desberdinetakoak barne. ",
+          "question": " Ba al dago deskargatu daitezkeen instagrameko bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak instagrametik deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD bideoak instagrametik deskargatzea zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Instagram bideoak deskargatzeko tresna erabiltzearekin lotutako arriskurik al dago?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak instagram bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskarga al ditzaket instagram bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian gure tresna eguneratzen dugu instagram-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna instagramen aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Instagram bideoa nola deskargatu"
+    },
+    "download-instagram-reel": {
+      "title": "Deskargatu Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak instagram erreela",
+        "arialLabel": "Itsatsi bideo estekak instagram erreela",
+        "btnArialLabel": "Deskargatu edozein bideo instagram bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi instagram bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna instagrametik bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna instagramen zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Instagrametik bideoak deskargatzea zure tresna erabiliz?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako errespetua da, eta erabiltzaileek instagram bideoak deskargatu ditzakete hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket instagram bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak instagram bideo ugari deskargatzen ditu, luzera eta formatu desberdinetakoak barne. ",
+          "question": " Ba al dago deskargatu daitezkeen instagrameko bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak instagrametik deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD bideoak instagrametik deskargatzea zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Instagram bideoak deskargatzeko tresna erabiltzearekin lotutako arriskurik al dago?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak instagram bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskarga al ditzaket instagram bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian gure tresna eguneratzen dugu instagram-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna instagramen aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu instagram bideoa mp4ra"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Deskargatu Instagram bideoa mp4ra",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak instagram erreela",
+        "arialLabel": "Itsatsi bideo estekak instagram erreela",
+        "btnArialLabel": "Deskargatu edozein bideo instagram bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi instagram bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna instagrametik bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna instagramen zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Instagrametik bideoak deskargatzea zure tresna erabiliz?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorrerako errespetua da, eta erabiltzaileek instagram bideoak deskargatu ditzakete hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskarga al ditzaket instagram bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak instagram bideo ugari deskargatzen ditu, luzera eta formatu desberdinetakoak barne. ",
+          "question": " Ba al dago deskargatu daitezkeen instagrameko bideoen iraupenari edo motari buruzko mugarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak instagrametik deskargatzen ditu, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD bideoak instagrametik deskargatzea zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Instagram bideoak deskargatzeko tresna erabiltzearekin lotutako arriskurik al dago?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak instagram bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskarga al ditzaket instagram bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian gure tresna eguneratzen dugu instagram-en plataformako edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna instagramen aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu Instagram bideoa mp4ra"
+    },
+    "download-facebook-reel": {
+      "title": "Deskargatu Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu Facebook Reel ,Facebook Reel deskargatzailea ,Gorde Facebook Reel bideoa ,Nola deskargatu Reels Facebook-en ,Facebook Reel deskargatu online ,Doako Facebook Reel deskarga ,Facebook Reel bideo-aurrezlea ,Reels Facebook-etik deskargatu ,Facebook Reel bideo-grabber ,Facebook Reel lineaz kanpo deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak facebook bobina",
+        "arialLabel": "Itsatsi bideo estekak facebook bobina",
+        "btnArialLabel": "Deskargatu edozein bideo facebook bobina botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi Facebook bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna Facebooketik bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Facebook-en zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da zure tresna erabiliz Facebooketik bideoak deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorretarako egokia da, erabiltzaileek Facebook bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskargatu al ditzaket Facebook bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Facebook bideo ugari deskargatzen ditu, luzera eta formatu ezberdinetakoak barne. ",
+          "question": " Ba al dago deskargatu daitezkeen Facebook bideoen iraupenari edo motari buruzko murrizketarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak Facebooketik deskargatzeko aukera ematen du, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD bideoak deskargatu Facebook-etik zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Arriskurik al dago zure tresna Facebook bideoak deskargatzeko erabiltzearekin?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Facebook-eko bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskargatu al ditzaket Facebook bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Facebook-en plataformaren edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Facebooken aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu facebookeko bideoa mp4ra"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook-en MP4 bihurgailua",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook-en MP4 bihurgailua, Bihurtu Facebook-en MP4-ra,Facebook bideoa MP4-ra,Facebook MP4 deskargatu,Online Facebook-era MP4ra,Doako Facebook-era MP4ra,Facebook bideo-bihurgailua,Gorde Facebook bideoa MP4 gisa,Deskargatu Facebook MP4-n,Facebook MP4 lineako bihurgailua",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak facebook",
+        "arialLabel": "Itsatsi bideo estekak facebook",
+        "btnArialLabel": "Deskargatu edozein bideo Facebook botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi Facebook Reel bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna Facebook Reels deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Facebook-en zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da Facebook Reels deskargatzea zure tresna erabiliz?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorretarako egokia da, erabiltzaileek Facebook bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskargatu al ditzaket Facebook Reels gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Facebook bideo ugari deskargatzen ditu, luzera eta formatu ezberdinetakoak barne. ",
+          "question": "Ba al dago murrizketarik deskargatu daitezkeen Facebook Reelsen luzera edo motan?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak Facebooketik deskargatzeko aukera ematen du, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD Facebook Reels deskargatu zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Arriskurik al dago zure tresna Facebook bideoak deskargatzeko erabiltzearekin?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Facebook-eko bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskarga al dezaket Facebook Reels zure tresna erabiliz lineaz kanpo ikusteko?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Facebook-en plataformaren edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Facebooken aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu facebookeko bideoa mp4ra"
+    },
+    "download-video-facebook": {
+      "title": "Deskargatu bideoa Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu Facebook bideoak ,Facebook bideo deskargatzailea ,Gorde Facebook bideoak ,Nola deskargatu bideoak Facebooketik ,Facebook bideoak linean deskargatu ,Doako Facebook bideo deskargatu ,Facebook bideo-aurrezlea ,Deskargatu Facebook bideo pribatuak ,HD Facebook bideo deskargatu ,Facebook-era MP4 deskargatu, bideoa deskargatu ",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak facebook",
+        "arialLabel": "Itsatsi bideo estekak facebook",
+        "btnArialLabel": "Deskargatu edozein bideo Facebook botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "Besterik gabe, itsatsi Facebook bideoaren URLa gure tresnan, eta deskarga prozesuan zehar gidatuko zaitu. ",
+          "question": "Nola erabiltzen dut zure tresna Facebooketik bideoak deskargatzeko?"
+        },
+        "2": {
+          "answer": "Gure tresna Facebook-en zerbitzu-baldintzak errespetatzeko diseinatuta dago. ",
+          "question": "Legezkoa al da zure tresna erabiliz Facebooketik bideoak deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, gure tresna mugikorretarako egokia da, erabiltzaileek Facebook bideoak deskargatzeko aukera ematen die hainbat gailutan, smartphone eta tabletetan barne.",
+          "question": "Deskargatu al ditzaket Facebook bideoak gailu mugikorretan zure tresna erabiliz?"
+        },
+        "4": {
+          "answer": "Gure tresnak Facebook bideo ugari deskargatzen ditu, luzera eta formatu ezberdinetakoak barne. ",
+          "question": " Ba al dago deskargatu daitezkeen Facebook bideoen iraupenari edo motari buruzko murrizketarik?"
+        },
+        "5": {
+          "answer": "Bai, gure tresnak HD (definizio handiko) bideoak Facebooketik deskargatzeko aukera ematen du, erabiltzaileei kalitate handiagoko edukiaz gozatzeko aukera emanez.",
+          "question": "Posible al da HD bideoak deskargatu Facebook-etik zure tresnarekin?"
+        },
+        "6": {
+          "answer": "Segurtasuna serio hartzen dugu. ",
+          "question": "Arriskurik al dago zure tresna Facebook bideoak deskargatzeko erabiltzearekin?"
+        },
+        "7": {
+          "answer": "Bai, gure tresnak Facebook-eko bideoak deskargatzeko aukera eskaintzen du lineaz kanpo ikusteko, eta erabiltzaileek edukiaz gozatu ahal izango dute Interneteko konexiorik gabe ere.",
+          "question": "Deskargatu al ditzaket Facebook bideoak lineaz kanpo ikusteko zure tresna erabiliz?"
+        },
+        "8": {
+          "answer": "Aldian-aldian eguneratzen dugu gure tresna Facebook-en plataformaren edozein aldaketetara egokitzeko, etengabeko bateragarritasuna eta erabiltzailearen esperientzia ezin hobea bermatuz.",
+          "question": "Zenbat aldiz eguneratzen da zure tresna Facebooken aldaketekin bateragarritasuna ziurtatzeko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu bideoa facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtubeko bideo deskargatzailea",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube bideo deskargatu, Deskargatu YouTube bideoak, YouTube deskargatzailea, Gorde YouTube bideoak, Nola deskargatu YouTube-tik bideoak, YouTube bideoak linean deskargatu, Deskargatu HD bideoak YouTube-tik, YouTube bideo-aurrezlea, YouTube bideo-grabber, Doako YouTube bideo deskargatu",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak Youtube",
+        "arialLabel": "Itsatsi bideo estekak Youtube",
+        "btnArialLabel": "Deskargatu edozein bideo youtube botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube bideoak deskargatzeko diseinatutako sareko tresna edo software hau erabil dezakezu. ",
+          "question": "Nola deskargatzen ditut YouTube bideoak?"
+        },
+        "2": {
+          "answer": "YouTube-ko bideoak baimenik gabe deskargatzeak YouTube-ren zerbitzu-baldintzak urratu ditzake. ",
+          "question": "Legezkoa al da YouTube-tik bideoak deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, lineako hainbat zerbitzu YouTube bideo deskargak eskaintzen dituzte. ",
+          "question": "Ba al dago lineako zerbitzurik YouTube bideoak deskargatzeko?"
+        },
+        "4": {
+          "answer": "Bai, badaude mugikorrerako aplikazioak eta webguneak YouTube bideoak zuzenean zure gailu mugikorrera deskargatzeko aukera ematen dutenak lineaz kanpo ikusteko.",
+          "question": "Deskargatu al ditzaket YouTube bideoak gailu mugikorretan?"
+        },
+        "5": {
+          "answer": "Normalean onartzen diren formatuak MP dira",
+          "question": "Zein bideo formatu onartzen dira deskargatutako YouTube bideoetarako?"
+        },
+        "6": {
+          "answer": "Bai, deskargatu eta erabili aurretik edukiaren sortzailearen baimena lortzea edo bideoaren lizentziari buruzko informazioa egiaztatzea gomendatzen da.",
+          "question": "Baimena behar al dut YouTube bideoak deskargatzeko eta erabiltzeko?"
+        },
+        "7": {
+          "answer": "YouTube-ren zerbitzu-baldintzek bideoak baimenik gabe deskargatzea debekatzen dute. ",
+          "question": "Ba al dago mugarik YouTube edukia deskargatzeko?"
+        },
+        "8": {
+          "answer": "Bai, YouTube-k bideoak deskargatzeko modu legal bat eskaintzen du bere aplikazioaren bidez lineaz kanpo ikusteko. ",
+          "question": "Deskarga al ditzaket YouTube bideoak lineaz kanpo ikusteko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu youtubeko bideoa sarean"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtubera MP3 bihurgailua",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube MP3ra ,Bihurtu YouTube MP3ra ,YouTube MP3 bihurgailua ,YouTube audio deskargatu ,YouTube MP3ra linean ,Doako YouTube MP3ra ,YouTube-ra MP3 bihurgailua linean ,Bihurtu YouTube bideoa MP3ra ,YouTube soinu-bihurgailua ,Deskargatu YouTube audioa",
+      "description": "Youtube to MP3 Converter Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak Youtube",
+        "arialLabel": "Itsatsi bideo estekak Youtube",
+        "btnArialLabel": "Deskargatu edozein bideo youtube mp3 botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube bideoak deskargatzeko diseinatutako sareko tresna edo software hau erabil dezakezu. ",
+          "question": "Nola deskargatzen ditut YouTube bideoak?"
+        },
+        "2": {
+          "answer": "YouTube-ko bideoak baimenik gabe deskargatzeak YouTube-ren zerbitzu-baldintzak urratu ditzake. ",
+          "question": "Legezkoa al da YouTube-tik bideoak deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, lineako hainbat zerbitzu YouTube bideo deskargak eskaintzen dituzte. ",
+          "question": "Ba al dago lineako zerbitzurik YouTube bideoak deskargatzeko?"
+        },
+        "4": {
+          "answer": "Bai, badaude mugikorrerako aplikazioak eta webguneak YouTube bideoak zuzenean zure gailu mugikorrera deskargatzeko aukera ematen dutenak lineaz kanpo ikusteko.",
+          "question": "Deskargatu al ditzaket YouTube bideoak gailu mugikorretan?"
+        },
+        "5": {
+          "answer": "Normalean onartzen diren formatuak MP dira",
+          "question": "Zein bideo formatu onartzen dira deskargatutako YouTube bideoetarako?"
+        },
+        "6": {
+          "answer": "Bai, deskargatu eta erabili aurretik edukiaren sortzailearen baimena lortzea edo bideoaren lizentziari buruzko informazioa egiaztatzea gomendatzen da.",
+          "question": "Baimena behar al dut YouTube bideoak deskargatzeko eta erabiltzeko?"
+        },
+        "7": {
+          "answer": "YouTube-ren zerbitzu-baldintzek bideoak baimenik gabe deskargatzea debekatzen dute. ",
+          "question": "Ba al dago mugarik YouTube edukia deskargatzeko?"
+        },
+        "8": {
+          "answer": "Bai, YouTube-k bideoak deskargatzeko modu legal bat eskaintzen du bere aplikazioaren bidez lineaz kanpo ikusteko. ",
+          "question": "Deskarga al ditzaket YouTube bideoak lineaz kanpo ikusteko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu Youtube MP3ra"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtubera MP4 bihurgailua",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube MP4ra ,Bihurtu YouTube MP4ra ,YouTube MP4 bihurgailua ,YouTube audio deskargatu ,YouTube MP4ra linean ,Doako YouTube MP4ra ,YouTube-ra MP4 bihurgailua linean ,Bihurtu YouTube bideoa MP4ra ,YouTube soinu-bihurgailua ,Deskargatu YouTube audioa",
+      "description": "Youtube to MP4 Converter Internetetik bideo deskarga mugagabeak ahalbidetzen dituen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak Youtube",
+        "arialLabel": "Itsatsi bideo estekak Youtube",
+        "btnArialLabel": "Deskargatu edozein bideo youtube MP4 botoia"
+      },
+      "faq": {
+        "1": {
+          "answer": "YouTube bideoak deskargatzeko diseinatutako sareko tresna edo software hau erabil dezakezu. ",
+          "question": "Nola deskargatzen ditut YouTube bideoak?"
+        },
+        "2": {
+          "answer": "YouTube-ko bideoak baimenik gabe deskargatzeak YouTube-ren zerbitzu-baldintzak urratu ditzake. ",
+          "question": "Legezkoa al da YouTube-tik bideoak deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, lineako hainbat zerbitzu YouTube bideo deskargak eskaintzen dituzte. ",
+          "question": "Ba al dago lineako zerbitzurik YouTube bideoak deskargatzeko?"
+        },
+        "4": {
+          "answer": "Bai, badaude mugikorrerako aplikazioak eta webguneak YouTube bideoak zuzenean zure gailu mugikorrera deskargatzeko aukera ematen dutenak lineaz kanpo ikusteko.",
+          "question": "Deskargatu al ditzaket YouTube bideoak gailu mugikorretan?"
+        },
+        "5": {
+          "answer": "Normalean onartzen diren formatuak MP dira",
+          "question": "Zein bideo formatu onartzen dira deskargatutako YouTube bideoetarako?"
+        },
+        "6": {
+          "answer": "Bai, deskargatu eta erabili aurretik edukiaren sortzailearen baimena lortzea edo bideoaren lizentziari buruzko informazioa egiaztatzea gomendatzen da.",
+          "question": "Baimena behar al dut YouTube bideoak deskargatzeko eta erabiltzeko?"
+        },
+        "7": {
+          "answer": "YouTube-ren zerbitzu-baldintzek bideoak baimenik gabe deskargatzea debekatzen dute. ",
+          "question": "Ba al dago mugarik YouTube edukia deskargatzeko?"
+        },
+        "8": {
+          "answer": "Bai, YouTube-k bideoak deskargatzeko modu legal bat eskaintzen du bere aplikazioaren bidez lineaz kanpo ikusteko. ",
+          "question": "Deskarga al ditzaket YouTube bideoak lineaz kanpo ikusteko?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu Youtube MP4ra"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtubeko laburren deskargatzailea",
+      "datePublished": "2021-10-01",
+      "keywords": "Deskargatu YouTube Shorts ,YouTube Shorts deskargatu ,Gorde YouTube Shorts ,Deskargatu YouTube Shorts ,YouTube bideo laburren deskarga ,Nola gorde YouTube Shorts ,Deskargatu Shorts YouTube-n ,YouTube Shorts deskargatzailea ,YouTube Shorts lineaz kanpo deskargatu ,Doako deskargatu YouTube Shorts",
+      "description": "Youtube Shorts Downloader Internetetik bideo deskarga mugagabeak ahalbidetzen dituen software azkar eta segurua da. ",
+      "form": {
+        "placeholder": "Itsatsi bideo estekak Youtube Short",
+        "arialLabel": "Itsatsi bideo estekak Youtube Short",
+        "btnArialLabel": "Deskargatu edozein bideo youtube botoi laburra"
+      },
+      "faq": {
+        "1": {
+          "answer": "2022ko urtarrilean egin nuen azken eguneratzetik, YouTube laburrak mugikorretarako modu laburrean ikusteko daude nagusiki eta baliteke zuzeneko deskarga aukerarik ez izatea. ",
+          "question": "Nola deskargatzen ditut YouTube Shorts?"
+        },
+        "2": {
+          "answer": "YouTube Shorts baimenik gabe deskargatzeak YouTube-ren zerbitzu-baldintzak urratu ditzake. ",
+          "question": "Legezkoa al da YouTube Shorts deskargatzea?"
+        },
+        "3": {
+          "answer": "Bai, lineako hainbat zerbitzu YouTube bideo deskargak eskaintzen dituzte. ",
+          "question": "Deskargatu al ditzaket YouTube Shorts gailu mugikorretan?"
+        },
+        "4": {
+          "answer": "YouTube-ren zerbitzu-baldintzek, oro har, debekatu egiten dute edukia baimenik gabe deskargatzea. ",
+          "question": "Ba al dago mugarik YouTube Shorts deskargatzeko?"
+        },
+        "5": {
+          "answer": "YouTube-k aplikazioaren barruan hainbat plataformatan laburrak partekatzeko aukerak eskaintzen ditu. ",
+          "question": "Nola gorde edo parteka ditzaket legez YouTube Shorts?"
+        },
+        "6": {
+          "answer": "YouTube laburrak sarean ikusteko diseinatuta daude normalean. ",
+          "question": "Deskarga al ditzaket YouTube Shorts konexiorik gabe ikusteko?"
+        },
+        "7": {
+          "answer": "YouTube-ren zerbitzu-baldintzek bideoak baimenik gabe deskargatzea debekatzen dute. ",
+          "question": "Ba al dago mugarik YouTube edukia deskargatzeko?"
+        },
+        "8": {
+          "answer": "Arazoak aurkitzen badituzu YouTube Shorts-ekin edo haren eginbideekin, jarri harremanetan YouTube-ren laguntzarekin edo begiratu haien Laguntza-zentroa arazoen berri emateko jarraibideak lortzeko.",
+          "question": "Nola jakinarazi ditzaket YouTube Shorts-ekin edo bere deskarga-eginbideekin arazoak?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Nola deskargatu Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "Deskargatu bideoa tiktok"
+    },
+    "download-from-twitter": {
+      "title": "deskargatu twitter bideoak"
+    },
+    "general": {
+      "title": "Deskargatu bideoa sarean",
+      "keywords": "Deskargatu Bideoak YouTube, Deskargatu Bideoa Instagram , Deskargatu Bideoa facebook, Deskargatu Bideoak TikTok, Deskargatu Bideoak Twitch, Deskargatu Bideoak Twitter, Deskargatu Bideoak Pinterest, Deskargatu Sare Sozialen Bideoak, Deskargatu Lineako Bideoak, Deskargatu Bideoak Dohainik",
+      "datePublished": "2021-10-01",
+      "description": "Deskargatu bideoa Online Internetetik bideo deskarga mugagabea ahalbidetzen duen software azkar eta segurua da. ",
+      "faq": {
+        "1": {
+          "answer": "Bai, webgune hau doakoa da. ",
+          "question": "Webgune hau doakoa al da?"
+        },
+        "2": {
+          "answer": "Ez, istorioak deskargatzea ez da onartzen.",
+          "question": "Deskargatu al ditzaket istorioak?"
+        },
+        "3": {
+          "answer": "Ez, bideoak deskargatzeko zerbitzua soilik eskaintzen dugu.",
+          "question": "Deskargatu al ditzaket irudiak?"
+        },
+        "4": {
+          "answer": "Bai, webgune hau segurua da. ",
+          "question": "Webgune hau segurua al da?"
+        },
+        "5": {
+          "answer": "Bai, webgunea mugikorretik edo tabletetik erabil dezakezu.",
+          "question": "Erabili al dezaket webgunea mugikorretik?"
+        },
+        "6": {
+          "answer": "Deskargatu nahi duzun bideoa erabilgarri ez badago, saiatu berriro geroago.",
+          "question": "Zer gertatzen da deskargatu nahi dudan bideoa erabilgarri ez badago?"
+        },
+        "7": {
+          "answer": "Ez, ezin dituzu bideoak deskargatu kontu pribatuetatik.",
+          "question": "Deskargatu al ditzaket bideoak kontu pribatuetatik?"
+        },
+        "8": {
+          "answer": "Bideoak deskargatzeko formatu onena MP4 da. ",
+          "question": "Zein da bideoak deskargatzeko formatu onena?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Bideo hau deskargatuz, onartzen duzu",
+      "#2": "Ur-markarik ez",
+      "#3": "HD kalitatea",
+      "#4": "Deskarga azkarra",
+      "#5": "Erraz edita daiteke",
+      "#6": "Edozein formatu",
+      "#7": "Nola deskargatu bideoak {izena}:",
+      "#8": "Itsatsi edozein bideoren URLa",
+      "#9": "Itsatsi edozein bideo URL emandako eremuan eta sakatu Deskargatu. ",
+      "#10": "Editatu edo deskargatu",
+      "#11": "Zure bideoa editatzeko aukera duzu gure bideoak editatzeko tresna multzo osoa erabiliz. ",
+      "#12": "Partekatu tresna deskargatzeko bideoa sarean",
+      "#13": "Esportatu zure bideoa eta partekatu!",
+      "#14": "Berehalako deskarga bideoa linean",
+      "#15": "Deskargatu bideoa sarean Bideo klipak deskarga ditzakezu",
+      "#16": "klik bakarrean! ",
+      "#17": "Deskargatu Bideoa Online zuzenean funtzionatzen du mugikorreko edo mahaigaineko arakatzailetik edo mugikorretarako aplikaziotik. ",
+      "#18": "Deskargatu bideoa sarean eta kendu ur-marka",
+      "#19": "Download Video Online-k ur-markarik gabeko edukia deskargatzeko aukera ematen dizu, edonon erabili eta parteka ditzazun. ",
+      "#20": "Gehitu off ahotsak zure bideoari berehala",
+      "#21": "Ahotsak gehitzeko denborarik edo baliabiderik ez baduzu, Download Video Online testu-hizketarako softwarea erabil dezakezu!  ",
+      "#22": "Sortu itxura profesionaleko bideoak klik gutxitan",
+      "#23": "Erreproduzitzailea bazara, litekeena da sare sozialetako beste kanal batzuk ere edukitzea mantentzeko.  ",
+      "#24": "Maiz egiten diren galderak - Ohiko galderak",
+      "#25": "Deskargatu aplikazioarekin",
+      "#26": "Orain bideoak deskargatzeko aplikazio bat eskaintzen dugu. ",
+      "#27": "googleplay aplikazioaren URLa",
+      "#28": "apple aplikazioaren url",
+      "btnText": "Deskargatu",
+      "btnLoadingText": "Ekartzen"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Pribatutasun politika",
+      "#1": "Sarrera",
+      "#2": "Pribatutasun-politika honek erabiltzaileei jakinarazten die webguneak ({website_url}) ez duela informazio pertsonalik biltzen, gordetzen edo prozesatzen. ",
+      "#3": "Kontuan izan Politika hau legezko eskakizunak betez ematen dela, Webguneak edo Zerbitzuak informazio pertsonalik biltzen edo gordetzen ez badu ere.",
+      "#4": "Hirugarrenen Publizitatea eta Analitika",
+      "#5": "Hirugarrenen publizitate-zerbitzuak erabiltzen ditugu, hala nola Google AdSense, webgunean iragarkiak hornitzeko. ",
+      "#6": "Iragarki pertsonalizatuari uko egin dezakezu bisitan",
+      "#7": "Iragarkien ezarpenak",
+      "#8": "edo bisitatuz",
+      "#9": "Pribatutasun politikan aldaketak",
+      "#10": "Politikaren edozein atal eguneratzeko, aldatzeko edo ordezkatzeko eskubidea gordetzen dugu edozein unetan Politika eguneratua webgunean argitaratuz. ",
+      "#11": "Harremanetarako informazioa",
+      "#12": "Politika honi buruzko galderarik edo kezkarik baduzu, jarri harremanetan webgunearen jabearekin helbide honetan",
+      "#13": "Pribatutasun politika onartzea",
+      "#14": "Webgunera edo Zerbitzura sartuz edo erabiliz gero, onartzen duzu irakurri, ulertu eta onartzen duzula Politika honen zehaztapenak eta baldintzak."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Zerbitzu-baldintzak"
+    },
+    "dcma": {
+      "title": "Copyright (DMCA)",
+      "#1": "{name}-k lan guztien egile-eskubideak errespetatzen ditu, eta ez die erabiltzaileei baimentzen besteen bideoak egile-eskubideen babesaren zehaztapen eta baldintzen aurkako ezertarako erabiltzen. ",
+      "#2": "{name} Digital Millennium Copyright Act (DMCA) betetzen du eta berehala eten egiten du Edukia sarbidea behar bezala jakinarazten denean.",
+      "#3": "Egile-eskubide-haustearen jakinarazpena {name} helbidera bidali ahal izateko, posta elektronikoa erabili beharko duzu, Digital Millennium Copyright Act-aren 512(c)(3) artikuluan eskatzen den eta adierazitako informazioa biltzen duen mezu bat bidali.",
+      "#4": "Beharrezko informazioa:",
+      "#5": "1. Identifikatu zeure burua: a) Egile-eskubidedun lan baten jabea b) Ustez urratu den eskubide esklusibo baten jabearen izenean jarduteko baimena duen pertsona bat. ",
+      "#6": "2. Identifikatu egile eskubidedun lana urratu dela.",
+      "#7": "3. Identifikatu arau-hauste gisa edo arau-hauste-jardueraren xede den eta bertan behera utzi edo sarbidea desgaitu behar den Edukia, bai eta youtube4kdownloader-ek Edukia aurki dezan nahikoa den informazioa ere. ",
+      "#8": "4. Eman zurekin harremanetan jartzeko nahikoa den harremanetarako informazioa, hala nola helbidea, telefono-zenbakia eta baliozko helbide elektroniko bat.",
+      "#9": "5. Adierazi fede onez uste duzula Edukia salatzen den moduan erabiltzea ez dagoela copyright-jabeak, haren agenteek edo legeak baimenduta.",
+      "#10": "6. Adierazi jakinarazpenean jasotako informazioa zehatza dela eta faltsukeriaren zigorpean kexa-egileari ustez urratu den eskubide esklusibo baten jabearen izenean jarduteko baimena daukala.",
+      "#11": "Baliozko jakinarazpena jaso ondoren, legeak eskatzen duen moduan, gure webguneko copyright edukirako sarbidea eten egingo dugu.",
+      "#12": "Galderarik baduzu, jar zaitez gurekin harremanetan helbide honetan",
+      "#13": "forma hau"
+    },
+    "thankyou": {
+      "title": "Eskerrik asko Deskargatu Bideoa Linean instalatzeagatik!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Bideoak deskargatzeko APIa",
+      "#1": "{website_url} APIak metodo erraz eta erosoa eskaintzen du webgune eta sare sozialen plataforma ezagunenetatik multimedia-fitxategiak berreskuratzeko. ",
+      "#2": "Sarbidea lortzeko edo informazio gehiago lortzeko, jar zaitez gurekin harremanetan helbide honetara "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Jarri gurekin harremanetan",
+      "#1": "Gure Zerbitzuei buruzko galdera, kexa edo erreklamaziorik baduzu, bidali mezu bat helbide honetara",
+      "#2": "Iritzia",
+      "#3": "Posta elektronikoa",
+      "#4": "Mezua",
+      "#5": "Bidali",
+      "#6": "E-posta behar bezala bidali da!"
+    }
+  }
+}

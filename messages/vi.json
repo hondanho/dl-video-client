@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Thay đổi ngôn ngữ",
+    "locale": "{locale, select, de {tiếng Đức} en {tiếng Anh} khác {Không xác định}}"
+  },
+  "Metadata": {
+    "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+    "keywords": "Tải xuống video YouTube, Tải xuống video Instagram, Tải xuống video facebook, Tải xuống video TikTok, Tải xuống video Twitch, Tải xuống video Twitter, Tải xuống video Pinterest, Tải xuống video trên mạng xã hội, Tải xuống video trực tuyến, Tải xuống video miễn phí",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Tải xuống video trực tuyến"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Dán các liên kết video cho Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Dán các liên kết video cho Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Nút tải xuống bất kỳ video nào",
+      "btnText": "Tải xuống",
+      "btnLoadingText": "Đang tìm nạp"
+    }
+  },
+  "Footer": {
+    "#1": "Trình tải xuống Youtube",
+    "#2": "Trình tải xuống video Youtube",
+    "#3": "Công cụ chuyển đổi Youtube sang MP3",
+    "#4": "Trình chuyển đổi Youtube sang MP4",
+    "#5": "Trình tải xuống video ngắn trên Youtube",
+    "#6": "Trình tải xuống Facebook",
+    "#7": "Tải video facebook",
+    "#8": "Công cụ chuyển đổi Facebook sang MP4",
+    "#9": "Tải xuống câu chuyện Facebook",
+    "#10": "Trình tải xuống Instagram",
+    "#11": "Tải xuống video Instagram",
+    "#12": "Tải xuống Instagram reel",
+    "#13": "Công cụ chuyển đổi Instagram sang Mp4",
+    "#14": "Trình tải xuống khác",
+    "#15": "Tải xuống video TikTok",
+    "#16": "Tải xuống video Twitter",
+    "#17": "Tải xuống video Twitch",
+    "#18": "Tải xuống Video Twitch Clip",
+    "#20": "Hợp pháp",
+    "#21": "Chính sách bảo mật",
+    "#22": "Điều khoản dịch vụ",
+    "#23": "DCMA",
+    "#24": "Liên hệ",
+    "#25": "Blog",
+    "#26": "Tham gia với chúng tôi!",
+    "#27": "Đặt mua",
+    "#28": "Đã đăng ký Bản quyền."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Tải xuống Video Twitch Clip",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống clip Twitch, trình tải xuống clip Twitch, Lưu clip Twitch, Cách tải xuống clip từ Twitch, tải xuống clip Twitch trực tuyến, Tải xuống clip Twitch miễn phí, trình tiết kiệm clip Twitch, Tải xuống clip Twitch không có hình mờ, Trình lấy clip Twitch, tải xuống Twitch clip sang MP4",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán các liên kết video Twitch Clip",
+        "arialLabel": "Dán các liên kết video Twitch Clip",
+        "btnArialLabel": "Tải xuống bất kỳ nút Twitch Clip video nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần sao chép liên kết video Twitch và dán vào công cụ của chúng tôi. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải xuống video Twitch?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Twitch. ",
+          "question": "Việc tải xuống video Twitch bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi được tối ưu hóa cho việc sử dụng trên thiết bị di động, cho phép người dùng tải xuống video Twitch trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải xuống video Twitch trên thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video Twitch, bao gồm các video có độ dài và định dạng khác nhau. ",
+          "question": "Có bất kỳ hạn chế nào về độ dài hoặc loại video Twitch có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video Twitch HD (độ phân giải cao), cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD Twitch bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Nếu bạn gặp bất kỳ khó khăn nào, vui lòng xem phần Câu hỏi thường gặp của chúng tôi trên trang web để biết các mẹo khắc phục sự cố. ",
+          "question": "Tôi nên làm gì nếu gặp phải bất kỳ vấn đề nào khi sử dụng công cụ của bạn?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Twitch để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": " Tôi có thể tải xuống video Twitch để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng Twitch, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải xuống video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Tải xuống video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống video Twitch, trình tải xuống video Twitch, Lưu video Twitch, Cách tải xuống video từ Twitch, tải xuống clip Twitch, tải xuống video Twitch miễn phí, trình tải xuống Twitch VOD, tải xuống các điểm nổi bật của Twitch, trình lấy video Twitch, tải xuống Twitch sang MP4",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán các liên kết video Twitch",
+        "arialLabel": "Dán các liên kết video Twitch",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn Twitch video nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần sao chép liên kết video Twitch và dán vào công cụ của chúng tôi. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải xuống video Twitch?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Twitch. ",
+          "question": "Việc tải xuống video Twitch bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi được tối ưu hóa cho việc sử dụng trên thiết bị di động, cho phép người dùng tải xuống video Twitch trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải xuống video Twitch trên thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video Twitch, bao gồm các video có độ dài và định dạng khác nhau. ",
+          "question": "Có bất kỳ hạn chế nào về độ dài hoặc loại video Twitch có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video Twitch HD (độ phân giải cao), cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD Twitch bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Nếu bạn gặp bất kỳ khó khăn nào, vui lòng xem phần Câu hỏi thường gặp của chúng tôi trên trang web để biết các mẹo khắc phục sự cố. ",
+          "question": "Tôi nên làm gì nếu gặp phải bất kỳ vấn đề nào khi sử dụng công cụ của bạn?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Twitch để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": " Tôi có thể tải xuống video Twitch để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng Twitch, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải xuống video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Tải xuống video Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống video Twitter, Trình tải xuống video Twitter, Lưu video Twitter, Cách tải xuống video từ Twitter, Tải xuống video Twitter trực tuyến, Tải xuống video Twitter miễn phí, Trình tiết kiệm video Twitter, Tải xuống Twitter mà không có hình mờ, Trình lấy video Twitter, Tải xuống Twitter sang MP4",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video Twitter",
+        "arialLabel": "Dán liên kết video Twitter",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn video Twitter nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần sao chép liên kết video Twitter và dán nó vào công cụ của chúng tôi. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải xuống video Twitter?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Twitter. ",
+          "question": "Việc tải xuống video Twitter bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi được tối ưu hóa cho việc sử dụng trên thiết bị di động, cho phép người dùng tải xuống video Twitter trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải xuống video Twitter trên thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video Twitter, bao gồm các video có độ dài và định dạng khác nhau. ",
+          "question": "Có bất kỳ hạn chế nào về độ dài hoặc loại video Twitter có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video Twitter HD (độ phân giải cao), cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD Twitter bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Nếu bạn gặp bất kỳ khó khăn nào, vui lòng xem phần Câu hỏi thường gặp của chúng tôi trên trang web để biết các mẹo khắc phục sự cố. ",
+          "question": "Tôi nên làm gì nếu gặp phải bất kỳ vấn đề nào khi sử dụng công cụ của bạn?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Twitter để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": " Tôi có thể tải xuống video Twitter để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng Twitter, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải xuống video Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Tải Video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống video TikTok, trình tải xuống video TikTok, Lưu video TikTok, Cách tải xuống video từ TikTok, tải xuống video TikTok trực tuyến, tải xuống video TikTok miễn phí, trình tiết kiệm video TikTok, Tải xuống TikTok không có hình mờ, trình lấy video TikTok, tải xuống TikTok sang MP4",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán link video tiktok",
+        "arialLabel": "Dán link video tiktok",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn tiktok video nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần sao chép liên kết video TikTok và dán vào công cụ của chúng tôi. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải xuống video TikTok?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của TikTok. ",
+          "question": "Việc tải xuống video TikTok bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi được tối ưu hóa cho việc sử dụng trên thiết bị di động, cho phép người dùng tải xuống video TikTok trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video TikTok xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video TikTok, bao gồm các video có độ dài và định dạng khác nhau. ",
+          "question": "Có bất kỳ hạn chế nào về thời lượng hoặc loại video TikTok có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video TikTok HD (độ phân giải cao), cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD TikTok bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Nếu bạn gặp bất kỳ khó khăn nào, vui lòng xem phần Câu hỏi thường gặp của chúng tôi trên trang web để biết các mẹo khắc phục sự cố. ",
+          "question": "Tôi nên làm gì nếu gặp phải bất kỳ vấn đề nào khi sử dụng công cụ của bạn?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video TikTok để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": " Tôi có thể tải xuống video TikTok để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng TikTok, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với các thay đổi của TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video tik tok"
+    },
+    "download-video-instagram": {
+      "title": "Tải xuống video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video instagram reel",
+        "arialLabel": "Dán liên kết video instagram reel",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn video instagram nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video instagram vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải video từ instagram?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của instagram. ",
+          "question": "Việc tải xuống video từ instagram bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải xuống video instagram trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video instagram xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên instagram, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": " Có bất kỳ hạn chế nào về độ dài hoặc loại video instagram có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ instagram, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD từ instagram bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video instagram không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video instagram để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống video instagram để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng instagram, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải xuống video instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Tải xuống Instagram reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video instagram reel",
+        "arialLabel": "Dán liên kết video instagram reel",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn video instagram nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video instagram vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải video từ instagram?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của instagram. ",
+          "question": "Việc tải xuống video từ instagram bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải xuống video instagram trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video instagram xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên instagram, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": " Có bất kỳ hạn chế nào về độ dài hoặc loại video instagram có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ instagram, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD từ instagram bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video instagram không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video instagram để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống video instagram để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng instagram, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video instagram xuống mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Tải video instagram xuống mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video instagram reel",
+        "arialLabel": "Dán liên kết video instagram reel",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn video instagram nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video instagram vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải video từ instagram?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của instagram. ",
+          "question": "Việc tải xuống video từ instagram bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải xuống video instagram trên nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video instagram xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên instagram, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": " Có bất kỳ hạn chế nào về độ dài hoặc loại video instagram có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ instagram, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD từ instagram bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video instagram không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video instagram để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống video instagram để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng instagram, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video instagram xuống mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Tải xuống câu chuyện Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống Facebook reel, trình tải xuống Facebook reel, lưu video Facebook reel, Cách tải xuống reel trên Facebook, tải xuống Facebook reel trực tuyến, tải xuống Facebook reel miễn phí, trình tiết kiệm video Facebook reel, tải xuống reel từ Facebook, công cụ lấy video Facebook reel, tải xuống facebook reel ngoại tuyến",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán link video facebook reel",
+        "arialLabel": "Dán link video facebook reel",
+        "btnArialLabel": "Tải xuống bất kỳ nút cuộn video facebook nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video Facebook vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải video từ Facebook?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Facebook. ",
+          "question": "Việc tải xuống video từ Facebook bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải video Facebook xuống nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video Facebook xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên Facebook, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": " Có bất kỳ hạn chế nào về độ dài hoặc loại video Facebook có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ Facebook, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD từ Facebook bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video trên Facebook không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Facebook để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống video Facebook để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng của Facebook, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video facebook xuống mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Công cụ chuyển đổi Facebook sang MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Công cụ chuyển đổi Facebook sang MP4, Chuyển đổi Facebook sang MP4, video Facebook sang MP4, tải xuống Facebook MP4, Facebook trực tuyến sang MP4, Facebook sang MP4 miễn phí, chuyển đổi video Facebook, Lưu video Facebook dưới dạng MP4, Tải xuống Facebook ở dạng MP4, công cụ chuyển đổi trực tuyến Facebook MP4",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán link video facebook",
+        "arialLabel": "Dán link video facebook",
+        "btnArialLabel": "Nút tải xuống bất kỳ video facebook nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video Facebook reel vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải xuống Facebook Reels?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Facebook. ",
+          "question": "Việc tải xuống Facebook Reels bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải video Facebook xuống nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải xuống Facebook Reels trên thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên Facebook, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": "Có bất kỳ hạn chế nào về độ dài hoặc loại Câu chuyện trên Facebook có thể được tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ Facebook, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống HD Facebook Reels bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video trên Facebook không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Facebook để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống Facebook Reels để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng của Facebook, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video facebook xuống mp4"
+    },
+    "download-video-facebook": {
+      "title": "Tải xuống video Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống video Facebook, Trình tải xuống video Facebook, Lưu video Facebook, Cách tải xuống video từ Facebook, Tải video Facebook trực tuyến, Tải xuống video Facebook miễn phí, Trình tiết kiệm video Facebook, Tải xuống video Facebook riêng tư, Tải xuống video HD Facebook, Tải xuống Facebook sang MP4, tải xuống video ",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán link video facebook",
+        "arialLabel": "Dán link video facebook",
+        "btnArialLabel": "Nút tải xuống bất kỳ video facebook nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Chỉ cần dán URL video Facebook vào công cụ của chúng tôi và nó sẽ hướng dẫn bạn qua quá trình tải xuống. ",
+          "question": "Làm cách nào để sử dụng công cụ của bạn để tải video từ Facebook?"
+        },
+        "2": {
+          "answer": "Công cụ của chúng tôi được thiết kế để tôn trọng các điều khoản dịch vụ của Facebook. ",
+          "question": "Việc tải xuống video từ Facebook bằng công cụ của bạn có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, công cụ của chúng tôi thân thiện với thiết bị di động, cho phép người dùng tải video Facebook xuống nhiều thiết bị khác nhau, bao gồm cả điện thoại thông minh và máy tính bảng.",
+          "question": "Tôi có thể tải video Facebook xuống thiết bị di động bằng công cụ của bạn không?"
+        },
+        "4": {
+          "answer": "Công cụ của chúng tôi hỗ trợ tải xuống nhiều loại video trên Facebook, bao gồm cả những video có độ dài và định dạng khác nhau. ",
+          "question": " Có bất kỳ hạn chế nào về độ dài hoặc loại video Facebook có thể tải xuống không?"
+        },
+        "5": {
+          "answer": "Có, công cụ của chúng tôi hỗ trợ tải xuống video HD (độ phân giải cao) từ Facebook, cung cấp cho người dùng tùy chọn thưởng thức nội dung chất lượng cao hơn.",
+          "question": "Có thể tải xuống video HD từ Facebook bằng công cụ của bạn không?"
+        },
+        "6": {
+          "answer": "Chúng tôi rất coi trọng vấn đề bảo mật. ",
+          "question": "Có bất kỳ rủi ro nào liên quan đến việc sử dụng công cụ của bạn để tải xuống video trên Facebook không?"
+        },
+        "7": {
+          "answer": "Có, công cụ của chúng tôi cung cấp tùy chọn tải xuống video Facebook để xem ngoại tuyến, cho phép người dùng thưởng thức nội dung ngay cả khi không có kết nối internet.",
+          "question": "Tôi có thể tải xuống video Facebook để xem ngoại tuyến bằng công cụ của bạn không?"
+        },
+        "8": {
+          "answer": "Chúng tôi thường xuyên cập nhật công cụ của mình để thích ứng với mọi thay đổi trong nền tảng của Facebook, đảm bảo khả năng tương thích liên tục và trải nghiệm người dùng liền mạch.",
+          "question": "Công cụ của bạn được cập nhật thường xuyên như thế nào để đảm bảo khả năng tương thích với những thay đổi của Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Trình tải xuống video Youtube",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống video YouTube, Tải xuống video YouTube, Trình tải xuống YouTube, Lưu video YouTube, Cách tải xuống video từ YouTube, Tải xuống video YouTube trực tuyến, Tải xuống video HD từ YouTube, Trình tiết kiệm video YouTube, Trình lấy video YouTube, Tải xuống video YouTube miễn phí",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video Youtube",
+        "arialLabel": "Dán liên kết video Youtube",
+        "btnArialLabel": "Tải xuống bất kỳ nút youtube video nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Bạn có thể sử dụng các công cụ hoặc phần mềm trực tuyến được thiết kế để tải xuống video YouTube. ",
+          "question": "Làm cách nào để tải xuống video YouTube?"
+        },
+        "2": {
+          "answer": "Tải xuống video YouTube mà không được phép có thể vi phạm điều khoản dịch vụ của YouTube. ",
+          "question": "Tải xuống video từ YouTube có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, nhiều dịch vụ trực tuyến khác nhau cung cấp tính năng tải xuống video YouTube. ",
+          "question": "Có dịch vụ trực tuyến để tải xuống video YouTube không?"
+        },
+        "4": {
+          "answer": "Có, có những ứng dụng và trang web dành cho thiết bị di động cho phép bạn tải video YouTube trực tiếp xuống thiết bị di động của mình để xem ngoại tuyến.",
+          "question": "Tôi có thể tải video YouTube xuống thiết bị di động không?"
+        },
+        "5": {
+          "answer": "Các định dạng được hỗ trợ phổ biến bao gồm MP",
+          "question": "Những định dạng video nào được hỗ trợ cho video YouTube đã tải xuống?"
+        },
+        "6": {
+          "answer": "Có, bạn nên xin phép người sáng tạo nội dung hoặc kiểm tra thông tin cấp phép của video trước khi tải xuống và sử dụng video đó.",
+          "question": "Tôi có cần quyền để tải xuống và sử dụng video YouTube không?"
+        },
+        "7": {
+          "answer": "Điều khoản dịch vụ của YouTube cấm tải xuống video trái phép. ",
+          "question": "Có bất kỳ hạn chế nào đối với việc tải xuống nội dung YouTube không?"
+        },
+        "8": {
+          "answer": "Có, YouTube cung cấp cách hợp pháp để tải video xuống để xem ngoại tuyến thông qua ứng dụng của họ. ",
+          "question": "Tôi có thể tải xuống video YouTube để xem ngoại tuyến không?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải video youtube trực tuyến"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Công cụ chuyển đổi Youtube sang MP3",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube sang MP3, Chuyển đổi YouTube sang MP3, công cụ chuyển đổi YouTube MP3, tải xuống âm thanh YouTube, YouTube sang MP3 trực tuyến, YouTube sang MP3 miễn phí, công cụ chuyển đổi YouTube sang MP3 trực tuyến, Chuyển đổi video YouTube sang MP3, công cụ chuyển đổi âm thanh YouTube, Tải xuống âm thanh YouTube",
+      "description": "Youtube to MP3 Converter là phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video Youtube",
+        "arialLabel": "Dán liên kết video Youtube",
+        "btnArialLabel": "Tải xuống bất kỳ nút video youtube mp3 nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Bạn có thể sử dụng các công cụ hoặc phần mềm trực tuyến được thiết kế để tải xuống video YouTube. ",
+          "question": "Làm cách nào để tải xuống video YouTube?"
+        },
+        "2": {
+          "answer": "Tải xuống video YouTube mà không được phép có thể vi phạm điều khoản dịch vụ của YouTube. ",
+          "question": "Tải xuống video từ YouTube có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, nhiều dịch vụ trực tuyến khác nhau cung cấp tính năng tải xuống video YouTube. ",
+          "question": "Có dịch vụ trực tuyến để tải xuống video YouTube không?"
+        },
+        "4": {
+          "answer": "Có, có những ứng dụng và trang web dành cho thiết bị di động cho phép bạn tải video YouTube trực tiếp xuống thiết bị di động của mình để xem ngoại tuyến.",
+          "question": "Tôi có thể tải video YouTube xuống thiết bị di động không?"
+        },
+        "5": {
+          "answer": "Các định dạng được hỗ trợ phổ biến bao gồm MP",
+          "question": "Những định dạng video nào được hỗ trợ cho video YouTube đã tải xuống?"
+        },
+        "6": {
+          "answer": "Có, bạn nên xin phép người sáng tạo nội dung hoặc kiểm tra thông tin cấp phép của video trước khi tải xuống và sử dụng video đó.",
+          "question": "Tôi có cần quyền để tải xuống và sử dụng video YouTube không?"
+        },
+        "7": {
+          "answer": "Điều khoản dịch vụ của YouTube cấm tải xuống video trái phép. ",
+          "question": "Có bất kỳ hạn chế nào đối với việc tải xuống nội dung YouTube không?"
+        },
+        "8": {
+          "answer": "Có, YouTube cung cấp cách hợp pháp để tải video xuống để xem ngoại tuyến thông qua ứng dụng của họ. ",
+          "question": "Tôi có thể tải xuống video YouTube để xem ngoại tuyến không?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải Youtube sang MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Trình chuyển đổi Youtube sang MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube sang MP4, Chuyển đổi YouTube sang MP4, công cụ chuyển đổi YouTube MP4, tải xuống âm thanh YouTube, YouTube sang MP4 trực tuyến, YouTube miễn phí sang MP4, công cụ chuyển đổi YouTube sang MP4 trực tuyến, Chuyển đổi video YouTube sang MP4, công cụ chuyển đổi âm thanh YouTube, Tải xuống âm thanh YouTube",
+      "description": "Youtube to MP4 Converter là phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video Youtube",
+        "arialLabel": "Dán liên kết video Youtube",
+        "btnArialLabel": "Tải xuống bất kỳ nút video youtube MP4 nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Bạn có thể sử dụng các công cụ hoặc phần mềm trực tuyến được thiết kế để tải xuống video YouTube. ",
+          "question": "Làm cách nào để tải xuống video YouTube?"
+        },
+        "2": {
+          "answer": "Tải xuống video YouTube mà không được phép có thể vi phạm điều khoản dịch vụ của YouTube. ",
+          "question": "Tải xuống video từ YouTube có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, nhiều dịch vụ trực tuyến khác nhau cung cấp tính năng tải xuống video YouTube. ",
+          "question": "Có dịch vụ trực tuyến để tải xuống video YouTube không?"
+        },
+        "4": {
+          "answer": "Có, có những ứng dụng và trang web dành cho thiết bị di động cho phép bạn tải video YouTube trực tiếp xuống thiết bị di động của mình để xem ngoại tuyến.",
+          "question": "Tôi có thể tải video YouTube xuống thiết bị di động không?"
+        },
+        "5": {
+          "answer": "Các định dạng được hỗ trợ phổ biến bao gồm MP",
+          "question": "Những định dạng video nào được hỗ trợ cho video YouTube đã tải xuống?"
+        },
+        "6": {
+          "answer": "Có, bạn nên xin phép người sáng tạo nội dung hoặc kiểm tra thông tin cấp phép của video trước khi tải xuống và sử dụng video đó.",
+          "question": "Tôi có cần quyền để tải xuống và sử dụng video YouTube không?"
+        },
+        "7": {
+          "answer": "Điều khoản dịch vụ của YouTube cấm tải xuống video trái phép. ",
+          "question": "Có bất kỳ hạn chế nào đối với việc tải xuống nội dung YouTube không?"
+        },
+        "8": {
+          "answer": "Có, YouTube cung cấp cách hợp pháp để tải video xuống để xem ngoại tuyến thông qua ứng dụng của họ. ",
+          "question": "Tôi có thể tải xuống video YouTube để xem ngoại tuyến không?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải Youtube xuống MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Trình tải xuống video ngắn trên Youtube",
+      "datePublished": "2021-10-01",
+      "keywords": "Tải xuống YouTube Shorts, tải xuống YouTube Shorts, Lưu video ngắn trên YouTube, Tải xuống video ngắn từ YouTube, tải xuống video ngắn trên YouTube, Cách lưu video ngắn trên YouTube, Tải xuống video ngắn trên YouTube, trình tải xuống YouTube Shorts, tải xuống YouTube Shorts ngoại tuyến, tải xuống miễn phí YouTube Shorts",
+      "description": "Youtube Shorts Downloader là phần mềm nhanh và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "form": {
+        "placeholder": "Dán liên kết video Youtube Short",
+        "arialLabel": "Dán liên kết video Youtube Short",
+        "btnArialLabel": "Tải xuống bất kỳ nút ngắn video youtube nào"
+      },
+      "faq": {
+        "1": {
+          "answer": "Theo lần cập nhật gần đây nhất của tôi vào tháng 1 năm 2022, YouTube Shorts chủ yếu dành cho người xem ở dạng ngắn trên thiết bị di động và có thể không có tùy chọn tải xuống trực tiếp. ",
+          "question": "Làm cách nào để tải xuống YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Việc tải xuống YouTube Shorts mà không có sự cho phép thích hợp có thể vi phạm điều khoản dịch vụ của YouTube. ",
+          "question": "Việc tải xuống YouTube Shorts có hợp pháp không?"
+        },
+        "3": {
+          "answer": "Có, nhiều dịch vụ trực tuyến khác nhau cung cấp tính năng tải xuống video YouTube. ",
+          "question": "Tôi có thể tải YouTube Shorts xuống thiết bị di động không?"
+        },
+        "4": {
+          "answer": "Điều khoản dịch vụ của YouTube thường cấm tải xuống nội dung trái phép. ",
+          "question": "Có bất kỳ hạn chế nào đối với việc tải xuống YouTube Shorts không?"
+        },
+        "5": {
+          "answer": "YouTube cung cấp các tùy chọn trong ứng dụng để chia sẻ Video ngắn trên nhiều nền tảng khác nhau. ",
+          "question": "Làm cách nào tôi có thể lưu hoặc chia sẻ YouTube Shorts một cách hợp pháp?"
+        },
+        "6": {
+          "answer": "YouTube Shorts thường được thiết kế để xem trực tuyến. ",
+          "question": "Tôi có thể tải xuống YouTube Shorts để xem ngoại tuyến không?"
+        },
+        "7": {
+          "answer": "Điều khoản dịch vụ của YouTube cấm tải xuống video trái phép. ",
+          "question": "Có bất kỳ hạn chế nào đối với việc tải xuống nội dung YouTube không?"
+        },
+        "8": {
+          "answer": "Nếu bạn gặp vấn đề với YouTube Shorts hoặc các tính năng của YouTube Shorts, hãy liên hệ với bộ phận hỗ trợ của YouTube hoặc xem Trung tâm trợ giúp của họ để được hướng dẫn về cách báo cáo vấn đề.",
+          "question": "Làm cách nào tôi có thể báo cáo sự cố với YouTube Shorts hoặc các tính năng tải xuống của YouTube Shorts?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cách tải xuống video ngắn trên Youtube"
+    },
+    "download-from-tiktok": {
+      "title": "tải video tik tok"
+    },
+    "download-from-twitter": {
+      "title": "tải xuống video twitter"
+    },
+    "general": {
+      "title": "Tải xuống video trực tuyến",
+      "keywords": "Tải xuống video YouTube, Tải xuống video Instagram, Tải xuống video facebook, Tải xuống video TikTok, Tải xuống video Twitch, Tải xuống video Twitter, Tải xuống video Pinterest, Tải xuống video trên mạng xã hội, Tải xuống video trực tuyến, Tải xuống video miễn phí",
+      "datePublished": "2021-10-01",
+      "description": "Tải xuống video trực tuyến là một phần mềm nhanh chóng và an toàn cho phép tải xuống video không giới hạn từ internet. ",
+      "faq": {
+        "1": {
+          "answer": "Có, trang web này là miễn phí. ",
+          "question": "Trang web này có miễn phí không?"
+        },
+        "2": {
+          "answer": "Không, tải truyện không được hỗ trợ.",
+          "question": "Tôi có thể tải truyện xuống được không?"
+        },
+        "3": {
+          "answer": "Không, chúng tôi chỉ cung cấp dịch vụ tải video xuống.",
+          "question": "Tôi có thể tải hình ảnh từ?"
+        },
+        "4": {
+          "answer": "Có, trang web này an toàn. ",
+          "question": "Trang web này có an toàn không?"
+        },
+        "5": {
+          "answer": "Có, bạn có thể sử dụng trang web từ điện thoại di động hoặc máy tính bảng của mình.",
+          "question": "Tôi có thể sử dụng trang web từ điện thoại di động của mình không?"
+        },
+        "6": {
+          "answer": "Nếu video bạn muốn tải xuống không có sẵn, vui lòng thử lại sau.",
+          "question": "Nếu video tôi muốn tải xuống không có sẵn thì sao?"
+        },
+        "7": {
+          "answer": "Không, bạn không thể tải xuống video từ tài khoản riêng tư.",
+          "question": "Tôi có thể tải xuống video từ tài khoản riêng tư không?"
+        },
+        "8": {
+          "answer": "Định dạng tốt nhất để tải video xuống là MP4. ",
+          "question": "Định dạng tốt nhất để tải video xuống là gì?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Bằng cách tải xuống video này, bạn đồng ý với",
+      "#2": "Không có hình mờ",
+      "#3": "chất lượng HD",
+      "#4": "Tải nhanh",
+      "#5": "Dễ dàng chỉnh sửa",
+      "#6": "Mọi định dạng",
+      "#7": "Cách tải xuống video {name}:",
+      "#8": "Dán URL video bất kỳ",
+      "#9": "Dán bất kỳ URL video nào vào trường được cung cấp và nhấn Tải xuống. ",
+      "#10": "Chỉnh sửa hoặc tải xuống",
+      "#11": "Bạn có tùy chọn chỉnh sửa video của mình bằng bộ công cụ chỉnh sửa video hoàn chỉnh của chúng tôi. ",
+      "#12": "Chia sẻ công cụ tải video trực tuyến",
+      "#13": "Xuất video của bạn và chia sẻ!",
+      "#14": "Tải xuống video trực tuyến tức thì",
+      "#15": "Tải xuống video trực tuyến Bạn có thể tải xuống các video clip từ",
+      "#16": "chỉ trong một cú nhấp chuột! ",
+      "#17": "Tải xuống Video Trực tuyến hoạt động trực tiếp từ Trình duyệt dành cho thiết bị di động hoặc máy tính để bàn hoặc Ứng dụng dành cho thiết bị di động của bạn. ",
+      "#18": "Tải video trực tuyến và xóa hình mờ",
+      "#19": "Tải xuống Video Trực tuyến cho phép bạn tải xuống nội dung không có hình mờ để bạn có thể sử dụng lại và chia sẻ chúng ở bất cứ đâu. ",
+      "#20": "Thêm thuyết minh vào video của bạn ngay lập tức",
+      "#21": "Nếu bạn không có thời gian hoặc nguồn lực để thêm giọng nói, bạn có thể sử dụng phần mềm chuyển văn bản thành giọng nói Tải xuống video trực tuyến!  ",
+      "#22": "Tạo video có giao diện chuyên nghiệp chỉ bằng vài cú nhấp chuột",
+      "#23": "Nếu bạn là một người phát trực tiếp, rất có thể bạn cũng có các kênh truyền thông xã hội khác để duy trì.  ",
+      "#24": "Câu hỏi thường gặp - Câu hỏi thường gặp",
+      "#25": "Tải xuống bằng ứng dụng",
+      "#26": "Bây giờ chúng tôi cung cấp một ứng dụng để tải xuống video. ",
+      "#27": "url ứng dụng googleplay",
+      "#28": "url ứng dụng apple",
+      "btnText": "Tải xuống",
+      "btnLoadingText": "Đang tìm nạp"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Chính sách bảo mật",
+      "#1": "Giới thiệu",
+      "#2": "Chính sách quyền riêng tư này thông báo cho người dùng rằng trang web ({website_url}) không thu thập, lưu trữ hoặc xử lý bất kỳ thông tin cá nhân nào. ",
+      "#3": "Xin lưu ý rằng Chính sách này được cung cấp tuân thủ các yêu cầu pháp lý, mặc dù Trang web hoặc Dịch vụ không thu thập hoặc lưu trữ bất kỳ thông tin cá nhân nào.",
+      "#4": "Quảng cáo và phân tích của bên thứ ba",
+      "#5": "Chúng tôi sử dụng các dịch vụ quảng cáo của bên thứ ba, chẳng hạn như Google AdSense, để phân phát quảng cáo trên Trang web. ",
+      "#6": "Bạn có thể từ chối quảng cáo được cá nhân hóa bằng cách truy cập",
+      "#7": "Cài đặt quảng cáo",
+      "#8": "hoặc bằng cách ghé thăm",
+      "#9": "Những thay đổi đối với Chính sách quyền riêng tư",
+      "#10": "Chúng tôi có quyền cập nhật, sửa đổi hoặc thay thế bất kỳ phần nào của Chính sách bất kỳ lúc nào bằng cách đăng Chính sách đã cập nhật trên Trang web. ",
+      "#11": "Thông tin liên lạc",
+      "#12": "Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về Chính sách này, vui lòng liên hệ với chủ sở hữu Trang web tại",
+      "#13": "Chấp nhận Chính sách quyền riêng tư",
+      "#14": "Bằng cách truy cập hoặc sử dụng Trang web hoặc Dịch vụ, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi các điều khoản và điều kiện của Chính sách này."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Điều khoản dịch vụ"
+    },
+    "dcma": {
+      "title": "Bản quyền (DMCA)",
+      "#1": "{name} tôn trọng bản quyền của tất cả tác phẩm và không cho phép người dùng sử dụng video của người khác cho bất kỳ mục đích nào trái với điều khoản và điều kiện bảo vệ bản quyền. ",
+      "#2": "{name} tuân thủ Đạo luật bản quyền kỹ thuật số thiên niên kỷ (DMCA) và nhanh chóng tạm dừng quyền truy cập Nội dung khi được thông báo chính xác.",
+      "#3": "Để gửi thông báo vi phạm bản quyền với {name}, bạn cần sử dụng thư gửi cho chúng tôi một tin nhắn bao gồm những thông tin cơ bản được yêu cầu và nêu trong Mục 512(c)(3) của Đạo luật bản quyền kỹ thuật số thiên niên kỷ.",
+      "#4": "Thông tin bắt buộc:",
+      "#5": "1. Hãy tự nhận mình là: a) Chủ sở hữu của (các) tác phẩm có bản quyền b) Người 'được ủy quyền hành động thay mặt chủ sở hữu quyền độc quyền bị cáo buộc vi phạm'. ",
+      "#6": "2. Xác định tác phẩm có bản quyền được cho là đã bị vi phạm.",
+      "#7": "3. Xác định Nội dung được cho là vi phạm hoặc là đối tượng của hoạt động vi phạm và Nội dung đó sẽ bị tạm dừng hoặc quyền truy cập bị vô hiệu hóa, cũng như thông tin đủ hợp lý để cho phép youtube4kdownloader định vị Nội dung. ",
+      "#8": "4. Cung cấp thông tin liên hệ đủ hợp lý để cho phép chúng tôi liên hệ với bạn, chẳng hạn như địa chỉ, số điện thoại và địa chỉ email hợp lệ.",
+      "#9": "5. Tuyên bố rằng bạn thực sự tin rằng việc sử dụng Nội dung theo cách bị khiếu nại không được chủ sở hữu bản quyền, đại diện của chủ sở hữu bản quyền hoặc luật pháp cho phép.",
+      "#10": "6. Nêu rõ rằng thông tin trong thông báo là chính xác và chịu hình phạt nếu khai man, bên khiếu nại được ủy quyền hành động thay mặt cho chủ sở hữu độc quyền bị cáo buộc vi phạm.",
+      "#11": "Khi nhận được thông báo hợp lệ, theo yêu cầu của pháp luật, chúng tôi sẽ tạm dừng quyền truy cập vào nội dung bản quyền từ trang web của chúng tôi.",
+      "#12": "Nếu bạn có bất kỳ câu hỏi nào, xin vui lòng liên hệ với chúng tôi tại",
+      "#13": "mẫu này"
+    },
+    "thankyou": {
+      "title": "Cảm ơn bạn đã cài đặt Tải Video Trực Tuyến!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API tải xuống video",
+      "#1": "API {website_url} cung cấp một phương pháp dễ dàng và thuận tiện để truy xuất các tệp phương tiện từ các trang web và nền tảng truyền thông xã hội phổ biến nhất. ",
+      "#2": "Để có quyền truy cập hoặc có thêm thông tin, vui lòng liên hệ với chúng tôi tại "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Liên hệ chúng tôi",
+      "#1": "Nếu bạn có bất kỳ câu hỏi, khiếu nại hoặc khiếu nại nào liên quan đến Dịch vụ của chúng tôi, vui lòng gửi tin nhắn cho chúng tôi tới",
+      "#2": "Nhận xét",
+      "#3": "E-mail",
+      "#4": "Tin nhắn",
+      "#5": "Nộp",
+      "#6": "Email đã được gửi thành công !"
+    }
+  }
+}

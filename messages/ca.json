@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Canviar d'idioma",
+    "locale": "{locale, select, de {alemany} en {anglès} altre {Desconegut}}"
+  },
+  "Metadata": {
+    "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+    "keywords": "Baixeu vídeos YouTube, Baixeu vídeos d'Instagram, Baixeu vídeos de Facebook, Baixeu vídeos TikTok, Baixeu vídeos Twitch, Baixeu vídeos a Twitter, Baixeu vídeos a Pinterest, Baixeu vídeos de xarxes socials, Baixeu vídeos en línia, Baixeu vídeos gratuïts",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Descarrega el vídeo en línia"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Enganxeu els enllaços de vídeo per a Facebook, Instagram, TikTok, Twitter, Twitch, Youtube...",
+      "arialLabel": "Enganxeu els enllaços de vídeo per a Facebook, Instagram, TikTok, Twitter, Twitch, Youtube...",
+      "btnArialLabel": "Descarrega qualsevol botó de vídeo",
+      "btnText": "descarregar",
+      "btnLoadingText": "Recollint"
+    }
+  },
+  "Footer": {
+    "#1": "Descàrrega de Youtube",
+    "#2": "Descàrrega de vídeos de Youtube",
+    "#3": "Convertidor de Youtube a MP3",
+    "#4": "Convertidor de Youtube a MP4",
+    "#5": "Descàrrega de curts de Youtube",
+    "#6": "Facebook Downloader",
+    "#7": "Descarrega el vídeo de facebook",
+    "#8": "Convertidor de Facebook a MP4",
+    "#9": "Descarrega Facebook Reel",
+    "#10": "Descàrrega d'Instagram",
+    "#11": "Descarrega el vídeo d'Instagram",
+    "#12": "Descarrega Instagram Reel",
+    "#13": "Convertidor d'Instagram a Mp4",
+    "#14": "Altres descarregadors",
+    "#15": "Descarrega el vídeo TikTok",
+    "#16": "Descarrega el vídeo de Twitter",
+    "#17": "Descarrega Video Twitch",
+    "#18": "Descarrega Video Twitch Clip",
+    "#20": "Legal",
+    "#21": "Política de privacitat",
+    "#22": "Termes del servei",
+    "#23": "DCMA",
+    "#24": "Contacte",
+    "#25": "Bloc",
+    "#26": "Uneix-te a nosaltres!",
+    "#27": "Subscriu-te",
+    "#28": "Tots els drets reservats."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Descarrega Video Twitch Clip",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu clips de Twitch ,Descàrrega de clips de Twitch ,Desar clips de Twitch ,Com baixar clips de Twitch ,Descàrrega de clips de Twitch en línia ,Descàrrega gratuïta de clips de Twitch ,Estalvi de clips de Twitch ,Descarregueu clips de Twitch sense filigrana ,Captador de clips de Twitch ,Descàrrega de clips de Twitch a MP4",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo Twitch Clip",
+        "arialLabel": "Enganxeu els enllaços del vídeo Twitch Clip",
+        "btnArialLabel": "Baixeu qualsevol botó de Twitch Clip de vídeo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement copieu l'enllaç del vídeo de Twitch i enganxeu-lo a la nostra eina. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos de Twitch?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Twitch. ",
+          "question": "És legal descarregar vídeos de Twitch amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina està optimitzada per a ús mòbil, la qual cosa permet als usuaris descarregar vídeos de Twitch en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos de Twitch en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina admet la baixada d'una àmplia gamma de vídeos de Twitch, inclosos els de diferents longituds i formats. ",
+          "question": "Hi ha restriccions sobre la durada o el tipus de vídeos de Twitch que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos de Twitch d'alta definició (alta definició), proporcionant als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD Twitch amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Si teniu cap dificultat, consulteu la nostra secció de preguntes freqüents al lloc web per obtenir consells de resolució de problemes. ",
+          "question": "Què he de fer si trobo algun problema mentre utilitzo la teva eina?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Twitch per veure'ls fora de línia, permetent als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": " Puc baixar vídeos de Twitch per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Twitch, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar el vídeo Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Descarrega Video Twitch",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu vídeos de Twitch ,Descàrrega de vídeos de Twitch ,Deseu vídeos de Twitch ,Com baixar vídeos de Twitch ,Descàrrega de clips de Twitch ,Descàrrega gratuïta de vídeos de Twitch ,Descàrrega de VOD de Twitch ,Descarregueu els aspectes destacats de Twitch ,Capturador de vídeos de Twitch ,Descàrrega de Twitch a MP4",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços de vídeo Twitch",
+        "arialLabel": "Enganxeu els enllaços de vídeo Twitch",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de Twitch de vídeo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement copieu l'enllaç del vídeo de Twitch i enganxeu-lo a la nostra eina. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos de Twitch?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Twitch. ",
+          "question": "És legal descarregar vídeos de Twitch amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina està optimitzada per a ús mòbil, la qual cosa permet als usuaris descarregar vídeos de Twitch en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos de Twitch en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina admet la baixada d'una àmplia gamma de vídeos de Twitch, inclosos els de diferents longituds i formats. ",
+          "question": "Hi ha restriccions sobre la durada o el tipus de vídeos de Twitch que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos de Twitch d'alta definició (alta definició), proporcionant als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD Twitch amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Si teniu cap dificultat, consulteu la nostra secció de preguntes freqüents al lloc web per obtenir consells de resolució de problemes. ",
+          "question": "Què he de fer si trobo algun problema mentre utilitzo la teva eina?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Twitch per veure'ls fora de línia, permetent als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": " Puc baixar vídeos de Twitch per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Twitch, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeo Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Descarrega el vídeo de Twitter",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu vídeos de Twitter ,Descàrrega de vídeos de Twitter ,Deseu vídeos de Twitter ,Com baixar vídeos de Twitter ,Descàrrega de vídeos de Twitter en línia ,Descàrrega gratuïta de vídeos de Twitter ,Estalvi de vídeos de Twitter ,Descarregueu Twitter sense marca d'aigua ,Capturador de vídeos de Twitter ,Descàrrega de Twitter a MP4",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo a Twitter",
+        "arialLabel": "Enganxeu els enllaços del vídeo a Twitter",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo de Twitter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement copieu l'enllaç del vídeo de Twitter i enganxeu-lo a la nostra eina. ",
+          "question": "Com puc utilitzar la teva eina per baixar vídeos de Twitter?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Twitter. ",
+          "question": "És legal descarregar vídeos de Twitter amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina està optimitzada per a ús mòbil, la qual cosa permet als usuaris descarregar vídeos de Twitter en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc baixar vídeos de Twitter en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos de Twitter, inclosos els de diferents longituds i formats. ",
+          "question": "Hi ha restriccions sobre la durada o el tipus de vídeos de Twitter que es poden baixar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos de Twitter en HD (alta definició), proporcionant als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD de Twitter amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Si teniu cap dificultat, consulteu la nostra secció de preguntes freqüents al lloc web per obtenir consells de resolució de problemes. ",
+          "question": "Què he de fer si trobo algun problema mentre utilitzo la teva eina?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Twitter per visualitzar-los fora de línia, la qual cosa permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": " Puc baixar vídeos de Twitter per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Twitter, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeo de Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Descarrega el vídeo Tiktok",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu vídeos de TikTok, descàrrega de vídeos de TikTok, deseu vídeos de TikTok, com descarregar vídeos de TikTok, descàrrega de vídeos de TikTok en línia, descàrrega gratuïta de vídeos de TikTok, estalvi de vídeos de TikTok, descarregueu TikTok sense marca d'aigua, captura de vídeos de TikTok, descàrrega de TikTok a MP4",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo tiktok",
+        "arialLabel": "Enganxeu els enllaços del vídeo tiktok",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo tiktok"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement copieu l'enllaç del vídeo de TikTok i enganxeu-lo a la nostra eina. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos de TikTok?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de TikTok. ",
+          "question": "És legal descarregar vídeos de TikTok amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina està optimitzada per a ús mòbil, la qual cosa permet als usuaris descarregar vídeos de TikTok en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos de TikTok en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina admet la descàrrega d'una àmplia gamma de vídeos de TikTok, inclosos els de diferents longituds i formats. ",
+          "question": "Hi ha restriccions sobre la durada o el tipus de vídeos de TikTok que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos de TikTok HD (alta definició), proporcionant als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD TikTok amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Si teniu cap dificultat, consulteu la nostra secció de preguntes freqüents al lloc web per obtenir consells de resolució de problemes. ",
+          "question": "Què he de fer si trobo algun problema mentre utilitzo la teva eina?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de TikTok per veure'ls fora de línia, permetent als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": " Puc descarregar vídeos de TikTok per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem regularment la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de TikTok, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeo tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Descarrega el vídeo d'Instagram",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu Instagram Reel, descàrrega de rodets d'instagram, Desa el vídeo de Reel d'Instagram, Com descarregar Reels a instagram, descàrrega d'instagram Reel en línia, Descàrrega gratuïta de Reel d'Instagram, estalvi de vídeos d'instagram Reel, baixada de Reels des d'Instagram, capturador de vídeos d'Instagram Reel, descàrrega fora de línia d'Instagram Reel",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "arialLabel": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo d'Instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo d'Instagram a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos d'Instagram?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei d'Instagram. ",
+          "question": "És legal descarregar vídeos d'Instagram amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos d'Instagram en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos d'Instagram en dispositius mòbils amb la vostra eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos d'Instagram, inclosos els de diferents longituds i formats. ",
+          "question": " Hi ha restriccions sobre la durada o el tipus de vídeos d'Instagram que es poden baixar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en HD (alta definició) des d'Instagram, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD d'Instagram amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos d'Instagram?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos d'Instagram per veure'ls fora de línia, cosa que permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc descarregar vídeos d'Instagram per veure'ls fora de línia amb la vostra eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma d'Instagram, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis d'Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeos d'instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Descarrega Instagram Reel",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu Instagram Reel, descàrrega de rodets d'instagram, Desa el vídeo de Reel d'Instagram, Com descarregar Reels a instagram, descàrrega d'instagram Reel en línia, Descàrrega gratuïta de Reel d'Instagram, estalvi de vídeos d'instagram Reel, baixada de Reels des d'Instagram, capturador de vídeos d'Instagram Reel, descàrrega fora de línia d'Instagram Reel",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "arialLabel": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo d'Instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo d'Instagram a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos d'Instagram?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei d'Instagram. ",
+          "question": "És legal descarregar vídeos d'Instagram amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos d'Instagram en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos d'Instagram en dispositius mòbils amb la vostra eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos d'Instagram, inclosos els de diferents longituds i formats. ",
+          "question": " Hi ha restriccions sobre la durada o el tipus de vídeos d'Instagram que es poden baixar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en HD (alta definició) des d'Instagram, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD d'Instagram amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos d'Instagram?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos d'Instagram per veure'ls fora de línia, cosa que permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc descarregar vídeos d'Instagram per veure'ls fora de línia amb la vostra eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma d'Instagram, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis d'Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeos d'instagram a mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Descarrega el vídeo d'instagram a mp4",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu Instagram Reel, descàrrega de rodets d'instagram, Desa el vídeo de Reel d'Instagram, Com descarregar Reels a instagram, descàrrega d'instagram Reel en línia, Descàrrega gratuïta de Reel d'Instagram, estalvi de vídeos d'instagram Reel, baixada de Reels des d'Instagram, capturador de vídeos d'Instagram Reel, descàrrega fora de línia d'Instagram Reel",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "arialLabel": "Enganxeu el rodet d'instagram dels enllaços del vídeo",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo d'Instagram"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo d'Instagram a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per descarregar vídeos d'Instagram?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei d'Instagram. ",
+          "question": "És legal descarregar vídeos d'Instagram amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos d'Instagram en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos d'Instagram en dispositius mòbils amb la vostra eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos d'Instagram, inclosos els de diferents longituds i formats. ",
+          "question": " Hi ha restriccions sobre la durada o el tipus de vídeos d'Instagram que es poden baixar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en HD (alta definició) des d'Instagram, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD d'Instagram amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos d'Instagram?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos d'Instagram per veure'ls fora de línia, cosa que permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc descarregar vídeos d'Instagram per veure'ls fora de línia amb la vostra eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma d'Instagram, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis d'Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeos d'instagram a mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Descarrega Facebook Reel",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu Facebook Reel ,Descàrrega de Facebook Reel ,Desa el vídeo de Facebook Reel ,Com descarregar Reels a Facebook ,Descàrrega de Facebook Reel en línia ,Descàrrega gratuïta de Facebook Reel ,Estalvi de vídeos de Facebook Reel ,Descarregueu Reels de Facebook ,Grabador de vídeos de Facebook Reel ,Descàrrega fora de línia de Facebook Reel",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços de vídeo del rodet de Facebook",
+        "arialLabel": "Enganxeu els enllaços de vídeo del rodet de Facebook",
+        "btnArialLabel": "Baixeu qualsevol botó de rodet de vídeo de Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo de Facebook a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per baixar vídeos de Facebook?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Facebook. ",
+          "question": "És legal descarregar vídeos de Facebook amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos de Facebook en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos de Facebook en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos de Facebook, inclosos els de diferents longituds i formats. ",
+          "question": " Hi ha restriccions sobre la durada o el tipus de vídeos de Facebook que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en alta definició (alta definició) de Facebook, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD de Facebook amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos de Facebook?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Facebook per veure'ls fora de línia, la qual cosa permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc baixar vídeos de Facebook per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Facebook, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeo de Facebook a mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Convertidor de Facebook a MP4",
+      "datePublished": "01-10-2021",
+      "keywords": "Convertidor de Facebook a MP4 ,Converteix Facebook a MP4 ,Vídeo de Facebook a MP4 ,Descàrrega MP4 de Facebook ,Facebook en línia a MP4 ,Facebook gratuït a MP4 ,Conversor de vídeo de Facebook ,Desa el vídeo de Facebook com a MP4 ,Descarrega Facebook en MP4 ,Conversor en línia de Facebook MP4",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo a facebook",
+        "arialLabel": "Enganxeu els enllaços del vídeo a facebook",
+        "btnArialLabel": "Descarrega qualsevol botó de vídeo de Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo de Facebook Reel a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per descarregar Facebook Reels?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Facebook. ",
+          "question": "És legal descarregar Facebook Reels amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos de Facebook en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar Facebook Reels en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos de Facebook, inclosos els de diferents longituds i formats. ",
+          "question": "Hi ha restriccions sobre la durada o el tipus de rodets de Facebook que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en alta definició (alta definició) de Facebook, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar HD Facebook Reels amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos de Facebook?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Facebook per veure'ls fora de línia, la qual cosa permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc descarregar Facebook Reels per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Facebook, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeo de Facebook a mp4"
+    },
+    "download-video-facebook": {
+      "title": "Descarrega el vídeo de Facebook",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixeu vídeos de Facebook ,Descàrrega de vídeos de Facebook ,Deseu vídeos de Facebook ,Com baixar vídeos de Facebook ,Descàrrega de vídeos de Facebook en línia ,Descàrrega gratuïta de vídeos de Facebook ,Estalvi de vídeos de Facebook ,Descarregueu vídeos privats de Facebook ,Descàrrega de vídeos HD de Facebook ,Descàrrega de Facebook a MP4, baixada de vídeo ",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo a facebook",
+        "arialLabel": "Enganxeu els enllaços del vídeo a facebook",
+        "btnArialLabel": "Descarrega qualsevol botó de vídeo de Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Simplement enganxeu l'URL del vídeo de Facebook a la nostra eina i us guiarà durant el procés de descàrrega. ",
+          "question": "Com puc utilitzar la teva eina per baixar vídeos de Facebook?"
+        },
+        "2": {
+          "answer": "La nostra eina està dissenyada per respectar les condicions del servei de Facebook. ",
+          "question": "És legal descarregar vídeos de Facebook amb la vostra eina?"
+        },
+        "3": {
+          "answer": "Sí, la nostra eina és compatible amb mòbils, i permet als usuaris descarregar vídeos de Facebook en diversos dispositius, inclosos telèfons intel·ligents i tauletes.",
+          "question": "Puc descarregar vídeos de Facebook en dispositius mòbils amb la teva eina?"
+        },
+        "4": {
+          "answer": "La nostra eina permet baixar una àmplia gamma de vídeos de Facebook, inclosos els de diferents longituds i formats. ",
+          "question": " Hi ha restriccions sobre la durada o el tipus de vídeos de Facebook que es poden descarregar?"
+        },
+        "5": {
+          "answer": "Sí, la nostra eina admet la descàrrega de vídeos en alta definició (alta definició) de Facebook, oferint als usuaris l'opció de gaudir de contingut de més qualitat.",
+          "question": "És possible descarregar vídeos HD de Facebook amb la vostra eina?"
+        },
+        "6": {
+          "answer": "Ens prenem la seguretat seriosament. ",
+          "question": "Hi ha riscos associats a l'ús de la vostra eina per descarregar vídeos de Facebook?"
+        },
+        "7": {
+          "answer": "Sí, la nostra eina ofereix una opció per descarregar vídeos de Facebook per veure'ls fora de línia, la qual cosa permet als usuaris gaudir del contingut fins i tot sense connexió a Internet.",
+          "question": "Puc baixar vídeos de Facebook per veure'ls fora de línia amb la teva eina?"
+        },
+        "8": {
+          "answer": "Actualitzem periòdicament la nostra eina per adaptar-nos a qualsevol canvi a la plataforma de Facebook, garantint una compatibilitat continuada i una experiència d'usuari perfecta.",
+          "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeos de facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Descàrrega de vídeos de Youtube",
+      "datePublished": "01-10-2021",
+      "keywords": "Descàrrega de vídeos de YouTube, Baixeu vídeos de YouTube, Descàrrega de vídeos de YouTube, Desar vídeos de YouTube, Com descarregar vídeos de YouTube, Baixar vídeos de YouTube en línia, Baixar vídeos HD de YouTube, Estalviador de vídeos de YouTube, capturador de vídeos de YouTube, Descàrrega gratuïta de vídeos de YouTube",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo de Youtube",
+        "arialLabel": "Enganxeu els enllaços del vídeo de Youtube",
+        "btnArialLabel": "Descarrega qualsevol botó de vídeo de youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Podeu utilitzar aquestes eines en línia o programari dissenyat per descarregar vídeos de YouTube. ",
+          "question": "Com puc descarregar vídeos de YouTube?"
+        },
+        "2": {
+          "answer": "Baixar vídeos de YouTube sense permís pot infringir les condicions del servei de YouTube. ",
+          "question": "És legal descarregar vídeos de YouTube?"
+        },
+        "3": {
+          "answer": "Sí, diversos serveis en línia ofereixen descàrregues de vídeos de YouTube. ",
+          "question": "Hi ha serveis en línia per baixar vídeos de YouTube?"
+        },
+        "4": {
+          "answer": "Sí, hi ha aplicacions mòbils i llocs web que us permeten baixar vídeos de YouTube directament al vostre dispositiu mòbil per veure'ls fora de línia.",
+          "question": "Puc baixar vídeos de YouTube en dispositius mòbils?"
+        },
+        "5": {
+          "answer": "Els formats admesos habitualment inclouen MP",
+          "question": "Quins formats de vídeo s'admeten per als vídeos de YouTube baixats?"
+        },
+        "6": {
+          "answer": "Sí, es recomana obtenir el permís del creador de contingut o comprovar la informació de llicència del vídeo abans de baixar-lo i utilitzar-lo.",
+          "question": "Necessito permís per baixar i utilitzar vídeos de YouTube?"
+        },
+        "7": {
+          "answer": "Les condicions del servei de YouTube prohibeixen la baixada no autoritzada de vídeos. ",
+          "question": "Hi ha restriccions per baixar contingut de YouTube?"
+        },
+        "8": {
+          "answer": "Sí, YouTube ofereix una manera legal de baixar vídeos per veure'ls fora de línia a través de la seva aplicació. ",
+          "question": "Puc baixar vídeos de YouTube per veure'ls fora de línia?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar vídeos de youtube en línia"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Convertidor de Youtube a MP3",
+      "datePublished": "01-10-2021",
+      "keywords": "YouTube a MP3, Converteix YouTube a MP3, Convertidor de YouTube MP3, Descàrrega d'àudio de YouTube, YouTube a MP3 en línia, YouTube gratuït a MP3, Convertidor de YouTube a MP3 en línia, Converteix vídeo de YouTube a MP3, Convertidor de so de YouTube, Baixeu àudio de YouTube",
+      "description": "Youtube to MP3 Converter és un programari ràpid i segur que permet descàrregues il·limitades de vídeos d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo de Youtube",
+        "arialLabel": "Enganxeu els enllaços del vídeo de Youtube",
+        "btnArialLabel": "Descarrega qualsevol botó mp3 de vídeo de YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Podeu utilitzar aquestes eines en línia o programari dissenyat per descarregar vídeos de YouTube. ",
+          "question": "Com puc descarregar vídeos de YouTube?"
+        },
+        "2": {
+          "answer": "Baixar vídeos de YouTube sense permís pot infringir les condicions del servei de YouTube. ",
+          "question": "És legal descarregar vídeos de YouTube?"
+        },
+        "3": {
+          "answer": "Sí, diversos serveis en línia ofereixen descàrregues de vídeos de YouTube. ",
+          "question": "Hi ha serveis en línia per baixar vídeos de YouTube?"
+        },
+        "4": {
+          "answer": "Sí, hi ha aplicacions mòbils i llocs web que us permeten baixar vídeos de YouTube directament al vostre dispositiu mòbil per veure'ls fora de línia.",
+          "question": "Puc baixar vídeos de YouTube en dispositius mòbils?"
+        },
+        "5": {
+          "answer": "Els formats admesos habitualment inclouen MP",
+          "question": "Quins formats de vídeo s'admeten per als vídeos de YouTube baixats?"
+        },
+        "6": {
+          "answer": "Sí, es recomana obtenir el permís del creador de contingut o comprovar la informació de llicència del vídeo abans de baixar-lo i utilitzar-lo.",
+          "question": "Necessito permís per baixar i utilitzar vídeos de YouTube?"
+        },
+        "7": {
+          "answer": "Les condicions del servei de YouTube prohibeixen la baixada no autoritzada de vídeos. ",
+          "question": "Hi ha restriccions per baixar contingut de YouTube?"
+        },
+        "8": {
+          "answer": "Sí, YouTube ofereix una manera legal de baixar vídeos per veure'ls fora de línia a través de la seva aplicació. ",
+          "question": "Puc baixar vídeos de YouTube per veure'ls fora de línia?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar Youtube a MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Convertidor de Youtube a MP4",
+      "datePublished": "01-10-2021",
+      "keywords": "YouTube a MP4, Converteix YouTube a MP4, Convertidor de YouTube MP4, Descàrrega d'àudio de YouTube, YouTube a MP4 en línia, YouTube gratuït a MP4, Convertidor de YouTube a MP4 en línia, Converteix vídeo de YouTube a MP4, Convertidor de so de YouTube, Baixeu àudio de YouTube",
+      "description": "Youtube to MP4 Converter és un programari ràpid i segur que permet descàrregues il·limitades de vídeos d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo de Youtube",
+        "arialLabel": "Enganxeu els enllaços del vídeo de Youtube",
+        "btnArialLabel": "Descarrega qualsevol botó MP4 de vídeo de YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Podeu utilitzar aquestes eines en línia o programari dissenyat per descarregar vídeos de YouTube. ",
+          "question": "Com puc descarregar vídeos de YouTube?"
+        },
+        "2": {
+          "answer": "Baixar vídeos de YouTube sense permís pot infringir les condicions del servei de YouTube. ",
+          "question": "És legal descarregar vídeos de YouTube?"
+        },
+        "3": {
+          "answer": "Sí, diversos serveis en línia ofereixen descàrregues de vídeos de YouTube. ",
+          "question": "Hi ha serveis en línia per baixar vídeos de YouTube?"
+        },
+        "4": {
+          "answer": "Sí, hi ha aplicacions mòbils i llocs web que us permeten baixar vídeos de YouTube directament al vostre dispositiu mòbil per veure'ls fora de línia.",
+          "question": "Puc baixar vídeos de YouTube en dispositius mòbils?"
+        },
+        "5": {
+          "answer": "Els formats admesos habitualment inclouen MP",
+          "question": "Quins formats de vídeo s'admeten per als vídeos de YouTube baixats?"
+        },
+        "6": {
+          "answer": "Sí, es recomana obtenir el permís del creador de contingut o comprovar la informació de llicència del vídeo abans de baixar-lo i utilitzar-lo.",
+          "question": "Necessito permís per baixar i utilitzar vídeos de YouTube?"
+        },
+        "7": {
+          "answer": "Les condicions del servei de YouTube prohibeixen la baixada no autoritzada de vídeos. ",
+          "question": "Hi ha restriccions per baixar contingut de YouTube?"
+        },
+        "8": {
+          "answer": "Sí, YouTube ofereix una manera legal de baixar vídeos per veure'ls fora de línia a través de la seva aplicació. ",
+          "question": "Puc baixar vídeos de YouTube per veure'ls fora de línia?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar Youtube a MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Descàrrega de curts de Youtube",
+      "datePublished": "01-10-2021",
+      "keywords": "Baixa curts de YouTube ,Descàrrega de curts de YouTube ,Desa curts de YouTube ,Baixa curts de YouTube ,Descàrrega de vídeos curts de YouTube ,Com desar curts de YouTube ,Baixa curts a YouTube ,Descàrrega de curts de YouTube ,Descàrrega de curts de YouTube fora de línia ,Descàrrega gratuïta de curts de YouTube",
+      "description": "Youtube Shorts Downloader és un programari ràpid i segur que permet descàrregues il·limitades de vídeos d'Internet. ",
+      "form": {
+        "placeholder": "Enganxeu els enllaços del vídeo YouTube Short",
+        "arialLabel": "Enganxeu els enllaços del vídeo YouTube Short",
+        "btnArialLabel": "Descarrega qualsevol botó curt de vídeo de youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Des de la meva darrera actualització el gener de 2022, els curts de YouTube estan pensats principalment per a visualitzacions en format breu per a mòbils i és possible que no tinguin una opció de baixada directa. ",
+          "question": "Com puc descarregar YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Baixar curts de YouTube sense l'autorització adequada pot infringir les condicions del servei de YouTube. ",
+          "question": "És legal descarregar YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Sí, diversos serveis en línia ofereixen descàrregues de vídeos de YouTube. ",
+          "question": "Puc baixar YouTube Shorts en dispositius mòbils?"
+        },
+        "4": {
+          "answer": "Les condicions del servei de YouTube generalment prohibeixen la baixada no autoritzada de contingut. ",
+          "question": "Hi ha restriccions per baixar curts de YouTube?"
+        },
+        "5": {
+          "answer": "YouTube ofereix opcions dins de l'aplicació per compartir curts en diverses plataformes. ",
+          "question": "Com puc desar o compartir legalment els curts de YouTube?"
+        },
+        "6": {
+          "answer": "Els curts de YouTube solen estar dissenyats per a la visualització en línia. ",
+          "question": "Puc baixar YouTube Shorts per veure'ls fora de línia?"
+        },
+        "7": {
+          "answer": "Les condicions del servei de YouTube prohibeixen la baixada no autoritzada de vídeos. ",
+          "question": "Hi ha restriccions per baixar contingut de YouTube?"
+        },
+        "8": {
+          "answer": "Si tens problemes amb YouTube Shorts o les seves funcions, posa't en contacte amb l'assistència de YouTube o consulta el seu Centre d'ajuda per obtenir informació sobre els problemes per informar.",
+          "question": "Com puc informar de problemes amb YouTube Shorts o les seves funcions de baixada?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Com descarregar YouTube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "descarregar video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "descarregar vídeos de twitter"
+    },
+    "general": {
+      "title": "Descarrega el vídeo en línia",
+      "keywords": "Baixeu vídeos YouTube, Baixeu vídeos d'Instagram, Baixeu vídeos de Facebook, Baixeu vídeos TikTok, Baixeu vídeos Twitch, Baixeu vídeos a Twitter, Baixeu vídeos a Pinterest, Baixeu vídeos de xarxes socials, Baixeu vídeos en línia, Baixeu vídeos gratuïts",
+      "datePublished": "01-10-2021",
+      "description": "Descarregar vídeo en línia és un programari ràpid i segur que permet baixar vídeos il·limitats d'Internet. ",
+      "faq": {
+        "1": {
+          "answer": "Sí, aquest lloc web és gratuït. ",
+          "question": "Aquest lloc web és gratuït?"
+        },
+        "2": {
+          "answer": "No, no s'admet la baixada d'històries.",
+          "question": "Puc descarregar històries?"
+        },
+        "3": {
+          "answer": "No, només oferim el servei de baixada de vídeos.",
+          "question": "Puc descarregar imatges de?"
+        },
+        "4": {
+          "answer": "Sí, aquest lloc web és segur. ",
+          "question": "Aquest lloc web és segur?"
+        },
+        "5": {
+          "answer": "Sí, podeu utilitzar el lloc web des del vostre mòbil o tauleta.",
+          "question": "Puc utilitzar el lloc web des del meu mòbil?"
+        },
+        "6": {
+          "answer": "Si el vídeo que voleu baixar no està disponible, torneu-ho a provar més tard.",
+          "question": "Què passa si el vídeo que vull baixar no està disponible?"
+        },
+        "7": {
+          "answer": "No, no pots baixar vídeos des de comptes privats.",
+          "question": "Puc baixar vídeos des de comptes privats?"
+        },
+        "8": {
+          "answer": "El millor format per descarregar vídeos és MP4. ",
+          "question": "Quin és el millor format per descarregar vídeos?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "En baixar aquest vídeo, acceptes el",
+      "#2": "Sense filigrana",
+      "#3": "qualitat HD",
+      "#4": "Descàrrega ràpida",
+      "#5": "Editable fàcilment",
+      "#6": "Qualsevol format",
+      "#7": "Com descarregar vídeos {name}:",
+      "#8": "Enganxeu un URL de qualsevol vídeo",
+      "#9": "Enganxeu l'URL de qualsevol vídeo al camp proporcionat i premeu Descarrega. ",
+      "#10": "Edita o baixa",
+      "#11": "Tens l'opció d'editar el teu vídeo utilitzant el nostre conjunt complet d'eines d'edició de vídeo. ",
+      "#12": "Compartiu el vídeo de descàrrega de l'eina en línia",
+      "#13": "Exporta el teu vídeo i comparteix-lo!",
+      "#14": "Descàrrega instantània de vídeo en línia",
+      "#15": "Descarregar vídeo en línia Podeu baixar clips de vídeo des de",
+      "#16": "en un sol clic! ",
+      "#17": "Descarrega Video Online funciona directament des del teu navegador mòbil o d'escriptori o aplicació mòbil. ",
+      "#18": "Descarrega el vídeo en línia i elimina la marca d'aigua",
+      "#19": "Descàrrega de vídeo en línia us permet descarregar contingut sense marques d'aigua perquè pugueu reutilitzar-los i compartir-los a qualsevol lloc. ",
+      "#20": "Afegiu veus en off al vostre vídeo a l'instant",
+      "#21": "Si no teniu el temps ni els recursos per afegir veus en off, podeu utilitzar el programari de text a veu Download Video Online!  ",
+      "#22": "Creeu vídeos d'aspecte professional amb uns quants clics",
+      "#23": "Si sou un streamer, és probable que també tingueu altres canals de xarxes socials per mantenir.  ",
+      "#24": "Preguntes freqüents - PMF",
+      "#25": "Descarrega amb l'aplicació",
+      "#26": "Ara oferim una aplicació per descarregar vídeos. ",
+      "#27": "URL de l'aplicació googleplay",
+      "#28": "URL de l'aplicació Apple",
+      "btnText": "descarregar",
+      "btnLoadingText": "Recollint"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Política de privacitat",
+      "#1": "Introducció",
+      "#2": "Aquesta Política de privadesa informa als usuaris que el lloc web ({website_url}) no recopila, emmagatzema ni processa cap informació personal. ",
+      "#3": "Tingueu en compte que aquesta Política es proporciona d'acord amb els requisits legals, encara que el lloc web o el servei no reculli ni emmagatzemi cap informació personal.",
+      "#4": "Publicitat i anàlisi de tercers",
+      "#5": "Utilitzem serveis de publicitat de tercers, com ara Google AdSense, per publicar anuncis al lloc web. ",
+      "#6": "Podeu desactivar la publicitat personalitzada visitant",
+      "#7": "Configuració d'anuncis",
+      "#8": "o visitant",
+      "#9": "Canvis a la política de privadesa",
+      "#10": "Ens reservem el dret d'actualitzar, modificar o substituir qualsevol part de la Política en qualsevol moment mitjançant la publicació de la Política actualitzada al lloc web. ",
+      "#11": "Informació de contacte",
+      "#12": "Si teniu cap pregunta o dubte sobre aquesta Política, poseu-vos en contacte amb el propietari del lloc web a",
+      "#13": "Acceptació de la Política de Privacitat",
+      "#14": "En accedir o utilitzar el lloc web o el servei, vostè reconeix que ha llegit, entès i accepta estar subjecte als termes i condicions d'aquesta Política."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Termes del servei"
+    },
+    "dcma": {
+      "title": "Copyright (DMCA)",
+      "#1": "{name} respecta els drets d'autor de totes les obres i no permet que els usuaris facin servir els vídeos d'altres persones per a res que vagi en contra dels termes i condicions de protecció dels drets d'autor. ",
+      "#2": "{name} compleix la Digital Millennium Copyright Act (DMCA) i suspèn immediatament l'accés al Contingut quan se'l notifica correctament.",
+      "#3": "Per presentar una notificació d'infracció dels drets d'autor amb {name}, haureu d'utilitzar el correu electrònic per enviar-nos un missatge que inclogui substancialment la informació requerida i indicada a la Secció 512(c)(3) de la Digital Millennium Copyright Act.",
+      "#4": "Informació requerida:",
+      "#5": "1. Identifiqueu-vos com: a) El propietari d'una obra amb drets d'autor b) Una persona \"autoritzada per actuar en nom del propietari d'un dret exclusiu que suposadament s'ha infringit\". ",
+      "#6": "2. Identifiqueu l'obra amb drets d'autor que s'afirma que s'ha infringit.",
+      "#7": "3. Identifiqueu el Contingut que s'afirma que infringeix o que és objecte de l'activitat infractora i que s'ha de suspendre o l'accés al qual s'ha de desactivar, així com informació raonablement suficient per permetre a youtube4kdownloader localitzar el Contingut. ",
+      "#8": "4. Proporcioneu informació de contacte que sigui raonablement suficient per permetre'ns contactar amb vostè, com ara una adreça, un número de telèfon i una adreça de correu electrònic vàlida.",
+      "#9": "5. Indiqueu que creieu de bona fe que l'ús del Contingut de la manera denunciada no està autoritzat pel propietari dels drets d'autor, els seus agents o la llei.",
+      "#10": "6. Indiqueu que la informació de la notificació és exacta i, sota pena de fals testimoni, la part denunciant està autoritzada per actuar en nom del titular d'un dret exclusiu que suposadament s'ha infringit.",
+      "#11": "Un cop rebem una notificació vàlida, tal com exigeix ​​la llei, suspendrem l'accés al contingut dels drets d'autor des del nostre lloc web.",
+      "#12": "Si teniu cap pregunta, poseu-vos en contacte amb nosaltres a",
+      "#13": "aquesta forma"
+    },
+    "thankyou": {
+      "title": "Gràcies per instal·lar el vídeo de descàrrega en línia!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API de baixada de vídeos",
+      "#1": "L'API {website_url} proporciona un mètode fàcil i còmode per recuperar fitxers multimèdia dels llocs web i plataformes de xarxes socials més populars. ",
+      "#2": "Per accedir o obtenir més informació, poseu-vos en contacte amb nosaltres a "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Contacta amb nosaltres",
+      "#1": "Si teniu cap pregunta, queixa o reclamació respecte als nostres Serveis, envieu-nos un missatge a",
+      "#2": "Feedback",
+      "#3": "Correu electrònic",
+      "#4": "Missatge",
+      "#5": "Presentar",
+      "#6": "Correu electrònic enviat correctament!"
+    }
+  }
+}

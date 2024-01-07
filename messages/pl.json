@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Zmień język",
+    "locale": "{locale,select, de {niemiecki} en {angielski} other {Nieznany}}"
+  },
+  "Metadata": {
+    "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+    "keywords": "Pobierz filmy YouTube, Pobierz wideo Instagram, Pobierz wideo Facebook, Pobierz filmy TikTok, Pobierz filmy Twitch, Pobierz wideo Twitter, Pobierz filmy Pinterest, Pobierz filmy z mediów społecznościowych, Pobierz filmy online, Pobierz filmy za darmo",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Pobierz wideo online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Wklej linki do filmów na Facebooku, Instagramie, TikTok, Twitterze, Twitchu, Youtube..",
+      "arialLabel": "Wklej linki do filmów na Facebooku, Instagramie, TikTok, Twitterze, Twitchu, Youtube..",
+      "btnArialLabel": "Pobierz dowolny przycisk wideo",
+      "btnText": "Pobierać",
+      "btnLoadingText": "Ujmujący"
+    }
+  },
+  "Footer": {
+    "#1": "Narzędzie do pobierania YouTube'a",
+    "#2": "Narzędzie do pobierania filmów z YouTube'a",
+    "#3": "Konwerter Youtube'a na MP3",
+    "#4": "Konwerter Youtube'a na MP4",
+    "#5": "Narzędzie do pobierania krótkich filmów z YouTube",
+    "#6": "Narzędzie do pobierania z Facebooka",
+    "#7": "Pobierz wideo z Facebooka",
+    "#8": "Konwerter Facebooka na MP4",
+    "#9": "Pobierz Facebook Reel",
+    "#10": "Narzędzie do pobierania z Instagrama",
+    "#11": "Pobierz wideo z Instagrama",
+    "#12": "Pobierz Instagram Reel",
+    "#13": "Konwerter Instagrama na MP4",
+    "#14": "Inny program do pobierania",
+    "#15": "Pobierz wideo TikTok",
+    "#16": "Pobierz wideo z Twittera",
+    "#17": "Pobierz wideo z Twitcha",
+    "#18": "Pobierz klip wideo z Twitcha",
+    "#20": "Prawny",
+    "#21": "Polityka prywatności",
+    "#22": "Warunki usługi",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Bloga",
+    "#26": "Dołącz do nas!",
+    "#27": "Subskrybuj",
+    "#28": "Wszelkie prawa zastrzeżone."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Pobierz klip wideo z Twitcha",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz klipy z Twitcha, narzędzie do pobierania klipów z Twitcha, zapisywanie klipów z Twitcha, jak pobierać klipy z Twitcha, pobieranie klipów z Twitcha online, bezpłatne pobieranie klipów z Twitcha, wygaszanie klipów z Twitcha, pobieranie klipów z Twitcha bez znaku wodnego, pobieranie klipów z Twitcha, pobieranie klipów z Twitcha do formatu MP4",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki do filmów Twitch Clip",
+        "arialLabel": "Wklej linki do filmów Twitch Clip",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo Twitch Clip"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu skopiuj link do filmu Twitch i wklej go do naszego narzędzia. ",
+          "question": "Jak używać waszego narzędzia do pobierania filmów z Twitcha?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby szanować warunki korzystania z usług Twitcha. ",
+          "question": "Czy pobieranie filmów z Twitcha przy użyciu Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest zoptymalizowane do użytku mobilnego, umożliwiając użytkownikom pobieranie filmów z Twitcha na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twitcha na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Twitcha, w tym filmów o różnej długości i formatach. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Twitcha, które można pobierać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (w wysokiej rozdzielczości) z serwisu Twitch, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z serwisu Twitch?"
+        },
+        "6": {
+          "answer": "Jeśli napotkasz jakiekolwiek problemy, sprawdź sekcję Często zadawane pytania na naszej stronie internetowej, gdzie znajdziesz wskazówki dotyczące rozwiązywania problemów. ",
+          "question": "Co powinienem zrobić, jeśli napotkam jakiekolwiek problemy podczas korzystania z narzędzia?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Twitcha do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": " Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twitcha i oglądać je w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Twitcha, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Twitcha?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać klip wideo Twitch"
+    },
+    "download-video-twitch": {
+      "title": "Pobierz wideo z Twitcha",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz filmy z Twitcha, Narzędzie do pobierania filmów z Twitcha, Zapisywanie filmów z Twitcha, Jak pobierać filmy z Twitcha, Pobieranie klipów z Twitcha, Bezpłatne pobieranie filmów z Twitcha, Narzędzie do pobierania VOD z Twitcha, Pobieranie najważniejszych wydarzeń z Twitcha, Grabber wideo z Twitcha, Pobieranie Twitch do MP4",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo Twitch",
+        "arialLabel": "Wklej linki wideo Twitch",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo Twitch"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu skopiuj link do filmu Twitch i wklej go do naszego narzędzia. ",
+          "question": "Jak używać waszego narzędzia do pobierania filmów z Twitcha?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby szanować warunki korzystania z usług Twitcha. ",
+          "question": "Czy pobieranie filmów z Twitcha przy użyciu Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest zoptymalizowane do użytku mobilnego, umożliwiając użytkownikom pobieranie filmów z Twitcha na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twitcha na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Twitcha, w tym filmów o różnej długości i formatach. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Twitcha, które można pobierać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (w wysokiej rozdzielczości) z serwisu Twitch, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z serwisu Twitch?"
+        },
+        "6": {
+          "answer": "Jeśli napotkasz jakiekolwiek problemy, sprawdź sekcję Często zadawane pytania na naszej stronie internetowej, gdzie znajdziesz wskazówki dotyczące rozwiązywania problemów. ",
+          "question": "Co powinienem zrobić, jeśli napotkam jakiekolwiek problemy podczas korzystania z narzędzia?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Twitcha do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": " Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twitcha i oglądać je w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Twitcha, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Twitcha?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Pobierz wideo z Twittera",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobieraj filmy z Twittera, Narzędzie do pobierania wideo z Twittera, Zapisywanie filmów z Twittera, Jak pobierać filmy z Twittera, Pobieranie wideo z Twittera online, Bezpłatne pobieranie wideo z Twittera, Wygaszacz wideo z Twittera, Pobieraj Twittera bez znaku wodnego, Grabber wideo z Twittera, Pobieranie z Twittera do MP4",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo Twitter",
+        "arialLabel": "Wklej linki wideo Twitter",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo na Twitterze"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu skopiuj link do filmu z Twittera i wklej go do naszego narzędzia. ",
+          "question": "Jak korzystać z narzędzia do pobierania filmów z Twittera?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z usługi Twitter. ",
+          "question": "Czy pobieranie filmów z Twittera za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest zoptymalizowane do użytku mobilnego, umożliwiając użytkownikom pobieranie filmów z Twittera na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twittera na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Twittera, w tym filmów o różnej długości i formacie. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Twittera, które można pobierać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów z Twittera w rozdzielczości HD (high-definition), zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą tego narzędzia można pobierać filmy HD z Twittera?"
+        },
+        "6": {
+          "answer": "Jeśli napotkasz jakiekolwiek problemy, sprawdź sekcję Często zadawane pytania na naszej stronie internetowej, gdzie znajdziesz wskazówki dotyczące rozwiązywania problemów. ",
+          "question": "Co powinienem zrobić, jeśli napotkam jakiekolwiek problemy podczas korzystania z narzędzia?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Twittera do przeglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": " Czy za pomocą Twojego narzędzia mogę pobierać filmy z Twittera i oglądać je w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Twittera, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Twittera?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Twittera"
+    },
+    "download-video-tiktok": {
+      "title": "Pobierz wideo Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz filmy TikTok, Narzędzie do pobierania wideo TikTok, Zapisz filmy TikTok, Jak pobierać filmy z TikTok, Pobieranie wideo TikTok online, Bezpłatne pobieranie wideo TikTok, Wygaszacz wideo TikTok, Pobierz TikTok bez znaku wodnego, Grabber wideo TikTok, Pobieranie TikTok do MP4",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki do filmów tiktok",
+        "arialLabel": "Wklej linki do filmów tiktok",
+        "btnArialLabel": "Pobierz dowolny przycisk odtwarzania wideo Tiktok"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu skopiuj link do filmu TikTok i wklej go do naszego narzędzia. ",
+          "question": "Jak korzystać z Twojego narzędzia do pobierania filmów TikTok?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z usługi TikTok. ",
+          "question": "Czy pobieranie filmów TikTok za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest zoptymalizowane do użytku mobilnego, umożliwiając użytkownikom pobieranie filmów TikTok na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy TikTok na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie obsługuje pobieranie szerokiej gamy filmów TikTok, w tym filmów o różnej długości i formatach. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów TikTok, które można pobrać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (w wysokiej rozdzielczości) TikTok, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD TikTok?"
+        },
+        "6": {
+          "answer": "Jeśli napotkasz jakiekolwiek problemy, sprawdź sekcję Często zadawane pytania na naszej stronie internetowej, gdzie znajdziesz wskazówki dotyczące rozwiązywania problemów. ",
+          "question": "Co powinienem zrobić, jeśli napotkam jakiekolwiek problemy podczas korzystania z narzędzia?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów TikTok do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": " Czy mogę pobierać filmy TikTok do oglądania w trybie offline za pomocą Twojego narzędzia?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie TikTok, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Pobierz wideo z Instagrama",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej link do filmu na Instagramie",
+        "arialLabel": "Wklej link do filmu na Instagramie",
+        "btnArialLabel": "Pobierz dowolny przycisk kołowrotka wideo na Instagramie"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Instagrama do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z waszego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z usługi Instagram. ",
+          "question": "Czy pobieranie filmów z Instagrama za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, dzięki czemu użytkownicy mogą pobierać filmy z Instagrama na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Instagrama, w tym o różnej długości i formacie. ",
+          "question": " Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Instagrama, które można pobrać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Instagrama, zapewniając użytkownikom możliwość cieszenia się treściami o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z Instagrama?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy istnieje jakieś ryzyko związane z używaniem Twojego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Instagrama do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama do oglądania w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Instagram, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami na Instagramie?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Instagrama"
+    },
+    "download-instagram-reel": {
+      "title": "Pobierz Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej link do filmu na Instagramie",
+        "arialLabel": "Wklej link do filmu na Instagramie",
+        "btnArialLabel": "Pobierz dowolny przycisk kołowrotka wideo na Instagramie"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Instagrama do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z waszego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z usługi Instagram. ",
+          "question": "Czy pobieranie filmów z Instagrama za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, dzięki czemu użytkownicy mogą pobierać filmy z Instagrama na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Instagrama, w tym o różnej długości i formacie. ",
+          "question": " Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Instagrama, które można pobrać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Instagrama, zapewniając użytkownikom możliwość cieszenia się treściami o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z Instagrama?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy istnieje jakieś ryzyko związane z używaniem Twojego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Instagrama do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama do oglądania w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Instagram, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami na Instagramie?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Instagrama do mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Pobierz wideo z Instagrama w formacie mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej link do filmu na Instagramie",
+        "arialLabel": "Wklej link do filmu na Instagramie",
+        "btnArialLabel": "Pobierz dowolny przycisk kołowrotka wideo na Instagramie"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Instagrama do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z waszego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z usługi Instagram. ",
+          "question": "Czy pobieranie filmów z Instagrama za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, dzięki czemu użytkownicy mogą pobierać filmy z Instagrama na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Instagrama, w tym o różnej długości i formacie. ",
+          "question": " Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Instagrama, które można pobrać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Instagrama, zapewniając użytkownikom możliwość cieszenia się treściami o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z Instagrama?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy istnieje jakieś ryzyko związane z używaniem Twojego narzędzia do pobierania filmów z Instagrama?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Instagrama do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Instagrama do oglądania w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Instagram, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami na Instagramie?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Instagrama do mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Pobierz Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz Facebook Reel, Facebook Reel downloader, Zapisz wideo z Facebook Reel, Jak pobrać Reels na Facebooku, Facebook Reel pobierz online, Bezpłatne pobieranie Facebook Reel, Wygaszacz wideo Facebook Reel, Pobieranie Reels z Facebooka, Facebook Reel video grabber, Facebook Reel pobieranie offline",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki do filmów na Facebooku",
+        "arialLabel": "Wklej linki do filmów na Facebooku",
+        "btnArialLabel": "Pobierz dowolny przycisk odtwarzania filmu na Facebooku"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Facebooka do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z narzędzia do pobierania filmów z Facebooka?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z Facebooka. ",
+          "question": "Czy pobieranie filmów z Facebooka za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, umożliwiając użytkownikom pobieranie filmów z Facebooka na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Facebooka na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Facebooka, w tym filmów o różnej długości i formacie. ",
+          "question": " Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Facebooka, które można pobierać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Facebooka, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z Facebooka?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy korzystanie z narzędzia do pobierania filmów z Facebooka wiąże się z jakimkolwiek ryzykiem?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Facebooka do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Facebooka i oglądać je w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Facebooka, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Facebooka do formatu mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Konwerter Facebooka na MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Konwerter Facebooka na MP4, Konwertuj Facebooka na MP4, Wideo z Facebooka na MP4, Pobieranie Facebooka MP4, Facebook online na MP4, Bezpłatny Facebook na MP4, Konwerter wideo z Facebooka, Zapisz wideo z Facebooka jako MP4, Pobierz Facebooka w formacie MP4, Konwerter online Facebook MP4",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo do Facebooka",
+        "arialLabel": "Wklej linki wideo do Facebooka",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo z Facebooka"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Facebook Reel do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z narzędzia do pobierania plików Facebook Reels?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z Facebooka. ",
+          "question": "Czy pobieranie Facebook Reels za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, umożliwiając użytkownikom pobieranie filmów z Facebooka na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobrać Facebook Reels na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Facebooka, w tym filmów o różnej długości i formacie. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju klipów Facebooka, które można pobrać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Facebooka, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobrać HD Facebook Reels?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy korzystanie z narzędzia do pobierania filmów z Facebooka wiąże się z jakimkolwiek ryzykiem?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Facebooka do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy mogę pobrać Facebook Reels do przeglądania w trybie offline za pomocą Twojego narzędzia?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Facebooka, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Facebooka do formatu mp4"
+    },
+    "download-video-facebook": {
+      "title": "Pobierz wideo z Facebooka",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobieraj filmy z Facebooka, Narzędzie do pobierania wideo z Facebooka, Zapisuj filmy z Facebooka, Jak pobierać filmy z Facebooka, Pobieranie wideo z Facebooka online, Bezpłatne pobieranie wideo z Facebooka, Wygaszacz wideo z Facebooka, Pobieraj prywatne filmy z Facebooka, Pobieranie wideo HD z Facebooka, Pobieranie z Facebooka do MP4, pobieranie wideo ",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo do Facebooka",
+        "arialLabel": "Wklej linki wideo do Facebooka",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo z Facebooka"
+      },
+      "faq": {
+        "1": {
+          "answer": "Po prostu wklej adres URL filmu z Facebooka do naszego narzędzia, a ono poprowadzi Cię przez proces pobierania. ",
+          "question": "Jak korzystać z narzędzia do pobierania filmów z Facebooka?"
+        },
+        "2": {
+          "answer": "Nasze narzędzie zostało zaprojektowane tak, aby przestrzegać warunków korzystania z Facebooka. ",
+          "question": "Czy pobieranie filmów z Facebooka za pomocą Twojego narzędzia jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, nasze narzędzie jest przyjazne dla urządzeń mobilnych, umożliwiając użytkownikom pobieranie filmów z Facebooka na różne urządzenia, w tym smartfony i tablety.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Facebooka na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Nasze narzędzie umożliwia pobieranie szerokiej gamy filmów z Facebooka, w tym filmów o różnej długości i formacie. ",
+          "question": " Czy istnieją jakieś ograniczenia dotyczące długości lub rodzaju filmów z Facebooka, które można pobierać?"
+        },
+        "5": {
+          "answer": "Tak, nasze narzędzie obsługuje pobieranie filmów HD (high-definition) z Facebooka, zapewniając użytkownikom możliwość korzystania z treści o wyższej jakości.",
+          "question": "Czy za pomocą Twojego narzędzia można pobierać filmy HD z Facebooka?"
+        },
+        "6": {
+          "answer": "Poważnie podchodzimy do bezpieczeństwa. ",
+          "question": "Czy korzystanie z narzędzia do pobierania filmów z Facebooka wiąże się z jakimkolwiek ryzykiem?"
+        },
+        "7": {
+          "answer": "Tak, nasze narzędzie umożliwia pobieranie filmów z Facebooka do oglądania w trybie offline, dzięki czemu użytkownicy mogą cieszyć się treściami nawet bez połączenia z Internetem.",
+          "question": "Czy za pomocą Twojego narzędzia mogę pobierać filmy z Facebooka i oglądać je w trybie offline?"
+        },
+        "8": {
+          "answer": "Regularnie aktualizujemy nasze narzędzie, aby dostosować się do wszelkich zmian na platformie Facebooka, zapewniając ciągłą kompatybilność i bezproblemową obsługę użytkownika.",
+          "question": "Jak często aktualizowane jest Twoje narzędzie, aby zapewnić zgodność ze zmianami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z Facebooka"
+    },
+    "youtube-video-downloader": {
+      "title": "Narzędzie do pobierania filmów z YouTube'a",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobieranie wideo z YouTube, pobieranie filmów z YouTube, narzędzie do pobierania YouTube, zapisywanie filmów z YouTube, jak pobierać filmy z YouTube, pobieranie wideo z YouTube online, pobieranie filmów HD z YouTube, wygaszacz wideo YouTube, przechwytywanie wideo z YouTube, bezpłatne pobieranie wideo z YouTube",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo Youtube",
+        "arialLabel": "Wklej linki wideo Youtube",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo z YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Możesz użyć tych narzędzi online lub oprogramowania przeznaczonego do pobierania filmów z YouTube. ",
+          "question": "Jak pobierać filmy z YouTube'a?"
+        },
+        "2": {
+          "answer": "Pobieranie filmów z YouTube bez pozwolenia może naruszać warunki korzystania z usługi YouTube. ",
+          "question": "Czy pobieranie filmów z YouTube jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, różne usługi online umożliwiają pobieranie filmów z YouTube. ",
+          "question": "Czy istnieją usługi online umożliwiające pobieranie filmów z YouTube?"
+        },
+        "4": {
+          "answer": "Tak, istnieją aplikacje i witryny mobilne, które umożliwiają pobieranie filmów z YouTube bezpośrednio na urządzenie mobilne w celu oglądania w trybie offline.",
+          "question": "Czy mogę pobierać filmy z YouTube'a na urządzenia mobilne?"
+        },
+        "5": {
+          "answer": "Powszechnie obsługiwane formaty obejmują MP",
+          "question": "Jakie formaty wideo są obsługiwane w przypadku pobranych filmów z YouTube?"
+        },
+        "6": {
+          "answer": "Tak, zaleca się uzyskanie pozwolenia od twórcy treści lub sprawdzenie informacji licencyjnych filmu przed jego pobraniem i użyciem.",
+          "question": "Czy potrzebuję pozwolenia na pobieranie i używanie filmów z YouTube?"
+        },
+        "7": {
+          "answer": "Warunki korzystania z serwisu YouTube zabraniają nieautoryzowanego pobierania filmów. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące pobierania treści z YouTube?"
+        },
+        "8": {
+          "answer": "Tak, YouTube oferuje legalny sposób pobierania filmów do oglądania w trybie offline za pośrednictwem aplikacji. ",
+          "question": "Czy mogę pobierać filmy z YouTube'a i oglądać je w trybie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać wideo z YouTube'a online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Konwerter Youtube'a na MP3",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube na MP3, Konwertuj YouTube na MP3, Konwerter YouTube MP3, Pobieranie audio z YouTube, YouTube na MP3 online, Bezpłatny YouTube na MP3, Konwerter YouTube na MP3 online, Konwertuj wideo z YouTube na MP3, Konwerter dźwięku YouTube, Pobierz audio z YouTube",
+      "description": "Youtube to MP3 Converter to szybki i bezpieczny program, który umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo Youtube",
+        "arialLabel": "Wklej linki wideo Youtube",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo YouTube mp3"
+      },
+      "faq": {
+        "1": {
+          "answer": "Możesz użyć tych narzędzi online lub oprogramowania przeznaczonego do pobierania filmów z YouTube. ",
+          "question": "Jak pobierać filmy z YouTube'a?"
+        },
+        "2": {
+          "answer": "Pobieranie filmów z YouTube bez pozwolenia może naruszać warunki korzystania z usługi YouTube. ",
+          "question": "Czy pobieranie filmów z YouTube jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, różne usługi online umożliwiają pobieranie filmów z YouTube. ",
+          "question": "Czy istnieją usługi online umożliwiające pobieranie filmów z YouTube?"
+        },
+        "4": {
+          "answer": "Tak, istnieją aplikacje i witryny mobilne, które umożliwiają pobieranie filmów z YouTube bezpośrednio na urządzenie mobilne w celu oglądania w trybie offline.",
+          "question": "Czy mogę pobierać filmy z YouTube'a na urządzenia mobilne?"
+        },
+        "5": {
+          "answer": "Powszechnie obsługiwane formaty obejmują MP",
+          "question": "Jakie formaty wideo są obsługiwane w przypadku pobranych filmów z YouTube?"
+        },
+        "6": {
+          "answer": "Tak, zaleca się uzyskanie pozwolenia od twórcy treści lub sprawdzenie informacji licencyjnych filmu przed jego pobraniem i użyciem.",
+          "question": "Czy potrzebuję pozwolenia na pobieranie i używanie filmów z YouTube?"
+        },
+        "7": {
+          "answer": "Warunki korzystania z serwisu YouTube zabraniają nieautoryzowanego pobierania filmów. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące pobierania treści z YouTube?"
+        },
+        "8": {
+          "answer": "Tak, YouTube oferuje legalny sposób pobierania filmów do oglądania w trybie offline za pośrednictwem aplikacji. ",
+          "question": "Czy mogę pobierać filmy z YouTube'a i oglądać je w trybie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać Youtube do MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Konwerter Youtube'a na MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube na MP4, Konwertuj YouTube na MP4, Konwerter YouTube MP4, Pobieranie audio z YouTube, YouTube na MP4 online, Bezpłatny YouTube na MP4, Konwerter YouTube na MP4 online, Konwertuj wideo z YouTube na MP4, Konwerter dźwięku YouTube, Pobierz audio z YouTube",
+      "description": "Youtube to MP4 Converter to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki wideo Youtube",
+        "arialLabel": "Wklej linki wideo Youtube",
+        "btnArialLabel": "Pobierz dowolny przycisk wideo YouTube MP4"
+      },
+      "faq": {
+        "1": {
+          "answer": "Możesz użyć tych narzędzi online lub oprogramowania przeznaczonego do pobierania filmów z YouTube. ",
+          "question": "Jak pobierać filmy z YouTube'a?"
+        },
+        "2": {
+          "answer": "Pobieranie filmów z YouTube bez pozwolenia może naruszać warunki korzystania z usługi YouTube. ",
+          "question": "Czy pobieranie filmów z YouTube jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, różne usługi online umożliwiają pobieranie filmów z YouTube. ",
+          "question": "Czy istnieją usługi online umożliwiające pobieranie filmów z YouTube?"
+        },
+        "4": {
+          "answer": "Tak, istnieją aplikacje i witryny mobilne, które umożliwiają pobieranie filmów z YouTube bezpośrednio na urządzenie mobilne w celu oglądania w trybie offline.",
+          "question": "Czy mogę pobierać filmy z YouTube'a na urządzenia mobilne?"
+        },
+        "5": {
+          "answer": "Powszechnie obsługiwane formaty obejmują MP",
+          "question": "Jakie formaty wideo są obsługiwane w przypadku pobranych filmów z YouTube?"
+        },
+        "6": {
+          "answer": "Tak, zaleca się uzyskanie pozwolenia od twórcy treści lub sprawdzenie informacji licencyjnych filmu przed jego pobraniem i użyciem.",
+          "question": "Czy potrzebuję pozwolenia na pobieranie i używanie filmów z YouTube?"
+        },
+        "7": {
+          "answer": "Warunki korzystania z serwisu YouTube zabraniają nieautoryzowanego pobierania filmów. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące pobierania treści z YouTube?"
+        },
+        "8": {
+          "answer": "Tak, YouTube oferuje legalny sposób pobierania filmów do oglądania w trybie offline za pośrednictwem aplikacji. ",
+          "question": "Czy mogę pobierać filmy z YouTube'a i oglądać je w trybie offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać Youtube do MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Narzędzie do pobierania krótkich filmów z YouTube",
+      "datePublished": "2021-10-01",
+      "keywords": "Pobierz Shorts z YouTube ,Pobieranie Shorts z YouTube ,Zapisywanie Shorts z YouTube ,Pobieranie Shorts z YouTube ,Pobieranie krótkich filmów z YouTube ,Jak zapisywać Shorts z YouTube ,Pobieranie Shorts z YouTube ,Narzędzie do pobierania Shorts YouTube ,Pobieranie Shorts YouTube w trybie offline ,Bezpłatne pobieranie Shorts YouTube",
+      "description": "Youtube Shorts Downloader to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie filmów z Internetu. ",
+      "form": {
+        "placeholder": "Wklej linki do filmów YouTube Short",
+        "arialLabel": "Wklej linki do filmów YouTube Short",
+        "btnArialLabel": "Pobierz dowolny krótki przycisk wideo z YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Od mojej ostatniej aktualizacji ze stycznia 2022 r. YouTube Shorts są przeznaczone głównie do oglądania krótkich filmów na urządzeniach mobilnych i mogą nie mieć opcji bezpośredniego pobierania. ",
+          "question": "Jak pobrać Shorts z YouTube?"
+        },
+        "2": {
+          "answer": "Pobieranie filmów YouTube Short bez odpowiedniego zezwolenia może naruszać warunki korzystania z usługi YouTube. ",
+          "question": "Czy pobieranie filmów Short z YouTube jest legalne?"
+        },
+        "3": {
+          "answer": "Tak, różne usługi online umożliwiają pobieranie filmów z YouTube. ",
+          "question": "Czy mogę pobierać Shorts z YouTube'a na urządzenia mobilne?"
+        },
+        "4": {
+          "answer": "Warunki korzystania z usługi YouTube zasadniczo zabraniają nieautoryzowanego pobierania treści. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące pobierania filmów Short z YouTube?"
+        },
+        "5": {
+          "answer": "YouTube udostępnia w aplikacji opcje udostępniania filmów Short na różnych platformach. ",
+          "question": "Jak mogę legalnie zapisywać lub udostępniać filmy Short w YouTube?"
+        },
+        "6": {
+          "answer": "Shorty YouTube są zazwyczaj przeznaczone do oglądania online. ",
+          "question": "Czy mogę pobrać Shorts z YouTube i oglądać je offline?"
+        },
+        "7": {
+          "answer": "Warunki korzystania z serwisu YouTube zabraniają nieautoryzowanego pobierania filmów. ",
+          "question": "Czy istnieją jakieś ograniczenia dotyczące pobierania treści z YouTube?"
+        },
+        "8": {
+          "answer": "Jeśli napotkasz problemy z YouTube Shorts lub jego funkcjami, skontaktuj się z pomocą techniczną YouTube lub odwiedź Centrum pomocy, aby uzyskać wskazówki dotyczące zgłaszania problemów.",
+          "question": "Jak mogę zgłosić problemy z YouTube Shorts lub funkcjami pobierania?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Jak pobrać Shorts z YouTube'a"
+    },
+    "download-from-tiktok": {
+      "title": "pobierz wideo tiktok"
+    },
+    "download-from-twitter": {
+      "title": "pobierz filmy z Twittera"
+    },
+    "general": {
+      "title": "Pobierz wideo online",
+      "keywords": "Pobierz filmy YouTube, Pobierz wideo Instagram, Pobierz wideo Facebook, Pobierz filmy TikTok, Pobierz filmy Twitch, Pobierz wideo Twitter, Pobierz filmy Pinterest, Pobierz filmy z mediów społecznościowych, Pobierz filmy online, Pobierz filmy za darmo",
+      "datePublished": "2021-10-01",
+      "description": "Pobierz wideo Online to szybkie i bezpieczne oprogramowanie, które umożliwia nieograniczone pobieranie plików wideo z Internetu. ",
+      "faq": {
+        "1": {
+          "answer": "Tak, ta strona jest bezpłatna. ",
+          "question": "Czy ta strona jest darmowa?"
+        },
+        "2": {
+          "answer": "Nie, pobieranie historii nie jest obsługiwane.",
+          "question": "Czy mogę pobierać historie?"
+        },
+        "3": {
+          "answer": "Nie, świadczymy jedynie usługę pobierania filmów.",
+          "question": "Czy mogę pobierać obrazy z ?"
+        },
+        "4": {
+          "answer": "Tak, ta strona jest bezpieczna. ",
+          "question": "Czy ta strona jest bezpieczna?"
+        },
+        "5": {
+          "answer": "Tak, możesz korzystać z serwisu na telefonie komórkowym lub tablecie.",
+          "question": "Czy mogę korzystać ze strony internetowej z telefonu komórkowego?"
+        },
+        "6": {
+          "answer": "Jeśli film, który chcesz pobrać, nie jest dostępny, spróbuj ponownie później.",
+          "question": "Co się stanie, jeśli film, który chcę pobrać, nie jest dostępny?"
+        },
+        "7": {
+          "answer": "Nie, nie możesz pobierać filmów z kont prywatnych.",
+          "question": "Czy mogę pobierać filmy z kont prywatnych?"
+        },
+        "8": {
+          "answer": "Najlepszym formatem do pobierania filmów jest MP4. ",
+          "question": "W jakim formacie najlepiej pobierać filmy?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Pobierając ten film, wyrażasz zgodę na",
+      "#2": "Brak znaku wodnego",
+      "#3": "Jakość HD",
+      "#4": "Szybkie pobieranie",
+      "#5": "Łatwo edytowalne",
+      "#6": "Dowolny format",
+      "#7": "Jak pobierać filmy {name}:",
+      "#8": "Wklej adres URL dowolnego filmu",
+      "#9": "Wklej adres URL dowolnego filmu w odpowiednim polu i naciśnij przycisk Pobierz. ",
+      "#10": "Edytuj lub pobierz",
+      "#11": "Masz możliwość edycji swojego filmu przy użyciu naszego pełnego zestawu narzędzi do edycji wideo. ",
+      "#12": "Udostępnij wideo do pobrania narzędzia online",
+      "#13": "Wyeksportuj swój film i udostępnij!",
+      "#14": "Natychmiastowe pobieranie wideo online",
+      "#15": "Pobierz wideo online Możesz pobierać klipy wideo z",
+      "#16": "jednym kliknięciem! ",
+      "#17": "Pobierz Video Online działa bezpośrednio z przeglądarki mobilnej lub stacjonarnej albo aplikacji mobilnej. ",
+      "#18": "Pobierz wideo online i usuń znak wodny",
+      "#19": "Funkcja Download Video Online umożliwia pobieranie treści bez znaków wodnych, dzięki czemu można je zmieniać i udostępniać w dowolnym miejscu. ",
+      "#20": "Natychmiast dodawaj podkłady głosowe do swojego filmu",
+      "#21": "Jeśli nie masz czasu ani zasobów, aby dodać narrację, możesz skorzystać z oprogramowania do zamiany tekstu na mowę Download Video Online!  ",
+      "#22": "Twórz profesjonalnie wyglądające filmy za pomocą kilku kliknięć",
+      "#23": "Jeśli jesteś streamerem, prawdopodobnie masz także inne kanały w mediach społecznościowych, które musisz utrzymać.  ",
+      "#24": "Często zadawane pytania – FAQ",
+      "#25": "Pobierz za pomocą aplikacji",
+      "#26": "Udostępniamy teraz aplikację do pobierania wideo. ",
+      "#27": "adres URL aplikacji Google Play",
+      "#28": "adres URL aplikacji Apple",
+      "btnText": "Pobierać",
+      "btnLoadingText": "Ujmujący"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Polityka prywatności",
+      "#1": "Wstęp",
+      "#2": "Niniejsza Polityka prywatności informuje użytkowników, że witryna ({website_url}) nie gromadzi, nie przechowuje ani nie przetwarza żadnych danych osobowych. ",
+      "#3": "Należy pamiętać, że niniejsza Polityka jest zgodna z wymogami prawnymi, mimo że Witryna lub Usługa nie gromadzi ani nie przechowuje żadnych danych osobowych.",
+      "#4": "Reklamy i analizy stron trzecich",
+      "#5": "W celu wyświetlania reklam w Witrynie korzystamy z usług reklamowych stron trzecich, takich jak Google AdSense. ",
+      "#6": "Możesz zrezygnować ze spersonalizowanych reklam, odwiedzając stronę",
+      "#7": "Ustawienia reklam",
+      "#8": "lub odwiedzając",
+      "#9": "Zmiany w Polityce Prywatności",
+      "#10": "Zastrzegamy sobie prawo do aktualizacji, modyfikacji lub wymiany dowolnej części Polityki w dowolnym momencie poprzez opublikowanie zaktualizowanej Polityki w Witrynie. ",
+      "#11": "Informacje kontaktowe",
+      "#12": "Jeśli masz jakiekolwiek pytania lub wątpliwości dotyczące niniejszej Polityki, skontaktuj się z właścicielem witryny pod adresem",
+      "#13": "Akceptacja Polityki Prywatności",
+      "#14": "Wchodząc lub korzystając z Witryny lub Usługi, potwierdzasz, że przeczytałeś, zrozumiałeś i zgadzasz się na przestrzeganie warunków niniejszej Polityki."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Warunki usługi"
+    },
+    "dcma": {
+      "title": "Prawa autorskie (DMCA)",
+      "#1": "{name} szanuje prawa autorskie do wszystkich dzieł i nie pozwala użytkownikom na wykorzystywanie filmów innych osób do celów sprzecznych z warunkami ochrony praw autorskich. ",
+      "#2": "{name} przestrzega ustawy Digital Millennium Copyright Act (DMCA) i niezwłocznie zawiesza dostęp do Treści po odpowiednim powiadomieniu.",
+      "#3": "Aby wysłać powiadomienie o naruszeniu praw autorskich do firmy {name}, należy wysłać do nas wiadomość zawierającą zasadniczo informacje wymagane i określone w sekcji 512(c)(3) ustawy Digital Millennium Copyright Act.",
+      "#4": "Wymagana informacja:",
+      "#5": "1. Przedstaw się jako: a) właściciel dzieła(ów) chronionego prawem autorskim b) osoba „upoważniona do działania w imieniu właściciela wyłącznego prawa, które zostało rzekomo naruszone”. ",
+      "#6": "2. Wskaż dzieło chronione prawem autorskim, które rzekomo zostało naruszone.",
+      "#7": "3. Zidentyfikuj Treść, która rzekomo narusza prawo lub jest przedmiotem działalności naruszającej prawo i która ma zostać zawieszona lub dostęp do której należy uniemożliwić, a także informacje wystarczające do umożliwienia youtube4kdownloaderowi zlokalizowania Treści. ",
+      "#8": "4. Podaj dane kontaktowe, które w uzasadniony sposób pozwolą nam się z Tobą skontaktować, takie jak adres, numer telefonu i ważny adres e-mail.",
+      "#9": "5. Oświadcz, że w dobrej wierze uważasz, że wykorzystanie Treści w sposób będący przedmiotem skargi nie jest dozwolone przez właściciela praw autorskich, jego przedstawicieli lub nie jest dozwolone przez prawo.",
+      "#10": "6. Oświadczyć, że informacje zawarte w zgłoszeniu są zgodne z prawdą i pod rygorem odpowiedzialności za składanie fałszywych zeznań strona składająca skargę jest upoważniona do występowania w imieniu właściciela wyłącznego prawa, które zostało rzekomo naruszone.",
+      "#11": "Po otrzymaniu ważnego powiadomienia, zgodnie z wymogami prawa, zawiesimy dostęp do treści objętych prawami autorskimi na naszej stronie internetowej.",
+      "#12": "Jeśli masz jakieś pytania, skontaktuj się z nami pod adresem",
+      "#13": "ten formularz"
+    },
+    "thankyou": {
+      "title": "Dziękujemy za zainstalowanie aplikacji Pobierz wideo online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Interfejs API pobierania wideo",
+      "#1": "API {website_url} zapewnia łatwą i wygodną metodę pobierania plików multimedialnych z najpopularniejszych stron internetowych i platform mediów społecznościowych. ",
+      "#2": "Aby uzyskać dostęp lub uzyskać więcej informacji, prosimy o kontakt pod adresem "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Skontaktuj się z nami",
+      "#1": "Jeśli masz jakiekolwiek pytania, skargi lub roszczenia dotyczące naszych Usług, wyślij nam wiadomość na adres",
+      "#2": "Informacja zwrotna",
+      "#3": "E-mail",
+      "#4": "Wiadomość",
+      "#5": "Składać",
+      "#6": "E-mail wysłany pomyślnie!"
+    }
+  }
+}

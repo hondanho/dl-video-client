@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Válts nyelvet",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+    "keywords": "Videók letöltése YouTube, Videó letöltése Instagram , Videó letöltése facebook, Videók letöltése TikTok, Videók letöltése Twitch, Videó letöltése Twitter, Videók letöltése Pinterest, Közösségi média videók letöltése, Online videók letöltése, Videók letöltése ingyenes",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Videó letöltése online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Illessze be a Facebook, Instagram, TikTok, Twitter, Twitch, Youtube videohivatkozásait.",
+      "arialLabel": "Illessze be a Facebook, Instagram, TikTok, Twitter, Twitch, Youtube videohivatkozásait.",
+      "btnArialLabel": "Töltse le bármelyik videó gombot",
+      "btnText": "Letöltés",
+      "btnLoadingText": "Elragadó"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube letöltő",
+    "#2": "Youtube Video Downloader",
+    "#3": "Youtube MP3 konverter",
+    "#4": "Youtube MP4 konverter",
+    "#5": "Youtube Shorts letöltő",
+    "#6": "Facebook letöltő",
+    "#7": "Videó letöltése facebook",
+    "#8": "Facebook MP4 konverter",
+    "#9": "Facebook Reel letöltése",
+    "#10": "Instagram letöltő",
+    "#11": "Videó letöltése Instagramon",
+    "#12": "Töltse le az Instagram tekercset",
+    "#13": "Instagram to Mp4 konverter",
+    "#14": "Egyéb letöltő",
+    "#15": "Töltse le a TikTok videót",
+    "#16": "Videó letöltése Twitter",
+    "#17": "Twitch videó letöltése",
+    "#18": "Töltse le a Twitch videó klipet",
+    "#20": "Jogi",
+    "#21": "Adatvédelmi irányelvek",
+    "#22": "Szolgáltatás feltételei",
+    "#23": "DCMA",
+    "#24": "Kapcsolatba lépni",
+    "#25": "Blog",
+    "#26": "Csatlakozz hozzánk!",
+    "#27": "Iratkozz fel",
+    "#28": "Minden jog fenntartva."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Töltse le a Twitch videó klipet",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitch klipek letöltése , Twitch klip letöltő , Twitch klipek mentése , Klipek letöltése a Twitchről , Twitch klip online letöltése , Ingyenes Twitch klip letöltés , Twitch klipkímélő , Twitch klipek letöltése vízjel nélkül , Twitch klipfogó , Twitch klip MP4 letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Twitch Clip videóhivatkozásokat",
+        "arialLabel": "Illessze be a Twitch Clip videóhivatkozásokat",
+        "btnArialLabel": "Töltse le bármelyik videót a Twitch Clip gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen másolja ki a Twitch videó linkjét, és illessze be az eszközünkbe. ",
+          "question": "Hogyan használhatom az eszközt a Twitch-videók letöltésére?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Twitch szolgáltatási feltételeit. ",
+          "question": "Legális a Twitch-videók letöltése az eszközzel?"
+        },
+        "3": {
+          "answer": "Igen, eszközünket mobil használatra optimalizáltuk, így a felhasználók letölthetik a Twitch-videókat különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetem a Twitch-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk a Twitch-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": "Vannak korlátozások a letölthető Twitch-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) Twitch-videók letöltését, lehetővé téve a felhasználóknak a jobb minőségű tartalom élvezetét.",
+          "question": "Lehetőség van HD Twitch videók letöltésére az eszközzel?"
+        },
+        "6": {
+          "answer": "Ha bármilyen nehézségbe ütközik, kérjük, tekintse meg a webhely GYIK részében hibaelhárítási tippeket. ",
+          "question": "Mi a teendő, ha bármilyen problémát tapasztalok az eszköz használata közben?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít a Twitch-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": " Letölthetem a Twitch-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Rendszeresen frissítjük eszközünket, hogy alkalmazkodjunk a Twitch platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt a Twitch változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Twitch klipet"
+    },
+    "download-video-twitch": {
+      "title": "Twitch videó letöltése",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitch videók letöltése , Twitch videó letöltő , Twitch videók mentése , Videók letöltése a Twitchről , Twitch klip letöltése , Ingyenes Twitch videó letöltés , Twitch VOD letöltő , Twitch kiemelések letöltése , Twitch videó grabber , Twitch letöltés MP4-re",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Twitch videólinkeket",
+        "arialLabel": "Illessze be a Twitch videólinkeket",
+        "btnArialLabel": "Töltsön le bármilyen videót a Twitch orsógombról"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen másolja ki a Twitch videó linkjét, és illessze be az eszközünkbe. ",
+          "question": "Hogyan használhatom az eszközt a Twitch-videók letöltésére?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Twitch szolgáltatási feltételeit. ",
+          "question": "Legális a Twitch-videók letöltése az eszközzel?"
+        },
+        "3": {
+          "answer": "Igen, eszközünket mobil használatra optimalizáltuk, így a felhasználók letölthetik a Twitch-videókat különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetem a Twitch-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk a Twitch-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": "Vannak korlátozások a letölthető Twitch-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) Twitch-videók letöltését, lehetővé téve a felhasználóknak a jobb minőségű tartalom élvezetét.",
+          "question": "Lehetőség van HD Twitch videók letöltésére az eszközzel?"
+        },
+        "6": {
+          "answer": "Ha bármilyen nehézségbe ütközik, kérjük, tekintse meg a webhely GYIK részében hibaelhárítási tippeket. ",
+          "question": "Mi a teendő, ha bármilyen problémát tapasztalok az eszköz használata közben?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít a Twitch-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": " Letölthetem a Twitch-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Rendszeresen frissítjük eszközünket, hogy alkalmazkodjunk a Twitch platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt a Twitch változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Twitch videót"
+    },
+    "download-video-twitter": {
+      "title": "Videó letöltése Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Twitter videók letöltése , Twitter videó letöltő , Twitter videók mentése , Videók letöltése a Twitterről , Twitter videó letöltése online , Ingyenes Twitter videó letöltés , Twitter videó mentő , Twitter letöltése vízjel nélkül , Twitter videó grabber , Twitter letöltés MP4-re",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Twitter videó linkjeit",
+        "arialLabel": "Illessze be a Twitter videó linkjeit",
+        "btnArialLabel": "Töltse le bármelyik videót Twitter tekercs gomb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen másolja ki a Twitter videó linkjét, és illessze be eszközünkbe. ",
+          "question": "Hogyan használhatom az eszközt Twitter-videók letöltésére?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Twitter szolgáltatási feltételeit. ",
+          "question": "Legális-e a Twitter-videók letöltése az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobil használatra van optimalizálva, így a felhasználók Twitter-videókat tölthetnek le különféle eszközökre, köztük okostelefonokra és táblagépekre.",
+          "question": "Letölthetek Twitter-videókat mobileszközökre az eszközével?"
+        },
+        "4": {
+          "answer": "Eszközünk Twitter-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": "Vannak korlátozások a letölthető Twitter-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) Twitter-videók letöltését, lehetővé téve a felhasználóknak a jobb minőségű tartalmak élvezetét.",
+          "question": "Letölthetsz HD Twitter videókat az eszközöddel?"
+        },
+        "6": {
+          "answer": "Ha bármilyen nehézségbe ütközik, kérjük, tekintse meg a webhely GYIK részében hibaelhárítási tippeket. ",
+          "question": "Mi a teendő, ha bármilyen problémát tapasztalok az eszköz használata közben?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Twitter-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": " Letölthetek Twitter-videókat offline megtekintésre az eszközével?"
+        },
+        "8": {
+          "answer": "Rendszeresen frissítjük eszközünket, hogy alkalmazkodjunk a Twitter platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik eszközét a Twitter változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Twitter videót"
+    },
+    "download-video-tiktok": {
+      "title": "Videó letöltése Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "TikTok videók letöltése ,TikTok videó letöltő ,TikTok videók mentése ,Videók letöltése a TikTok oldalról ,TikTok videó letöltése online ,Ingyenes TikTok videó letöltés ,TikTok videómentő ,TikTok letöltése vízjel nélkül ,TikTok videó grabber ,TikTok MP4 letöltés",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a videó linkeket tiktok",
+        "arialLabel": "Illessze be a videó linkeket tiktok",
+        "btnArialLabel": "Töltse le bármelyik videót tiktok tekercs gombjával"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen másolja ki a TikTok videó linkjét, és illessze be eszközünkbe. ",
+          "question": "Hogyan használhatom az eszközt a TikTok videók letöltéséhez?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a TikTok szolgáltatási feltételeit. ",
+          "question": "Legális-e a TikTok-videók letöltése az eszközzel?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobil használatra van optimalizálva, így a felhasználók letölthetik a TikTok-videókat különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetek TikTok videókat mobileszközökre az eszközével?"
+        },
+        "4": {
+          "answer": "Eszközünk a TikTok videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": "Vannak-e korlátozások a letölthető TikTok-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) TikTok-videók letöltését, lehetővé téve a felhasználóknak a jobb minőségű tartalom élvezetét.",
+          "question": "Letölthető HD TikTok videók az eszközével?"
+        },
+        "6": {
+          "answer": "Ha bármilyen nehézségbe ütközik, kérjük, tekintse meg a webhely GYIK részében hibaelhárítási tippeket. ",
+          "question": "Mi a teendő, ha bármilyen problémát tapasztalok az eszköz használata közben?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít TikTok-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": " Letölthetek TikTok-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Rendszeresen frissítjük eszközünket, hogy alkalmazkodjunk a TikTok platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik eszközét a TikTok változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a tiktok videót"
+    },
+    "download-video-instagram": {
+      "title": "Videó letöltése Instagramon",
+      "datePublished": "2021-10-01",
+      "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a videolinkek instagram tekercsét",
+        "arialLabel": "Illessze be a videolinkek instagram tekercsét",
+        "btnArialLabel": "Töltse le bármelyik videót az Instagram tekercs gombjával"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be az Instagram videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközödet videók letöltésére az Instagramról?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa az Instagram szolgáltatási feltételeit. ",
+          "question": "Jogos-e videókat letölteni az Instagramról az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, lehetővé téve a felhasználók számára, hogy Instagram-videókat töltsenek le különféle eszközökre, például okostelefonokra és táblagépekre.",
+          "question": "Letölthetek Instagram-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk az Instagram-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": " Vannak-e korlátozások a letölthető Instagram-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését az Instagramról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Lehetőség van HD videók letöltésére az Instagramról az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközét Instagram-videók letöltésére használja?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Instagram-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetek Instagram-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk az Instagram platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt az Instagram változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan töltsünk le videót az instagramról"
+    },
+    "download-instagram-reel": {
+      "title": "Töltse le az Instagram tekercset",
+      "datePublished": "2021-10-01",
+      "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a videolinkek instagram tekercsét",
+        "arialLabel": "Illessze be a videolinkek instagram tekercsét",
+        "btnArialLabel": "Töltse le bármelyik videót az Instagram tekercs gombjával"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be az Instagram videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközödet videók letöltésére az Instagramról?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa az Instagram szolgáltatási feltételeit. ",
+          "question": "Jogos-e videókat letölteni az Instagramról az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, lehetővé téve a felhasználók számára, hogy Instagram-videókat töltsenek le különféle eszközökre, például okostelefonokra és táblagépekre.",
+          "question": "Letölthetek Instagram-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk az Instagram-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": " Vannak-e korlátozások a letölthető Instagram-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését az Instagramról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Lehetőség van HD videók letöltésére az Instagramról az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközét Instagram-videók letöltésére használja?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Instagram-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetek Instagram-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk az Instagram platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt az Instagram változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan tölthetek le Instagram videót mp4 formátumban"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Instagram videó letöltése mp4 formátumba",
+      "datePublished": "2021-10-01",
+      "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a videolinkek instagram tekercsét",
+        "arialLabel": "Illessze be a videolinkek instagram tekercsét",
+        "btnArialLabel": "Töltse le bármelyik videót az Instagram tekercs gombjával"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be az Instagram videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközödet videók letöltésére az Instagramról?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa az Instagram szolgáltatási feltételeit. ",
+          "question": "Jogos-e videókat letölteni az Instagramról az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, lehetővé téve a felhasználók számára, hogy Instagram-videókat töltsenek le különféle eszközökre, például okostelefonokra és táblagépekre.",
+          "question": "Letölthetek Instagram-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk az Instagram-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": " Vannak-e korlátozások a letölthető Instagram-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését az Instagramról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Lehetőség van HD videók letöltésére az Instagramról az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközét Instagram-videók letöltésére használja?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Instagram-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetek Instagram-videókat offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk az Instagram platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt az Instagram változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni az Instagram videót mp4 formátumba"
+    },
+    "download-facebook-reel": {
+      "title": "Facebook Reel letöltése",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook orsó letöltése, Facebook orsó letöltő, Facebook orsó videó mentése, orsók letöltése a Facebookon, Facebook orsó letöltése online, ingyenes Facebook orsó letöltés, Facebook orsó videóvédő letöltése, orsók letöltése a Facebookról, Facebook orsó videó grabber, Facebook orsó offline letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a videó linkjeit a facebook tekercsbe",
+        "arialLabel": "Illessze be a videó linkjeit a facebook tekercsbe",
+        "btnArialLabel": "Töltsön le bármilyen videót a Facebook tekercs gombjával"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be a Facebook videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközt videók letöltésére a Facebookról?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Facebook szolgáltatási feltételeit. ",
+          "question": "Jogszerű-e videókat letölteni a Facebookról az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, és lehetővé teszi a felhasználók számára, hogy Facebook-videókat töltsenek le különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetek Facebook-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk a Facebook-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": " Vannak-e korlátozások a letölthető Facebook-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését a Facebookról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Lehetőség van HD videók letöltésére a Facebookról az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközödet Facebook-videók letöltésére használod?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Facebook-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetek Facebook-videókat offline megtekintésre az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk a Facebook platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt a Facebook változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan tölthetek le facebook videót mp4 formátumba"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook MP4 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook MP4 konvertáló , Facebook konvertálása MP4 formátumba , Facebook videó MP4 formátumba , Facebook MP4 letöltés , Online Facebook MP4 formátumba , Ingyenes Facebook MP4 formátumba , Facebook videó konverter , Facebook videó mentése MP4 formátumba , Facebook letöltése MP4 formátumba , Facebook MP4 online konverter",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a facebook videó linkjeit",
+        "arialLabel": "Illessze be a facebook videó linkjeit",
+        "btnArialLabel": "Tölts le bármilyen videót a Facebook gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be a Facebook Reel videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközt a Facebook tekercsek letöltéséhez?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Facebook szolgáltatási feltételeit. ",
+          "question": "Legális-e a Facebook tekercsek letöltése az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, és lehetővé teszi a felhasználók számára, hogy Facebook-videókat töltsenek le különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetem a Facebook tekercseket mobileszközökre az eszközével?"
+        },
+        "4": {
+          "answer": "Eszközünk a Facebook-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": "Vannak korlátozások a letölthető Facebook tekercsek hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését a Facebookról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Letölthető HD Facebook orsó az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközödet Facebook-videók letöltésére használod?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Facebook-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetem a Facebook tekercseket offline megtekintéshez az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk a Facebook platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt a Facebook változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan tölthetek le facebook videót mp4 formátumba"
+    },
+    "download-video-facebook": {
+      "title": "Videó letöltése Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook videók letöltése , Facebook videó letöltő , Facebook videók mentése , Videók letöltése a Facebookról , Facebook videó letöltése online , Ingyenes Facebook videó letöltés , Facebook videó mentő , Privát Facebook videók letöltése , HD Facebook videó letöltés , Facebook MP4 letöltés, videó letöltés ",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a facebook videó linkjeit",
+        "arialLabel": "Illessze be a facebook videó linkjeit",
+        "btnArialLabel": "Tölts le bármilyen videót a Facebook gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Egyszerűen illessze be a Facebook videó URL-jét eszközünkbe, és az végigvezeti Önt a letöltési folyamaton. ",
+          "question": "Hogyan használhatom az eszközt videók letöltésére a Facebookról?"
+        },
+        "2": {
+          "answer": "Eszközünket úgy alakítottuk ki, hogy tiszteletben tartsa a Facebook szolgáltatási feltételeit. ",
+          "question": "Jogszerű-e videókat letölteni a Facebookról az eszközével?"
+        },
+        "3": {
+          "answer": "Igen, eszközünk mobilbarát, és lehetővé teszi a felhasználók számára, hogy Facebook-videókat töltsenek le különféle eszközökre, beleértve az okostelefonokat és táblagépeket is.",
+          "question": "Letölthetek Facebook-videókat mobileszközökre az eszközöd segítségével?"
+        },
+        "4": {
+          "answer": "Eszközünk a Facebook-videók széles skálájának letöltését támogatja, beleértve a különböző hosszúságú és formátumú videókat is. ",
+          "question": " Vannak-e korlátozások a letölthető Facebook-videók hosszára vagy típusára vonatkozóan?"
+        },
+        "5": {
+          "answer": "Igen, eszközünk támogatja a HD (nagy felbontású) videók letöltését a Facebookról, így a felhasználóknak lehetősége nyílik a jobb minőségű tartalom élvezetére.",
+          "question": "Lehetőség van HD videók letöltésére a Facebookról az eszközével?"
+        },
+        "6": {
+          "answer": "Komolyan vesszük a biztonságot. ",
+          "question": "Vannak-e kockázatok, ha az eszközödet Facebook-videók letöltésére használod?"
+        },
+        "7": {
+          "answer": "Igen, eszközünk lehetőséget biztosít Facebook-videók letöltésére offline megtekintéshez, így a felhasználók internetkapcsolat nélkül is élvezhetik a tartalmat.",
+          "question": "Letölthetek Facebook-videókat offline megtekintésre az eszközével?"
+        },
+        "8": {
+          "answer": "Eszközünket rendszeresen frissítjük, hogy alkalmazkodjunk a Facebook platformjának változásaihoz, biztosítva a folyamatos kompatibilitást és a zökkenőmentes felhasználói élményt.",
+          "question": "Milyen gyakran frissítik az eszközt a Facebook változásaival való kompatibilitás biztosítása érdekében?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a facebook videót"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube-videók letöltése, YouTube-videók letöltése, YouTube-letöltő, YouTube-videók mentése, videók letöltése a YouTube-ról, YouTube-videók letöltése online, HD-videók letöltése a YouTube-ról, YouTube-videó-mentő, YouTube-videó-megragadó, ingyenes YouTube-videók letöltése",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Youtube videó linkjeit",
+        "arialLabel": "Illessze be a Youtube videó linkjeit",
+        "btnArialLabel": "Tölts le bármilyen videót a youtube gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Használhatja ezeket az online eszközöket vagy szoftvereket, amelyeket YouTube-videók letöltésére terveztek. ",
+          "question": "Hogyan tölthetek le YouTube videókat?"
+        },
+        "2": {
+          "answer": "A YouTube-videók engedély nélküli letöltése sértheti a YouTube szolgáltatási feltételeit. ",
+          "question": "Legális videókat letölteni a YouTube-ról?"
+        },
+        "3": {
+          "answer": "Igen, különféle online szolgáltatások kínálnak YouTube-videók letöltését. ",
+          "question": "Vannak online szolgáltatások a YouTube-videók letöltésére?"
+        },
+        "4": {
+          "answer": "Igen, vannak olyan mobilalkalmazások és webhelyek, amelyek lehetővé teszik YouTube-videók letöltését közvetlenül mobileszközére offline megtekintéshez.",
+          "question": "Letölthetek YouTube-videókat mobileszközökre?"
+        },
+        "5": {
+          "answer": "Az általánosan támogatott formátumok közé tartozik az MP",
+          "question": "Milyen videóformátumok támogatottak a letöltött YouTube-videókhoz?"
+        },
+        "6": {
+          "answer": "Igen, a letöltés és a felhasználás előtt ajánlott engedélyt kérni a tartalomkészítőtől, vagy ellenőrizni a videó licencinformációit.",
+          "question": "Szükségem van engedélyre YouTube-videók letöltéséhez és használatához?"
+        },
+        "7": {
+          "answer": "A YouTube szolgáltatási feltételei tiltják a videók illetéktelen letöltését. ",
+          "question": "Vannak korlátozások a YouTube-tartalom letöltésére vonatkozóan?"
+        },
+        "8": {
+          "answer": "Igen, a YouTube legális lehetőséget kínál a videók letöltésére offline megtekintésre az alkalmazáson keresztül. ",
+          "question": "Letölthetek YouTube-videókat offline megtekintéshez?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a youtube videót online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube MP3 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube MP3 formátumba , YouTube konvertálása MP3 formátumba , YouTube MP3 konvertáló , YouTube audio letöltés , YouTube MP3 formátumba online , Ingyenes YouTube MP3 formátumba , YouTube MP3 konvertáló online , YouTube videó konvertálása MP3 formátumba , YouTube hang konvertáló , YouTube audio letöltése",
+      "description": "A Youtube to MP3 Converter egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Youtube videó linkjeit",
+        "arialLabel": "Illessze be a Youtube videó linkjeit",
+        "btnArialLabel": "Bármilyen videó letöltése youtube mp3 gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Használhatja ezeket az online eszközöket vagy szoftvereket, amelyeket YouTube-videók letöltésére terveztek. ",
+          "question": "Hogyan tölthetek le YouTube videókat?"
+        },
+        "2": {
+          "answer": "A YouTube-videók engedély nélküli letöltése sértheti a YouTube szolgáltatási feltételeit. ",
+          "question": "Legális videókat letölteni a YouTube-ról?"
+        },
+        "3": {
+          "answer": "Igen, különféle online szolgáltatások kínálnak YouTube-videók letöltését. ",
+          "question": "Vannak online szolgáltatások a YouTube-videók letöltésére?"
+        },
+        "4": {
+          "answer": "Igen, vannak olyan mobilalkalmazások és webhelyek, amelyek lehetővé teszik YouTube-videók letöltését közvetlenül mobileszközére offline megtekintéshez.",
+          "question": "Letölthetek YouTube-videókat mobileszközökre?"
+        },
+        "5": {
+          "answer": "Az általánosan támogatott formátumok közé tartozik az MP",
+          "question": "Milyen videóformátumok támogatottak a letöltött YouTube-videókhoz?"
+        },
+        "6": {
+          "answer": "Igen, a letöltés és a felhasználás előtt ajánlott engedélyt kérni a tartalomkészítőtől, vagy ellenőrizni a videó licencinformációit.",
+          "question": "Szükségem van engedélyre YouTube-videók letöltéséhez és használatához?"
+        },
+        "7": {
+          "answer": "A YouTube szolgáltatási feltételei tiltják a videók illetéktelen letöltését. ",
+          "question": "Vannak korlátozások a YouTube-tartalom letöltésére vonatkozóan?"
+        },
+        "8": {
+          "answer": "Igen, a YouTube legális lehetőséget kínál a videók letöltésére offline megtekintésre az alkalmazáson keresztül. ",
+          "question": "Letölthetek YouTube-videókat offline megtekintéshez?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Youtube-ot MP3-ba"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube MP4 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube MP4 formátumba , YouTube konvertálása MP4 formátumba , YouTube MP4 konvertáló , YouTube audio letöltés , YouTube MP4 formátumba online , Ingyenes YouTube MP4 formátumba , YouTube MP4 konvertáló online , YouTube videó konvertálása MP4 formátumba , YouTube hang konverter , YouTube audio letöltése",
+      "description": "A Youtube to MP4 Converter egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Youtube videó linkjeit",
+        "arialLabel": "Illessze be a Youtube videó linkjeit",
+        "btnArialLabel": "Tölts le bármilyen videót youtube MP4 gombbal"
+      },
+      "faq": {
+        "1": {
+          "answer": "Használhatja ezeket az online eszközöket vagy szoftvereket, amelyeket YouTube-videók letöltésére terveztek. ",
+          "question": "Hogyan tölthetek le YouTube videókat?"
+        },
+        "2": {
+          "answer": "A YouTube-videók engedély nélküli letöltése sértheti a YouTube szolgáltatási feltételeit. ",
+          "question": "Legális videókat letölteni a YouTube-ról?"
+        },
+        "3": {
+          "answer": "Igen, különféle online szolgáltatások kínálnak YouTube-videók letöltését. ",
+          "question": "Vannak online szolgáltatások a YouTube-videók letöltésére?"
+        },
+        "4": {
+          "answer": "Igen, vannak olyan mobilalkalmazások és webhelyek, amelyek lehetővé teszik YouTube-videók letöltését közvetlenül mobileszközére offline megtekintéshez.",
+          "question": "Letölthetek YouTube-videókat mobileszközökre?"
+        },
+        "5": {
+          "answer": "Az általánosan támogatott formátumok közé tartozik az MP",
+          "question": "Milyen videóformátumok támogatottak a letöltött YouTube-videókhoz?"
+        },
+        "6": {
+          "answer": "Igen, a letöltés és a felhasználás előtt ajánlott engedélyt kérni a tartalomkészítőtől, vagy ellenőrizni a videó licencinformációit.",
+          "question": "Szükségem van engedélyre YouTube-videók letöltéséhez és használatához?"
+        },
+        "7": {
+          "answer": "A YouTube szolgáltatási feltételei tiltják a videók illetéktelen letöltését. ",
+          "question": "Vannak korlátozások a YouTube-tartalom letöltésére vonatkozóan?"
+        },
+        "8": {
+          "answer": "Igen, a YouTube legális lehetőséget kínál a videók letöltésére offline megtekintésre az alkalmazáson keresztül. ",
+          "question": "Letölthetek YouTube-videókat offline megtekintéshez?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Youtube-ot MP4-re"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts letöltő",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube Shorts letöltése , YouTube Shorts letöltése , YouTube Shorts mentése , Shorts letöltése a YouTube-ról , YouTube Shorts videó letöltése , YouTube Shorts mentése , Shorts letöltése a YouTube-ról , YouTube Shorts letöltő , YouTube Shorts letöltés offline , YouTube Shorts ingyenes letöltése",
+      "description": "A Youtube Shorts Downloader egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "form": {
+        "placeholder": "Illessze be a Youtube Short videó hivatkozásait",
+        "arialLabel": "Illessze be a Youtube Short videó hivatkozásait",
+        "btnArialLabel": "Tölts le bármilyen videót a YouTube-ról, rövid gomb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Legutóbbi, 2022. januári frissítésem óta a YouTube Shorts elsősorban rövid formátumú mobilos megtekintésre szolgál, és előfordulhat, hogy nincs közvetlen letöltési lehetőségük. ",
+          "question": "Hogyan tölthetem le a YouTube rövidfilmeket?"
+        },
+        "2": {
+          "answer": "A YouTube Shorts megfelelő engedély nélküli letöltése sértheti a YouTube szolgáltatási feltételeit. ",
+          "question": "Legális a YouTube Shorts letöltése?"
+        },
+        "3": {
+          "answer": "Igen, különféle online szolgáltatások kínálnak YouTube-videók letöltését. ",
+          "question": "Letölthetem a YouTube Shortsokat mobileszközökre?"
+        },
+        "4": {
+          "answer": "A YouTube szolgáltatási feltételei általában tiltják a tartalom jogosulatlan letöltését. ",
+          "question": "Vannak korlátozások a YouTube Shorts letöltésére vonatkozóan?"
+        },
+        "5": {
+          "answer": "A YouTube lehetőséget biztosít az alkalmazáson belül a rövidfilmek megosztására különböző platformokon. ",
+          "question": "Hogyan menthetem el vagy oszthatom meg legálisan a YouTube Shorts-filmeket?"
+        },
+        "6": {
+          "answer": "A YouTube Shorts-filmeket általában online megtekintésre tervezték. ",
+          "question": "Letölthetem a YouTube Shortsokat offline megtekintéshez?"
+        },
+        "7": {
+          "answer": "A YouTube szolgáltatási feltételei tiltják a videók illetéktelen letöltését. ",
+          "question": "Vannak korlátozások a YouTube-tartalom letöltésére vonatkozóan?"
+        },
+        "8": {
+          "answer": "Ha problémákat tapasztal a YouTube Shorts vagy annak funkcióival kapcsolatban, forduljon a YouTube ügyfélszolgálatához, vagy keresse fel a Súgót a problémák bejelentésével kapcsolatos útmutatásért.",
+          "question": "Hogyan jelenthetem a YouTube Shortsokkal vagy letöltési funkcióival kapcsolatos problémákat?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hogyan lehet letölteni a Youtube rövidfilmeket"
+    },
+    "download-from-tiktok": {
+      "title": "letölthető videó tiktok"
+    },
+    "download-from-twitter": {
+      "title": "Twitter videók letöltése"
+    },
+    "general": {
+      "title": "Videó letöltése online",
+      "keywords": "Videók letöltése YouTube, Videó letöltése Instagram , Videó letöltése facebook, Videók letöltése TikTok, Videók letöltése Twitch, Videó letöltése Twitter, Videók letöltése Pinterest, Közösségi média videók letöltése, Online videók letöltése, Videók letöltése ingyenes",
+      "datePublished": "2021-10-01",
+      "description": "Videó letöltése Az Online egy gyors és biztonságos szoftver, amely korlátlan számú videóletöltést tesz lehetővé az internetről. ",
+      "faq": {
+        "1": {
+          "answer": "Igen, ez a weboldal ingyenes. ",
+          "question": "Ez a weboldal ingyenes?"
+        },
+        "2": {
+          "answer": "Nem, a történetek letöltése nem támogatott.",
+          "question": "Letölthetek történeteket?"
+        },
+        "3": {
+          "answer": "Nem, csak a videók letöltését biztosítjuk.",
+          "question": "Letölthetek képeket innen?"
+        },
+        "4": {
+          "answer": "Igen, ez a webhely biztonságos. ",
+          "question": "Biztonságos ez a webhely?"
+        },
+        "5": {
+          "answer": "Igen, használhatja a webhelyet mobiltelefonjáról vagy táblagépéről.",
+          "question": "Használhatom a weboldalt a mobilomról?"
+        },
+        "6": {
+          "answer": "Ha a letölteni kívánt videó nem érhető el, próbálkozzon újra később.",
+          "question": "Mi a teendő, ha a letölteni kívánt videó nem érhető el?"
+        },
+        "7": {
+          "answer": "Nem, privát fiókokból nem tölthet le videókat.",
+          "question": "Letölthetek videókat privát fiókokból?"
+        },
+        "8": {
+          "answer": "A videók letöltésének legjobb formátuma az MP4. ",
+          "question": "Milyen formátumban a legjobb videókat letölteni?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "A videó letöltésével Ön elfogadja a",
+      "#2": "Nincs vízjel",
+      "#3": "HD minőség",
+      "#4": "Gyors letöltés",
+      "#5": "Könnyen szerkeszthető",
+      "#6": "Bármilyen formátum",
+      "#7": "Videók letöltése {name}:",
+      "#8": "Illesszen be egy tetszőleges videó URL-t",
+      "#9": "Illesszen be egy tetszőleges videó URL-t a megadott mezőbe, és kattintson a Letöltés gombra. ",
+      "#10": "Szerkessze vagy töltse le",
+      "#11": "Lehetősége van a videó szerkesztésére a teljes videószerkesztő eszközkészletünk segítségével. ",
+      "#12": "Az eszköz letöltési videójának online megosztása",
+      "#13": "Exportáld a videódat és oszd meg!",
+      "#14": "Azonnali letöltés online",
+      "#15": "Videó letöltése online Letölthet videoklipeket innen",
+      "#16": "egyetlen kattintással! ",
+      "#17": "A Video Online letöltése közvetlenül a mobil- vagy asztali böngészőből vagy mobilalkalmazásból működik. ",
+      "#18": "Töltse le a videót online, és távolítsa el a vízjelet",
+      "#19": "A Download Video Online segítségével vízjel nélkül tölthet le tartalmakat, így bárhol újra felhasználhatja és megoszthatja azokat. ",
+      "#20": "Azonnal adjon hangot a videóhoz",
+      "#21": "Ha nincs ideje vagy erőforrása hangfelvételek hozzáadására, használhatja a Download Video Online szövegfelolvasó szoftvert!  ",
+      "#22": "Hozzon létre professzionális megjelenésű videókat néhány kattintással",
+      "#23": "Ha Ön streamer, akkor valószínűleg más közösségi média csatornákat is fenn kell tartania.  ",
+      "#24": "Gyakran Ismételt Kérdések – GYIK",
+      "#25": "Letöltés alkalmazással",
+      "#26": "Most egy alkalmazást biztosítunk a videók letöltéséhez. ",
+      "#27": "googleplay alkalmazás URL-je",
+      "#28": "apple alkalmazás URL-je",
+      "btnText": "Letöltés",
+      "btnLoadingText": "Elragadó"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Adatvédelmi irányelvek",
+      "#1": "Bevezetés",
+      "#2": "Ez az adatvédelmi szabályzat tájékoztatja a felhasználókat, hogy a webhely ({website_url}) nem gyűjt, tárol vagy dolgoz fel semmilyen személyes információt. ",
+      "#3": "Felhívjuk figyelmét, hogy jelen Szabályzat a jogszabályi követelményeknek megfelelően készült, még akkor is, ha a Weboldal vagy a Szolgáltatás nem gyűjt vagy tárol semmilyen személyes információt.",
+      "#4": "Harmadik féltől származó hirdetések és elemzések",
+      "#5": "Harmadik fél hirdetési szolgáltatásokat, például a Google AdSense-t használjuk a hirdetések megjelenítésére a Weboldalon. ",
+      "#6": "Leiratkozhat a személyre szabott hirdetésről, ha meglátogatja",
+      "#7": "Hirdetésbeállítások",
+      "#8": "vagy látogatással",
+      "#9": "Az adatvédelmi szabályzat változásai",
+      "#10": "Fenntartjuk magunknak a jogot a Szabályzat bármely részének frissítésére, módosítására vagy cseréjére a frissített Szabályzat Weboldalon való közzétételével. ",
+      "#11": "Elérhetőség",
+      "#12": "Ha bármilyen kérdése vagy aggálya van a jelen szabályzattal kapcsolatban, kérjük, forduljon a Webhely tulajdonosához a következő címen:",
+      "#13": "Az adatvédelmi szabályzat elfogadása",
+      "#14": "A Weboldal vagy a Szolgáltatás elérésével vagy használatával Ön elismeri, hogy elolvasta, megértette és magára nézve kötelezőnek ismeri el a jelen Szabályzat feltételeit."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Szolgáltatás feltételei"
+    },
+    "dcma": {
+      "title": "Szerzői jog (DMCA)",
+      "#1": "A(z) {name} tiszteletben tartja az összes mű szerzői jogát, és nem engedélyezi a felhasználóknak, hogy mások videóit olyan célra használják fel, ami ellentétes a szerzői jogvédelmi feltételekkel. ",
+      "#2": "{name} megfelel a Digital Millennium Copyright Act (DMCA) előírásainak, és megfelelő értesítés esetén azonnal felfüggeszti a Tartalmak hozzáférését.",
+      "#3": "Ha szerzői jogok megsértésével kapcsolatos bejelentést szeretne benyújtani a(z) {name} felé, levélben kell küldenie nekünk egy üzenetet, amely lényegében tartalmazza a Digital Millennium Copyright Act 512(c)(3) szakasza által megkövetelt és meghatározott információkat.",
+      "#4": "Szükséges információ:",
+      "#5": "1. Azonosítsa magát, mint: a) szerzői joggal védett mű(k) tulajdonosa b) olyan személy, aki „jogosult arra, hogy az állítólagosan megsértett kizárólagos jog tulajdonosa nevében eljárjon”. ",
+      "#6": "2. Azonosítsa azt a szerzői joggal védett művet, amelyről azt állítják, hogy megsértették.",
+      "#7": "3. Azonosítsa azt a Tartalmat, amelyről azt állítják, hogy jogsértő vagy a jogsértő tevékenység tárgyát képezi, és amelyet fel kell függeszteni, vagy amelyhez való hozzáférést le kell tiltani, valamint olyan információkat, amelyek ésszerűen elegendőek ahhoz, hogy a youtube4kdownloader megtalálja a Tartalmat. ",
+      "#8": "4. Adjon meg olyan elérhetőségi adatokat, amelyek ésszerűen elegendőek ahhoz, hogy kapcsolatba léphessünk Önnel, például cím, telefonszám és érvényes e-mail cím.",
+      "#9": "5. Nyújtsa ki, hogy jóhiszeműen úgy gondolja, hogy a Tartalom kifogásolt módon történő felhasználását a szerzői jog tulajdonosa, annak képviselői vagy a törvény nem engedélyezi.",
+      "#10": "6. Nyújtsa ki, hogy az értesítésben szereplő információk pontosak, és a hamis tanúzás büntetése mellett a panaszos fél felhatalmazást kapott arra, hogy az állítólagosan megsértett kizárólagos jog tulajdonosa nevében eljárjon.",
+      "#11": "Érvényes értesítés kézhezvételét követően a törvényben előírtak szerint felfüggesztjük a weboldalunkon található szerzői jogi tartalomhoz való hozzáférést.",
+      "#12": "Ha kérdése van, forduljon hozzánk a",
+      "#13": "ez a forma"
+    },
+    "thankyou": {
+      "title": "Köszönjük, hogy telepítette a Videó letöltése Online programot!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "Videó letöltési API",
+      "#1": "A {website_url} API egyszerű és kényelmes módszert kínál a médiafájlok lekérésére a legnépszerűbb webhelyekről és közösségi média platformokról. ",
+      "#2": "Ha hozzá szeretne jutni vagy további információhoz szeretne jutni, vegye fel velünk a kapcsolatot a következő címen "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Lépjen kapcsolatba velünk",
+      "#1": "Ha bármilyen kérdése, panasza vagy igénye van a Szolgáltatásainkkal kapcsolatban, kérjük, küldjön üzenetet a",
+      "#2": "Visszacsatolás",
+      "#3": "Email",
+      "#4": "Üzenet",
+      "#5": "Beküldés",
+      "#6": "Az e-mail sikeresen elküldve !"
+    }
+  }
+}

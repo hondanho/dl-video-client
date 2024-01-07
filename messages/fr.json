@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Changer de langue",
+    "locale": "{locale, select, de {allemand} en {anglais} autre {Inconnu}}"
+  },
+  "Metadata": {
+    "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+    "keywords": "Télécharger des vidéos YouTube, télécharger des vidéos Instagram, télécharger des vidéos Facebook, télécharger des vidéos TikTok, télécharger des vidéos Twitch, télécharger des vidéos Twitter, télécharger des vidéos Pinterest, télécharger des vidéos sur les réseaux sociaux, télécharger des vidéos en ligne, télécharger des vidéos gratuitement.",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Télécharger la vidéo en ligne"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Collez les liens vidéo pour Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "arialLabel": "Collez les liens vidéo pour Facebook, Instagram, TikTok, Twitter, Twitch, Youtube.",
+      "btnArialLabel": "Téléchargez n’importe quel bouton vidéo",
+      "btnText": "Télécharger",
+      "btnLoadingText": "Aller chercher"
+    }
+  },
+  "Footer": {
+    "#1": "Téléchargeur YouTube",
+    "#2": "Téléchargeur de vidéos Youtube",
+    "#3": "Convertisseur Youtube en MP3",
+    "#4": "Convertisseur Youtube en MP4",
+    "#5": "Téléchargeur de courts métrages Youtube",
+    "#6": "Téléchargeur Facebook",
+    "#7": "Télécharger la vidéo Facebook",
+    "#8": "Convertisseur Facebook en MP4",
+    "#9": "Télécharger la bobine Facebook",
+    "#10": "Téléchargeur Instagram",
+    "#11": "Télécharger la vidéo Instagram",
+    "#12": "Télécharger la bobine Instagram",
+    "#13": "Convertisseur Instagram en Mp4",
+    "#14": "Autre téléchargeur",
+    "#15": "Télécharger la vidéo TikTok",
+    "#16": "Télécharger la vidéo Twitter",
+    "#17": "Télécharger la vidéo Twitch",
+    "#18": "Télécharger le clip vidéo Twitch",
+    "#20": "Légal",
+    "#21": "politique de confidentialité",
+    "#22": "Conditions d'utilisation",
+    "#23": "DCMA",
+    "#24": "Contact",
+    "#25": "Blog",
+    "#26": "Rejoignez-nous!",
+    "#27": "S'abonner",
+    "#28": "Tous droits réservés."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Télécharger le clip vidéo Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des clips Twitch, téléchargeur de clips Twitch, enregistrez des clips Twitch, comment télécharger des clips depuis Twitch, téléchargement de clips Twitch en ligne, téléchargement gratuit de clips Twitch, économiseur de clips Twitch, téléchargez des clips Twitch sans filigrane, capture de clips Twitch, téléchargement de clips Twitch en MP4",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Twitch Clip",
+        "arialLabel": "Collez les liens vidéo Twitch Clip",
+        "btnArialLabel": "Téléchargez n’importe quelle vidéo Bouton Twitch Clip"
+      },
+      "faq": {
+        "1": {
+          "answer": "Copiez simplement le lien vidéo Twitch et collez-le dans notre outil. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos Twitch ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de Twitch. ",
+          "question": "Est-il légal de télécharger des vidéos Twitch à l'aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est optimisé pour une utilisation mobile, permettant aux utilisateurs de télécharger des vidéos Twitch sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Twitch sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Twitch, y compris celles de différentes longueurs et formats. ",
+          "question": "Existe-t-il des restrictions sur la durée ou le type de vidéos Twitch pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos Twitch HD (haute définition), offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD Twitch avec votre outil ?"
+        },
+        "6": {
+          "answer": "Si vous rencontrez des difficultés, veuillez consulter notre section FAQ sur le site Web pour obtenir des conseils de dépannage. ",
+          "question": "Que dois-je faire si je rencontre des problèmes lors de l’utilisation de votre outil ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Twitch pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": " Puis-je télécharger des vidéos Twitch pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement dans la plateforme Twitch, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications de Twitch ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger la vidéo Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Télécharger la vidéo Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des vidéos Twitch, téléchargeur de vidéos Twitch, enregistrez des vidéos Twitch, comment télécharger des vidéos de Twitch, téléchargement de clips Twitch, téléchargement gratuit de vidéos Twitch, téléchargeur Twitch VOD, téléchargez les faits saillants de Twitch, capture de vidéos Twitch, téléchargement Twitch en MP4",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Twitch",
+        "arialLabel": "Collez les liens vidéo Twitch",
+        "btnArialLabel": "Téléchargez n’importe quel bouton de bobine Twitch vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Copiez simplement le lien vidéo Twitch et collez-le dans notre outil. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos Twitch ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de Twitch. ",
+          "question": "Est-il légal de télécharger des vidéos Twitch à l'aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est optimisé pour une utilisation mobile, permettant aux utilisateurs de télécharger des vidéos Twitch sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Twitch sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Twitch, y compris celles de différentes longueurs et formats. ",
+          "question": "Existe-t-il des restrictions sur la durée ou le type de vidéos Twitch pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos Twitch HD (haute définition), offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD Twitch avec votre outil ?"
+        },
+        "6": {
+          "answer": "Si vous rencontrez des difficultés, veuillez consulter notre section FAQ sur le site Web pour obtenir des conseils de dépannage. ",
+          "question": "Que dois-je faire si je rencontre des problèmes lors de l’utilisation de votre outil ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Twitch pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": " Puis-je télécharger des vidéos Twitch pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement dans la plateforme Twitch, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications de Twitch ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger la vidéo Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Télécharger la vidéo Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des vidéos Twitter, téléchargeur de vidéos Twitter, enregistrez des vidéos Twitter, comment télécharger des vidéos depuis Twitter, téléchargement de vidéos Twitter en ligne, téléchargement gratuit de vidéos Twitter, économiseur de vidéo Twitter, téléchargez Twitter sans filigrane, capture de vidéos Twitter, téléchargement Twitter en MP4",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Twitter",
+        "arialLabel": "Collez les liens vidéo Twitter",
+        "btnArialLabel": "Téléchargez n'importe quelle vidéo Bouton de bobine Twitter"
+      },
+      "faq": {
+        "1": {
+          "answer": "Copiez simplement le lien vidéo Twitter et collez-le dans notre outil. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos Twitter ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions d'utilisation de Twitter. ",
+          "question": "Est-il légal de télécharger des vidéos Twitter à l'aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est optimisé pour une utilisation mobile, permettant aux utilisateurs de télécharger des vidéos Twitter sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Twitter sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Twitter, y compris celles de différentes longueurs et formats. ",
+          "question": "Existe-t-il des restrictions sur la durée ou le type de vidéos Twitter pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos Twitter HD (haute définition), offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos Twitter HD avec votre outil ?"
+        },
+        "6": {
+          "answer": "Si vous rencontrez des difficultés, veuillez consulter notre section FAQ sur le site Web pour obtenir des conseils de dépannage. ",
+          "question": "Que dois-je faire si je rencontre des problèmes lors de l’utilisation de votre outil ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Twitter pour les visionner hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": " Puis-je télécharger des vidéos Twitter pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement dans la plateforme Twitter, garantissant ainsi une compatibilité continue et une expérience utilisateur transparente.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications de Twitter ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Télécharger la vidéo Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des vidéos TikTok, téléchargeur de vidéos TikTok, enregistrez des vidéos TikTok, comment télécharger des vidéos de TikTok, téléchargement de vidéos TikTok en ligne, téléchargement de vidéos TikTok gratuit, économiseur de vidéo TikTok, téléchargez TikTok sans filigrane, capteur de vidéos TikTok, téléchargement TikTok en MP4",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo tiktok",
+        "arialLabel": "Collez les liens vidéo tiktok",
+        "btnArialLabel": "Téléchargez n'importe quel bouton de bobine vidéo tiktok"
+      },
+      "faq": {
+        "1": {
+          "answer": "Copiez simplement le lien vidéo TikTok et collez-le dans notre outil. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos TikTok ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de TikTok. ",
+          "question": "Est-il légal de télécharger des vidéos TikTok à l'aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est optimisé pour une utilisation mobile, permettant aux utilisateurs de télécharger des vidéos TikTok sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos TikTok sur des appareils mobiles à l’aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos TikTok, y compris celles de différentes longueurs et formats. ",
+          "question": "Existe-t-il des restrictions sur la durée ou le type de vidéos TikTok pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos TikTok HD (haute définition), offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD TikTok avec votre outil ?"
+        },
+        "6": {
+          "answer": "Si vous rencontrez des difficultés, veuillez consulter notre section FAQ sur le site Web pour obtenir des conseils de dépannage. ",
+          "question": "Que dois-je faire si je rencontre des problèmes lors de l’utilisation de votre outil ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos TikTok pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": " Puis-je télécharger des vidéos TikTok pour les visionner hors ligne à l’aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement dans la plateforme TikTok, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications de TikTok ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger la vidéo tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Télécharger la vidéo Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez la bobine instagram des liens vidéo",
+        "arialLabel": "Collez la bobine instagram des liens vidéo",
+        "btnArialLabel": "Téléchargez n’importe quel bouton de bobine Instagram vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Instagram dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos depuis Instagram ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service d'Instagram. ",
+          "question": "Est-il légal de télécharger des vidéos depuis Instagram en utilisant votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Instagram sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Instagram sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Instagram, y compris celles de différentes longueurs et formats. ",
+          "question": " Existe-t-il des restrictions sur la durée ou le type de vidéos Instagram pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Instagram, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD depuis Instagram avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l’utilisation de votre outil pour télécharger des vidéos Instagram ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Instagram pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des vidéos Instagram pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Instagram, garantissant ainsi une compatibilité continue et une expérience utilisateur transparente.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications d'Instagram ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Télécharger la bobine Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez la bobine instagram des liens vidéo",
+        "arialLabel": "Collez la bobine instagram des liens vidéo",
+        "btnArialLabel": "Téléchargez n’importe quel bouton de bobine Instagram vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Instagram dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos depuis Instagram ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service d'Instagram. ",
+          "question": "Est-il légal de télécharger des vidéos depuis Instagram en utilisant votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Instagram sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Instagram sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Instagram, y compris celles de différentes longueurs et formats. ",
+          "question": " Existe-t-il des restrictions sur la durée ou le type de vidéos Instagram pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Instagram, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD depuis Instagram avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l’utilisation de votre outil pour télécharger des vidéos Instagram ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Instagram pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des vidéos Instagram pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Instagram, garantissant ainsi une compatibilité continue et une expérience utilisateur transparente.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications d'Instagram ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Instagram en mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Télécharger la vidéo Instagram en mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez la bobine instagram des liens vidéo",
+        "arialLabel": "Collez la bobine instagram des liens vidéo",
+        "btnArialLabel": "Téléchargez n’importe quel bouton de bobine Instagram vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Instagram dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos depuis Instagram ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service d'Instagram. ",
+          "question": "Est-il légal de télécharger des vidéos depuis Instagram en utilisant votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Instagram sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Instagram sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Instagram, y compris celles de différentes longueurs et formats. ",
+          "question": " Existe-t-il des restrictions sur la durée ou le type de vidéos Instagram pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Instagram, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD depuis Instagram avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l’utilisation de votre outil pour télécharger des vidéos Instagram ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Instagram pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des vidéos Instagram pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Instagram, garantissant ainsi une compatibilité continue et une expérience utilisateur transparente.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications d'Instagram ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Instagram en mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Télécharger la bobine Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez Facebook Reel, le téléchargeur Facebook Reel, enregistrez la vidéo Facebook Reel, comment télécharger des bobines sur Facebook, téléchargez Facebook Reel en ligne, téléchargez gratuitement Facebook Reel, économiseur vidéo Facebook Reel, téléchargez des bobines à partir de Facebook, capture vidéo Facebook Reel, téléchargement hors ligne Facebook Reel",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo sur la bobine Facebook",
+        "arialLabel": "Collez les liens vidéo sur la bobine Facebook",
+        "btnArialLabel": "Téléchargez n'importe quel bouton de bobine vidéo Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Facebook dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos depuis Facebook ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de Facebook. ",
+          "question": "Est-il légal de télécharger des vidéos depuis Facebook à l’aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Facebook sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Facebook sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Facebook, y compris celles de différentes longueurs et formats. ",
+          "question": " Existe-t-il des restrictions sur la durée ou le type de vidéos Facebook pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Facebook, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD depuis Facebook avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l'utilisation de votre outil pour télécharger des vidéos Facebook ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Facebook pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des vidéos Facebook pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Facebook, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour assurer la compatibilité avec les modifications de Facebook ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Facebook en mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Convertisseur Facebook en MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Convertisseur Facebook en MP4, Convertir Facebook en MP4, Vidéo Facebook en MP4, Téléchargement Facebook MP4, Facebook en MP4 en ligne, Facebook gratuit en MP4, Convertisseur vidéo Facebook, Enregistrer la vidéo Facebook au format MP4, Télécharger Facebook en MP4, Convertisseur en ligne Facebook MP4",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Facebook",
+        "arialLabel": "Collez les liens vidéo Facebook",
+        "btnArialLabel": "Téléchargez n'importe quel bouton Facebook vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Facebook Reel dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des Facebook Reels ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de Facebook. ",
+          "question": "Est-il légal de télécharger des Facebook Reels à l'aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Facebook sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des Facebook Reels sur des appareils mobiles à l’aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Facebook, y compris celles de différentes longueurs et formats. ",
+          "question": "Existe-t-il des restrictions sur la longueur ou le type de Facebook Reels pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Facebook, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des Facebook Reels HD avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l'utilisation de votre outil pour télécharger des vidéos Facebook ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Facebook pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des Facebook Reels pour les visionner hors ligne à l’aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Facebook, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour assurer la compatibilité avec les modifications de Facebook ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Facebook en mp4"
+    },
+    "download-video-facebook": {
+      "title": "Télécharger la vidéo Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des vidéos Facebook, téléchargeur de vidéos Facebook, enregistrez des vidéos Facebook, comment télécharger des vidéos depuis Facebook, téléchargement de vidéos Facebook en ligne, téléchargement gratuit de vidéos Facebook, économiseur de vidéos Facebook, téléchargez des vidéos Facebook privées, téléchargement de vidéos Facebook HD, téléchargement Facebook vers MP4, téléchargement de vidéos ",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Facebook",
+        "arialLabel": "Collez les liens vidéo Facebook",
+        "btnArialLabel": "Téléchargez n'importe quel bouton Facebook vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Collez simplement l'URL de la vidéo Facebook dans notre outil et elle vous guidera tout au long du processus de téléchargement. ",
+          "question": "Comment utiliser votre outil pour télécharger des vidéos depuis Facebook ?"
+        },
+        "2": {
+          "answer": "Notre outil est conçu pour respecter les conditions de service de Facebook. ",
+          "question": "Est-il légal de télécharger des vidéos depuis Facebook à l’aide de votre outil ?"
+        },
+        "3": {
+          "answer": "Oui, notre outil est adapté aux appareils mobiles, permettant aux utilisateurs de télécharger des vidéos Facebook sur divers appareils, notamment les smartphones et les tablettes.",
+          "question": "Puis-je télécharger des vidéos Facebook sur des appareils mobiles à l'aide de votre outil ?"
+        },
+        "4": {
+          "answer": "Notre outil prend en charge le téléchargement d'une large gamme de vidéos Facebook, y compris celles de différentes longueurs et formats. ",
+          "question": " Existe-t-il des restrictions sur la durée ou le type de vidéos Facebook pouvant être téléchargées ?"
+        },
+        "5": {
+          "answer": "Oui, notre outil prend en charge le téléchargement de vidéos HD (haute définition) depuis Facebook, offrant aux utilisateurs la possibilité de profiter d'un contenu de meilleure qualité.",
+          "question": "Est-il possible de télécharger des vidéos HD depuis Facebook avec votre outil ?"
+        },
+        "6": {
+          "answer": "Nous prenons la sécurité au sérieux. ",
+          "question": "Y a-t-il des risques associés à l'utilisation de votre outil pour télécharger des vidéos Facebook ?"
+        },
+        "7": {
+          "answer": "Oui, notre outil offre une option pour télécharger des vidéos Facebook pour une visualisation hors ligne, permettant aux utilisateurs de profiter du contenu même sans connexion Internet.",
+          "question": "Puis-je télécharger des vidéos Facebook pour les visionner hors ligne à l'aide de votre outil ?"
+        },
+        "8": {
+          "answer": "Nous mettons régulièrement à jour notre outil pour nous adapter à tout changement survenu sur la plateforme Facebook, garantissant ainsi une compatibilité continue et une expérience utilisateur fluide.",
+          "question": "À quelle fréquence votre outil est-il mis à jour pour assurer la compatibilité avec les modifications de Facebook ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo Facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Téléchargeur de vidéos Youtube",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargement de vidéos YouTube, Télécharger des vidéos YouTube, Téléchargeur YouTube, Enregistrer des vidéos YouTube, Comment télécharger des vidéos de YouTube, Téléchargement de vidéos YouTube en ligne, Télécharger des vidéos HD de YouTube, Économiseur de vidéos YouTube, Capture de vidéos YouTube, Téléchargement gratuit de vidéos YouTube",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Youtube",
+        "arialLabel": "Collez les liens vidéo Youtube",
+        "btnArialLabel": "Téléchargez n'importe quel bouton YouTube vidéo"
+      },
+      "faq": {
+        "1": {
+          "answer": "Vous pouvez utiliser ces outils ou logiciels en ligne conçus pour télécharger des vidéos YouTube. ",
+          "question": "Comment télécharger des vidéos YouTube ?"
+        },
+        "2": {
+          "answer": "Le téléchargement de vidéos YouTube sans autorisation peut enfreindre les conditions d'utilisation de YouTube. ",
+          "question": "Est-il légal de télécharger des vidéos depuis YouTube ?"
+        },
+        "3": {
+          "answer": "Oui, divers services en ligne proposent des téléchargements de vidéos YouTube. ",
+          "question": "Existe-t-il des services en ligne pour télécharger des vidéos YouTube ?"
+        },
+        "4": {
+          "answer": "Oui, il existe des applications mobiles et des sites Web qui vous permettent de télécharger des vidéos YouTube directement sur votre appareil mobile pour les visionner hors ligne.",
+          "question": "Puis-je télécharger des vidéos YouTube sur des appareils mobiles ?"
+        },
+        "5": {
+          "answer": "Les formats couramment pris en charge incluent MP",
+          "question": "Quels formats vidéo sont pris en charge pour les vidéos YouTube téléchargées ?"
+        },
+        "6": {
+          "answer": "Oui, il est recommandé d'obtenir l'autorisation du créateur de contenu ou de vérifier les informations de licence de la vidéo avant de la télécharger et de l'utiliser.",
+          "question": "Ai-je besoin d’une autorisation pour télécharger et utiliser des vidéos YouTube ?"
+        },
+        "7": {
+          "answer": "Les conditions d'utilisation de YouTube interdisent le téléchargement non autorisé de vidéos. ",
+          "question": "Existe-t-il des restrictions sur le téléchargement de contenu YouTube ?"
+        },
+        "8": {
+          "answer": "Oui, YouTube offre un moyen légal de télécharger des vidéos pour les visionner hors ligne via leur application. ",
+          "question": "Puis-je télécharger des vidéos YouTube pour les visionner hors ligne ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger une vidéo YouTube en ligne"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Convertisseur Youtube en MP3",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube en MP3, Convertir YouTube en MP3, Convertisseur YouTube MP3, Téléchargement audio YouTube, YouTube en MP3 en ligne, YouTube gratuit en MP3, Convertisseur YouTube en MP3 en ligne, Convertir une vidéo YouTube en MP3, Convertisseur de son YouTube, Télécharger de l'audio YouTube",
+      "description": "Youtube to MP3 Converter est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Youtube",
+        "arialLabel": "Collez les liens vidéo Youtube",
+        "btnArialLabel": "Téléchargez n'importe quelle vidéo bouton youtube mp3"
+      },
+      "faq": {
+        "1": {
+          "answer": "Vous pouvez utiliser ces outils ou logiciels en ligne conçus pour télécharger des vidéos YouTube. ",
+          "question": "Comment télécharger des vidéos YouTube ?"
+        },
+        "2": {
+          "answer": "Le téléchargement de vidéos YouTube sans autorisation peut enfreindre les conditions d'utilisation de YouTube. ",
+          "question": "Est-il légal de télécharger des vidéos depuis YouTube ?"
+        },
+        "3": {
+          "answer": "Oui, divers services en ligne proposent des téléchargements de vidéos YouTube. ",
+          "question": "Existe-t-il des services en ligne pour télécharger des vidéos YouTube ?"
+        },
+        "4": {
+          "answer": "Oui, il existe des applications mobiles et des sites Web qui vous permettent de télécharger des vidéos YouTube directement sur votre appareil mobile pour les visionner hors ligne.",
+          "question": "Puis-je télécharger des vidéos YouTube sur des appareils mobiles ?"
+        },
+        "5": {
+          "answer": "Les formats couramment pris en charge incluent MP",
+          "question": "Quels formats vidéo sont pris en charge pour les vidéos YouTube téléchargées ?"
+        },
+        "6": {
+          "answer": "Oui, il est recommandé d'obtenir l'autorisation du créateur de contenu ou de vérifier les informations de licence de la vidéo avant de la télécharger et de l'utiliser.",
+          "question": "Ai-je besoin d’une autorisation pour télécharger et utiliser des vidéos YouTube ?"
+        },
+        "7": {
+          "answer": "Les conditions d'utilisation de YouTube interdisent le téléchargement non autorisé de vidéos. ",
+          "question": "Existe-t-il des restrictions sur le téléchargement de contenu YouTube ?"
+        },
+        "8": {
+          "answer": "Oui, YouTube offre un moyen légal de télécharger des vidéos pour les visionner hors ligne via leur application. ",
+          "question": "Puis-je télécharger des vidéos YouTube pour les visionner hors ligne ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger Youtube en MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Convertisseur Youtube en MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube en MP4, Convertir YouTube en MP4, Convertisseur YouTube MP4, Téléchargement audio YouTube, YouTube en MP4 en ligne, YouTube gratuit en MP4, Convertisseur YouTube en MP4 en ligne, Convertir une vidéo YouTube en MP4, Convertisseur de son YouTube, Télécharger de l'audio YouTube",
+      "description": "Youtube to MP4 Converter est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Youtube",
+        "arialLabel": "Collez les liens vidéo Youtube",
+        "btnArialLabel": "Téléchargez n'importe quelle vidéo bouton YouTube MP4"
+      },
+      "faq": {
+        "1": {
+          "answer": "Vous pouvez utiliser ces outils ou logiciels en ligne conçus pour télécharger des vidéos YouTube. ",
+          "question": "Comment télécharger des vidéos YouTube ?"
+        },
+        "2": {
+          "answer": "Le téléchargement de vidéos YouTube sans autorisation peut enfreindre les conditions d'utilisation de YouTube. ",
+          "question": "Est-il légal de télécharger des vidéos depuis YouTube ?"
+        },
+        "3": {
+          "answer": "Oui, divers services en ligne proposent des téléchargements de vidéos YouTube. ",
+          "question": "Existe-t-il des services en ligne pour télécharger des vidéos YouTube ?"
+        },
+        "4": {
+          "answer": "Oui, il existe des applications mobiles et des sites Web qui vous permettent de télécharger des vidéos YouTube directement sur votre appareil mobile pour les visionner hors ligne.",
+          "question": "Puis-je télécharger des vidéos YouTube sur des appareils mobiles ?"
+        },
+        "5": {
+          "answer": "Les formats couramment pris en charge incluent MP",
+          "question": "Quels formats vidéo sont pris en charge pour les vidéos YouTube téléchargées ?"
+        },
+        "6": {
+          "answer": "Oui, il est recommandé d'obtenir l'autorisation du créateur de contenu ou de vérifier les informations de licence de la vidéo avant de la télécharger et de l'utiliser.",
+          "question": "Ai-je besoin d’une autorisation pour télécharger et utiliser des vidéos YouTube ?"
+        },
+        "7": {
+          "answer": "Les conditions d'utilisation de YouTube interdisent le téléchargement non autorisé de vidéos. ",
+          "question": "Existe-t-il des restrictions sur le téléchargement de contenu YouTube ?"
+        },
+        "8": {
+          "answer": "Oui, YouTube offre un moyen légal de télécharger des vidéos pour les visionner hors ligne via leur application. ",
+          "question": "Puis-je télécharger des vidéos YouTube pour les visionner hors ligne ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger Youtube en MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Téléchargeur de courts métrages Youtube",
+      "datePublished": "2021-10-01",
+      "keywords": "Téléchargez des courts métrages YouTube, téléchargez des courts métrages YouTube, enregistrez des courts métrages YouTube, téléchargez des courts métrages à partir de YouTube, téléchargez de courtes vidéos YouTube, comment enregistrer des courts métrages YouTube, téléchargez des courts métrages sur YouTube, téléchargeur de courts métrages YouTube, téléchargement hors ligne de courts métrages YouTube, téléchargez gratuitement des courts métrages YouTube",
+      "description": "Youtube Shorts Downloader est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "form": {
+        "placeholder": "Collez les liens vidéo Youtube Short",
+        "arialLabel": "Collez les liens vidéo Youtube Short",
+        "btnArialLabel": "Téléchargez n'importe quelle vidéo bouton court YouTube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Depuis ma dernière mise à jour en janvier 2022, les courts métrages YouTube sont principalement destinés à un visionnage mobile court et peuvent ne pas proposer d'option de téléchargement direct. ",
+          "question": "Comment télécharger des courts métrages YouTube ?"
+        },
+        "2": {
+          "answer": "Le téléchargement de YouTube Shorts sans autorisation appropriée peut enfreindre les conditions d'utilisation de YouTube. ",
+          "question": "Est-il légal de télécharger des courts métrages YouTube ?"
+        },
+        "3": {
+          "answer": "Oui, divers services en ligne proposent des téléchargements de vidéos YouTube. ",
+          "question": "Puis-je télécharger YouTube Shorts sur des appareils mobiles ?"
+        },
+        "4": {
+          "answer": "Les conditions d'utilisation de YouTube interdisent généralement le téléchargement non autorisé de contenu. ",
+          "question": "Existe-t-il des restrictions sur le téléchargement de YouTube Shorts ?"
+        },
+        "5": {
+          "answer": "YouTube propose des options dans l'application pour partager des Shorts sur diverses plateformes. ",
+          "question": "Comment puis-je légalement enregistrer ou partager des courts métrages YouTube ?"
+        },
+        "6": {
+          "answer": "Les courts métrages YouTube sont généralement conçus pour être visionnés en ligne. ",
+          "question": "Puis-je télécharger des courts métrages YouTube pour les visionner hors ligne ?"
+        },
+        "7": {
+          "answer": "Les conditions d'utilisation de YouTube interdisent le téléchargement non autorisé de vidéos. ",
+          "question": "Existe-t-il des restrictions sur le téléchargement de contenu YouTube ?"
+        },
+        "8": {
+          "answer": "Si vous rencontrez des problèmes avec YouTube Shorts ou ses fonctionnalités, contactez l'assistance YouTube ou consultez leur centre d'aide pour obtenir des conseils sur la façon de signaler les problèmes.",
+          "question": "Comment puis-je signaler des problèmes avec YouTube Shorts ou ses fonctionnalités de téléchargement ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Comment télécharger des courts métrages Youtube"
+    },
+    "download-from-tiktok": {
+      "title": "télécharger la vidéo tiktok"
+    },
+    "download-from-twitter": {
+      "title": "télécharger des vidéos Twitter"
+    },
+    "general": {
+      "title": "Télécharger la vidéo en ligne",
+      "keywords": "Télécharger des vidéos YouTube, télécharger des vidéos Instagram, télécharger des vidéos Facebook, télécharger des vidéos TikTok, télécharger des vidéos Twitch, télécharger des vidéos Twitter, télécharger des vidéos Pinterest, télécharger des vidéos sur les réseaux sociaux, télécharger des vidéos en ligne, télécharger des vidéos gratuitement.",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online est un logiciel rapide et sécurisé qui permet des téléchargements vidéo illimités depuis Internet. ",
+      "faq": {
+        "1": {
+          "answer": "Oui, ce site Web est gratuit. ",
+          "question": "Ce site est-il gratuit ?"
+        },
+        "2": {
+          "answer": "Non, le téléchargement d'histoires n'est pas pris en charge.",
+          "question": "Puis-je télécharger des histoires ?"
+        },
+        "3": {
+          "answer": "Non, nous fournissons uniquement le service de téléchargement de vidéos.",
+          "question": "Puis-je télécharger des images depuis ?"
+        },
+        "4": {
+          "answer": "Oui, ce site Web est sécurisé. ",
+          "question": "Ce site Web est-il sécurisé ?"
+        },
+        "5": {
+          "answer": "Oui, vous pouvez utiliser le site Web depuis votre mobile ou votre tablette.",
+          "question": "Puis-je utiliser le site Web depuis mon mobile ?"
+        },
+        "6": {
+          "answer": "Si la vidéo que vous souhaitez télécharger n'est pas disponible, veuillez réessayer plus tard.",
+          "question": "Que faire si la vidéo que je souhaite télécharger n'est pas disponible ?"
+        },
+        "7": {
+          "answer": "Non, vous ne pouvez pas télécharger de vidéos à partir de comptes privés.",
+          "question": "Puis-je télécharger des vidéos à partir de comptes privés ?"
+        },
+        "8": {
+          "answer": "Le meilleur format pour télécharger des vidéos est MP4. ",
+          "question": "Quel est le meilleur format pour télécharger des vidéos ?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "En téléchargeant cette vidéo, vous acceptez les",
+      "#2": "Pas de filigrane",
+      "#3": "Qualité HD",
+      "#4": "Téléchargement rapide",
+      "#5": "Facilement modifiable",
+      "#6": "N'importe quel format",
+      "#7": "Comment télécharger des vidéos {name} :",
+      "#8": "Collez l'URL de n'importe quelle vidéo",
+      "#9": "Collez l'URL de n'importe quelle vidéo dans le champ fourni et cliquez sur Télécharger. ",
+      "#10": "Modifier ou télécharger",
+      "#11": "Vous avez la possibilité de modifier votre vidéo à l'aide de notre suite complète d'outils de montage vidéo. ",
+      "#12": "Partager l'outil télécharger la vidéo en ligne",
+      "#13": "Exportez votre vidéo et partagez-la !",
+      "#14": "Téléchargement instantané de vidéo en ligne",
+      "#15": "Télécharger la vidéo en ligne Vous pouvez télécharger des clips vidéo à partir de",
+      "#16": "en un seul clic ! ",
+      "#17": "Télécharger la vidéo en ligne fonctionne directement depuis votre navigateur mobile ou de bureau ou votre application mobile. ",
+      "#18": "Téléchargez la vidéo en ligne et supprimez le filigrane",
+      "#19": "Télécharger la vidéo en ligne vous permet de télécharger du contenu sans filigrane afin que vous puissiez le réutiliser et le partager n'importe où. ",
+      "#20": "Ajoutez instantanément des voix off à votre vidéo",
+      "#21": "Si vous n'avez pas le temps ou les ressources nécessaires pour ajouter des voix off, vous pouvez utiliser le logiciel de synthèse vocale Download Video Online !  ",
+      "#22": "Créez des vidéos de qualité professionnelle en quelques clics",
+      "#23": "Si vous êtes un streamer, il y a de fortes chances que vous ayez également d'autres canaux de médias sociaux à gérer.  ",
+      "#24": "Foire aux questions - FAQ",
+      "#25": "Télécharger avec l'application",
+      "#26": "Nous proposons désormais une application pour le téléchargement de vidéos. ",
+      "#27": "URL de l'application Google Play",
+      "#28": "URL de l'application Apple",
+      "btnText": "Télécharger",
+      "btnLoadingText": "Aller chercher"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "politique de confidentialité",
+      "#1": "Introduction",
+      "#2": "Cette politique de confidentialité informe les utilisateurs que le site Web ({website_url}) ne collecte, ne stocke ni ne traite aucune information personnelle. ",
+      "#3": "Veuillez noter que cette politique est fournie conformément aux exigences légales, même si le site Web ou le service ne collecte ni ne stocke aucune information personnelle.",
+      "#4": "Publicité et analyses tierces",
+      "#5": "Nous utilisons des services de publicité tiers, tels que Google AdSense, pour diffuser des publicités sur le site Web. ",
+      "#6": "Vous pouvez vous désinscrire de la publicité personnalisée en visitant",
+      "#7": "Paramètres des annonces",
+      "#8": "ou en visitant",
+      "#9": "Modifications de la politique de confidentialité",
+      "#10": "Nous nous réservons le droit de mettre à jour, de modifier ou de remplacer toute partie de la politique à tout moment en publiant la politique mise à jour sur le site Web. ",
+      "#11": "Coordonnées",
+      "#12": "Si vous avez des questions ou des préoccupations concernant cette politique, veuillez contacter le propriétaire du site Web à",
+      "#13": "Acceptation de la politique de confidentialité",
+      "#14": "En accédant ou en utilisant le site Web ou le service, vous reconnaissez que vous avez lu, compris et accepté d'être lié par les termes et conditions de cette politique."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Conditions d'utilisation"
+    },
+    "dcma": {
+      "title": "Droits d'auteur (DMCA)",
+      "#1": "{name} respecte les droits d'auteur de toutes les œuvres et n'autorise pas les utilisateurs à utiliser les vidéos d'autrui à des fins contraires aux conditions générales de protection des droits d'auteur. ",
+      "#2": "{name} se conforme au Digital Millennium Copyright Act (DMCA) et suspend rapidement l'accès au contenu lorsqu'il est correctement informé.",
+      "#3": "Pour déposer une notification de violation des droits d'auteur auprès de {name}, vous devrez nous envoyer par courrier électronique un message contenant l'essentiel des informations requises et indiquées dans l'article 512(c)(3) du Digital Millennium Copyright Act.",
+      "#4": "Information requise:",
+      "#5": "1. Identifiez-vous comme étant : a) Le propriétaire d'une ou plusieurs œuvres protégées par le droit d'auteur. b) Une personne \"autorisée à agir au nom du propriétaire d'un droit exclusif qui aurait été violé\". ",
+      "#6": "2. Identifiez l'œuvre protégée par le droit d'auteur qui aurait été violée.",
+      "#7": "3. Identifier le Contenu prétendument en infraction ou faisant l'objet de l'activité en infraction et qui doit être suspendu ou dont l'accès doit être désactivé, ainsi que les informations raisonnablement suffisantes pour permettre à youtube4kdownloader de localiser le Contenu. ",
+      "#8": "4. Fournissez des informations de contact raisonnablement suffisantes pour nous permettre de vous contacter, telles qu'une adresse, un numéro de téléphone et une adresse e-mail valide.",
+      "#9": "5. Déclarez que vous pensez de bonne foi que l'utilisation du contenu de la manière faisant l'objet de la plainte n'est pas autorisée par le propriétaire des droits d'auteur, ses agents ou la loi.",
+      "#10": "6. Déclarer que les informations contenues dans la notification sont exactes et que, sous peine de parjure, la partie plaignante est autorisée à agir au nom du propriétaire d'un droit exclusif prétendument violé.",
+      "#11": "Dès réception d'une notification valide, comme l'exige la loi, nous suspendrons l'accès au contenu protégé par le droit d'auteur de notre site Web.",
+      "#12": "Si vous avez des questions, veuillez nous contacter au",
+      "#13": "ce formulaire"
+    },
+    "thankyou": {
+      "title": "Merci d'avoir installé le téléchargement de vidéo en ligne !"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API de téléchargement de vidéos",
+      "#1": "L'API {website_url} fournit une méthode simple et pratique pour récupérer des fichiers multimédias à partir des sites Web et des plateformes de médias sociaux les plus populaires. ",
+      "#2": "Pour accéder ou obtenir plus d’informations, veuillez nous contacter au "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Contactez-nous",
+      "#1": "Si vous avez des questions, des plaintes ou des réclamations concernant nos services, veuillez nous envoyer un message à",
+      "#2": "Retour",
+      "#3": "E-mail",
+      "#4": "Message",
+      "#5": "Soumettre",
+      "#6": "E-mail envoyé avec succès !"
+    }
+  }
+}

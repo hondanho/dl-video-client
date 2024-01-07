@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Spremeni jezik",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+    "keywords": "Prenos videoposnetkov YouTube, Prenos videoposnetkov Instagram, Prenos videoposnetkov Facebook, Prenos videoposnetkov TikTok, Prenos videoposnetkov Twitch, Prenos videoposnetkov Twitter, Prenos videoposnetkov Pinterest, Prenos videoposnetkov družbenih medijev, Prenos spletnih videoposnetkov, Prenos videoposnetkov brezplačno",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Prenesite video na spletu"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Prilepite video povezave za Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Prilepite video povezave za Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Prenesite poljuben video gumb",
+      "btnText": "Prenesi",
+      "btnLoadingText": "Pridobivanje"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Youtube Video Downloader",
+    "#3": "Youtube v MP3 pretvornik",
+    "#4": "Youtube v MP4 pretvornik",
+    "#5": "Youtube Shorts Downloader",
+    "#6": "Facebook Downloader",
+    "#7": "Prenesite video s facebooka",
+    "#8": "Pretvornik Facebook v MP4",
+    "#9": "Prenesite Facebook Reel",
+    "#10": "Instagram Downloader",
+    "#11": "Prenesite Video Instagram",
+    "#12": "Prenesite Instagram Reel",
+    "#13": "Pretvornik Instagrama v Mp4",
+    "#14": "Drugi prenosnik",
+    "#15": "Prenesite Video TikTok",
+    "#16": "Prenesite Video Twitter",
+    "#17": "Prenesite Video Twitch",
+    "#18": "Prenesite Video Twitch Clip",
+    "#20": "Pravno",
+    "#21": "Politika zasebnosti",
+    "#22": "Pogoji storitve",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blog",
+    "#26": "Pridruži se nam!",
+    "#27": "Naročite se",
+    "#28": "Vse pravice pridržane."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Prenesite Video Twitch Clip",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenesite posnetke Twitch, Prenos posnetkov Twitch, Shranite posnetke Twitch, Kako prenesti posnetke s Twitcha, Prenesite posnetke Twitch prek spleta, Brezplačen prenos posnetkov Twitch, Ohranjevalnik posnetkov Twitch, Prenesite posnetke Twitch brez vodnega žiga, Zgrabilec posnetkov Twitch, Prenesite posnetke Twitch v MP4",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Twitch Clip",
+        "arialLabel": "Prilepite video povezave Twitch Clip",
+        "btnArialLabel": "Prenesite kateri koli video gumb Twitch Clip"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto kopirajte video povezavo Twitch in jo prilepite v naše orodje. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov Twitch?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve Twitch. ",
+          "question": "Ali je prenos videoposnetkov Twitch z vašim orodjem zakonit?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je optimizirano za mobilno uporabo in uporabnikom omogoča prenos videoposnetkov Twitch na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem videoposnetke Twitch na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos široke palete videoposnetkov Twitch, vključno s tistimi različnih dolžin in formatov. ",
+          "question": "Ali obstajajo kakšne omejitve glede dolžine ali vrste videoposnetkov Twitch, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov Twitch, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti videoposnetke HD Twitch?"
+        },
+        "6": {
+          "answer": "Če imate kakršne koli težave, si oglejte razdelek s pogostimi vprašanji na spletnem mestu za nasvete za odpravljanje težav. ",
+          "question": "Kaj naj storim, če med uporabo vašega orodja naletim na težave?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa videoposnetkov Twitch za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": " Ali lahko z vašim orodjem prenesem videoposnetke Twitch za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi vsem spremembam platforme Twitch, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Prenesite Video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos videoposnetkov Twitch, Prenos videoposnetkov Twitch, Shranjevanje videoposnetkov Twitch, Kako prenesti videoposnetke s Twitcha, Prenos posnetkov Twitch, Brezplačen prenos videoposnetkov Twitch, Prenos videoposnetkov Twitch, Prenos poudarkov Twitch, Zajemalnik videoposnetkov Twitch, Prenos Twitch v MP4",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Twitch",
+        "arialLabel": "Prilepite video povezave Twitch",
+        "btnArialLabel": "Prenesite kateri koli video Twitch reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto kopirajte video povezavo Twitch in jo prilepite v naše orodje. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov Twitch?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve Twitch. ",
+          "question": "Ali je prenos videoposnetkov Twitch z vašim orodjem zakonit?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je optimizirano za mobilno uporabo in uporabnikom omogoča prenos videoposnetkov Twitch na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem videoposnetke Twitch na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos široke palete videoposnetkov Twitch, vključno s tistimi različnih dolžin in formatov. ",
+          "question": "Ali obstajajo kakšne omejitve glede dolžine ali vrste videoposnetkov Twitch, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov Twitch, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti videoposnetke HD Twitch?"
+        },
+        "6": {
+          "answer": "Če imate kakršne koli težave, si oglejte razdelek s pogostimi vprašanji na spletnem mestu za nasvete za odpravljanje težav. ",
+          "question": "Kaj naj storim, če med uporabo vašega orodja naletim na težave?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa videoposnetkov Twitch za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": " Ali lahko z vašim orodjem prenesem videoposnetke Twitch za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi vsem spremembam platforme Twitch, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Prenesite Video Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos videoposnetkov Twitterja, prenosnik videoposnetkov Twitterja, shranjevanje videoposnetkov Twitterja, kako prenesti videoposnetke s Twitterja, prenos videa Twitterja prek spleta, brezplačen prenos videoposnetkov Twitterja, ohranjevalnik videoposnetkov Twitterja, prenos Twitterja brez vodnega žiga, zajem videoposnetkov Twitterja, prenos Twitterja v MP4",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Twitter",
+        "arialLabel": "Prilepite video povezave Twitter",
+        "btnArialLabel": "Prenesite kateri koli videoposnetek Twitter reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto kopirajte povezavo do videa na Twitterju in jo prilepite v naše orodje. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov s Twitterja?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje Twitterjeve pogoje storitve. ",
+          "question": "Ali je prenos videoposnetkov s Twitterja z vašim orodjem zakonit?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je optimizirano za mobilno uporabo in uporabnikom omogoča prenos videoposnetkov Twitterja na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem videoposnetke Twitterja na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora videoposnetkov Twitterja, vključno s tistimi različnih dolžin in formatov. ",
+          "question": "Ali obstajajo kakšne omejitve glede dolžine ali vrste videoposnetkov na Twitterju, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos videoposnetkov HD (visoka ločljivost) Twitter, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče s svojim orodjem prenesti HD videoposnetke s Twitterja?"
+        },
+        "6": {
+          "answer": "Če imate kakršne koli težave, si oglejte razdelek s pogostimi vprašanji na spletnem mestu za nasvete za odpravljanje težav. ",
+          "question": "Kaj naj storim, če med uporabo vašega orodja naletim na težave?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa videoposnetkov s Twitterja za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": " Ali lahko z vašim orodjem prenesem videoposnetke s Twitterja za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi kakršnim koli spremembam platforme Twitter, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Twitterja?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video s Twitterja"
+    },
+    "download-video-tiktok": {
+      "title": "Prenesite Video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos videoposnetkov TikTok, prenosnik videoposnetkov TikTok, Shranjevanje videoposnetkov TikTok, Kako prenesti videoposnetke iz TikToka, Prenos videa TikTok na spletu, Brezplačen prenos videoposnetkov TikTok, Ohranjevalnik videoposnetkov TikTok, Prenos TikTok brez vodnega žiga, TikTok video grabber, Prenos TikTok v MP4",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave tiktok",
+        "arialLabel": "Prilepite video povezave tiktok",
+        "btnArialLabel": "Prenesite kateri koli video tiktok gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto kopirajte video povezavo TikTok in jo prilepite v naše orodje. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov TikTok?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve TikTok. ",
+          "question": "Ali je prenos videoposnetkov TikTok z vašim orodjem zakonit?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je optimizirano za mobilno uporabo in uporabnikom omogoča prenos videoposnetkov TikTok na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem videoposnetke TikTok na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos široke palete videoposnetkov TikTok, vključno s tistimi različnih dolžin in formatov. ",
+          "question": "Ali obstajajo kakšne omejitve glede dolžine ali vrste videoposnetkov TikTok, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov TikTok, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti videoposnetke HD TikTok?"
+        },
+        "6": {
+          "answer": "Če imate kakršne koli težave, si oglejte razdelek s pogostimi vprašanji na spletnem mestu za nasvete za odpravljanje težav. ",
+          "question": "Kaj naj storim, če med uporabo vašega orodja naletim na težave?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa videoposnetkov TikTok za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": " Ali lahko z vašim orodjem prenesem videoposnetke TikTok za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi vsem spremembam platforme TikTok, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Prenesite Video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave instagram kolut",
+        "arialLabel": "Prilepite video povezave instagram kolut",
+        "btnArialLabel": "Prenesite kateri koli video instagram gumb za kolut"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite URL instagram videa v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov z instagrama?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve instagram. ",
+          "question": "Ali je zakonito prenašati videoposnetke z instagrama z vašim orodjem?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos instagram videoposnetkov na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem instagram videe na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora instagram videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": " Ali obstajajo kakšne omejitve glede dolžine ali vrste instagram videoposnetkov, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov iz instagrama, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti HD videoposnetke z instagrama?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov z Instagrama?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa instagram videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko z vašim orodjem prenesem videe z Instagrama za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme instagram, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Instagrama?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video iz instagrama"
+    },
+    "download-instagram-reel": {
+      "title": "Prenesite Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave instagram kolut",
+        "arialLabel": "Prilepite video povezave instagram kolut",
+        "btnArialLabel": "Prenesite kateri koli video instagram gumb za kolut"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite URL instagram videa v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov z instagrama?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve instagram. ",
+          "question": "Ali je zakonito prenašati videoposnetke z instagrama z vašim orodjem?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos instagram videoposnetkov na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem instagram videe na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora instagram videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": " Ali obstajajo kakšne omejitve glede dolžine ali vrste instagram videoposnetkov, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov iz instagrama, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti HD videoposnetke z instagrama?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov z Instagrama?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa instagram videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko z vašim orodjem prenesem videe z Instagrama za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme instagram, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Instagrama?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti instagram video v mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Prenesite video instagram v mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave instagram kolut",
+        "arialLabel": "Prilepite video povezave instagram kolut",
+        "btnArialLabel": "Prenesite kateri koli video instagram gumb za kolut"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite URL instagram videa v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov z instagrama?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve instagram. ",
+          "question": "Ali je zakonito prenašati videoposnetke z instagrama z vašim orodjem?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos instagram videoposnetkov na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem instagram videe na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora instagram videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": " Ali obstajajo kakšne omejitve glede dolžine ali vrste instagram videoposnetkov, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos HD (visoke ločljivosti) videoposnetkov iz instagrama, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti HD videoposnetke z instagrama?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov z Instagrama?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa instagram videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko z vašim orodjem prenesem videe z Instagrama za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme instagram, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Instagrama?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video instagram v mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Prenesite Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenesite Facebook Reel, prenosnik Facebook Reel, Shranite videoposnetek Facebook Reel, Kako prenesti Reels na Facebooku, Prenos Facebook Reel prek spleta, Brezplačen prenos Facebook Reel, Ohranjevalnik videoposnetkov Facebook Reel, Prenos Reels s Facebooka, Grabnik videoposnetkov Facebook Reel, Prenos Facebook Reel brez povezave",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave na facebook kolut",
+        "arialLabel": "Prilepite video povezave na facebook kolut",
+        "btnArialLabel": "Prenesite kateri koli videoposnetek z gumbom Facebook Reel"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite Facebook video URL v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov s Facebooka?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve Facebook. ",
+          "question": "Ali je zakonito prenašati videoposnetke s Facebooka z vašim orodjem?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos videoposnetkov s Facebooka na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko s svojim orodjem prenesem Facebook videoposnetke na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora Facebook videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": " Ali obstajajo kakšne omejitve glede dolžine ali vrste Facebook videoposnetkov, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos videoposnetkov HD (visoke ločljivosti) s Facebooka, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče s svojim orodjem prenesti HD videoposnetke s Facebooka?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov s Facebooka?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa Facebook videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko s svojim orodjem prenesem Facebook videoposnetke za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme Facebook, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti facebook video v mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Pretvornik Facebook v MP4",
+      "datePublished": "2021-10-01",
+      "keywords": "Pretvornik Facebook v MP4, Pretvori Facebook v MP4, Facebook video v MP4, Facebook MP4 prenos, Spletni Facebook v MP4, Brezplačni Facebook v MP4, Facebook video pretvornik, Shrani Facebook video kot MP4, Prenesi Facebook v MP4, Facebook MP4 spletni pretvornik",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave facebook",
+        "arialLabel": "Prilepite video povezave facebook",
+        "btnArialLabel": "Prenesite kateri koli video gumb Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite URL videoposnetka Facebook Reel v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos Facebook Reels?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve Facebook. ",
+          "question": "Ali je prenos Facebook Reels z vašim orodjem zakonit?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos videoposnetkov s Facebooka na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko z vašim orodjem prenesem Facebook Reels na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora Facebook videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": "Ali obstajajo kakšne omejitve glede dolžine ali vrste Facebook Reels, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos videoposnetkov HD (visoke ločljivosti) s Facebooka, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče z vašim orodjem prenesti HD Facebook Reels?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov s Facebooka?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa Facebook videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko z vašim orodjem prenesem Facebook Reels za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme Facebook, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti facebook video v mp4"
+    },
+    "download-video-facebook": {
+      "title": "Prenesite video s Facebooka",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos videoposnetkov s Facebooka, prenosnik videoposnetkov s Facebooka, shranjevanje videoposnetkov s Facebooka, kako prenesti videoposnetke s Facebooka, prenos videoposnetkov s Facebooka na spletu, brezplačen prenos videoposnetkov s Facebooka, ohranjevalnik videoposnetkov s Facebooka, prenos zasebnih videoposnetkov s Facebooka, prenos HD videoposnetkov s Facebooka, prenos s Facebooka v MP4, prenos videa ",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave facebook",
+        "arialLabel": "Prilepite video povezave facebook",
+        "btnArialLabel": "Prenesite kateri koli video gumb Facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Preprosto prilepite Facebook video URL v naše orodje in vodilo vas bo skozi postopek prenosa. ",
+          "question": "Kako uporabim vaše orodje za prenos videoposnetkov s Facebooka?"
+        },
+        "2": {
+          "answer": "Naše orodje je zasnovano tako, da spoštuje pogoje storitve Facebook. ",
+          "question": "Ali je zakonito prenašati videoposnetke s Facebooka z vašim orodjem?"
+        },
+        "3": {
+          "answer": "Da, naše orodje je mobilnim napravam prijazno in uporabnikom omogoča prenos videoposnetkov s Facebooka na različne naprave, vključno s pametnimi telefoni in tablicami.",
+          "question": "Ali lahko s svojim orodjem prenesem Facebook videoposnetke na mobilne naprave?"
+        },
+        "4": {
+          "answer": "Naše orodje podpira prenos širokega nabora Facebook videoposnetkov, vključno s tistimi različnih dolžin in formatov. ",
+          "question": " Ali obstajajo kakšne omejitve glede dolžine ali vrste Facebook videoposnetkov, ki jih je mogoče prenesti?"
+        },
+        "5": {
+          "answer": "Da, naše orodje podpira prenos videoposnetkov HD (visoke ločljivosti) s Facebooka, kar uporabnikom omogoča, da uživajo v vsebini višje kakovosti.",
+          "question": "Ali je mogoče s svojim orodjem prenesti HD videoposnetke s Facebooka?"
+        },
+        "6": {
+          "answer": "Varnost jemljemo resno. ",
+          "question": "Ali obstajajo tveganja, povezana z uporabo vašega orodja za prenos videoposnetkov s Facebooka?"
+        },
+        "7": {
+          "answer": "Da, naše orodje ponuja možnost prenosa Facebook videoposnetkov za ogled brez povezave, kar uporabnikom omogoča uživanje v vsebini tudi brez internetne povezave.",
+          "question": "Ali lahko s svojim orodjem prenesem Facebook videoposnetke za ogled brez povezave?"
+        },
+        "8": {
+          "answer": "Naše orodje redno posodabljamo, da se prilagodi morebitnim spremembam platforme Facebook, s čimer zagotavljamo stalno združljivost in brezhibno uporabniško izkušnjo.",
+          "question": "Kako pogosto se posodablja vaše orodje, da se zagotovi združljivost s spremembami Facebooka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti video s facebooka"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos videa YouTube, Prenos videoposnetkov YouTube, Prenosnik YouTube, Shranjevanje videoposnetkov YouTube, Kako prenesti videoposnetke z YouTuba, Prenos videoposnetkov YouTube na spletu, Prenos HD videoposnetkov z YouTuba, Ohranjevalnik videoposnetkov YouTube, Zajem videoposnetkov YouTube, Brezplačen prenos videoposnetkov YouTube",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Youtube",
+        "arialLabel": "Prilepite video povezave Youtube",
+        "btnArialLabel": "Gumb za prenos katerega koli videa na YouTubu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Uporabite lahko ta spletna orodja ali programsko opremo, zasnovano za prenos videoposnetkov YouTube. ",
+          "question": "Kako prenesem videoposnetke YouTube?"
+        },
+        "2": {
+          "answer": "Prenos videoposnetkov YouTube brez dovoljenja lahko krši pogoje storitve YouTube. ",
+          "question": "Ali je prenos videoposnetkov iz YouTuba zakonit?"
+        },
+        "3": {
+          "answer": "Da, različne spletne storitve ponujajo prenos videoposnetkov YouTube. ",
+          "question": "Ali obstajajo spletne storitve za prenos videoposnetkov YouTube?"
+        },
+        "4": {
+          "answer": "Da, obstajajo mobilne aplikacije in spletna mesta, ki vam omogočajo prenos videoposnetkov YouTube neposredno v vašo mobilno napravo za ogled brez povezave.",
+          "question": "Ali lahko prenesem videoposnetke YouTube na mobilne naprave?"
+        },
+        "5": {
+          "answer": "Običajno podprti formati vključujejo MP",
+          "question": "Kateri video formati so podprti za prenesene videoposnetke YouTube?"
+        },
+        "6": {
+          "answer": "Da, priporočamo, da pridobite dovoljenje ustvarjalca vsebine ali preverite informacije o licenciranju videoposnetka, preden ga prenesete in uporabite.",
+          "question": "Ali potrebujem dovoljenje za prenos in uporabo videoposnetkov YouTube?"
+        },
+        "7": {
+          "answer": "YouTubovi pogoji storitve prepovedujejo nepooblaščeno prenašanje videoposnetkov. ",
+          "question": "Ali obstajajo kakšne omejitve pri prenosu vsebine YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube ponuja zakonit način za prenos videoposnetkov za ogled brez povezave prek njihove aplikacije. ",
+          "question": "Ali lahko prenesem videoposnetke YouTube za ogled brez povezave?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti youtube video iz spleta"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube v MP3 pretvornik",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube v MP3, Pretvori YouTube v MP3, YouTube pretvornik MP3, YouTube prenos zvoka, YouTube v MP3 na spletu, Brezplačni YouTube v MP3, YouTube v MP3 pretvornik na spletu, Pretvori YouTube video v MP3, YouTube zvok pretvornik, Prenesi YouTube zvok",
+      "description": "Youtube to MP3 Converter je hitra in varna programska oprema, ki omogoča neomejene prenose videa iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Youtube",
+        "arialLabel": "Prilepite video povezave Youtube",
+        "btnArialLabel": "Gumb za prenos katerega koli videoposnetka youtube mp3"
+      },
+      "faq": {
+        "1": {
+          "answer": "Uporabite lahko ta spletna orodja ali programsko opremo, zasnovano za prenos videoposnetkov YouTube. ",
+          "question": "Kako prenesem videoposnetke YouTube?"
+        },
+        "2": {
+          "answer": "Prenos videoposnetkov YouTube brez dovoljenja lahko krši pogoje storitve YouTube. ",
+          "question": "Ali je prenos videoposnetkov iz YouTuba zakonit?"
+        },
+        "3": {
+          "answer": "Da, različne spletne storitve ponujajo prenos videoposnetkov YouTube. ",
+          "question": "Ali obstajajo spletne storitve za prenos videoposnetkov YouTube?"
+        },
+        "4": {
+          "answer": "Da, obstajajo mobilne aplikacije in spletna mesta, ki vam omogočajo prenos videoposnetkov YouTube neposredno v vašo mobilno napravo za ogled brez povezave.",
+          "question": "Ali lahko prenesem videoposnetke YouTube na mobilne naprave?"
+        },
+        "5": {
+          "answer": "Običajno podprti formati vključujejo MP",
+          "question": "Kateri video formati so podprti za prenesene videoposnetke YouTube?"
+        },
+        "6": {
+          "answer": "Da, priporočamo, da pridobite dovoljenje ustvarjalca vsebine ali preverite informacije o licenciranju videoposnetka, preden ga prenesete in uporabite.",
+          "question": "Ali potrebujem dovoljenje za prenos in uporabo videoposnetkov YouTube?"
+        },
+        "7": {
+          "answer": "YouTubovi pogoji storitve prepovedujejo nepooblaščeno prenašanje videoposnetkov. ",
+          "question": "Ali obstajajo kakšne omejitve pri prenosu vsebine YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube ponuja zakonit način za prenos videoposnetkov za ogled brez povezave prek njihove aplikacije. ",
+          "question": "Ali lahko prenesem videoposnetke YouTube za ogled brez povezave?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti Youtube v MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube v MP4 pretvornik",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube v MP4, Pretvori YouTube v MP4, YouTube pretvornik MP4, YouTube prenos zvoka, YouTube v MP4 na spletu, Brezplačen YouTube v MP4, YouTube v MP4 pretvornik na spletu, Pretvori YouTube video v MP4, YouTube zvok pretvornik, Prenesi YouTube zvok",
+      "description": "Youtube to MP4 Converter je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Youtube",
+        "arialLabel": "Prilepite video povezave Youtube",
+        "btnArialLabel": "Prenesite kateri koli videoposnetek youtube MP4 gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Uporabite lahko ta spletna orodja ali programsko opremo, zasnovano za prenos videoposnetkov YouTube. ",
+          "question": "Kako prenesem videoposnetke YouTube?"
+        },
+        "2": {
+          "answer": "Prenos videoposnetkov YouTube brez dovoljenja lahko krši pogoje storitve YouTube. ",
+          "question": "Ali je prenos videoposnetkov iz YouTuba zakonit?"
+        },
+        "3": {
+          "answer": "Da, različne spletne storitve ponujajo prenos videoposnetkov YouTube. ",
+          "question": "Ali obstajajo spletne storitve za prenos videoposnetkov YouTube?"
+        },
+        "4": {
+          "answer": "Da, obstajajo mobilne aplikacije in spletna mesta, ki vam omogočajo prenos videoposnetkov YouTube neposredno v vašo mobilno napravo za ogled brez povezave.",
+          "question": "Ali lahko prenesem videoposnetke YouTube na mobilne naprave?"
+        },
+        "5": {
+          "answer": "Običajno podprti formati vključujejo MP",
+          "question": "Kateri video formati so podprti za prenesene videoposnetke YouTube?"
+        },
+        "6": {
+          "answer": "Da, priporočamo, da pridobite dovoljenje ustvarjalca vsebine ali preverite informacije o licenciranju videoposnetka, preden ga prenesete in uporabite.",
+          "question": "Ali potrebujem dovoljenje za prenos in uporabo videoposnetkov YouTube?"
+        },
+        "7": {
+          "answer": "YouTubovi pogoji storitve prepovedujejo nepooblaščeno prenašanje videoposnetkov. ",
+          "question": "Ali obstajajo kakšne omejitve pri prenosu vsebine YouTube?"
+        },
+        "8": {
+          "answer": "Da, YouTube ponuja zakonit način za prenos videoposnetkov za ogled brez povezave prek njihove aplikacije. ",
+          "question": "Ali lahko prenesem videoposnetke YouTube za ogled brez povezave?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti Youtube v MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Prenos kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov YouTube, shranjevanje kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov iz YouTuba, prenos kratkega videoposnetka iz YouTuba, kako shraniti kratke videoposnetke v YouTubu, prenos kratkih videoposnetkov v YouTubu, prenos kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov YouTube brez povezave, brezplačen prenos kratkih videoposnetkov YouTube",
+      "description": "Youtube Shorts Downloader je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "form": {
+        "placeholder": "Prilepite video povezave Youtube Short",
+        "arialLabel": "Prilepite video povezave Youtube Short",
+        "btnArialLabel": "Kratek gumb za prenos katerega koli videa v YouTubu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Od moje zadnje posodobitve januarja 2022 so kratki videoposnetki YouTube Shorts namenjeni predvsem gledanju kratke oblike v mobilnih napravah in morda nimajo možnosti neposrednega prenosa. ",
+          "question": "Kako prenesem YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Prenos YouTube Shorts brez ustreznega dovoljenja lahko krši YouTubove pogoje storitve. ",
+          "question": "Ali je prenos YouTube Shorts zakonit?"
+        },
+        "3": {
+          "answer": "Da, različne spletne storitve ponujajo prenos videoposnetkov YouTube. ",
+          "question": "Ali lahko YouTube Shorts prenesem na mobilne naprave?"
+        },
+        "4": {
+          "answer": "YouTubovi pogoji storitve na splošno prepovedujejo nepooblaščeno prenašanje vsebine. ",
+          "question": "Ali obstajajo kakšne omejitve pri prenosu YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube ponuja možnosti v aplikaciji za skupno rabo kratkih videoposnetkov na različnih platformah. ",
+          "question": "Kako lahko zakonito shranim ali delim YouTube Shorts?"
+        },
+        "6": {
+          "answer": "Kratki videoposnetki YouTube Shorts so običajno zasnovani za spletno gledanje. ",
+          "question": "Ali lahko prenesem YouTube Shorts za ogled brez povezave?"
+        },
+        "7": {
+          "answer": "YouTubovi pogoji storitve prepovedujejo nepooblaščeno prenašanje videoposnetkov. ",
+          "question": "Ali obstajajo kakšne omejitve pri prenosu vsebine YouTube?"
+        },
+        "8": {
+          "answer": "Če naletite na težave z YouTube Shorts ali njegovimi funkcijami, se obrnite na podporo za YouTube ali preverite njihov center za pomoč za navodila glede poročanja o težavah.",
+          "question": "Kako lahko prijavim težave z YouTube Shorts ali njegovimi funkcijami za prenos?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako prenesti Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "prenesi video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "prenesite videoposnetke s Twitterja"
+    },
+    "general": {
+      "title": "Prenesite video na spletu",
+      "keywords": "Prenos videoposnetkov YouTube, Prenos videoposnetkov Instagram, Prenos videoposnetkov Facebook, Prenos videoposnetkov TikTok, Prenos videoposnetkov Twitch, Prenos videoposnetkov Twitter, Prenos videoposnetkov Pinterest, Prenos videoposnetkov družbenih medijev, Prenos spletnih videoposnetkov, Prenos videoposnetkov brezplačno",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online je hitra in varna programska oprema, ki omogoča neomejene prenose videoposnetkov iz interneta. ",
+      "faq": {
+        "1": {
+          "answer": "Da, to spletno mesto je brezplačno. ",
+          "question": "Je to spletno mesto brezplačno?"
+        },
+        "2": {
+          "answer": "Ne, prenos zgodb ni podprt.",
+          "question": "Ali lahko prenesem zgodbe?"
+        },
+        "3": {
+          "answer": "Ne, nudimo samo storitev prenosa video posnetkov.",
+          "question": "Ali lahko prenesem slike iz ?"
+        },
+        "4": {
+          "answer": "Da, to spletno mesto je varno. ",
+          "question": "Je to spletno mesto varno?"
+        },
+        "5": {
+          "answer": "Da, spletno stran lahko uporabljate z mobilnega telefona ali tablice.",
+          "question": "Ali lahko uporabljam spletno stran iz svojega mobilnega telefona?"
+        },
+        "6": {
+          "answer": "Če videoposnetek, ki ga želite prenesti, ni na voljo, poskusite znova pozneje.",
+          "question": "Kaj pa, če video, ki ga želim prenesti, ni na voljo?"
+        },
+        "7": {
+          "answer": "Ne, ne morete prenašati videoposnetkov iz zasebnih računov.",
+          "question": "Ali lahko prenesem videoposnetke iz zasebnih računov?"
+        },
+        "8": {
+          "answer": "Najboljši format za prenos videoposnetkov je MP4. ",
+          "question": "Kateri je najboljši format za prenos videoposnetkov?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "S prenosom tega videa se strinjate z",
+      "#2": "Brez vodnega žiga",
+      "#3": "HD kakovost",
+      "#4": "Hiter prenos",
+      "#5": "Enostavno urejanje",
+      "#6": "Kateri koli format",
+      "#7": "Kako prenesti videoposnetke {name}:",
+      "#8": "Prilepite kateri koli URL videoposnetka",
+      "#9": "Prilepite kateri koli URL videoposnetka v predvideno polje in pritisnite Prenos. ",
+      "#10": "Uredite ali prenesite",
+      "#11": "Videoposnetek lahko uredite z našo popolno zbirko orodij za urejanje videoposnetkov. ",
+      "#12": "Orodje za skupno rabo, prenos videa na spletu",
+      "#13": "Izvozite svoj video in ga delite!",
+      "#14": "Takojšnji prenos videa na spletu",
+      "#15": "Download Video Online Video posnetke lahko prenesete iz",
+      "#16": "v samo enem kliku! ",
+      "#17": "Download Video Online deluje neposredno iz mobilnega ali namiznega brskalnika ali mobilne aplikacije. ",
+      "#18": "Prenesite video iz spleta in odstranite vodni žig",
+      "#19": "Download Video Online vam omogoča prenos vsebine brez vodnih žigov, tako da jo lahko spremenite in delite kjer koli. ",
+      "#20": "Svojemu videoposnetku takoj dodajte glas",
+      "#21": "Če nimate časa ali sredstev za dodajanje glasovnih posnetkov, lahko uporabite programsko opremo Download Video Online za pretvorbo besedila v govor!  ",
+      "#22": "Z nekaj kliki ustvarite videoposnetke profesionalnega videza",
+      "#23": "Če ste streamer, obstaja velika verjetnost, da morate vzdrževati tudi druge kanale družbenih medijev.  ",
+      "#24": "Pogosto zastavljena vprašanja - FAQ",
+      "#25": "Prenesite z aplikacijo",
+      "#26": "Zdaj ponujamo aplikacijo za prenos videa. ",
+      "#27": "url aplikacije googleplay",
+      "#28": "url aplikacije apple",
+      "btnText": "Prenesi",
+      "btnLoadingText": "Pridobivanje"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Politika zasebnosti",
+      "#1": "Uvod",
+      "#2": "Ta pravilnik o zasebnosti obvešča uporabnike, da spletno mesto ({website_url}) ne zbira, shranjuje ali obdeluje nobenih osebnih podatkov. ",
+      "#3": "Upoštevajte, da je ta pravilnik zagotovljen v skladu z zakonskimi zahtevami, čeprav spletno mesto ali storitev ne zbira ali shranjuje osebnih podatkov.",
+      "#4": "Oglaševanje in analitika tretjih oseb",
+      "#5": "Za prikazovanje oglasov na spletnem mestu uporabljamo oglaševalske storitve tretjih oseb, kot je Google AdSense. ",
+      "#6": "Od prilagojenega oglaševanja se lahko odjavite tako, da obiščete",
+      "#7": "Nastavitve oglasov",
+      "#8": "ali z obiskom",
+      "#9": "Spremembe pravilnika o zasebnosti",
+      "#10": "Pridržujemo si pravico, da kadar koli posodobimo, spremenimo ali zamenjamo kateri koli del pravilnika z objavo posodobljenega pravilnika na spletnem mestu. ",
+      "#11": "Kontaktni podatki",
+      "#12": "Če imate kakršna koli vprašanja ali pomisleke glede tega pravilnika, se obrnite na lastnika spletnega mesta na",
+      "#13": "Sprejemanje politike zasebnosti",
+      "#14": "Z dostopom ali uporabo spletnega mesta ali storitve potrjujete, da ste prebrali, razumeli in se strinjate, da vas zavezujejo določila in pogoji tega pravilnika."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Pogoji storitve"
+    },
+    "dcma": {
+      "title": "Avtorske pravice (DMCA)",
+      "#1": "{name} spoštuje avtorske pravice vseh del in uporabnikom ne dovoljuje uporabe videoposnetkov drugih za kar koli, kar je v nasprotju s pogoji in določili zaščite avtorskih pravic. ",
+      "#2": "{name} je v skladu z Zakonom o avtorskih pravicah v digitalnem tisočletju (DMCA) in nemudoma onemogoči dostop do vsebine, ko je ustrezno obveščen.",
+      "#3": "Če želite vložiti obvestilo o kršitvi avtorskih pravic pri {name}, boste morali uporabiti e-pošto in nam poslati sporočilo, ki vsebuje večino informacij, ki jih zahteva in je navedeno v razdelku 512(c)(3) Zakona o elektronskih avtorskih pravicah.",
+      "#4": "Zahtevane informacije:",
+      "#5": "1. Predstavite se kot: a) lastnik avtorsko zaščitenega dela b) oseba, 'pooblaščena za delovanje v imenu lastnika izključne pravice, ki je domnevno kršena.' ",
+      "#6": "2. Identificirajte avtorsko zaščiteno delo, za katerega trdimo, da so bile kršene.",
+      "#7": "3. Identificirajte vsebino, za katero se trdi, da krši avtorske pravice ali da je predmet kršitvene dejavnosti in ki jo je treba začasno ustaviti ali dostop do katere je treba onemogočiti, kot tudi informacije, ki so razumno zadostne, da youtube4kdownloaderju omogočijo, da poišče vsebino. ",
+      "#8": "4. Navedite kontaktne podatke, ki so razumno zadostni, da lahko stopimo v stik z vami, kot so naslov, telefonska številka in veljaven e-poštni naslov.",
+      "#9": "5. Izjavite, da v dobri veri verjamete, da uporaba vsebine na način, ki je predmet pritožbe, ni dovoljena s strani lastnika avtorskih pravic, njegovih zastopnikov ali zakona.",
+      "#10": "6. Navedite, da so informacije v obvestilu točne in da je pritožnik pod kaznijo krive prisege pooblaščen, da deluje v imenu lastnika izključne pravice, ki je domnevno kršena.",
+      "#11": "Po prejemu veljavnega obvestila bomo v skladu z zakonodajo onemogočili dostop do avtorsko zaščitenih vsebin na našem spletnem mestu.",
+      "#12": "Če imate kakršna koli vprašanja, nas kontaktirajte na",
+      "#13": "ta obrazec"
+    },
+    "thankyou": {
+      "title": "Hvala, ker ste namestili Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API za prenos videa",
+      "#1": "API {website_url} ponuja preprosto in priročno metodo za pridobivanje medijskih datotek z najbolj priljubljenih spletnih mest in platform družbenih medijev. ",
+      "#2": "Za pridobitev dostopa ali več informacij nas kontaktirajte na "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontaktiraj nas",
+      "#1": "Če imate kakršna koli vprašanja, pritožbe ali zahtevke v zvezi z našimi storitvami, nam pošljite sporočilo na",
+      "#2": "Povratne informacije",
+      "#3": "E-naslov",
+      "#4": "Sporočilo",
+      "#5": "Predloži",
+      "#6": "E-pošta je bila uspešno poslana!"
+    }
+  }
+}

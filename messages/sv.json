@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Ändra språk",
+    "locale": "{locale, select, de {tyskt} en {engelska} annat {Okänt}}"
+  },
+  "Metadata": {
+    "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+    "keywords": "Ladda ner videor YouTube, ladda ner video Instagram, ladda ner video facebook, ladda ner videor TikTok, ladda ner videor Twitch, ladda ner videor Twitter, ladda ner videor Pinterest, ladda ner sociala mediavideor, ladda ner onlinevideor, ladda ner videor gratis",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Ladda ner video online"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Klistra in videolänkarna för Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Klistra in videolänkarna för Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Ladda ner valfri videoknapp",
+      "btnText": "Ladda ner",
+      "btnLoadingText": "Hämtar"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube nedladdare",
+    "#2": "Youtube-videonedladdningsverktyg",
+    "#3": "Youtube till MP3-konverterare",
+    "#4": "Youtube till MP4-konverterare",
+    "#5": "Youtube Shorts Downloader",
+    "#6": "Facebook Downloader",
+    "#7": "Ladda ner video på facebook",
+    "#8": "Facebook till MP4 Converter",
+    "#9": "Ladda ner Facebook Reel",
+    "#10": "Instagram-nedladdare",
+    "#11": "Ladda ner video Instagram",
+    "#12": "Ladda ner Instagram Reel",
+    "#13": "Instagram till mp4-konverterare",
+    "#14": "Annan nedladdare",
+    "#15": "Ladda ner video TikTok",
+    "#16": "Ladda ner video Twitter",
+    "#17": "Ladda ner video Twitch",
+    "#18": "Ladda ner video Twitch-klipp",
+    "#20": "Rättslig",
+    "#21": "Integritetspolicy",
+    "#22": "Användarvillkor",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blogg",
+    "#26": "Gå med oss!",
+    "#27": "Prenumerera",
+    "#28": "Alla rättigheter förbehållna."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Ladda ner video Twitch-klipp",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner Twitch-klipp ,Twitch-klippnedladdning ,Spara Twitch-klipp ,Hur man laddar ner klipp från Twitch ,Twitch-klippnedladdning online ,Gratis nedladdning av Twitch-klipp ,Spara Twitch-klipp ,Ladda ner Twitch-klipp utan vattenstämpel ,Twitch-klippklipp till MP4-nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Twitch Clip",
+        "arialLabel": "Klistra in videolänkarna Twitch Clip",
+        "btnArialLabel": "Ladda ner valfri video Twitch Clip-knapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopiera helt enkelt Twitch-videolänken och klistra in den i vårt verktyg. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner Twitch-videor?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera Twitchs användarvillkor. ",
+          "question": "Är det lagligt att ladda ner Twitch-videor med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är optimerat för mobil användning, vilket gör att användare kan ladda ner Twitch-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Twitch-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Twitch-videor, inklusive de med olika längder och format. ",
+          "question": "Finns det några begränsningar för längden eller typen av Twitch-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD (högupplöst) Twitch-videor, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD Twitch-videor med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Om du upplever några problem, vänligen kolla vårt avsnitt med vanliga frågor på webbplatsen för felsökningstips. ",
+          "question": "Vad ska jag göra om jag stöter på några problem när jag använder ditt verktyg?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Twitch-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": " Kan jag ladda ner Twitch-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Twitchs plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Twitchs ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Ladda ner video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner Twitch-videor, Twitch-videonedladdning, Spara Twitch-videor, Hur man laddar ner videor från Twitch, Twitch-klippnedladdning, Gratis nedladdning av Twitch-video, Twitch VOD-nedladdning, Ladda ner Twitch-höjdpunkter, Twitch-videograbber, Twitch till MP4-nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Twitch",
+        "arialLabel": "Klistra in videolänkarna Twitch",
+        "btnArialLabel": "Ladda ner valfri video Twitch-rulleknapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopiera helt enkelt Twitch-videolänken och klistra in den i vårt verktyg. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner Twitch-videor?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera Twitchs användarvillkor. ",
+          "question": "Är det lagligt att ladda ner Twitch-videor med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är optimerat för mobil användning, vilket gör att användare kan ladda ner Twitch-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Twitch-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Twitch-videor, inklusive de med olika längder och format. ",
+          "question": "Finns det några begränsningar för längden eller typen av Twitch-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD (högupplöst) Twitch-videor, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD Twitch-videor med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Om du upplever några problem, vänligen kolla vårt avsnitt med vanliga frågor på webbplatsen för felsökningstips. ",
+          "question": "Vad ska jag göra om jag stöter på några problem när jag använder ditt verktyg?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Twitch-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": " Kan jag ladda ner Twitch-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Twitchs plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Twitchs ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Ladda ner video Twitter",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner Twitter-videor ,Twitter-videonedladdningsverktyg ,Spara Twitter-videor ,Hur laddar man ned videor från Twitter ,Twitter-videonedladdning online ,Gratis Twitter-videonedladdning ,Twitter-videosparare ,Ladda ner Twitter utan vattenstämpel ,Twitter-videograbber ,Twitter till MP4-nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Twitter",
+        "arialLabel": "Klistra in videolänkarna Twitter",
+        "btnArialLabel": "Ladda ner valfri Twitter-rulleknapp för video"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopiera helt enkelt Twitter-videolänken och klistra in den i vårt verktyg. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner Twitter-videor?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera Twitters användarvillkor. ",
+          "question": "Är det lagligt att ladda ner Twitter-videor med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är optimerat för mobil användning, vilket gör att användare kan ladda ner Twitter-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Twitter-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Twitter-videor, inklusive de av olika längder och format. ",
+          "question": "Finns det några begränsningar för längden eller typen av Twitter-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD (högupplöst) Twitter-videor, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD Twitter-videor med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Om du upplever några problem, vänligen kolla vårt avsnitt med vanliga frågor på webbplatsen för felsökningstips. ",
+          "question": "Vad ska jag göra om jag stöter på några problem när jag använder ditt verktyg?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Twitter-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": " Kan jag ladda ner Twitter-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Twitters plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Twitters ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video på Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Ladda ner video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner TikTok-videor, TikTok-videonedladdning, Spara TikTok-videor, Hur man laddar ner videor från TikTok, TikTok-videonedladdning online, Gratis TikTok-videonedladdning, TikTok-videosparare, Ladda ner TikTok utan vattenstämpel, TikTok-videograbber till MP4, TikTok",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna tiktok",
+        "arialLabel": "Klistra in videolänkarna tiktok",
+        "btnArialLabel": "Ladda ner valfri video tiktok-rulleknapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Kopiera helt enkelt TikTok-videolänken och klistra in den i vårt verktyg. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner TikTok-videor?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera TikToks användarvillkor. ",
+          "question": "Är det lagligt att ladda ner TikTok-videor med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är optimerat för mobil användning, vilket tillåter användare att ladda ner TikTok-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner TikTok-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av TikTok-videor, inklusive de med olika längder och format. ",
+          "question": "Finns det några begränsningar för längden eller typen av TikTok-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD (högupplösning) TikTok-videor, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD TikTok-videor med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Om du upplever några problem, vänligen kolla vårt avsnitt med vanliga frågor på webbplatsen för felsökningstips. ",
+          "question": "Vad ska jag göra om jag stöter på några problem när jag använder ditt verktyg?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner TikTok-videor för offlinevisning, vilket gör att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": " Kan jag ladda ner TikTok-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i TikToks plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med TikToks ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Ladda ner video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna instagram rulle",
+        "arialLabel": "Klistra in videolänkarna instagram rulle",
+        "btnArialLabel": "Ladda ner valfri video instagram rulleknapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in instagramvideons URL i vårt verktyg, så kommer den att guida dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner videor från instagram?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för instagram. ",
+          "question": "Är det lagligt att ladda ner videor från instagram med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner instagramvideor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner instagramvideor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av instagramvideor, inklusive de med olika längder och format. ",
+          "question": " Finns det några begränsningar för längden eller typen av instagramvideor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från instagram, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD-videor från instagram med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner instagramvideor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner instagramvideor för offlinevisning, vilket gör att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner instagramvideor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i instagrams plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med instagrams ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Ladda ner Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna instagram rulle",
+        "arialLabel": "Klistra in videolänkarna instagram rulle",
+        "btnArialLabel": "Ladda ner valfri video instagram rulleknapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in instagramvideons URL i vårt verktyg, så kommer den att guida dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner videor från instagram?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för instagram. ",
+          "question": "Är det lagligt att ladda ner videor från instagram med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner instagramvideor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner instagramvideor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av instagramvideor, inklusive de med olika längder och format. ",
+          "question": " Finns det några begränsningar för längden eller typen av instagramvideor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från instagram, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD-videor från instagram med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner instagramvideor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner instagramvideor för offlinevisning, vilket gör att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner instagramvideor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i instagrams plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med instagrams ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner instagram video till mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Ladda ner video instagram till mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna instagram rulle",
+        "arialLabel": "Klistra in videolänkarna instagram rulle",
+        "btnArialLabel": "Ladda ner valfri video instagram rulleknapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in instagramvideons URL i vårt verktyg, så kommer den att guida dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner videor från instagram?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för instagram. ",
+          "question": "Är det lagligt att ladda ner videor från instagram med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner instagramvideor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner instagramvideor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av instagramvideor, inklusive de med olika längder och format. ",
+          "question": " Finns det några begränsningar för längden eller typen av instagramvideor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från instagram, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD-videor från instagram med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner instagramvideor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner instagramvideor för offlinevisning, vilket gör att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner instagramvideor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i instagrams plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med instagrams ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video instagram till mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Ladda ner Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner Facebook Reel ,Facebook Reel downloader ,Spara Facebook Reel video ,Hur man laddar ner Reels på Facebook ,Facebook Reel nedladdning online ,Gratis Facebook Reel nedladdning ,Facebook Reel video saver ,Ladda ner Reels från Facebook ,Facebook Reel videograbber ,Facebook Reel offline nedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna på facebook-rullen",
+        "arialLabel": "Klistra in videolänkarna på facebook-rullen",
+        "btnArialLabel": "Ladda ner valfri videoknapp på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in Facebook-videons URL i vårt verktyg, så kommer den att guida dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner videor från Facebook?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för Facebook. ",
+          "question": "Är det lagligt att ladda ner videor från Facebook med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner Facebook-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Facebook-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Facebook-videor, inklusive de med olika längder och format. ",
+          "question": " Finns det några begränsningar för längden eller typen av Facebook-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från Facebook, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD-videor från Facebook med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner Facebook-videor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Facebook-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner Facebook-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Facebooks plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Facebooks ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner Facebook-video till mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook till MP4 Converter",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook till MP4-konverterare, Konvertera Facebook till MP4, Facebook-video till MP4, Facebook MP4-nedladdning, Online Facebook till MP4, Gratis Facebook till MP4, Facebook-videokonverterare, Spara Facebook-video som MP4, Ladda ner Facebook i MP4, Facebook MP4-konverterare online",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna facebook",
+        "arialLabel": "Klistra in videolänkarna facebook",
+        "btnArialLabel": "Ladda ner valfri videoknapp på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in Facebook Reel-videoadressen i vårt verktyg så guidar den dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner Facebook Reels?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för Facebook. ",
+          "question": "Är det lagligt att ladda ner Facebook Reels med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner Facebook-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Facebook Reels på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Facebook-videor, inklusive de med olika längder och format. ",
+          "question": "Finns det några begränsningar för längden eller typen av Facebook-rullar som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från Facebook, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD Facebook Reels med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner Facebook-videor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Facebook-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner Facebook Reels för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Facebooks plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Facebooks ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner Facebook-video till mp4"
+    },
+    "download-video-facebook": {
+      "title": "Ladda ner video Facebook",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner Facebook-videor ,Facebook-videonedladdning ,Spara Facebook-videor ,Hur man laddar ner videor från Facebook ,Facebook-videonedladdning online ,Gratis Facebook-videonedladdning ,Facebook-videosparare ,Ladda ner privata Facebook-videor ,HD Facebook-videonedladdning ,Facebook till MP4-nedladdning, ladda ner video ",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna facebook",
+        "arialLabel": "Klistra in videolänkarna facebook",
+        "btnArialLabel": "Ladda ner valfri videoknapp på facebook"
+      },
+      "faq": {
+        "1": {
+          "answer": "Klistra bara in Facebook-videons URL i vårt verktyg, så kommer den att guida dig genom nedladdningsprocessen. ",
+          "question": "Hur använder jag ditt verktyg för att ladda ner videor från Facebook?"
+        },
+        "2": {
+          "answer": "Vårt verktyg är utformat för att respektera användarvillkoren för Facebook. ",
+          "question": "Är det lagligt att ladda ner videor från Facebook med ditt verktyg?"
+        },
+        "3": {
+          "answer": "Ja, vårt verktyg är mobilvänligt, vilket gör att användare kan ladda ner Facebook-videor på olika enheter, inklusive smartphones och surfplattor.",
+          "question": "Kan jag ladda ner Facebook-videor på mobila enheter med ditt verktyg?"
+        },
+        "4": {
+          "answer": "Vårt verktyg stöder nedladdning av ett brett utbud av Facebook-videor, inklusive de med olika längder och format. ",
+          "question": " Finns det några begränsningar för längden eller typen av Facebook-videor som kan laddas ner?"
+        },
+        "5": {
+          "answer": "Ja, vårt verktyg stöder nedladdning av HD-videor (högupplösning) från Facebook, vilket ger användarna möjlighet att njuta av innehåll av högre kvalitet.",
+          "question": "Är det möjligt att ladda ner HD-videor från Facebook med ditt verktyg?"
+        },
+        "6": {
+          "answer": "Vi tar säkerheten på allvar. ",
+          "question": "Finns det några risker med att använda ditt verktyg för att ladda ner Facebook-videor?"
+        },
+        "7": {
+          "answer": "Ja, vårt verktyg ger möjlighet att ladda ner Facebook-videor för offlinevisning, så att användare kan njuta av innehåll även utan internetanslutning.",
+          "question": "Kan jag ladda ner Facebook-videor för offlinevisning med ditt verktyg?"
+        },
+        "8": {
+          "answer": "Vi uppdaterar regelbundet vårt verktyg för att anpassa oss till eventuella förändringar i Facebooks plattform, vilket säkerställer fortsatt kompatibilitet och en sömlös användarupplevelse.",
+          "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Facebooks ändringar?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner video på facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube-videonedladdningsverktyg",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube-videonedladdning, Ladda ner YouTube-videor, YouTube-nedladdare, Spara YouTube-videor, Hur man laddar ner videor från YouTube, YouTube-videonedladdning online, Ladda ner HD-videor från YouTube, YouTube-videosparare, YouTube-videoklippare, Gratis YouTube-videonedladdning",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Youtube",
+        "arialLabel": "Klistra in videolänkarna Youtube",
+        "btnArialLabel": "Ladda ner valfri video youtube-knapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan använda dessa onlineverktyg eller programvara utformad för att ladda ner YouTube-videor. ",
+          "question": "Hur laddar jag ner YouTube-videor?"
+        },
+        "2": {
+          "answer": "Att ladda ner YouTube-videor utan tillstånd kan bryta mot YouTubes användarvillkor. ",
+          "question": "Är det lagligt att ladda ner videor från YouTube?"
+        },
+        "3": {
+          "answer": "Ja, olika onlinetjänster erbjuder YouTube-videonedladdningar. ",
+          "question": "Finns det onlinetjänster för att ladda ner YouTube-videor?"
+        },
+        "4": {
+          "answer": "Ja, det finns mobilappar och webbplatser som låter dig ladda ner YouTube-videor direkt till din mobila enhet för offlinevisning.",
+          "question": "Kan jag ladda ner YouTube-videor på mobila enheter?"
+        },
+        "5": {
+          "answer": "Vanligtvis stödda format inkluderar MP",
+          "question": "Vilka videoformat stöds för nedladdade YouTube-videor?"
+        },
+        "6": {
+          "answer": "Ja, det rekommenderas att få tillstånd från innehållsskaparen eller kontrollera videons licensinformation innan du laddar ner och använder den.",
+          "question": "Behöver jag tillstånd för att ladda ner och använda YouTube-videor?"
+        },
+        "7": {
+          "answer": "YouTubes användarvillkor förbjuder otillåten nedladdning av videor. ",
+          "question": "Finns det några begränsningar för nedladdning av YouTube-innehåll?"
+        },
+        "8": {
+          "answer": "Ja, YouTube erbjuder ett lagligt sätt att ladda ner videor för offlinevisning via sin app. ",
+          "question": "Kan jag ladda ner YouTube-videor för offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner YouTube-video online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube till MP3-konverterare",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube till MP3, Konvertera YouTube till MP3, YouTube MP3-konverterare, YouTube-ljudnedladdning, YouTube till MP3 online, Gratis YouTube till MP3, YouTube till MP3-konverterare online, Konvertera YouTube-video till MP3, YouTube-ljudkonverterare, Ladda ner YouTube-ljud",
+      "description": "Youtube to MP3 Converter är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Youtube",
+        "arialLabel": "Klistra in videolänkarna Youtube",
+        "btnArialLabel": "Ladda ner valfri video youtube mp3-knapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan använda dessa onlineverktyg eller programvara utformad för att ladda ner YouTube-videor. ",
+          "question": "Hur laddar jag ner YouTube-videor?"
+        },
+        "2": {
+          "answer": "Att ladda ner YouTube-videor utan tillstånd kan bryta mot YouTubes användarvillkor. ",
+          "question": "Är det lagligt att ladda ner videor från YouTube?"
+        },
+        "3": {
+          "answer": "Ja, olika onlinetjänster erbjuder YouTube-videonedladdningar. ",
+          "question": "Finns det onlinetjänster för att ladda ner YouTube-videor?"
+        },
+        "4": {
+          "answer": "Ja, det finns mobilappar och webbplatser som låter dig ladda ner YouTube-videor direkt till din mobila enhet för offlinevisning.",
+          "question": "Kan jag ladda ner YouTube-videor på mobila enheter?"
+        },
+        "5": {
+          "answer": "Vanligtvis stödda format inkluderar MP",
+          "question": "Vilka videoformat stöds för nedladdade YouTube-videor?"
+        },
+        "6": {
+          "answer": "Ja, det rekommenderas att få tillstånd från innehållsskaparen eller kontrollera videons licensinformation innan du laddar ner och använder den.",
+          "question": "Behöver jag tillstånd för att ladda ner och använda YouTube-videor?"
+        },
+        "7": {
+          "answer": "YouTubes användarvillkor förbjuder otillåten nedladdning av videor. ",
+          "question": "Finns det några begränsningar för nedladdning av YouTube-innehåll?"
+        },
+        "8": {
+          "answer": "Ja, YouTube erbjuder ett lagligt sätt att ladda ner videor för offlinevisning via sin app. ",
+          "question": "Kan jag ladda ner YouTube-videor för offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner YouTube till MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube till MP4-konverterare",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube till MP4, Konvertera YouTube till MP4, YouTube MP4-konverterare, YouTube-ljudnedladdning, YouTube till MP4 online, Gratis YouTube till MP4, YouTube till MP4-konverterare online, Konvertera YouTube-video till MP4, YouTube-ljudkonverterare, Ladda ner YouTube-ljud",
+      "description": "Youtube till MP4 Converter är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Youtube",
+        "arialLabel": "Klistra in videolänkarna Youtube",
+        "btnArialLabel": "Ladda ner valfri video youtube MP4-knapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Du kan använda dessa onlineverktyg eller programvara utformad för att ladda ner YouTube-videor. ",
+          "question": "Hur laddar jag ner YouTube-videor?"
+        },
+        "2": {
+          "answer": "Att ladda ner YouTube-videor utan tillstånd kan bryta mot YouTubes användarvillkor. ",
+          "question": "Är det lagligt att ladda ner videor från YouTube?"
+        },
+        "3": {
+          "answer": "Ja, olika onlinetjänster erbjuder YouTube-videonedladdningar. ",
+          "question": "Finns det onlinetjänster för att ladda ner YouTube-videor?"
+        },
+        "4": {
+          "answer": "Ja, det finns mobilappar och webbplatser som låter dig ladda ner YouTube-videor direkt till din mobila enhet för offlinevisning.",
+          "question": "Kan jag ladda ner YouTube-videor på mobila enheter?"
+        },
+        "5": {
+          "answer": "Vanligtvis stödda format inkluderar MP",
+          "question": "Vilka videoformat stöds för nedladdade YouTube-videor?"
+        },
+        "6": {
+          "answer": "Ja, det rekommenderas att få tillstånd från innehållsskaparen eller kontrollera videons licensinformation innan du laddar ner och använder den.",
+          "question": "Behöver jag tillstånd för att ladda ner och använda YouTube-videor?"
+        },
+        "7": {
+          "answer": "YouTubes användarvillkor förbjuder otillåten nedladdning av videor. ",
+          "question": "Finns det några begränsningar för nedladdning av YouTube-innehåll?"
+        },
+        "8": {
+          "answer": "Ja, YouTube erbjuder ett lagligt sätt att ladda ner videor för offlinevisning via sin app. ",
+          "question": "Kan jag ladda ner YouTube-videor för offlinevisning?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner Youtube till MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Ladda ner YouTube Shorts ,YouTube Shorts nedladdning ,Spara YouTube Shorts ,Ladda ner Shorts från YouTube ,YouTube kort videonedladdning ,Hur man sparar YouTube Shorts ,Ladda ner Shorts på YouTube ,YouTube Shorts nedladdningsbara YouTube Shorts offline nedladdning,Gratis nedladdning YouTube Shorts",
+      "description": "Youtube Shorts Downloader är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "form": {
+        "placeholder": "Klistra in videolänkarna Youtube Short",
+        "arialLabel": "Klistra in videolänkarna Youtube Short",
+        "btnArialLabel": "Ladda ner valfri video youtube kort knapp"
+      },
+      "faq": {
+        "1": {
+          "answer": "Från och med min senaste uppdatering i januari 2022 är YouTube Shorts i första hand avsedda för korta mobilvisningar och kanske inte har ett direkt nedladdningsalternativ. ",
+          "question": "Hur laddar jag ned YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Att ladda ner YouTube Shorts utan lämplig auktorisation kan bryta mot YouTubes användarvillkor. ",
+          "question": "Är det lagligt att ladda ner YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Ja, olika onlinetjänster erbjuder YouTube-videonedladdningar. ",
+          "question": "Kan jag ladda ner YouTube Shorts på mobila enheter?"
+        },
+        "4": {
+          "answer": "YouTubes användarvillkor förbjuder i allmänhet otillåten nedladdning av innehåll. ",
+          "question": "Finns det några begränsningar för nedladdning av YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube erbjuder alternativ i appen för att dela Shorts på olika plattformar. ",
+          "question": "Hur kan jag lagligt spara eller dela YouTube Shorts?"
+        },
+        "6": {
+          "answer": "YouTube Shorts är vanligtvis utformade för visning online. ",
+          "question": "Kan jag ladda ner YouTube Shorts för offlinevisning?"
+        },
+        "7": {
+          "answer": "YouTubes användarvillkor förbjuder otillåten nedladdning av videor. ",
+          "question": "Finns det några begränsningar för nedladdning av YouTube-innehåll?"
+        },
+        "8": {
+          "answer": "Om du stöter på problem med YouTube Shorts eller dess funktioner, kontakta YouTubes support eller kolla deras hjälpcenter för vägledning om rapporteringsproblem.",
+          "question": "Hur kan jag rapportera problem med YouTube Shorts eller dess nedladdningsfunktioner?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Hur man laddar ner Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "ladda ner video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "ladda ner twitter-videor"
+    },
+    "general": {
+      "title": "Ladda ner video online",
+      "keywords": "Ladda ner videor YouTube, ladda ner video Instagram, ladda ner video facebook, ladda ner videor TikTok, ladda ner videor Twitch, ladda ner videor Twitter, ladda ner videor Pinterest, ladda ner sociala mediavideor, ladda ner onlinevideor, ladda ner videor gratis",
+      "datePublished": "2021-10-01",
+      "description": "Ladda ner video Online är en snabb och säker programvara som tillåter obegränsade videonedladdningar från internet. ",
+      "faq": {
+        "1": {
+          "answer": "Ja, den här webbplatsen är gratis. ",
+          "question": "Är denna webbplats gratis?"
+        },
+        "2": {
+          "answer": "Nej, nedladdning av berättelser stöds inte.",
+          "question": "Kan jag ladda ner berättelser?"
+        },
+        "3": {
+          "answer": "Nej, vi tillhandahåller bara tjänsten att ladda ner videor.",
+          "question": "Kan jag ladda ner bilder från ?"
+        },
+        "4": {
+          "answer": "Ja, den här webbplatsen är säker. ",
+          "question": "Är denna webbplats säker?"
+        },
+        "5": {
+          "answer": "Ja, du kan använda webbplatsen från din mobil eller surfplatta.",
+          "question": "Kan jag använda webbplatsen från min mobil?"
+        },
+        "6": {
+          "answer": "Om videon du vill ladda ner inte är tillgänglig, försök igen senare.",
+          "question": "Vad händer om videon jag vill ladda ner inte är tillgänglig?"
+        },
+        "7": {
+          "answer": "Nej, du kan inte ladda ner videor från privata konton.",
+          "question": "Kan jag ladda ner videor från privata konton?"
+        },
+        "8": {
+          "answer": "Det bästa formatet att ladda ner videor i är MP4. ",
+          "question": "Vilket är det bästa formatet att ladda ner videor i?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Genom att ladda ner den här videon godkänner du",
+      "#2": "Ingen vattenstämpel",
+      "#3": "HD-kvalitet",
+      "#4": "Snabb nedladdning",
+      "#5": "Lätt redigerbar",
+      "#6": "Vilket format som helst",
+      "#7": "Hur man laddar ner videor {name}:",
+      "#8": "Klistra in en valfri video-URL",
+      "#9": "Klistra in en valfri video-URL i fältet och tryck på Ladda ner. ",
+      "#10": "Redigera eller ladda ner",
+      "#11": "Du har möjlighet att redigera din video med vår kompletta uppsättning videoredigeringsverktyg. ",
+      "#12": "Dela verktyg ladda ner video online",
+      "#13": "Exportera din video och dela!",
+      "#14": "Omedelbar nedladdning av video online",
+      "#15": "Ladda ner video online Du kan ladda ner videoklipp från",
+      "#16": "med bara ett klick! ",
+      "#17": "Ladda ner video online fungerar direkt från din mobila eller stationära webbläsare eller mobilapp. ",
+      "#18": "Ladda ner video online och ta bort vattenstämpeln",
+      "#19": "Ladda ner video online låter dig ladda ner innehåll utan vattenstämplar så att du kan använda och dela dem var som helst. ",
+      "#20": "Lägg till voice overs till din video direkt",
+      "#21": "Om du inte har tid eller resurser att lägga till voiceovers kan du använda programvaran Ladda ner Video Online text-till-tal!  ",
+      "#22": "Skapa professionella videor med några få klick",
+      "#23": "Om du är en streamer, är chansen stor att du också har andra sociala mediekanaler att underhålla.  ",
+      "#24": "Vanliga frågor - FAQ",
+      "#25": "Ladda ner med app",
+      "#26": "Vi tillhandahåller nu en app för nedladdning av video. ",
+      "#27": "googleplay app-url",
+      "#28": "app-url",
+      "btnText": "Ladda ner",
+      "btnLoadingText": "Hämtar"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Integritetspolicy",
+      "#1": "Introduktion",
+      "#2": "Denna sekretesspolicy informerar användarna om att webbplatsen ({website_url}) inte samlar in, lagrar eller behandlar någon personlig information. ",
+      "#3": "Observera att denna policy tillhandahålls i enlighet med juridiska krav, även om webbplatsen eller tjänsten inte samlar in eller lagrar någon personlig information.",
+      "#4": "Tredjepartsannonsering och analys",
+      "#5": "Vi använder tredjepartsannonseringstjänster, såsom Google AdSense, för att visa annonser på webbplatsen. ",
+      "#6": "Du kan välja bort personlig reklam genom att besöka",
+      "#7": "Annonsinställningar",
+      "#8": "eller genom att besöka",
+      "#9": "Ändringar av integritetspolicyn",
+      "#10": "Vi förbehåller oss rätten att uppdatera, modifiera eller ersätta någon del av policyn när som helst genom att publicera den uppdaterade policyn på webbplatsen. ",
+      "#11": "Kontaktinformation",
+      "#12": "Om du har några frågor eller funderingar om denna policy, vänligen kontakta webbplatsens ägare på",
+      "#13": "Godkännande av integritetspolicy",
+      "#14": "Genom att gå in på eller använda webbplatsen eller tjänsten bekräftar du att du har läst, förstått och samtycker till att vara bunden av villkoren i denna policy."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Användarvillkor"
+    },
+    "dcma": {
+      "title": "Copyright (DMCA)",
+      "#1": "{name} respekterar upphovsrätten till alla verk och tillåter inte användare att använda andras videor för något som strider mot villkoren för upphovsrättsskydd. ",
+      "#2": "{name} följer Digital Millennium Copyright Act (DMCA) och stänger omedelbart av innehåll från åtkomst när det meddelas på rätt sätt.",
+      "#3": "För att lämna in en anmälan om upphovsrättsintrång till {name} måste du använda e-post och skicka ett meddelande till oss som innehåller väsentligen den information som krävs av och anges i avsnitt 512(c)(3) i Digital Millennium Copyright Act.",
+      "#4": "Obligatorisk information:",
+      "#5": "1. Identifiera dig själv som antingen: a) Ägaren av ett eller flera upphovsrättsskyddade verk b) En person \"behörig att agera på uppdrag av ägaren av en exklusiv rättighet som påstås kränkas.\" ",
+      "#6": "2. Identifiera det upphovsrättsskyddade verk som påstås ha gjorts intrång.",
+      "#7": "3. Identifiera innehållet som påstås göra intrång eller vara föremål för intrångsaktiviteten och som ska stängas av eller åtkomst till som ska inaktiveras, samt information som rimligen är tillräcklig för att tillåta youtube4kdownloader att hitta innehållet. ",
+      "#8": "4. Ange kontaktinformation som rimligen är tillräcklig för att vi ska kunna kontakta dig, såsom en adress, telefonnummer och en giltig e-postadress.",
+      "#9": "5. Ange att du i god tro tror att användningen av innehållet på det sätt som klagas över inte är auktoriserat av upphovsrättsinnehavaren, dess agenter eller lagen.",
+      "#10": "6. Ange att informationen i underrättelsen är korrekt och att den klagande parten är bemyndigad att agera på uppdrag av ägaren av en exklusiv rättighet som påstås ha kränkts på grund av mened.",
+      "#11": "Efter mottagandet av ett giltigt meddelande, som krävs enligt lag, kommer vi att stänga av åtkomsten till upphovsrättsligt innehåll från vår webbplats.",
+      "#12": "Om du har några frågor, vänligen kontakta oss på",
+      "#13": "detta formulär"
+    },
+    "thankyou": {
+      "title": "Tack för att du installerade Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API för nedladdning av video",
+      "#1": "{website_url} API ger en enkel och bekväm metod för att hämta mediefiler från de mest populära webbplatserna och sociala medieplattformarna. ",
+      "#2": "För att få tillgång eller få mer information, vänligen kontakta oss på "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontakta oss",
+      "#1": "Om du har några frågor, klagomål eller anspråk med avseende på våra tjänster, vänligen skicka ett meddelande till oss",
+      "#2": "Respons",
+      "#3": "E-post",
+      "#4": "Meddelande",
+      "#5": "Skicka in",
+      "#6": "E-post har skickats!"
+    }
+  }
+}

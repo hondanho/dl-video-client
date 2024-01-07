@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Promijeni jezik",
+    "locale": "{locale, select, de {German} en {English} other {Unknown}}"
+  },
+  "Metadata": {
+    "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+    "keywords": "Download Videos YouTube, Download Video Instagram , Download Videos facebook, Download Videos TikTok, Download Videos Twitch, Download Videos Twitter, Download Videos Pinterest, Download Videos Social Media, Download Online Videos, Download Videos Free",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Preuzmite video na mreži"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Zalijepite video linkove za Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Zalijepite video linkove za Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Gumb za preuzimanje bilo kojeg videozapisa",
+      "btnText": "preuzimanje datoteka",
+      "btnLoadingText": "Dohvaćanje"
+    }
+  },
+  "Footer": {
+    "#1": "Youtube Downloader",
+    "#2": "Youtube Video Downloader",
+    "#3": "Youtube u MP3 konverter",
+    "#4": "Youtube u MP4 konverter",
+    "#5": "Youtube Shorts Downloader",
+    "#6": "Facebook Downloader",
+    "#7": "Preuzmite video s facebooka",
+    "#8": "Facebook u MP4 pretvarač",
+    "#9": "Preuzmite Facebook Reel",
+    "#10": "Instagram Downloader",
+    "#11": "Preuzmite video Instagram",
+    "#12": "Preuzmite Instagram Reel",
+    "#13": "Pretvornik Instagrama u Mp4",
+    "#14": "Drugi Downloader",
+    "#15": "Preuzmite video TikTok",
+    "#16": "Preuzmite video s Twittera",
+    "#17": "Preuzmite Video Twitch",
+    "#18": "Preuzmite Video Twitch isječak",
+    "#20": "Pravno",
+    "#21": "Politika privatnosti",
+    "#22": "Uvjeti pružanja usluge",
+    "#23": "DCMA",
+    "#24": "Kontakt",
+    "#25": "Blog",
+    "#26": "Pridruži nam se!",
+    "#27": "Pretplatite se",
+    "#28": "Sva prava pridržana."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Preuzmite Video Twitch isječak",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite Twitch isječke , Twitch program za preuzimanje isječaka , Spremite Twitch isječke , Kako preuzeti isječke s Twitcha , Twitch isječak preuzeti online , Besplatno preuzimanje Twitch isječaka , Twitch isječak čuvar , Preuzmi Twitch isječke bez vodenog žiga , Twitch isječak grabber , Twitch isječak preuzeti u MP4",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video veze Twitch Clip",
+        "arialLabel": "Zalijepite video veze Twitch Clip",
+        "btnArialLabel": "Preuzmite bilo koji video gumb Twitch Clip"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno kopirajte Twitch video vezu i zalijepite je u naš alat. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje Twitch videa?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje Twitchove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati Twitch videozapise pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat optimiziran za mobilnu upotrebu, omogućujući korisnicima preuzimanje Twitch videa na raznim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li preuzeti Twitch videozapise na mobilne uređaje pomoću vašeg alata?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Twitch videozapisa, uključujući one različitih duljina i formata. ",
+          "question": "Postoje li ograničenja u pogledu duljine ili vrste Twitch videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) Twitch videa, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD Twitch videozapise s vašim alatom?"
+        },
+        "6": {
+          "answer": "Ako naiđete na bilo kakve poteškoće, provjerite naš odjeljak s često postavljanim pitanjima na web stranici radi savjeta za rješavanje problema. ",
+          "question": "Što trebam učiniti ako naiđem na probleme tijekom korištenja vašeg alata?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju za preuzimanje Twitch videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": " Mogu li preuzeti Twitch videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Twitchovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Twitchu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako preuzeti video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Preuzmite Video Twitch",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite Twitch video zapise, Twitch video downloader, Spremite Twitch video zapise, Kako preuzeti video s Twitcha, Twitch preuzimanje isječaka, Besplatno Twitch video preuzimanje, Twitch VOD downloader, Preuzmite Twitch highlights, Twitch video grabber, Twitch preuzimanje u MP4",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video veze Twitch",
+        "arialLabel": "Zalijepite video veze Twitch",
+        "btnArialLabel": "Preuzmite bilo koji video Twitch reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno kopirajte Twitch video vezu i zalijepite je u naš alat. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje Twitch videa?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje Twitchove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati Twitch videozapise pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat optimiziran za mobilnu upotrebu, omogućujući korisnicima preuzimanje Twitch videa na raznim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li preuzeti Twitch videozapise na mobilne uređaje pomoću vašeg alata?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Twitch videozapisa, uključujući one različitih duljina i formata. ",
+          "question": "Postoje li ograničenja u pogledu duljine ili vrste Twitch videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) Twitch videa, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD Twitch videozapise s vašim alatom?"
+        },
+        "6": {
+          "answer": "Ako naiđete na bilo kakve poteškoće, provjerite naš odjeljak s često postavljanim pitanjima na web stranici radi savjeta za rješavanje problema. ",
+          "question": "Što trebam učiniti ako naiđem na probleme tijekom korištenja vašeg alata?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju za preuzimanje Twitch videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": " Mogu li preuzeti Twitch videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Twitchovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Twitchu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako preuzeti video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Preuzmite video s Twittera",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmi Twitter videozapise, Twitter video downloader, Spremi Twitter videozapise, Kako preuzeti videozapise s Twittera, Twitter video preuzimanje na mreži, Besplatno preuzimanje Twitter videa, Twitter video saver, Preuzmi Twitter bez vodenog žiga, Twitter video grabber, Twitter u MP4 preuzimanje",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video veze Twitter",
+        "arialLabel": "Zalijepite video veze Twitter",
+        "btnArialLabel": "Preuzmi bilo koji videozapis na Twitteru"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno kopirajte vezu na Twitter video i zalijepite je u naš alat. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje Twitter videa?"
+        },
+        "2": {
+          "answer": "Naš je alat osmišljen tako da poštuje Twitterove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati Twitter videozapise pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat optimiziran za mobilnu upotrebu, omogućujući korisnicima preuzimanje videozapisa s Twittera na različite uređaje, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti videozapise s Twittera na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Twitter videozapisa, uključujući one različitih duljina i formata. ",
+          "question": "Postoje li ograničenja u pogledu duljine ili vrste Twitter videozapisa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) Twitter videa, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD Twitter videozapise s vašim alatom?"
+        },
+        "6": {
+          "answer": "Ako naiđete na bilo kakve poteškoće, provjerite naš odjeljak s često postavljanim pitanjima na web stranici radi savjeta za rješavanje problema. ",
+          "question": "Što trebam učiniti ako naiđem na probleme tijekom korištenja vašeg alata?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja Twitter videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": " Mogu li preuzeti videozapise s Twittera za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Twitterovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama Twittera?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako preuzeti video s Twittera"
+    },
+    "download-video-tiktok": {
+      "title": "Preuzmite video Tiktok",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmi TikTok video zapise, TikTok video downloader, Spremi TikTok video zapise, Kako preuzeti video zapise s TikToka, TikTok video preuzimanje na mreži, Besplatno TikTok video preuzimanje, TikTok video čuvar, Preuzmi TikTok bez vodenog žiga, TikTok video grabber, TikTok preuzimanje u MP4",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove na tiktok",
+        "arialLabel": "Zalijepite video linkove na tiktok",
+        "btnArialLabel": "Preuzmi bilo koji video tiktok gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno kopirajte TikTok video vezu i zalijepite je u naš alat. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje TikTok videa?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje TikTokove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati TikTok videozapise pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat optimiziran za mobilnu upotrebu, omogućujući korisnicima preuzimanje TikTok videa na različitim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li preuzeti TikTok videozapise na mobilne uređaje pomoću vašeg alata?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra TikTok videozapisa, uključujući one različitih duljina i formata. ",
+          "question": "Postoje li ograničenja u pogledu duljine ili vrste TikTok videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) TikTok videa, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD TikTok videozapise s vašim alatom?"
+        },
+        "6": {
+          "answer": "Ako naiđete na bilo kakve poteškoće, provjerite naš odjeljak s često postavljanim pitanjima na web stranici radi savjeta za rješavanje problema. ",
+          "question": "Što trebam učiniti ako naiđem na probleme tijekom korištenja vašeg alata?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju za preuzimanje TikTok videa za offline gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": " Mogu li preuzeti TikTok videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na TikTokovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama TikToka?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Preuzmite video Instagram",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove instagram kolut",
+        "arialLabel": "Zalijepite video linkove instagram kolut",
+        "btnArialLabel": "Preuzmi bilo koji video instagram reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite URL instagram videa u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje videozapisa s instagrama?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje uvjete usluge instagrama. ",
+          "question": "Je li legalno preuzimati videozapise s instagrama pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje instagram videa na raznim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Instagram videozapise na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra instagram videa, uključujući one različitih duljina i formata. ",
+          "question": " Postoje li ograničenja u pogledu duljine ili vrste instagram videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s instagrama, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD videozapise s instagrama s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s upotrebom vašeg alata za preuzimanje instagram videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja instagram videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Instagram videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na platformi instagrama, osiguravajući stalnu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Instagramu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti video sa instagrama"
+    },
+    "download-instagram-reel": {
+      "title": "Preuzmite Instagram Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove instagram kolut",
+        "arialLabel": "Zalijepite video linkove instagram kolut",
+        "btnArialLabel": "Preuzmi bilo koji video instagram reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite URL instagram videa u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje videozapisa s instagrama?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje uvjete usluge instagrama. ",
+          "question": "Je li legalno preuzimati videozapise s instagrama pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje instagram videa na raznim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Instagram videozapise na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra instagram videa, uključujući one različitih duljina i formata. ",
+          "question": " Postoje li ograničenja u pogledu duljine ili vrste instagram videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s instagrama, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD videozapise s instagrama s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s upotrebom vašeg alata za preuzimanje instagram videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja instagram videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Instagram videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na platformi instagrama, osiguravajući stalnu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Instagramu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti instagram video u mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Skini video instagram u mp4",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove instagram kolut",
+        "arialLabel": "Zalijepite video linkove instagram kolut",
+        "btnArialLabel": "Preuzmi bilo koji video instagram reel gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite URL instagram videa u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje videozapisa s instagrama?"
+        },
+        "2": {
+          "answer": "Naš je alat dizajniran da poštuje uvjete usluge instagrama. ",
+          "question": "Je li legalno preuzimati videozapise s instagrama pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje instagram videa na raznim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Instagram videozapise na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra instagram videa, uključujući one različitih duljina i formata. ",
+          "question": " Postoje li ograničenja u pogledu duljine ili vrste instagram videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s instagrama, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD videozapise s instagrama s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s upotrebom vašeg alata za preuzimanje instagram videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja instagram videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Instagram videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na platformi instagrama, osiguravajući stalnu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Instagramu?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti video s instagrama u mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Preuzmite Facebook Reel",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmite Facebook Reel , Facebook Reel Downloader , Spremite Facebook Reel video , Kako preuzeti Reels na Facebooku , Facebook Reel preuzimanje na mreži , Besplatno Facebook Reel preuzimanje , Facebook Reel video čuvar , Preuzimanje Reels s Facebooka , Facebook Reel video grabber , Facebook Reel izvanmrežno preuzimanje",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove facebook reel",
+        "arialLabel": "Zalijepite video linkove facebook reel",
+        "btnArialLabel": "Gumb za preuzimanje bilo kojeg videozapisa na Facebooku"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite URL Facebook videa u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje videozapisa s Facebooka?"
+        },
+        "2": {
+          "answer": "Naš je alat osmišljen tako da poštuje uvjete usluge Facebooka. ",
+          "question": "Je li legalno preuzimati videozapise s Facebooka pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje Facebook videa na različitim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Facebook videozapise na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Facebook videa, uključujući one različitih duljina i formata. ",
+          "question": " Postoje li ograničenja u pogledu duljine ili vrste Facebook videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s Facebooka, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD videozapise s Facebooka s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s korištenjem vašeg alata za preuzimanje Facebook videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja Facebook videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Facebook videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Facebookovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti facebook video u mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Facebook u MP4 pretvarač",
+      "datePublished": "2021-10-01",
+      "keywords": "Facebook u MP4 konverter, Pretvori Facebook u MP4, Facebook video u MP4, Facebook MP4 preuzimanje, Online Facebook u MP4, Besplatni Facebook u MP4, Facebook video konverter, Spremi Facebook video kao MP4, Preuzmi Facebook u MP4, Facebook MP4 online konverter",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove na facebook",
+        "arialLabel": "Zalijepite video linkove na facebook",
+        "btnArialLabel": "Preuzmi bilo koji videozapis s facebook gumba"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite Facebook Reel video URL u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje Facebook Reelsa?"
+        },
+        "2": {
+          "answer": "Naš je alat osmišljen tako da poštuje uvjete usluge Facebooka. ",
+          "question": "Je li legalno preuzeti Facebook Reels pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje Facebook videa na različitim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Facebook Reels na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Facebook videa, uključujući one različitih duljina i formata. ",
+          "question": "Postoje li ograničenja u pogledu duljine ili vrste Facebook Reelsa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s Facebooka, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD Facebook Reels s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s korištenjem vašeg alata za preuzimanje Facebook videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja Facebook videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Facebook Reels za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Facebookovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti facebook video u mp4"
+    },
+    "download-video-facebook": {
+      "title": "Preuzmite video s Facebooka",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmi Facebook video zapise, Facebook video downloader, Spremi Facebook video zapise, Kako preuzeti video s Facebooka, Facebook video preuzimanje na mreži, Besplatno Facebook video preuzimanje, Facebook video čuvar, Preuzmi privatne Facebook video zapise, HD Facebook video preuzimanje, Facebook u MP4 preuzimanje, preuzimanje videa ",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove na facebook",
+        "arialLabel": "Zalijepite video linkove na facebook",
+        "btnArialLabel": "Preuzmi bilo koji videozapis s facebook gumba"
+      },
+      "faq": {
+        "1": {
+          "answer": "Jednostavno zalijepite URL Facebook videa u naš alat i on će vas voditi kroz proces preuzimanja. ",
+          "question": "Kako mogu koristiti vaš alat za preuzimanje videozapisa s Facebooka?"
+        },
+        "2": {
+          "answer": "Naš je alat osmišljen tako da poštuje uvjete usluge Facebooka. ",
+          "question": "Je li legalno preuzimati videozapise s Facebooka pomoću vašeg alata?"
+        },
+        "3": {
+          "answer": "Da, naš je alat prilagođen mobilnim uređajima i omogućuje korisnicima preuzimanje Facebook videa na različitim uređajima, uključujući pametne telefone i tablete.",
+          "question": "Mogu li pomoću vašeg alata preuzeti Facebook videozapise na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "Naš alat podržava preuzimanje širokog spektra Facebook videa, uključujući one različitih duljina i formata. ",
+          "question": " Postoje li ograničenja u pogledu duljine ili vrste Facebook videa koji se mogu preuzeti?"
+        },
+        "5": {
+          "answer": "Da, naš alat podržava preuzimanje HD (visoke razlučivosti) videa s Facebooka, pružajući korisnicima mogućnost uživanja u kvalitetnijem sadržaju.",
+          "question": "Je li moguće preuzeti HD videozapise s Facebooka s vašim alatom?"
+        },
+        "6": {
+          "answer": "Sigurnost shvaćamo ozbiljno. ",
+          "question": "Postoje li rizici povezani s korištenjem vašeg alata za preuzimanje Facebook videa?"
+        },
+        "7": {
+          "answer": "Da, naš alat nudi opciju preuzimanja Facebook videa za izvanmrežno gledanje, omogućujući korisnicima da uživaju u sadržaju čak i bez internetske veze.",
+          "question": "Mogu li preuzeti Facebook videozapise za izvanmrežno gledanje pomoću vašeg alata?"
+        },
+        "8": {
+          "answer": "Redovito ažuriramo naš alat kako bismo ga prilagodili svim promjenama na Facebookovoj platformi, osiguravajući kontinuiranu kompatibilnost i besprijekorno korisničko iskustvo.",
+          "question": "Koliko se često vaš alat ažurira kako bi se osigurala kompatibilnost s promjenama na Facebooku?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti video sa facebooka"
+    },
+    "youtube-video-downloader": {
+      "title": "Youtube Video Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzimanje videa s YouTubea, preuzimanje videozapisa s YouTubea, program za preuzimanje s YouTubea, Spremanje videozapisa s YouTubea, Kako preuzeti videozapise s YouTubea, preuzimanje videozapisa s YouTubea na mreži, Preuzimanje HD videozapisa s YouTubea, čuvar videozapisa s YouTubea, Grabber videozapisa s YouTubea, Besplatno preuzimanje videozapisa s YouTubea",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove Youtube",
+        "arialLabel": "Zalijepite video linkove Youtube",
+        "btnArialLabel": "Gumb za preuzimanje bilo kojeg videozapisa na YouTubeu"
+      },
+      "faq": {
+        "1": {
+          "answer": "Možete koristiti ove online alate ili softver dizajniran za preuzimanje YouTube videa. ",
+          "question": "Kako mogu preuzeti YouTube videozapise?"
+        },
+        "2": {
+          "answer": "Preuzimanje YouTube videozapisa bez dopuštenja može kršiti YouTubeove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati videozapise s YouTubea?"
+        },
+        "3": {
+          "answer": "Da, razne mrežne usluge nude preuzimanje videozapisa s YouTubea. ",
+          "question": "Postoje li online usluge za preuzimanje YouTube videa?"
+        },
+        "4": {
+          "answer": "Da, postoje mobilne aplikacije i web-mjesta koja vam omogućuju preuzimanje YouTube videozapisa izravno na mobilni uređaj za gledanje izvan mreže.",
+          "question": "Mogu li preuzeti YouTube videozapise na mobilne uređaje?"
+        },
+        "5": {
+          "answer": "Uobičajeno podržani formati uključuju MP",
+          "question": "Koji su video formati podržani za preuzete YouTube videozapise?"
+        },
+        "6": {
+          "answer": "Da, preporučljivo je dobiti dopuštenje od kreatora sadržaja ili provjeriti informacije o licenci videozapisa prije preuzimanja i korištenja.",
+          "question": "Trebam li dopuštenje za preuzimanje i korištenje YouTube videa?"
+        },
+        "7": {
+          "answer": "Uvjeti pružanja usluge YouTube zabranjuju neovlašteno preuzimanje videozapisa. ",
+          "question": "Postoje li ograničenja za preuzimanje YouTube sadržaja?"
+        },
+        "8": {
+          "answer": "Da, YouTube nudi legalan način preuzimanja videozapisa za izvanmrežno gledanje putem njihove aplikacije. ",
+          "question": "Mogu li preuzeti YouTube videozapise za izvanmrežno gledanje?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti youtube video na internetu"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Youtube u MP3 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube u MP3 , Pretvorite YouTube u MP3 , YouTube MP3 pretvarač , YouTube audio preuzimanje , YouTube u MP3 online , Besplatni YouTube u MP3 , YouTube u MP3 pretvarač online , Pretvorite YouTube video u MP3 , YouTube zvučni pretvarač , Preuzmite YouTube audio",
+      "description": "Youtube to MP3 Converter brz je i siguran softver koji omogućuje neograničeno preuzimanje videozapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove Youtube",
+        "arialLabel": "Zalijepite video linkove Youtube",
+        "btnArialLabel": "Download bilo koji video youtube mp3 gumb"
+      },
+      "faq": {
+        "1": {
+          "answer": "Možete koristiti ove online alate ili softver dizajniran za preuzimanje YouTube videa. ",
+          "question": "Kako mogu preuzeti YouTube videozapise?"
+        },
+        "2": {
+          "answer": "Preuzimanje YouTube videozapisa bez dopuštenja može kršiti YouTubeove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati videozapise s YouTubea?"
+        },
+        "3": {
+          "answer": "Da, razne mrežne usluge nude preuzimanje videozapisa s YouTubea. ",
+          "question": "Postoje li online usluge za preuzimanje YouTube videa?"
+        },
+        "4": {
+          "answer": "Da, postoje mobilne aplikacije i web-mjesta koja vam omogućuju preuzimanje YouTube videozapisa izravno na mobilni uređaj za gledanje izvan mreže.",
+          "question": "Mogu li preuzeti YouTube videozapise na mobilne uređaje?"
+        },
+        "5": {
+          "answer": "Uobičajeno podržani formati uključuju MP",
+          "question": "Koji su video formati podržani za preuzete YouTube videozapise?"
+        },
+        "6": {
+          "answer": "Da, preporučljivo je dobiti dopuštenje od kreatora sadržaja ili provjeriti informacije o licenci videozapisa prije preuzimanja i korištenja.",
+          "question": "Trebam li dopuštenje za preuzimanje i korištenje YouTube videa?"
+        },
+        "7": {
+          "answer": "Uvjeti pružanja usluge YouTube zabranjuju neovlašteno preuzimanje videozapisa. ",
+          "question": "Postoje li ograničenja za preuzimanje YouTube sadržaja?"
+        },
+        "8": {
+          "answer": "Da, YouTube nudi legalan način preuzimanja videozapisa za izvanmrežno gledanje putem njihove aplikacije. ",
+          "question": "Mogu li preuzeti YouTube videozapise za izvanmrežno gledanje?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti Youtube u MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Youtube u MP4 konverter",
+      "datePublished": "2021-10-01",
+      "keywords": "YouTube u MP4 , Pretvorite YouTube u MP4 , YouTube MP4 pretvarač , YouTube audio preuzimanje , YouTube u MP4 online , Besplatni YouTube u MP4 , YouTube u MP4 pretvarač online , Pretvorite YouTube video u MP4 , YouTube zvučni pretvarač , Preuzmite YouTube audio",
+      "description": "Youtube to MP4 Converter brz je i siguran softver koji omogućuje neograničeno preuzimanje videozapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove Youtube",
+        "arialLabel": "Zalijepite video linkove Youtube",
+        "btnArialLabel": "Gumb MP4 za preuzimanje bilo kojeg videozapisa s YouTubea"
+      },
+      "faq": {
+        "1": {
+          "answer": "Možete koristiti ove online alate ili softver dizajniran za preuzimanje YouTube videa. ",
+          "question": "Kako mogu preuzeti YouTube videozapise?"
+        },
+        "2": {
+          "answer": "Preuzimanje YouTube videozapisa bez dopuštenja može kršiti YouTubeove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzimati videozapise s YouTubea?"
+        },
+        "3": {
+          "answer": "Da, razne mrežne usluge nude preuzimanje videozapisa s YouTubea. ",
+          "question": "Postoje li online usluge za preuzimanje YouTube videa?"
+        },
+        "4": {
+          "answer": "Da, postoje mobilne aplikacije i web-mjesta koja vam omogućuju preuzimanje YouTube videozapisa izravno na mobilni uređaj za gledanje izvan mreže.",
+          "question": "Mogu li preuzeti YouTube videozapise na mobilne uređaje?"
+        },
+        "5": {
+          "answer": "Uobičajeno podržani formati uključuju MP",
+          "question": "Koji su video formati podržani za preuzete YouTube videozapise?"
+        },
+        "6": {
+          "answer": "Da, preporučljivo je dobiti dopuštenje od kreatora sadržaja ili provjeriti informacije o licenci videozapisa prije preuzimanja i korištenja.",
+          "question": "Trebam li dopuštenje za preuzimanje i korištenje YouTube videa?"
+        },
+        "7": {
+          "answer": "Uvjeti pružanja usluge YouTube zabranjuju neovlašteno preuzimanje videozapisa. ",
+          "question": "Postoje li ograničenja za preuzimanje YouTube sadržaja?"
+        },
+        "8": {
+          "answer": "Da, YouTube nudi legalan način preuzimanja videozapisa za izvanmrežno gledanje putem njihove aplikacije. ",
+          "question": "Mogu li preuzeti YouTube videozapise za izvanmrežno gledanje?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako skinuti Youtube u MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Youtube Shorts Downloader",
+      "datePublished": "2021-10-01",
+      "keywords": "Preuzmi YouTube Shorts, YouTube Shorts preuzimanje, Spremi YouTube Shorts, Preuzmi Shorts s YouTubea, YouTube kratko video preuzimanje, Kako spremiti YouTube Shorts, Preuzmi Shorts na YouTubeu, YouTube Shorts preuzimanje, YouTube Shorts offline preuzimanje, Besplatno preuzimanje YouTube Shorts",
+      "description": "Youtube Shorts Downloader brz je i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "form": {
+        "placeholder": "Zalijepite video linkove Youtube Short",
+        "arialLabel": "Zalijepite video linkove Youtube Short",
+        "btnArialLabel": "Kratki gumb za preuzimanje bilo kojeg videozapisa s YouTubea"
+      },
+      "faq": {
+        "1": {
+          "answer": "Od mog zadnjeg ažuriranja u siječnju 2022., YouTube Shorts prvenstveno su namijenjeni kratkom formatu gledanja na mobilnim uređajima i možda nemaju opciju izravnog preuzimanja. ",
+          "question": "Kako mogu preuzeti YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Preuzimanje YouTube Shortsa bez odgovarajućeg ovlaštenja može prekršiti YouTubeove uvjete pružanja usluge. ",
+          "question": "Je li legalno preuzeti YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Da, razne mrežne usluge nude preuzimanje videozapisa s YouTubea. ",
+          "question": "Mogu li preuzeti YouTube Shorts na mobilne uređaje?"
+        },
+        "4": {
+          "answer": "YouTubeovi uvjeti pružanja usluge općenito zabranjuju neovlašteno preuzimanje sadržaja. ",
+          "question": "Postoje li ograničenja za preuzimanje YouTube Shortsa?"
+        },
+        "5": {
+          "answer": "YouTube nudi opcije unutar aplikacije za dijeljenje kratkih videozapisa na različitim platformama. ",
+          "question": "Kako mogu legalno spremiti ili podijeliti YouTube Shorts?"
+        },
+        "6": {
+          "answer": "YouTube Shorts obično su dizajnirani za online gledanje. ",
+          "question": "Mogu li preuzeti YouTube Shorts za izvanmrežno gledanje?"
+        },
+        "7": {
+          "answer": "Uvjeti pružanja usluge YouTube zabranjuju neovlašteno preuzimanje videozapisa. ",
+          "question": "Postoje li ograničenja za preuzimanje YouTube sadržaja?"
+        },
+        "8": {
+          "answer": "Ako naiđete na probleme s YouTube Shorts ili njegovim značajkama, obratite se YouTube podršci ili provjerite njihov centar za pomoć za smjernice o prijavljivanju problema.",
+          "question": "Kako mogu prijaviti probleme s YouTube Shorts ili njegovim značajkama preuzimanja?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Kako preuzeti Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "preuzmi video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "preuzimanje videozapisa s twittera"
+    },
+    "general": {
+      "title": "Preuzmite video na mreži",
+      "keywords": "Download Videos YouTube, Download Video Instagram , Download Videos facebook, Download Videos TikTok, Download Videos Twitch, Download Videos Twitter, Download Videos Pinterest, Download Videos Social Media, Download Online Videos, Download Videos Free",
+      "datePublished": "2021-10-01",
+      "description": "Download video Online je brz i siguran softver koji omogućuje neograničeno preuzimanje video zapisa s interneta. ",
+      "faq": {
+        "1": {
+          "answer": "Da, ova web stranica je besplatna. ",
+          "question": "Je li ova web stranica besplatna?"
+        },
+        "2": {
+          "answer": "Ne, preuzimanje priča nije podržano.",
+          "question": "Mogu li preuzeti priče?"
+        },
+        "3": {
+          "answer": "Ne, mi samo pružamo uslugu preuzimanja videa.",
+          "question": "Mogu li preuzeti slike sa ?"
+        },
+        "4": {
+          "answer": "Da, ova web stranica je sigurna. ",
+          "question": "Je li ovo web mjesto sigurno?"
+        },
+        "5": {
+          "answer": "Da, web stranicu možete koristiti sa svog mobitela ili tableta.",
+          "question": "Mogu li koristiti web stranicu sa svog mobitela?"
+        },
+        "6": {
+          "answer": "Ako video koji želite preuzeti nije dostupan, pokušajte ponovno kasnije.",
+          "question": "Što ako video koji želim preuzeti nije dostupan?"
+        },
+        "7": {
+          "answer": "Ne, ne možete preuzimati videozapise s privatnih računa.",
+          "question": "Mogu li preuzimati videozapise s privatnih računa?"
+        },
+        "8": {
+          "answer": "Najbolji format za preuzimanje videa je MP4. ",
+          "question": "Koji je najbolji format za preuzimanje videa?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Preuzimanjem ovog videa pristajete na",
+      "#2": "Nema vodenog žiga",
+      "#3": "HD kvaliteta",
+      "#4": "Brzo preuzimanje",
+      "#5": "Lako uređivati",
+      "#6": "Bilo koji format",
+      "#7": "Kako preuzeti videozapise {name}:",
+      "#8": "Zalijepite bilo koji URL videozapisa",
+      "#9": "Zalijepite URL bilo kojeg videozapisa u predviđeno polje i pritisnite Preuzmi. ",
+      "#10": "Uredite ili preuzmite",
+      "#11": "Imate mogućnost urediti svoj video pomoću našeg kompletnog paketa alata za uređivanje videa. ",
+      "#12": "Alat za dijeljenje preuzimanje videa na mreži",
+      "#13": "Izvezite svoj video i podijelite!",
+      "#14": "Trenutno preuzimanje videa na mreži",
+      "#15": "Download Video Online Video isječke možete preuzeti sa",
+      "#16": "u samo jednom kliku! ",
+      "#17": "Download Video Online radi izravno s vašeg mobilnog ili stolnog preglednika ili mobilne aplikacije. ",
+      "#18": "Preuzmite video s interneta i uklonite vodeni žig",
+      "#19": "Download Video Online omogućuje vam preuzimanje sadržaja bez vodenih žigova kako biste ih mogli prenamijeniti i dijeliti bilo gdje. ",
+      "#20": "Trenutačno dodajte glasovne snimke svom videozapisu",
+      "#21": "Ako nemate vremena ili resursa za dodavanje govora, možete koristiti Download Video Online softver za pretvaranje teksta u govor!  ",
+      "#22": "Stvorite videozapise profesionalnog izgleda u nekoliko klikova",
+      "#23": "Ako ste streamer, velike su šanse da morate održavati i druge kanale društvenih medija.  ",
+      "#24": "Često postavljana pitanja - FAQ",
+      "#25": "Preuzmite pomoću aplikacije",
+      "#26": "Sada nudimo aplikaciju za preuzimanje videa. ",
+      "#27": "url aplikacije googleplay",
+      "#28": "url aplikacije za jabuku",
+      "btnText": "preuzimanje datoteka",
+      "btnLoadingText": "Dohvaćanje"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Politika privatnosti",
+      "#1": "Uvod",
+      "#2": "Ova Pravila o privatnosti obavještavaju korisnike da web stranica ({website_url}) ne prikuplja, pohranjuje niti obrađuje nikakve osobne podatke. ",
+      "#3": "Imajte na umu da je ova Politika dostavljena u skladu sa zakonskim zahtjevima, iako web stranica ili usluga ne prikupljaju niti pohranjuju nikakve osobne podatke.",
+      "#4": "Oglašavanje i analitika treće strane",
+      "#5": "Koristimo usluge oglašavanja trećih strana, kao što je Google AdSense, za posluživanje oglasa na web stranici. ",
+      "#6": "Možete se isključiti iz personaliziranog oglašavanja posjetom",
+      "#7": "Postavke oglasa",
+      "#8": "ili posjetom",
+      "#9": "Promjene Politike privatnosti",
+      "#10": "Zadržavamo pravo ažuriranja, izmjene ili zamjene bilo kojeg dijela Politike u bilo kojem trenutku objavljivanjem ažurirane Politike na web stranici. ",
+      "#11": "Podaci za kontakt",
+      "#12": "Ako imate bilo kakvih pitanja ili nedoumica u vezi s ovom Politikom, obratite se vlasniku web stranice na",
+      "#13": "Prihvaćanje Politike privatnosti",
+      "#14": "Pristupom ili korištenjem web stranice ili usluge, potvrđujete da ste pročitali, razumjeli i da se slažete s odredbama i uvjetima ove politike."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Uvjeti pružanja usluge"
+    },
+    "dcma": {
+      "title": "Autorska prava (DMCA)",
+      "#1": "{name} poštuje autorska prava za sva djela i ne dopušta korisnicima da koriste tuđe videozapise za bilo što što je protivno odredbama i uvjetima zaštite autorskih prava. ",
+      "#2": "{name} je u skladu sa Zakonom o autorskim pravima u digitalnom tisućljeću (DMCA) i odmah obustavlja pristup sadržaju kada se pravilno obavijesti.",
+      "#3": "Da biste podnijeli obavijest o kršenju autorskih prava kod {name}, morat ćete upotrijebiti e-poštu i poslati nam poruku koja sadrži uglavnom informacije koje zahtijeva i navodi odjeljak 512(c)(3) Zakona o autorskim pravima u digitalnom tisućljeću.",
+      "#4": "Obavezan podatak:",
+      "#5": "1. Predstavite se kao: a) Vlasnik djela zaštićenog autorskim pravom b) Osoba 'ovlaštena djelovati u ime vlasnika ekskluzivnog prava koje je navodno povrijeđeno.' ",
+      "#6": "2. Identificirajte djelo zaštićeno autorskim pravima za koje se tvrdi da su prekršena.",
+      "#7": "3. Identificirajte Sadržaj za koji se tvrdi da krši autorska prava ili da je predmet aktivnosti kršenja i koji treba obustaviti ili pristup kojemu treba onemogućiti, kao i informacije koje su razumno dovoljne da youtube4kdownloaderu omoguće lociranje Sadržaja. ",
+      "#8": "4. Navedite podatke za kontakt koji su razumno dovoljni da nam dopuste da vas kontaktiramo, kao što su adresa, telefonski broj i valjana adresa e-pošte.",
+      "#9": "5. Izjavite da u dobroj vjeri vjerujete da korištenje Sadržaja na način na koji se žali nije ovlašteno od strane vlasnika autorskih prava, njegovih agenata ili zakona.",
+      "#10": "6. Navedite da su informacije u obavijesti točne i da je pod kaznenom odgovornošću strana koja se žali ovlaštena djelovati u ime vlasnika isključivog prava koje je navodno povrijeđeno.",
+      "#11": "Po primitku valjane obavijesti, u skladu sa zakonom, obustavit ćemo pristup sadržaju zaštićenom autorskim pravima s naše web stranice.",
+      "#12": "Ako imate pitanja, obratite nam se na",
+      "#13": "ova forma"
+    },
+    "thankyou": {
+      "title": "Hvala što ste instalirali Download Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API za preuzimanje videa",
+      "#1": "API {website_url} pruža jednostavnu i praktičnu metodu za dohvaćanje medijskih datoteka s najpopularnijih web stranica i platformi društvenih medija. ",
+      "#2": "Za pristup ili dobivanje više informacija, kontaktirajte nas na "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Kontaktirajte nas",
+      "#1": "Ako imate bilo kakvih pitanja, pritužbi ili pritužbi u vezi s našim uslugama, pošaljite nam poruku na",
+      "#2": "Povratne informacije",
+      "#3": "E-mail",
+      "#4": "Poruka",
+      "#5": "podnijeti",
+      "#6": "E-pošta je uspješno poslana!"
+    }
+  }
+}

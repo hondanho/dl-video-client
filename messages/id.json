@@ -1,0 +1,848 @@
+{
+  "LocaleSwitcher": {
+    "label": "Ganti BAHASA",
+    "locale": "{locale, select, de {Jerman} dan {Bahasa Inggris} other {Tidak diketahui}}"
+  },
+  "Metadata": {
+    "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+    "keywords": "Download Video YouTube, Download Video Instagram , Download Video facebook, Download Video TikTok, Download Video Twitch, Download Video Twitter, Download Video Pinterest, Download Video Media Sosial, Download Video Online, Download Video Gratis",
+    "links": {
+      "twitter": "https://twitter.com/downloadvideoonline.org"
+    },
+    "name": "Unduh Video Daring"
+  },
+  "FormInput": {
+    "general": {
+      "placeholder": "Tempel tautan video untuk Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "arialLabel": "Tempel tautan video untuk Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
+      "btnArialLabel": "Unduh tombol video apa pun",
+      "btnText": "Unduh",
+      "btnLoadingText": "Mengambil"
+    }
+  },
+  "Footer": {
+    "#1": "pengunduh Youtube",
+    "#2": "Pengunduh Video Youtube",
+    "#3": "Konverter Youtube ke MP3",
+    "#4": "Konverter Youtube ke MP4",
+    "#5": "Pengunduh Video Pendek Youtube",
+    "#6": "Pengunduh Facebook",
+    "#7": "Unduh video facebook",
+    "#8": "Konverter Facebook ke MP4",
+    "#9": "Unduh Reel Facebook",
+    "#10": "Pengunduh Instagram",
+    "#11": "Unduh Video Instagram",
+    "#12": "Unduh Reel Instagram",
+    "#13": "Konverter Instagram Ke Mp4",
+    "#14": "Pengunduh Lainnya",
+    "#15": "Unduh Video TikTok",
+    "#16": "Unduh Video Twitter",
+    "#17": "Unduh Video Kedutan",
+    "#18": "Unduh Klip Video Twitch",
+    "#20": "Hukum",
+    "#21": "Kebijakan pribadi",
+    "#22": "Ketentuan Layanan",
+    "#23": "DCMA",
+    "#24": "Kontak",
+    "#25": "Blog",
+    "#26": "Bergabunglah dengan kami!",
+    "#27": "Langganan",
+    "#28": "Seluruh hak cipta."
+  },
+  "Page": {
+    "download-video-twitch-clip": {
+      "title": "Unduh Klip Video Twitch",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh klip Twitch, Pengunduh klip Twitch, Simpan klip Twitch, Cara mengunduh klip dari Twitch, Unduh klip Twitch online, Unduh klip Twitch gratis, Penghemat klip Twitch, Unduh klip Twitch tanpa tanda air, Pengambil klip Twitch, Klip Twitch ke unduhan MP4",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video Twitch Clip",
+        "arialLabel": "Tempel tautan video Twitch Clip",
+        "btnArialLabel": "Unduh tombol Twitch Clip video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup salin tautan video Twitch dan tempelkan ke alat kami. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video Twitch?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Twitch. ",
+          "question": "Apakah legal mengunduh video Twitch menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami dioptimalkan untuk penggunaan seluler, memungkinkan pengguna mengunduh video Twitch di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video Twitch di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Twitch, termasuk video dengan panjang dan format berbeda. ",
+          "question": "Apakah ada batasan durasi atau jenis video Twitch yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video Twitch HD (definisi tinggi), memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD Twitch dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Jika Anda mengalami kesulitan, silakan periksa bagian FAQ kami di situs web untuk mendapatkan tip pemecahan masalah. ",
+          "question": "Apa yang harus saya lakukan jika saya mengalami masalah saat menggunakan alat Anda?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Twitch untuk ditonton secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": " Bisakah saya mengunduh video Twitch untuk ditonton secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara rutin untuk beradaptasi dengan perubahan apa pun di platform Twitch, memastikan kompatibilitas berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mengunduh video Twitch Clip"
+    },
+    "download-video-twitch": {
+      "title": "Unduh Video Kedutan",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh video Twitch, pengunduh video Twitch, Simpan video Twitch, Cara mengunduh video dari Twitch, pengunduhan klip Twitch, pengunduhan video Twitch gratis, pengunduh VOD Twitch, Unduh highlight Twitch, pengambil video Twitch, pengunduhan Twitch ke MP4",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video Twitch",
+        "arialLabel": "Tempel tautan video Twitch",
+        "btnArialLabel": "Unduh tombol gulungan Twitch video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup salin tautan video Twitch dan tempelkan ke alat kami. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video Twitch?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Twitch. ",
+          "question": "Apakah legal mengunduh video Twitch menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami dioptimalkan untuk penggunaan seluler, memungkinkan pengguna mengunduh video Twitch di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video Twitch di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Twitch, termasuk video dengan panjang dan format berbeda. ",
+          "question": "Apakah ada batasan durasi atau jenis video Twitch yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video Twitch HD (definisi tinggi), memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD Twitch dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Jika Anda mengalami kesulitan, silakan periksa bagian FAQ kami di situs web untuk mendapatkan tip pemecahan masalah. ",
+          "question": "Apa yang harus saya lakukan jika saya mengalami masalah saat menggunakan alat Anda?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Twitch untuk ditonton secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": " Bisakah saya mengunduh video Twitch untuk ditonton secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara rutin untuk beradaptasi dengan perubahan apa pun di platform Twitch, memastikan kompatibilitas berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Twitch?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mengunduh video Twitch"
+    },
+    "download-video-twitter": {
+      "title": "Unduh Video Twitter",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh video Twitter, Pengunduh video Twitter, Simpan video Twitter, Cara mengunduh video dari Twitter, Unduh video Twitter online, Unduh video Twitter gratis, Penghemat video Twitter, Unduh Twitter tanpa tanda air, Pengambil video Twitter, Unduh Twitter ke MP4",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video Twitter",
+        "arialLabel": "Tempel tautan video Twitter",
+        "btnArialLabel": "Unduh tombol gulungan Twitter video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup salin tautan video Twitter dan tempelkan ke alat kami. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video Twitter?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Twitter. ",
+          "question": "Apakah legal mengunduh video Twitter menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami dioptimalkan untuk penggunaan seluler, memungkinkan pengguna mengunduh video Twitter di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video Twitter di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Twitter, termasuk video dengan panjang dan format berbeda. ",
+          "question": "Apakah ada batasan panjang atau jenis video Twitter yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video Twitter HD (definisi tinggi), memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD Twitter dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Jika Anda mengalami kesulitan, silakan periksa bagian FAQ kami di situs web untuk mendapatkan tip pemecahan masalah. ",
+          "question": "Apa yang harus saya lakukan jika saya mengalami masalah saat menggunakan alat Anda?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Twitter untuk ditonton secara offline, sehingga pengguna dapat menikmati konten bahkan tanpa koneksi internet.",
+          "question": " Bisakah saya mengunduh video Twitter untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara berkala untuk beradaptasi dengan perubahan apa pun di platform Twitter, memastikan kompatibilitas yang berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Twitter?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mengunduh video Twitter"
+    },
+    "download-video-tiktok": {
+      "title": "Unduh Video Tiktok",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh video TikTok, pengunduh video TikTok, Simpan video TikTok, Cara mengunduh video dari TikTok, pengunduhan video TikTok online, pengunduhan video TikTok gratis, penghemat video TikTok, Unduh TikTok tanpa tanda air, pengambil video TikTok, pengunduhan TikTok ke MP4",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Rekatkan tautan video tiktok",
+        "arialLabel": "Rekatkan tautan video tiktok",
+        "btnArialLabel": "Unduh tombol reel tiktok video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup salin tautan video TikTok dan tempelkan ke alat kami. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video TikTok?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan TikTok. ",
+          "question": "Apakah legal mengunduh video TikTok menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami dioptimalkan untuk penggunaan seluler, memungkinkan pengguna mengunduh video TikTok di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video TikTok di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video TikTok, termasuk video dengan panjang dan format berbeda. ",
+          "question": "Apakah ada batasan durasi atau jenis video TikTok yang bisa diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video TikTok HD (definisi tinggi), memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD TikTok dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Jika Anda mengalami kesulitan, silakan periksa bagian FAQ kami di situs web untuk mendapatkan tip pemecahan masalah. ",
+          "question": "Apa yang harus saya lakukan jika saya mengalami masalah saat menggunakan alat Anda?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video TikTok untuk ditonton secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": " Bisakah saya mengunduh video TikTok untuk ditonton secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara berkala untuk beradaptasi dengan perubahan apa pun di platform TikTok, memastikan kompatibilitas yang berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan TikTok?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara download video tiktok"
+    },
+    "download-video-instagram": {
+      "title": "Unduh Video Instagram",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video gulungan instagram",
+        "arialLabel": "Tempel tautan video gulungan instagram",
+        "btnArialLabel": "Unduh tombol gulungan video instagram apa saja"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video instagram ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video dari instagram?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan instagram. ",
+          "question": "Apakah legal mengunduh video dari instagram menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video instagram di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video instagram di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video instagram, termasuk video dengan panjang dan format berbeda. ",
+          "question": " Apakah ada batasan panjang atau jenis video instagram yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari instagram, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD dari instagram dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Instagram?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video instagram untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh video instagram untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara rutin untuk beradaptasi dengan perubahan apa pun di platform Instagram, memastikan kompatibilitas berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload video instagram"
+    },
+    "download-instagram-reel": {
+      "title": "Unduh Reel Instagram",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video gulungan instagram",
+        "arialLabel": "Tempel tautan video gulungan instagram",
+        "btnArialLabel": "Unduh tombol gulungan video instagram apa saja"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video instagram ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video dari instagram?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan instagram. ",
+          "question": "Apakah legal mengunduh video dari instagram menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video instagram di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video instagram di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video instagram, termasuk video dengan panjang dan format berbeda. ",
+          "question": " Apakah ada batasan panjang atau jenis video instagram yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari instagram, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD dari instagram dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Instagram?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video instagram untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh video instagram untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara rutin untuk beradaptasi dengan perubahan apa pun di platform Instagram, memastikan kompatibilitas berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara download video instagram ke mp4"
+    },
+    "download-video-instagram-to-mp4": {
+      "title": "Unduh video instagram ke mp4",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video gulungan instagram",
+        "arialLabel": "Tempel tautan video gulungan instagram",
+        "btnArialLabel": "Unduh tombol gulungan video instagram apa saja"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video instagram ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video dari instagram?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan instagram. ",
+          "question": "Apakah legal mengunduh video dari instagram menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video instagram di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video instagram di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video instagram, termasuk video dengan panjang dan format berbeda. ",
+          "question": " Apakah ada batasan panjang atau jenis video instagram yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari instagram, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD dari instagram dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Instagram?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video instagram untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh video instagram untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara rutin untuk beradaptasi dengan perubahan apa pun di platform Instagram, memastikan kompatibilitas berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Instagram?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara download video instagram ke mp4"
+    },
+    "download-facebook-reel": {
+      "title": "Unduh Reel Facebook",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh Reel Facebook, Pengunduh Reel Facebook, Simpan video Reel Facebook, Cara mengunduh Reel di Facebook, Unduh Reel Facebook online, Unduhan Reel Facebook gratis, Penghemat video Reel Facebook, Mengunduh Reel dari Facebook, Pengambil video Reel Facebook, Unduh offline Reel Facebook",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Rekatkan tautan video reel facebook",
+        "arialLabel": "Rekatkan tautan video reel facebook",
+        "btnArialLabel": "Unduh tombol gulungan video facebook apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video Facebook ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video dari Facebook?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Facebook. ",
+          "question": "Apakah legal mengunduh video dari Facebook menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video Facebook di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video Facebook di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Facebook, termasuk video dengan panjang dan format berbeda. ",
+          "question": " Apakah ada batasan panjang atau jenis video Facebook yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari Facebook, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD dari Facebook dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Facebook?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Facebook untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh video Facebook untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara berkala untuk beradaptasi dengan perubahan apa pun di platform Facebook, memastikan kompatibilitas yang berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload video facebook ke mp4"
+    },
+    "facebook-to-mp4-converter": {
+      "title": "Konverter Facebook ke MP4",
+      "datePublished": "01-10-2021",
+      "keywords": "Konverter Facebook ke MP4, Konversi Facebook ke MP4, Video Facebook ke MP4, Unduhan MP4 Facebook, Facebook Online ke MP4, Facebook ke MP4 Gratis, Konverter video Facebook, Simpan video Facebook sebagai MP4, Unduh Facebook dalam MP4, Konverter online Facebook MP4",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video facebook",
+        "arialLabel": "Tempel tautan video facebook",
+        "btnArialLabel": "Unduh tombol facebook video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video Reel Facebook ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh Reel Facebook?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Facebook. ",
+          "question": "Apakah legal mengunduh Facebook Reels menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video Facebook di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh Facebook Reels di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Facebook, termasuk video dengan panjang dan format berbeda. ",
+          "question": "Apakah ada batasan panjang atau jenis Reel Facebook yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari Facebook, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh Reel Facebook HD dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Facebook?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Facebook untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh Reel Facebook untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara berkala untuk beradaptasi dengan perubahan apa pun di platform Facebook, memastikan kompatibilitas yang berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload video facebook ke mp4"
+    },
+    "download-video-facebook": {
+      "title": "Unduh Video Facebook",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh video Facebook, Pengunduh video Facebook, Simpan video Facebook, Cara mengunduh video dari Facebook, Unduh video Facebook online, Unduh video Facebook gratis, Penghemat video Facebook, Unduh video Facebook pribadi, Unduh video Facebook HD, Unduhan Facebook ke MP4, unduh video ",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Tempel tautan video facebook",
+        "arialLabel": "Tempel tautan video facebook",
+        "btnArialLabel": "Unduh tombol facebook video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Cukup tempelkan URL video Facebook ke alat kami, dan itu akan memandu Anda melalui proses pengunduhan. ",
+          "question": "Bagaimana cara menggunakan alat Anda untuk mengunduh video dari Facebook?"
+        },
+        "2": {
+          "answer": "Alat kami dirancang untuk menghormati persyaratan layanan Facebook. ",
+          "question": "Apakah legal mengunduh video dari Facebook menggunakan alat Anda?"
+        },
+        "3": {
+          "answer": "Ya, alat kami ramah seluler, memungkinkan pengguna mengunduh video Facebook di berbagai perangkat, termasuk ponsel cerdas dan tablet.",
+          "question": "Bisakah saya mengunduh video Facebook di perangkat seluler menggunakan alat Anda?"
+        },
+        "4": {
+          "answer": "Alat kami mendukung pengunduhan berbagai macam video Facebook, termasuk video dengan panjang dan format berbeda. ",
+          "question": " Apakah ada batasan panjang atau jenis video Facebook yang dapat diunduh?"
+        },
+        "5": {
+          "answer": "Ya, alat kami mendukung pengunduhan video HD (definisi tinggi) dari Facebook, memberikan pengguna opsi untuk menikmati konten berkualitas lebih tinggi.",
+          "question": "Apakah mungkin mengunduh video HD dari Facebook dengan alat Anda?"
+        },
+        "6": {
+          "answer": "Kami memperhatikan keamanan dengan serius. ",
+          "question": "Apakah ada risiko yang terkait dengan penggunaan alat Anda untuk mengunduh video Facebook?"
+        },
+        "7": {
+          "answer": "Ya, alat kami menyediakan opsi untuk mengunduh video Facebook untuk dilihat secara offline, memungkinkan pengguna menikmati konten bahkan tanpa koneksi internet.",
+          "question": "Bisakah saya mengunduh video Facebook untuk dilihat secara offline menggunakan alat Anda?"
+        },
+        "8": {
+          "answer": "Kami memperbarui alat kami secara berkala untuk beradaptasi dengan perubahan apa pun di platform Facebook, memastikan kompatibilitas yang berkelanjutan dan pengalaman pengguna yang lancar.",
+          "question": "Seberapa sering alat Anda diperbarui untuk memastikan kompatibilitas dengan perubahan Facebook?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload video facebook"
+    },
+    "youtube-video-downloader": {
+      "title": "Pengunduh Video Youtube",
+      "datePublished": "01-10-2021",
+      "keywords": "Pengunduhan video YouTube, Unduh video YouTube, Pengunduh YouTube, Simpan video YouTube, Cara mengunduh video dari YouTube, unduh video YouTube online, Unduh video HD dari YouTube, Penghemat video YouTube, Pengambil video YouTube, Unduh video YouTube gratis",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Rekatkan tautan video Youtube",
+        "arialLabel": "Rekatkan tautan video Youtube",
+        "btnArialLabel": "Unduh tombol youtube video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Anda dapat menggunakan alat atau perangkat lunak online ini yang dirancang untuk mengunduh video YouTube. ",
+          "question": "Bagaimana cara mengunduh video YouTube?"
+        },
+        "2": {
+          "answer": "Mengunduh video YouTube tanpa izin mungkin melanggar persyaratan layanan YouTube. ",
+          "question": "Apakah legal mengunduh video dari YouTube?"
+        },
+        "3": {
+          "answer": "Ya, berbagai layanan online menawarkan pengunduhan video YouTube. ",
+          "question": "Apakah ada layanan online untuk mengunduh video YouTube?"
+        },
+        "4": {
+          "answer": "Ya, ada aplikasi seluler dan situs web yang memungkinkan Anda mengunduh video YouTube langsung ke perangkat seluler untuk ditonton secara offline.",
+          "question": "Bisakah saya mengunduh video YouTube di perangkat seluler?"
+        },
+        "5": {
+          "answer": "Format yang umumnya didukung termasuk MP",
+          "question": "Format video apa yang didukung untuk video YouTube yang diunduh?"
+        },
+        "6": {
+          "answer": "Ya, disarankan untuk mendapatkan izin dari pembuat konten atau memeriksa informasi lisensi video sebelum mengunduh dan menggunakannya.",
+          "question": "Apakah saya memerlukan izin untuk mengunduh dan menggunakan video YouTube?"
+        },
+        "7": {
+          "answer": "Persyaratan layanan YouTube melarang pengunduhan video tanpa izin. ",
+          "question": "Apakah ada batasan dalam mengunduh konten YouTube?"
+        },
+        "8": {
+          "answer": "Ya, YouTube menawarkan cara legal untuk mengunduh video untuk ditonton secara offline melalui aplikasi mereka. ",
+          "question": "Bisakah saya mengunduh video YouTube untuk ditonton secara offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload video youtube online"
+    },
+    "youtube-to-mp3-converter": {
+      "title": "Konverter Youtube ke MP3",
+      "datePublished": "01-10-2021",
+      "keywords": "YouTube ke MP3, Konversi YouTube ke MP3, Konverter YouTube MP3, Unduh audio YouTube, YouTube ke MP3 online, Gratis YouTube ke MP3, Konverter YouTube ke MP3 online, Konversi video YouTube ke MP3, Konverter suara YouTube, Unduh audio YouTube",
+      "description": "Konverter Youtube ke MP3 adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Rekatkan tautan video Youtube",
+        "arialLabel": "Rekatkan tautan video Youtube",
+        "btnArialLabel": "Unduh tombol mp3 youtube video apa pun"
+      },
+      "faq": {
+        "1": {
+          "answer": "Anda dapat menggunakan alat atau perangkat lunak online ini yang dirancang untuk mengunduh video YouTube. ",
+          "question": "Bagaimana cara mengunduh video YouTube?"
+        },
+        "2": {
+          "answer": "Mengunduh video YouTube tanpa izin mungkin melanggar persyaratan layanan YouTube. ",
+          "question": "Apakah legal mengunduh video dari YouTube?"
+        },
+        "3": {
+          "answer": "Ya, berbagai layanan online menawarkan pengunduhan video YouTube. ",
+          "question": "Apakah ada layanan online untuk mengunduh video YouTube?"
+        },
+        "4": {
+          "answer": "Ya, ada aplikasi seluler dan situs web yang memungkinkan Anda mengunduh video YouTube langsung ke perangkat seluler untuk ditonton secara offline.",
+          "question": "Bisakah saya mengunduh video YouTube di perangkat seluler?"
+        },
+        "5": {
+          "answer": "Format yang umumnya didukung termasuk MP",
+          "question": "Format video apa yang didukung untuk video YouTube yang diunduh?"
+        },
+        "6": {
+          "answer": "Ya, disarankan untuk mendapatkan izin dari pembuat konten atau memeriksa informasi lisensi video sebelum mengunduh dan menggunakannya.",
+          "question": "Apakah saya memerlukan izin untuk mengunduh dan menggunakan video YouTube?"
+        },
+        "7": {
+          "answer": "Persyaratan layanan YouTube melarang pengunduhan video tanpa izin. ",
+          "question": "Apakah ada batasan dalam mengunduh konten YouTube?"
+        },
+        "8": {
+          "answer": "Ya, YouTube menawarkan cara legal untuk mengunduh video untuk ditonton secara offline melalui aplikasi mereka. ",
+          "question": "Bisakah saya mengunduh video YouTube untuk ditonton secara offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mendownload Youtube ke MP3"
+    },
+    "youtube-to-mp4-converter": {
+      "title": "Konverter Youtube ke MP4",
+      "datePublished": "01-10-2021",
+      "keywords": "YouTube ke MP4, Konversi YouTube ke MP4, Konverter YouTube MP4, Unduh audio YouTube, YouTube ke MP4 online, Gratis YouTube ke MP4, Konverter YouTube ke MP4 online, Konversi video YouTube ke MP4, Konverter suara YouTube, Unduh audio YouTube",
+      "description": "Konverter Youtube ke MP4 adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Rekatkan tautan video Youtube",
+        "arialLabel": "Rekatkan tautan video Youtube",
+        "btnArialLabel": "Unduh video apa pun tombol MP4 youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Anda dapat menggunakan alat atau perangkat lunak online ini yang dirancang untuk mengunduh video YouTube. ",
+          "question": "Bagaimana cara mengunduh video YouTube?"
+        },
+        "2": {
+          "answer": "Mengunduh video YouTube tanpa izin mungkin melanggar persyaratan layanan YouTube. ",
+          "question": "Apakah legal mengunduh video dari YouTube?"
+        },
+        "3": {
+          "answer": "Ya, berbagai layanan online menawarkan pengunduhan video YouTube. ",
+          "question": "Apakah ada layanan online untuk mengunduh video YouTube?"
+        },
+        "4": {
+          "answer": "Ya, ada aplikasi seluler dan situs web yang memungkinkan Anda mengunduh video YouTube langsung ke perangkat seluler untuk ditonton secara offline.",
+          "question": "Bisakah saya mengunduh video YouTube di perangkat seluler?"
+        },
+        "5": {
+          "answer": "Format yang umumnya didukung termasuk MP",
+          "question": "Format video apa yang didukung untuk video YouTube yang diunduh?"
+        },
+        "6": {
+          "answer": "Ya, disarankan untuk mendapatkan izin dari pembuat konten atau memeriksa informasi lisensi video sebelum mengunduh dan menggunakannya.",
+          "question": "Apakah saya memerlukan izin untuk mengunduh dan menggunakan video YouTube?"
+        },
+        "7": {
+          "answer": "Persyaratan layanan YouTube melarang pengunduhan video tanpa izin. ",
+          "question": "Apakah ada batasan dalam mengunduh konten YouTube?"
+        },
+        "8": {
+          "answer": "Ya, YouTube menawarkan cara legal untuk mengunduh video untuk ditonton secara offline melalui aplikasi mereka. ",
+          "question": "Bisakah saya mengunduh video YouTube untuk ditonton secara offline?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mengunduh Youtube ke MP4"
+    },
+    "youtube-shorts-downloader": {
+      "title": "Pengunduh Video Pendek Youtube",
+      "datePublished": "01-10-2021",
+      "keywords": "Unduh YouTube Shorts, unduh YouTube Shorts, Simpan YouTube Shorts, Unduh Shorts dari YouTube, unduh video pendek YouTube, Cara menyimpan YouTube Shorts, Unduh Shorts di YouTube, pengunduh YouTube Shorts, unduh offline YouTube Shorts, unduh gratis YouTube Shorts",
+      "description": "Youtube Shorts Downloader adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "form": {
+        "placeholder": "Paste link video Youtube Short",
+        "arialLabel": "Paste link video Youtube Short",
+        "btnArialLabel": "Unduh video apa saja tombol pendek youtube"
+      },
+      "faq": {
+        "1": {
+          "answer": "Pada pembaruan terakhir saya pada Januari 2022, YouTube Shorts terutama ditujukan untuk penayangan seluler berdurasi pendek dan mungkin tidak memiliki opsi unduh langsung. ",
+          "question": "Bagaimana cara mengunduh YouTube Shorts?"
+        },
+        "2": {
+          "answer": "Mengunduh YouTube Shorts tanpa izin yang sesuai dapat melanggar persyaratan layanan YouTube. ",
+          "question": "Apakah legal mengunduh YouTube Shorts?"
+        },
+        "3": {
+          "answer": "Ya, berbagai layanan online menawarkan pengunduhan video YouTube. ",
+          "question": "Bisakah saya mengunduh YouTube Shorts di perangkat seluler?"
+        },
+        "4": {
+          "answer": "Persyaratan layanan YouTube umumnya melarang pengunduhan konten tanpa izin. ",
+          "question": "Apakah ada batasan dalam mengunduh YouTube Shorts?"
+        },
+        "5": {
+          "answer": "YouTube menyediakan opsi dalam aplikasi untuk berbagi Shorts di berbagai platform. ",
+          "question": "Bagaimana cara menyimpan atau membagikan YouTube Shorts secara legal?"
+        },
+        "6": {
+          "answer": "YouTube Shorts biasanya dirancang untuk ditonton online. ",
+          "question": "Bisakah saya mengunduh YouTube Shorts untuk ditonton secara offline?"
+        },
+        "7": {
+          "answer": "Persyaratan layanan YouTube melarang pengunduhan video tanpa izin. ",
+          "question": "Apakah ada batasan dalam mengunduh konten YouTube?"
+        },
+        "8": {
+          "answer": "Jika Anda mengalami masalah dengan YouTube Shorts atau fitur-fiturnya, hubungi dukungan YouTube atau periksa Pusat Bantuan mereka untuk mendapatkan panduan tentang pelaporan masalah.",
+          "question": "Bagaimana cara melaporkan masalah pada YouTube Shorts atau fitur pengunduhannya?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png",
+      "#1": "Cara mengunduh Youtube Shorts"
+    },
+    "download-from-tiktok": {
+      "title": "unduh video tiktok"
+    },
+    "download-from-twitter": {
+      "title": "unduh video twitter"
+    },
+    "general": {
+      "title": "Unduh Video Daring",
+      "keywords": "Download Video YouTube, Download Video Instagram , Download Video facebook, Download Video TikTok, Download Video Twitch, Download Video Twitter, Download Video Pinterest, Download Video Media Sosial, Download Video Online, Download Video Gratis",
+      "datePublished": "01-10-2021",
+      "description": "Unduh video Online adalah perangkat lunak cepat dan aman yang memungkinkan pengunduhan video tanpa batas dari internet. ",
+      "faq": {
+        "1": {
+          "answer": "Ya, situs web ini gratis. ",
+          "question": "Apakah situs web ini gratis?"
+        },
+        "2": {
+          "answer": "Tidak, pengunduhan cerita tidak didukung.",
+          "question": "Bisakah saya mengunduh cerita?"
+        },
+        "3": {
+          "answer": "Tidak, kami hanya menyediakan layanan download video.",
+          "question": "Bisakah saya mengunduh gambar dari ?"
+        },
+        "4": {
+          "answer": "Ya, situs web ini aman. ",
+          "question": "Apakah situs web ini aman?"
+        },
+        "5": {
+          "answer": "Ya, Anda dapat menggunakan situs web dari ponsel atau tablet Anda.",
+          "question": "Bisakah saya menggunakan situs web dari ponsel saya?"
+        },
+        "6": {
+          "answer": "Jika video yang ingin diunduh tidak tersedia, silakan coba lagi nanti.",
+          "question": "Bagaimana jika video yang ingin saya download tidak tersedia?"
+        },
+        "7": {
+          "answer": "Tidak, Anda tidak dapat mengunduh video dari akun pribadi.",
+          "question": "Bisakah saya mengunduh video dari akun pribadi?"
+        },
+        "8": {
+          "answer": "Format terbaik untuk mengunduh video adalah MP4. ",
+          "question": "Apa format terbaik untuk mengunduh video?"
+        }
+      },
+      "imageUrl": "/images/open-graph.png"
+    },
+    "base": {
+      "#1": "Dengan mengunduh video ini, Anda menyetujui",
+      "#2": "Tidak ada tanda air",
+      "#3": "kualitas HD",
+      "#4": "Unduhan cepat",
+      "#5": "Mudah diedit",
+      "#6": "Format apa pun",
+      "#7": "Cara mengunduh video {name}:",
+      "#8": "Tempelkan URL video apa pun",
+      "#9": "Tempelkan URL video apa pun di bidang yang tersedia dan tekan Unduh. ",
+      "#10": "Sunting atau unduh",
+      "#11": "Anda memiliki opsi untuk mengedit video Anda menggunakan rangkaian lengkap alat pengeditan video kami. ",
+      "#12": "Bagikan alat unduh video online",
+      "#13": "Ekspor video Anda dan bagikan!",
+      "#14": "Unduh Video Online Instan",
+      "#15": "Download Video Online Anda dapat mendownload klip video dari",
+      "#16": "hanya dalam satu klik! ",
+      "#17": "Unduh Video Online berfungsi langsung dari Browser Seluler atau Desktop atau Aplikasi Seluler Anda. ",
+      "#18": "Unduh video online dan hapus tanda air",
+      "#19": "Unduh Video Online memungkinkan Anda mengunduh konten tanpa tanda air sehingga Anda dapat menggunakan kembali dan membagikannya di mana saja. ",
+      "#20": "Tambahkan voice over ke video Anda secara instan",
+      "#21": "Jika Anda tidak punya waktu atau sumber daya untuk menambahkan sulih suara, Anda dapat menggunakan perangkat lunak text-to-speech Download Video Online!  ",
+      "#22": "Buat video yang terlihat profesional dalam beberapa klik",
+      "#23": "Jika Anda seorang streamer, kemungkinan besar Anda juga memiliki saluran media sosial lain untuk dikelola.  ",
+      "#24": "Pertanyaan yang Sering Diajukan - FAQ",
+      "#25": "Unduh dengan aplikasi",
+      "#26": "Kami sekarang menyediakan aplikasi untuk mengunduh video. ",
+      "#27": "url aplikasi googleplay",
+      "#28": "url aplikasi apel",
+      "btnText": "Unduh",
+      "btnLoadingText": "Mengambil"
+    },
+    "privacy-policy": {
+      "slug-high-level": true,
+      "title": "Kebijakan pribadi",
+      "#1": "Perkenalan",
+      "#2": "Kebijakan Privasi ini memberi tahu pengguna bahwa situs web ({website_url}) tidak mengumpulkan, menyimpan, atau memproses informasi pribadi apa pun. ",
+      "#3": "Harap diperhatikan bahwa Kebijakan ini diberikan sesuai dengan persyaratan hukum, meskipun Situs Web atau Layanan tidak mengumpulkan atau menyimpan informasi pribadi apa pun.",
+      "#4": "Periklanan dan Analisis Pihak Ketiga",
+      "#5": "Kami menggunakan layanan periklanan pihak ketiga, seperti Google AdSense, untuk menayangkan iklan di Situs Web. ",
+      "#6": "Anda dapat memilih untuk tidak menerima iklan hasil personalisasi dengan mengunjungi",
+      "#7": "Pengaturan Iklan",
+      "#8": "atau dengan mengunjungi",
+      "#9": "Perubahan pada Kebijakan Privasi",
+      "#10": "Kami berhak memperbarui, memodifikasi, atau mengganti bagian mana pun dari Kebijakan ini kapan saja dengan memasang Kebijakan yang diperbarui di Situs Web. ",
+      "#11": "Kontak informasi",
+      "#12": "Jika Anda memiliki pertanyaan atau kekhawatiran tentang Kebijakan ini, silakan menghubungi pemilik Situs Web di",
+      "#13": "Penerimaan Kebijakan Privasi",
+      "#14": "Dengan mengakses atau menggunakan Situs Web atau Layanan, Anda mengakui bahwa Anda telah membaca, memahami, dan setuju untuk terikat pada syarat dan ketentuan Kebijakan ini."
+    },
+    "terms-of-service": {
+      "slug-high-level": true,
+      "title": "Ketentuan Layanan"
+    },
+    "dcma": {
+      "title": "Hak Cipta (DMCA)",
+      "#1": "{name} menghormati hak cipta atas semua karya, dan tidak mengizinkan pengguna menggunakan video orang lain untuk hal apa pun yang melanggar syarat dan ketentuan perlindungan hak cipta. ",
+      "#2": "{name} mematuhi Digital Millennium Copyright Act (DMCA) dan segera menangguhkan akses Konten jika diberi tahu dengan benar.",
+      "#3": "Untuk mengajukan pemberitahuan pelanggaran hak cipta kepada {name}, Anda perlu mengirimkan pesan kepada kami melalui surat yang mencakup secara substansial informasi yang diwajibkan oleh dan dinyatakan dalam Pasal 512(c)(3) Digital Millennium Copyright Act.",
+      "#4": "Informasi yang dibutuhkan:",
+      "#5": "1. Identifikasikan diri Anda sebagai: a) Pemilik karya berhak cipta b) Seseorang 'berwenang untuk bertindak atas nama pemilik hak eksklusif yang diduga dilanggar.' ",
+      "#6": "2. Identifikasi karya berhak cipta yang diklaim telah dilanggar.",
+      "#7": "3. Identifikasi Konten yang diklaim melanggar atau menjadi subjek aktivitas pelanggaran dan akan ditangguhkan atau aksesnya akan dinonaktifkan, serta informasi yang cukup secara wajar untuk memungkinkan pengunduh youtube4k menemukan Konten tersebut. ",
+      "#8": "4. Berikan informasi kontak yang cukup memadai untuk memungkinkan kami menghubungi Anda, seperti alamat, nomor telepon, dan alamat email yang valid.",
+      "#9": "5. Menyatakan bahwa Anda mempunyai keyakinan dengan itikad baik bahwa penggunaan Konten dengan cara yang diadukan tidak diizinkan oleh pemilik hak cipta, agennya, atau hukum.",
+      "#10": "6. Menyatakan bahwa informasi dalam pemberitahuan adalah akurat dan dengan ancaman hukuman sumpah palsu, pihak yang mengajukan pengaduan berwenang bertindak atas nama pemilik hak eksklusif yang diduga dilanggar.",
+      "#11": "Setelah menerima pemberitahuan yang sah, sebagaimana diwajibkan oleh hukum, kami akan menangguhkan akses ke konten hak cipta dari situs web kami.",
+      "#12": "Jika Anda memiliki pertanyaan, silakan hubungi kami di",
+      "#13": "formulir ini"
+    },
+    "thankyou": {
+      "title": "Terima kasih telah menginstal Unduh Video Online!"
+    },
+    "api-faq": {
+      "slug-high-level": true,
+      "title": "API Pengunduhan Video",
+      "#1": "API {website_url} menyediakan metode yang mudah dan nyaman untuk mengambil file media dari situs web dan platform media sosial terpopuler. ",
+      "#2": "Untuk mendapatkan akses atau mendapatkan informasi lebih lanjut, silahkan menghubungi kami di "
+    },
+    "contact": {
+      "slug-high-level": true,
+      "title": "Hubungi kami",
+      "#1": "Jika Anda memiliki pertanyaan, keluhan, atau klaim sehubungan dengan Layanan kami, silakan kirimkan pesan kepada kami ke",
+      "#2": "Masukan",
+      "#3": "Surel",
+      "#4": "Pesan",
+      "#5": "Kirim",
+      "#6": "Email berhasil dikirim !"
+    }
+  }
+}
