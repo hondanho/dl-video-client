@@ -23,7 +23,15 @@ const isValidFormInput = (postUrl: string) => {
   return "";
 };
 
-export default function TwitterForm({ onValueClear, onValueChange }: any) {
+export default function TwitterForm({
+  onValueClear,
+  onValueChange,
+  btnText,
+  btnLoadingText,
+  btnArialLabel,
+  placeholder,
+  arialLabel
+}: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -102,9 +110,9 @@ export default function TwitterForm({ onValueClear, onValueChange }: any) {
         <InputField
           id="url-input"
           type="url"
-          placeholder="Paste your video link here"
-          aria-label="Twitter video download URL input"
-          title="Twitter video download URL input"
+          placeholder={placeholder}
+          aria-label={arialLabel}
+          title={placeholder}
           value={postUrl}
           onPaste={onPaste}
           onChange={(e) => setPostUrl(e.target.value)}
@@ -117,10 +125,10 @@ export default function TwitterForm({ onValueClear, onValueChange }: any) {
         />
         <DownloadButton
           type="submit"
-          btnText="Download"
-          btnLoadingText="Fetching"
-          title="Download Twitter video button"
-          aria-label="Download Twitter video button"
+          btnText={btnText}
+          btnLoadingText={btnLoadingText}
+          title={btnArialLabel}
+          aria-label={btnArialLabel}
           isLoading={isLoading}
         />
       </div>

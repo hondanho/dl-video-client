@@ -1,19 +1,28 @@
 "use client";
 
 import Image from "next/image";
-import { cn } from "@/utils";
+import { cn, getPathLastFromPath } from "@/utils";
 import { useState } from "react";
-import { FAQ, Format, VideoInfo } from "@/types";
+import { Format, VideoInfo, FAQ } from "@/types";
 import { Accordion, AccordionItem } from "@nextui-org/react";
 import { CardVideoInfo } from "@/components/ui/CardVideoInfo";
-import GeneralForm from "@/components/form/GeneralForm";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
 import DisqusComments from "@/components/DisqusComments";
+import { usePathname } from "next/navigation";
+import TiktokForm from "@/components/form/TiktokForm";
 
-export default function Home() {
-  const t = useTranslations("Page.general");
+export default function TiktokPage() {
+  const pathname = usePathname();
+  let slugLast = getPathLastFromPath(pathname);
+
+  let t = useTranslations(`Page.${slugLast}`);
+  if (t("title") == `Page.${slugLast}.title`) {
+    slugLast = "download-video-tiktok";
+    t = useTranslations(`Page.${slugLast}`);
+  }
+
   const base = useTranslations("Page.base");
 
   const structuredHowToJson = structuredHowTo(t, base);
@@ -21,7 +30,7 @@ export default function Home() {
   const structuredVideoObjectJson = structuredVideoObject(t);
   const structuredEntertainmentBusinessJson = structuredEntertainmentBusiness(t);
   let FAQ_LIST: FAQ[] = []
-  const faq = useTranslations("Page.general.faq");
+  const faq = useTranslations(`Page.${slugLast}.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map(x => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),
@@ -92,9 +101,14 @@ export default function Home() {
         <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl">
           {t("title")}
         </h1>
-        <GeneralForm
+        <TiktokForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
+          btnText={base("btnText")}
+          btnLoadingText={base("btnLoadingText")}
+          btnArialLabel={t("form.btnArialLabel")}
+          placeholder={t("form.placeholder")}
+          arialLabel={t("form.arialLabel")}
         />
         <div className="mx-auto mt-4 text-xs md:text-sm prose prose-neutral prose-a:no-underline marker:text-xl text-white">
           <p>{base("#1")} <Link href={`/${locale}/privacy-policy`} className="text-[#3BDF70] font-bold">Privacy Policy</Link>.
@@ -155,7 +169,7 @@ export default function Home() {
         </section>
 
         <section className="grid grid-flow-row text-center gap-12 pb-0 md:pb-0">
-          <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">{base("#7", { name: "" })}</h2>
+          <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">{t("#1")}</h2>
           <div className="grid grid-cols-1 items-start justify-items-center md:gap-12 sm:grid-cols-3">
             <div className="grid grid-flow-row justify-items-center gap-2">
               <h3 className="text-xl font-bold leading-tight tracking-tight">1. {base("#8")}</h3>
@@ -307,6 +321,7 @@ export default function Home() {
   );
 }
 
+
 const structuredVideoObject = (t: any) => {
   return {
     "@context": "https://schema.org",
@@ -336,7 +351,7 @@ const structuredHowTo = (t: any, base: any) => {
   return {
     "@context": "https://schema.org",
     "@type": "HowTo",
-    "name": base("#7", { name: "" }),
+    "name": t("#1"),
     "step": [
       {
         "@type": "HowToStep",

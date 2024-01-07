@@ -33,7 +33,7 @@ export default function YoutubeForm({
   btnLoadingText,
   btnArialLabel,
   placeholder,
-  arialLable
+  arialLabel
 }: any) {
   const [postUrl, setPostUrl] = useState("");
   const [errorMsg, setErrorMsg] = useState("");
@@ -112,7 +112,7 @@ export default function YoutubeForm({
           id="url-input"
           type="url"
           placeholder={placeholder}
-          aria-label={arialLable}
+          aria-label={arialLabel}
           title={placeholder}
           value={postUrl}
           onPaste={onPaste}

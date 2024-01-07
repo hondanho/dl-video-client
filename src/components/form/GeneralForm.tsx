@@ -115,7 +115,7 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
           id="url-input"
           type="url"
           placeholder={t("placeholder")}
-          aria-label={t("arialLable")}
+          aria-label={t("arialLabel")}
           title={t("placeholder")}
           value={postUrl}
           onPaste={onPaste}

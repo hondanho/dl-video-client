@@ -87,9 +87,8 @@ export const getPathApiFromPlatform = (platform: string) => {
   return entityDomains.find(x => x.name === platform)?.path;
 } 
 
-export const getPathLastFromUrl = (url: string): string => {
-  const urlBuilder = new URL(url);
-  const pathSegments = urlBuilder.pathname.split('/');
+export const getPathLastFromPath = (pathName: string): string => {
+  const pathSegments = pathName.split('/');
   const lastSegment = pathSegments[pathSegments.length - 1];
   const slug = lastSegment.split('.')[0];
   return slug
