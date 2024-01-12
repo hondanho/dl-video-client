@@ -50,7 +50,7 @@
     "#28": "Eskubide guztiak erreserbatuak."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Deskargatu Bideo Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu Twitch klipak ,Twitch klipak deskargatzeko ,Twitch klipak gorde ,Twitch klipak nola deskargatu ,Twitch klipak linean deskargatu ,Twitch klipak doako deskarga ,Twitch klipak babeslea ,Twitch klipak ur markarik gabe ,Twitch klipak harrapatzeko ,Twitch klipak MP4 deskargatzeko",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu bideoa Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Deskargatu Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu Twitch bideoak ,Twitch bideo deskargatzailea ,Twitch bideoak gorde ,Twitch bideoak nola deskargatu Twitch-tik ,Twitch klipak deskargatu ,Twitch bideo deskargatu doan ,Twitch VOD deskargatzailea ,Twitch-en deskarga aipagarrienak ,Twitch bideo-grabbera ,Twitch MP4 deskargatu",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu bideo tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Deskargatu Instagram bideoa",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu instagram bideoa mp4ra"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Deskargatu Instagram bideoa mp4ra",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu Instagram bideoa mp4ra"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Deskargatu Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu Facebook Reel ,Facebook Reel deskargatzailea ,Gorde Facebook Reel bideoa ,Nola deskargatu Reels Facebook-en ,Facebook Reel deskargatu online ,Doako Facebook Reel deskarga ,Facebook Reel bideo-aurrezlea ,Reels Facebook-etik deskargatu ,Facebook Reel bideo-grabber ,Facebook Reel lineaz kanpo deskargatu",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu facebookeko bideoa mp4ra"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Deskargatu bideoa Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu Facebook bideoak ,Facebook bideo deskargatzailea ,Gorde Facebook bideoak ,Nola deskargatu bideoak Facebooketik ,Facebook bideoak linean deskargatu ,Doako Facebook bideo deskargatu ,Facebook bideo-aurrezlea ,Deskargatu Facebook bideo pribatuak ,HD Facebook bideo deskargatu ,Facebook-era MP4 deskargatu, bideoa deskargatu ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu bideoa facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtubeko bideo deskargatzailea",
       "datePublished": "2021-10-01",
       "keywords": "YouTube bideo deskargatu, Deskargatu YouTube bideoak, YouTube deskargatzailea, Gorde YouTube bideoak, Nola deskargatu YouTube-tik bideoak, YouTube bideoak linean deskargatu, Deskargatu HD bideoak YouTube-tik, YouTube bideo-aurrezlea, YouTube bideo-grabber, Doako YouTube bideo deskargatu",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu Youtube MP4ra"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtubeko laburren deskargatzailea",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu YouTube Shorts ,YouTube Shorts deskargatu ,Gorde YouTube Shorts ,Deskargatu YouTube Shorts ,YouTube bideo laburren deskarga ,Nola gorde YouTube Shorts ,Deskargatu Shorts YouTube-n ,YouTube Shorts deskargatzailea ,YouTube Shorts lineaz kanpo deskargatu ,Doako deskargatu YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Deskargatu bideoa tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "deskargatu twitter bideoak"
     },
     "general": {

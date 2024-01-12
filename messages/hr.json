@@ -50,7 +50,7 @@
     "#28": "Sva prava pridržana."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Preuzmite Video Twitch isječak",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite Twitch isječke , Twitch program za preuzimanje isječaka , Spremite Twitch isječke , Kako preuzeti isječke s Twitcha , Twitch isječak preuzeti online , Besplatno preuzimanje Twitch isječaka , Twitch isječak čuvar , Preuzmi Twitch isječke bez vodenog žiga , Twitch isječak grabber , Twitch isječak preuzeti u MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako preuzeti video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Preuzmite Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite Twitch video zapise, Twitch video downloader, Spremite Twitch video zapise, Kako preuzeti video s Twitcha, Twitch preuzimanje isječaka, Besplatno Twitch video preuzimanje, Twitch VOD downloader, Preuzmite Twitch highlights, Twitch video grabber, Twitch preuzimanje u MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Preuzmite video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti instagram video u mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Skini video instagram u mp4",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti video s instagrama u mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Preuzmite Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite Facebook Reel , Facebook Reel Downloader , Spremite Facebook Reel video , Kako preuzeti Reels na Facebooku , Facebook Reel preuzimanje na mreži , Besplatno Facebook Reel preuzimanje , Facebook Reel video čuvar , Preuzimanje Reels s Facebooka , Facebook Reel video grabber , Facebook Reel izvanmrežno preuzimanje",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti facebook video u mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Preuzmite video s Facebooka",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmi Facebook video zapise, Facebook video downloader, Spremi Facebook video zapise, Kako preuzeti video s Facebooka, Facebook video preuzimanje na mreži, Besplatno Facebook video preuzimanje, Facebook video čuvar, Preuzmi privatne Facebook video zapise, HD Facebook video preuzimanje, Facebook u MP4 preuzimanje, preuzimanje videa ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti video sa facebooka"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Preuzimanje videa s YouTubea, preuzimanje videozapisa s YouTubea, program za preuzimanje s YouTubea, Spremanje videozapisa s YouTubea, Kako preuzeti videozapise s YouTubea, preuzimanje videozapisa s YouTubea na mreži, Preuzimanje HD videozapisa s YouTubea, čuvar videozapisa s YouTubea, Grabber videozapisa s YouTubea, Besplatno preuzimanje videozapisa s YouTubea",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti Youtube u MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmi YouTube Shorts, YouTube Shorts preuzimanje, Spremi YouTube Shorts, Preuzmi Shorts s YouTubea, YouTube kratko video preuzimanje, Kako spremiti YouTube Shorts, Preuzmi Shorts na YouTubeu, YouTube Shorts preuzimanje, YouTube Shorts offline preuzimanje, Besplatno preuzimanje YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako preuzeti Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "preuzmi video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "preuzimanje videozapisa s twittera"
     },
     "general": {

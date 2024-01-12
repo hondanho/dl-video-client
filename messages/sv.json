@@ -50,7 +50,7 @@
     "#28": "Alla rättigheter förbehållna."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Ladda ner video Twitch-klipp",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner Twitch-klipp ,Twitch-klippnedladdning ,Spara Twitch-klipp ,Hur man laddar ner klipp från Twitch ,Twitch-klippnedladdning online ,Gratis nedladdning av Twitch-klipp ,Spara Twitch-klipp ,Ladda ner Twitch-klipp utan vattenstämpel ,Twitch-klippklipp till MP4-nedladdning",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Ladda ner video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner Twitch-videor, Twitch-videonedladdning, Spara Twitch-videor, Hur man laddar ner videor från Twitch, Twitch-klippnedladdning, Gratis nedladdning av Twitch-video, Twitch VOD-nedladdning, Ladda ner Twitch-höjdpunkter, Twitch-videograbber, Twitch till MP4-nedladdning",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Ladda ner video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner instagram video till mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Ladda ner video instagram till mp4",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video instagram till mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Ladda ner Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner Facebook Reel ,Facebook Reel downloader ,Spara Facebook Reel video ,Hur man laddar ner Reels på Facebook ,Facebook Reel nedladdning online ,Gratis Facebook Reel nedladdning ,Facebook Reel video saver ,Ladda ner Reels från Facebook ,Facebook Reel videograbber ,Facebook Reel offline nedladdning",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner Facebook-video till mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Ladda ner video Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner Facebook-videor ,Facebook-videonedladdning ,Spara Facebook-videor ,Hur man laddar ner videor från Facebook ,Facebook-videonedladdning online ,Gratis Facebook-videonedladdning ,Facebook-videosparare ,Ladda ner privata Facebook-videor ,HD Facebook-videonedladdning ,Facebook till MP4-nedladdning, ladda ner video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video på facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube-videonedladdningsverktyg",
       "datePublished": "2021-10-01",
       "keywords": "YouTube-videonedladdning, Ladda ner YouTube-videor, YouTube-nedladdare, Spara YouTube-videor, Hur man laddar ner videor från YouTube, YouTube-videonedladdning online, Ladda ner HD-videor från YouTube, YouTube-videosparare, YouTube-videoklippare, Gratis YouTube-videonedladdning",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner Youtube till MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner YouTube Shorts ,YouTube Shorts nedladdning ,Spara YouTube Shorts ,Ladda ner Shorts från YouTube ,YouTube kort videonedladdning ,Hur man sparar YouTube Shorts ,Ladda ner Shorts på YouTube ,YouTube Shorts nedladdningsbara YouTube Shorts offline nedladdning,Gratis nedladdning YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "ladda ner video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "ladda ner twitter-videor"
     },
     "general": {

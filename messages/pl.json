@@ -50,7 +50,7 @@
     "#28": "Wszelkie prawa zastrzeżone."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Pobierz klip wideo z Twitcha",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz klipy z Twitcha, narzędzie do pobierania klipów z Twitcha, zapisywanie klipów z Twitcha, jak pobierać klipy z Twitcha, pobieranie klipów z Twitcha online, bezpłatne pobieranie klipów z Twitcha, wygaszanie klipów z Twitcha, pobieranie klipów z Twitcha bez znaku wodnego, pobieranie klipów z Twitcha, pobieranie klipów z Twitcha do formatu MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać klip wideo Twitch"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Pobierz wideo z Twitcha",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz filmy z Twitcha, Narzędzie do pobierania filmów z Twitcha, Zapisywanie filmów z Twitcha, Jak pobierać filmy z Twitcha, Pobieranie klipów z Twitcha, Bezpłatne pobieranie filmów z Twitcha, Narzędzie do pobierania VOD z Twitcha, Pobieranie najważniejszych wydarzeń z Twitcha, Grabber wideo z Twitcha, Pobieranie Twitch do MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Pobierz wideo z Instagrama",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Instagrama do mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Pobierz wideo z Instagrama w formacie mp4",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Instagrama do mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Pobierz Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz Facebook Reel, Facebook Reel downloader, Zapisz wideo z Facebook Reel, Jak pobrać Reels na Facebooku, Facebook Reel pobierz online, Bezpłatne pobieranie Facebook Reel, Wygaszacz wideo Facebook Reel, Pobieranie Reels z Facebooka, Facebook Reel video grabber, Facebook Reel pobieranie offline",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Facebooka do formatu mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Pobierz wideo z Facebooka",
       "datePublished": "2021-10-01",
       "keywords": "Pobieraj filmy z Facebooka, Narzędzie do pobierania wideo z Facebooka, Zapisuj filmy z Facebooka, Jak pobierać filmy z Facebooka, Pobieranie wideo z Facebooka online, Bezpłatne pobieranie wideo z Facebooka, Wygaszacz wideo z Facebooka, Pobieraj prywatne filmy z Facebooka, Pobieranie wideo HD z Facebooka, Pobieranie z Facebooka do MP4, pobieranie wideo ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Facebooka"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Narzędzie do pobierania filmów z YouTube'a",
       "datePublished": "2021-10-01",
       "keywords": "Pobieranie wideo z YouTube, pobieranie filmów z YouTube, narzędzie do pobierania YouTube, zapisywanie filmów z YouTube, jak pobierać filmy z YouTube, pobieranie wideo z YouTube online, pobieranie filmów HD z YouTube, wygaszacz wideo YouTube, przechwytywanie wideo z YouTube, bezpłatne pobieranie wideo z YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać Youtube do MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Narzędzie do pobierania krótkich filmów z YouTube",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz Shorts z YouTube ,Pobieranie Shorts z YouTube ,Zapisywanie Shorts z YouTube ,Pobieranie Shorts z YouTube ,Pobieranie krótkich filmów z YouTube ,Jak zapisywać Shorts z YouTube ,Pobieranie Shorts z YouTube ,Narzędzie do pobierania Shorts YouTube ,Pobieranie Shorts YouTube w trybie offline ,Bezpłatne pobieranie Shorts YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać Shorts z YouTube'a"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "pobierz wideo tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "pobierz filmy z Twittera"
     },
     "general": {

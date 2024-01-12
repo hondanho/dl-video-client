@@ -26,6 +26,22 @@ const nextConfig = {
       },
     ];
   },
+  // async rewrites() {
+  //   return [
+  //     {
+  //       source: '/en/how-to-download-facebook',
+  //       destination: '/en/facebook-downloader',
+  //     },
+  //     {
+  //       source: '/en/how-to-download-facebook-reels',
+  //       destination: '/en/facebook-downloader',
+  //     },
+  //     {
+  //       source: '/en/facebook-downloader-best',
+  //       destination: '/en/facebook-downloader',
+  //     }
+  //   ]
+  // },
   images: {
     domains: ["scontent.cdninstagram.com"],
   }

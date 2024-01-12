@@ -50,7 +50,7 @@
     "#28": "كل الحقوق محفوظة."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "تحميل فيديو تويتش كليب",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل مقاطع Twitch , تنزيل مقاطع Twitch , حفظ مقاطع Twitch , كيفية تنزيل مقاطع من Twitch , تنزيل مقطع Twitch عبر الإنترنت , تنزيل مقطع Twitch مجانًا , حفظ مقاطع Twitch , تنزيل مقاطع Twitch بدون علامة مائية , أداة التقاط مقاطع Twitch , تنزيل مقطع Twitch إلى MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "طريقة تحميل فيديو تويتش كليب"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "تحميل فيديو تويتش",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل مقاطع فيديو Twitch , تنزيل فيديو Twitch , حفظ مقاطع فيديو Twitch , كيفية تنزيل مقاطع الفيديو من Twitch , تنزيل مقطع Twitch , تنزيل فيديو Twitch مجانًا , تنزيل Twitch VOD , تنزيل أبرز مقاطع Twitch , أداة التقاط فيديو Twitch , تنزيل Twitch إلى MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو التيك توك"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "تحميل فيديو انستقرام",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل instagram Reel ، تنزيل instagram Reel ، حفظ فيديو instagram Reel ، كيفية تنزيل Reels على instagram ، تنزيل instagram Reel عبر الإنترنت ، تنزيل instagram Reel مجانًا ، موفر فيديو instagram Reel ، تنزيل Reels من instagram ، أداة التقاط فيديو Instagram Reel ، تنزيل Instagram Reel دون اتصال",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو الانستقرام بصيغة mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "تحميل فيديو الانستقرام بصيغة mp4",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل instagram Reel ، تنزيل instagram Reel ، حفظ فيديو instagram Reel ، كيفية تنزيل Reels على instagram ، تنزيل instagram Reel عبر الإنترنت ، تنزيل instagram Reel مجانًا ، موفر فيديو instagram Reel ، تنزيل Reels من instagram ، أداة التقاط فيديو Instagram Reel ، تنزيل Instagram Reel دون اتصال",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو الانستقرام بصيغة mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "تحميل فيس بوك ريل",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل Facebook Reel ,Facebook Reel downloader ,حفظ فيديو Facebook Reel ,كيفية تنزيل Reels على Facebook ,Facebook Reel تنزيل عبر الإنترنت ,تنزيل Facebook Reel مجانًا ,Facebook Reel video saver ,تنزيل Reels من Facebook ,Facebook Reel video Grabber ,Facebook Reel تنزيل دون اتصال بالإنترنت",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو الفيسبوك إلى mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "تحميل فيديو فيس بوك",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل مقاطع فيديو Facebook، تنزيل فيديو Facebook، حفظ مقاطع فيديو Facebook، كيفية تنزيل مقاطع الفيديو من Facebook، تنزيل فيديو Facebook عبر الإنترنت، تنزيل فيديو Facebook مجانًا، حفظ فيديو Facebook، تنزيل مقاطع فيديو Facebook الخاصة، تنزيل فيديو Facebook عالي الدقة، تنزيل Facebook إلى MP4، تنزيل الفيديو ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو فيس بوك"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "برنامج تحميل فيديوهات اليوتيوب",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل فيديو YouTube، تنزيل مقاطع فيديو YouTube، تنزيل YouTube، حفظ مقاطع فيديو YouTube، كيفية تنزيل مقاطع الفيديو من YouTube، تنزيل فيديو YouTube عبر الإنترنت، تنزيل مقاطع فيديو عالية الدقة من YouTube، موفر فيديو YouTube، أداة التقاط فيديو YouTube، تنزيل فيديو YouTube مجانًا",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تنزيل يوتيوب إلى MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "برنامج تحميل مقاطع اليوتيوب",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل YouTube Shorts , تنزيل YouTube Shorts , حفظ YouTube Shorts , تنزيل Shorts من YouTube , تنزيل فيديو قصير من YouTube , كيفية حفظ YouTube Shorts , تنزيل YouTube Shorts , تنزيل YouTube Shorts , تنزيل YouTube Shorts دون اتصال بالإنترنت , تنزيل YouTube Shorts مجانًا",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل يوتيوب شورت"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "تحميل فيديو تيك توك"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "تحميل فيديوهات تويتر"
     },
     "general": {

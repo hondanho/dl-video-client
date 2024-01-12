@@ -50,7 +50,7 @@
     "#28": "Alle regte voorbehou."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Laai Video Twitch Clip af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Twitch snitte af ,Twitch clip downloader ,Stoor Twitch clips ,Hoe om snitte van Twitch af te laai ,Twitch clip aflaai aanlyn af ,Gratis Twitch clip aflaai ,Twitch clip saver ,Laai Twitch clips af sonder watermerk af ,Twitch clip aflaai clip ,T4wit",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video Twitch Clip af te laai"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Laai Video Twitch af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Twitch-video's af, Twitch-video-aflaaier, Stoor Twitch-video's, Hoe om video's van Twitch af te laai, Twitch-snit aflaai, Gratis Twitch-video-aflaai, Twitch VOD-aflaaier, Laai Twitch-hoogtepunte af, Twitch-videogryper, Twitch na MP4-aflaai",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video tiktok af te laai"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Laai video Instagram af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om Instagram-video na mp4 af te laai"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Laai video instagram af na mp4",
       "datePublished": "2021-10-01",
       "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video instagram na mp4 af te laai"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Laai Facebook Reel af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Facebook Reel af , Facebook Reel aflaaier , Stoor Facebook Reel video , Hoe om rolle af te laai op Facebook , Facebook Reel laai aanlyn af , Gratis Facebook Reel aflaai , Facebook Reel videobespaarder , Laai rolle van Facebook af , Facebook Reel video gryper , Facebook Reel vanlyn aflaai",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om Facebook-video na mp4 af te laai"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Laai video Facebook af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Facebook-video's af, Facebook-video-aflaaier, Stoor Facebook-video's, Hoe om video's van Facebook af te laai, Facebook-video's aanlyn af te laai, Gratis Facebook-video-aflaai, Facebook-videobespaarder, Laai privaat Facebook-video's af, HD Facebook-video-aflaai, Facebook-aflaai na MP4, laai video af ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video's op Facebook af te laai"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "YouTube-video-aflaaier",
       "datePublished": "2021-10-01",
       "keywords": "YouTube-video aflaai, YouTube-video's aflaai, YouTube-aflaaier, stoor YouTube-video's, Hoe om video's van YouTube af te laai, YouTube-video aanlyn aflaai, HD-video's van YouTube aflaai, YouTube-videobespaarder, YouTube-videogryper, Gratis YouTube-video-aflaai",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om YouTube na MP4 af te laai"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube-kortbroek-aflaaier",
       "datePublished": "2021-10-01",
       "keywords": "Laai YouTube Shorts af ,YouTube Shorts aflaai ,Stoor YouTube Shorts ,Laai Shorts van YouTube af ,YouTube kort video aflaai ,Hoe om YouTube Shorts te stoor ,Laai Shorts op YouTube af ,YouTube Shorts aflaaier ,YouTube Shorts vanlyn aflaai ,Gratis aflaai YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om YouTube Shorts af te laai"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "laai video tiktok af"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "laai twitter video's af"
     },
     "general": {

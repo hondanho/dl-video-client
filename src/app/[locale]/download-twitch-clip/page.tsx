@@ -3,17 +3,17 @@
 import Image from "next/image";
 import { cn } from "@/utils";
 import { useState } from "react";
-import { FAQ, Format, VideoInfo } from "@/types";
+import { Format, VideoInfo, FAQ } from "@/types";
 import { Accordion, AccordionItem } from "@nextui-org/react";
 import { CardVideoInfo } from "@/components/ui/CardVideoInfo";
-import GeneralForm from "@/components/form/GeneralForm";
 import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
 import DisqusComments from "@/components/DisqusComments";
+import TwitchForm from "@/components/form/TwitchForm";
 
-export default function Home() {
-  const t = useTranslations("Page.general");
+export default function TwitchPage() {
+  let t = useTranslations(`Page.download-twitch-clip`);
   const base = useTranslations("Page.base");
 
   const structuredHowToJson = structuredHowTo(t, base);
@@ -22,7 +22,7 @@ export default function Home() {
   const structuredEntertainmentBusinessJson =
     structuredEntertainmentBusiness(t);
   let FAQ_LIST: FAQ[] = [];
-  const faq = useTranslations("Page.general.faq");
+  const faq = useTranslations(`Page.download-twitch-clip.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map((x) => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),
@@ -93,9 +93,14 @@ export default function Home() {
         <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl capitalize">
           {t("title")}
         </h1>
-        <GeneralForm
+        <TwitchForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
+          btnText={base("btnText")}
+          btnLoadingText={base("btnLoadingText")}
+          btnArialLabel={t("form.btnArialLabel")}
+          placeholder={t("form.placeholder")}
+          arialLabel={t("form.arialLabel")}
         />
         <div className="prose prose-neutral prose-a:no-underline mx-auto mt-4 text-xs text-white marker:text-xl md:text-sm">
           <p>
@@ -207,7 +212,7 @@ export default function Home() {
 
         <section className="grid grid-flow-row gap-12 pb-0 text-center md:pb-0">
           <h2 className="text-2xl font-medium leading-tight tracking-tight sm:text-4xl">
-            {base("#7", { name: "" })}
+            {t("#1")}
           </h2>
           <div className="grid grid-cols-1 items-start justify-items-center sm:grid-cols-3 md:gap-12">
             <div className="grid grid-flow-row justify-items-center gap-2">
@@ -491,7 +496,7 @@ const structuredHowTo = (t: any, base: any) => {
   return {
     "@context": "https://schema.org",
     "@type": "HowTo",
-    name: base("#7", { name: "" }),
+    name: t("#1"),
     step: [
       {
         "@type": "HowToStep",

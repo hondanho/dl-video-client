@@ -50,7 +50,7 @@
     "#28": "Seluruh hak cipta."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Unduh Klip Video Twitch",
       "datePublished": "01-10-2021",
       "keywords": "Unduh klip Twitch, Pengunduh klip Twitch, Simpan klip Twitch, Cara mengunduh klip dari Twitch, Unduh klip Twitch online, Unduh klip Twitch gratis, Penghemat klip Twitch, Unduh klip Twitch tanpa tanda air, Pengambil klip Twitch, Klip Twitch ke unduhan MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Unduh Video Kedutan",
       "datePublished": "01-10-2021",
       "keywords": "Unduh video Twitch, pengunduh video Twitch, Simpan video Twitch, Cara mengunduh video dari Twitch, pengunduhan klip Twitch, pengunduhan video Twitch gratis, pengunduh VOD Twitch, Unduh highlight Twitch, pengambil video Twitch, pengunduhan Twitch ke MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara download video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Unduh Video Instagram",
       "datePublished": "01-10-2021",
       "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara download video instagram ke mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Unduh video instagram ke mp4",
       "datePublished": "01-10-2021",
       "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara download video instagram ke mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Unduh Reel Facebook",
       "datePublished": "01-10-2021",
       "keywords": "Unduh Reel Facebook, Pengunduh Reel Facebook, Simpan video Reel Facebook, Cara mengunduh Reel di Facebook, Unduh Reel Facebook online, Unduhan Reel Facebook gratis, Penghemat video Reel Facebook, Mengunduh Reel dari Facebook, Pengambil video Reel Facebook, Unduh offline Reel Facebook",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mendownload video facebook ke mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Unduh Video Facebook",
       "datePublished": "01-10-2021",
       "keywords": "Unduh video Facebook, Pengunduh video Facebook, Simpan video Facebook, Cara mengunduh video dari Facebook, Unduh video Facebook online, Unduh video Facebook gratis, Penghemat video Facebook, Unduh video Facebook pribadi, Unduh video Facebook HD, Unduhan Facebook ke MP4, unduh video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mendownload video facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Pengunduh Video Youtube",
       "datePublished": "01-10-2021",
       "keywords": "Pengunduhan video YouTube, Unduh video YouTube, Pengunduh YouTube, Simpan video YouTube, Cara mengunduh video dari YouTube, unduh video YouTube online, Unduh video HD dari YouTube, Penghemat video YouTube, Pengambil video YouTube, Unduh video YouTube gratis",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh Youtube ke MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Pengunduh Video Pendek Youtube",
       "datePublished": "01-10-2021",
       "keywords": "Unduh YouTube Shorts, unduh YouTube Shorts, Simpan YouTube Shorts, Unduh Shorts dari YouTube, unduh video pendek YouTube, Cara menyimpan YouTube Shorts, Unduh Shorts di YouTube, pengunduh YouTube Shorts, unduh offline YouTube Shorts, unduh gratis YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "unduh video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "unduh video twitter"
     },
     "general": {

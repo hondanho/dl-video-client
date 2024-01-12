@@ -50,7 +50,7 @@
     "#28": "Ყველა უფლება დაცულია."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "ჩამოტვირთეთ ვიდეო Twitch კლიპი",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ Twitch კლიპები, Twitch კლიპების ჩამომტვირთავი, შეინახეთ Twitch კლიპები, როგორ გადმოვწეროთ კლიპები Twitch-დან, Twitch კლიპების ჩამოტვირთვა ინტერნეტით, Twitch კლიპების უფასო ჩამოტვირთვა, Twitch კლიპების შემნახველი, ჩამოტვირთეთ Twitch კლიპები წყლის ნიშნის გარეშე, Twitch clip grabber-ზე, MPTwitch-ზე",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ ვიდეო Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "ჩამოტვირთეთ ვიდეო Twitch",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ Twitch ვიდეოები, Twitch ვიდეო ჩამომტვირთავი, შეინახეთ Twitch ვიდეოები, როგორ ჩამოტვირთოთ ვიდეოები Twitch-დან, Twitch კლიპის ჩამოტვირთვა, Twitch ვიდეოს უფასო ჩამოტვირთვა, Twitch VOD ჩამომტვირთველი, ჩამოტვირთეთ Twitch-ის ხაზგასმა, Twitch ვიდეო გადამღები, Twitch to MP4 ჩამოტვირთვა",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოწეროთ ვიდეო tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "ჩამოტვირთეთ ვიდეო Instagram",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,როგორ გადმოვწეროთ Reels instagram ,instagram Reel ჩამოტვირთეთ ონლაინ ,ინსტაგრამის Reel უფასო ჩამოტვირთვა ,Instagram Reel ვიდეო შემნახველი ,ჩამოტვირთეთ Reels ინსტაგრამიდან ,instagram Reel video grabber offline download",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოწეროთ ინსტაგრამის ვიდეო mp4-ზე"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "ჩამოტვირთეთ ვიდეო ინსტაგრამი mp4-ზე",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,როგორ გადმოვწეროთ Reels instagram ,instagram Reel ჩამოტვირთეთ ონლაინ ,ინსტაგრამის Reel უფასო ჩამოტვირთვა ,Instagram Reel ვიდეო შემნახველი ,ჩამოტვირთეთ Reels ინსტაგრამიდან ,instagram Reel video grabber offline download",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოწეროთ ვიდეო ინსტაგრამი mp4-ზე"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "ჩამოტვირთეთ Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ Facebook Reel , Facebook Reel ჩამოტვირთეთ , შეინახეთ Facebook Reel ვიდეო , როგორ გადმოვწეროთ Reels ფეისბუკზე , Facebook Reel ჩამოტვირთვა ონლაინ , Facebook Reel უფასო ჩამოტვირთვა , Facebook Reel ვიდეო დამზოგავი , Reels ჩამოტვირთვა Facebook-დან , Facebook Reel ვიდეოს გადამღები , Facebook Reel ოფლაინ ჩამოტვირთვა",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოვწეროთ ფეისბუქის ვიდეო mp4-ზე"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "ჩამოტვირთეთ ვიდეო Facebook",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ ფეისბუქის ვიდეოები, ფეისბუქის ვიდეოების ჩამომტვირთველი, ფეისბუქის ვიდეოების შენახვა, როგორ გადმოვწეროთ ვიდეოები ფეისბუქიდან, ფეისბუქის ვიდეოების ჩამოტვირთვა ინტერნეტით, ფეისბუქის ვიდეოების უფასო ჩამოტვირთვა, ფეისბუქის ვიდეო დამზოგავი, პირადი Facebook ვიდეოების ჩამოტვირთვა, HD Facebook ვიდეოს ჩამოტვირთვა, Facebook-ის MP4-ზე ჩამოტვირთვა, ვიდეოს ჩამოტვირთვა ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოვწეროთ ვიდეო ფეისბუქზე"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube ვიდეოს ჩამოტვირთვა",
       "datePublished": "2021-10-01",
       "keywords": "YouTube ვიდეოს ჩამოტვირთვა, YouTube ვიდეოების ჩამოტვირთვა, YouTube-ის ჩამომტვირთავი, YouTube ვიდეოების შენახვა, როგორ გადმოვწეროთ ვიდეოები YouTube-დან, YouTube ვიდეოების ჩამოტვირთვა ინტერნეტით, ჩამოტვირთეთ HD ვიდეოები YouTube-დან, YouTube ვიდეო დამზოგავი, YouTube ვიდეოების დამჭერი, უფასო YouTube ვიდეოს ჩამოტვირთვა",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ გადმოწეროთ Youtube MP4-ზე"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ YouTube Shorts, YouTube Shorts ჩამოტვირთვა, შეინახეთ YouTube Shorts, ჩამოტვირთეთ Shorts YouTube-დან, YouTube მოკლე ვიდეოს ჩამოტვირთვა, როგორ შეინახოთ YouTube Shorts, ჩამოტვირთეთ Shorts YouTube-ზე, YouTube Shorts ჩამოტვირთეთ, YouTube Shorts ოფლაინ ჩამოტვირთვა, უფასო ჩამოტვირთვა YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "ჩამოტვირთეთ ვიდეო tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "ჩამოტვირთეთ ტვიტერის ვიდეოები"
     },
     "general": {

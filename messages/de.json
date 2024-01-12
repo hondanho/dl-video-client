@@ -50,7 +50,7 @@
     "#28": "Alle Rechte vorbehalten."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Laden Sie den Video-Twitch-Clip herunter",
       "datePublished": "01.10.2021",
       "keywords": "Twitch-Clips herunterladen, Twitch-Clip-Downloader, Twitch-Clips speichern, Clips von Twitch herunterladen, Twitch-Clips online herunterladen, Twitch-Clips kostenlos herunterladen, Twitch-Clip-Sparer, Twitch-Clips ohne Wasserzeichen herunterladen, Twitch-Clip-Grabber, Twitch-Clips als MP4 herunterladen",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie einen Video-Twitch-Clip herunter"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Video Twitch herunterladen",
       "datePublished": "01.10.2021",
       "keywords": "Laden Sie Twitch-Videos herunter, Twitch-Video-Downloader, Speichern Sie Twitch-Videos, So laden Sie Videos von Twitch herunter, Laden Sie Twitch-Clips herunter, Kostenloser Download von Twitch-Videos, Twitch VOD-Downloader, Laden Sie Twitch-Highlights herunter, Twitch-Video-Grabber, Laden Sie Twitch in MP4 herunter",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie ein Tiktok-Video herunter"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Laden Sie das Video Instagram herunter",
       "datePublished": "01.10.2021",
       "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie Instagram-Videos als MP4 herunter"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Laden Sie das Instagram-Video auf mp4 herunter",
       "datePublished": "01.10.2021",
       "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie Instagram-Videos als MP4 herunter"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Laden Sie Facebook Reel herunter",
       "datePublished": "01.10.2021",
       "keywords": "Facebook Reel herunterladen, Facebook Reel-Downloader, Facebook Reel-Video speichern, Reels auf Facebook herunterladen, Facebook Reel online herunterladen, Facebook Reel kostenlos herunterladen, Facebook Reel-Video-Sparer, Reels von Facebook herunterladen, Facebook Reel-Video-Grabber, Facebook Reel offline herunterladen",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie Facebook-Videos auf mp4 herunter"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Laden Sie das Facebook-Video herunter",
       "datePublished": "01.10.2021",
       "keywords": "Facebook-Videos herunterladen, Facebook-Video-Downloader, Facebook-Videos speichern, Videos von Facebook herunterladen, Facebook-Videos online herunterladen, kostenloser Facebook-Video-Download, Facebook-Video-Sparer, private Facebook-Videos herunterladen, HD-Facebook-Videos herunterladen, Facebook in MP4 herunterladen, Video herunterladen ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie Facebook-Videos herunter"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "YouTube-Video-Downloader",
       "datePublished": "01.10.2021",
       "keywords": "YouTube-Video-Download, YouTube-Videos herunterladen, YouTube-Downloader, YouTube-Videos speichern, Videos von YouTube herunterladen, YouTube-Video online herunterladen, HD-Videos von YouTube herunterladen, YouTube-Video-Sparer, YouTube-Video-Grabber, kostenloser YouTube-Video-Download",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie YouTube als MP4 herunter"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube-Shorts-Downloader",
       "datePublished": "01.10.2021",
       "keywords": "YouTube-Shorts herunterladen, YouTube-Shorts herunterladen, YouTube-Shorts speichern, Shorts von YouTube herunterladen, YouTube-Kurzvideos herunterladen, YouTube-Shorts speichern, Shorts auf YouTube herunterladen, YouTube-Shorts-Downloader, YouTube-Shorts offline herunterladen, YouTube-Shorts kostenlos herunterladen",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie YouTube-Shorts herunter"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Laden Sie das Tiktok-Video herunter"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "Laden Sie Twitter-Videos herunter"
     },
     "general": {

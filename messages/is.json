@@ -50,7 +50,7 @@
     "#28": "Allur réttur áskilinn."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Sækja myndbandið Twitch myndband",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður Twitch innskotum ,Twitch bút til að hlaða niður ,Vista Twitch bút ,Hvernig á að hlaða niður myndskeiðum frá Twitch ,Twitch bút niðurhal á netinu , Ókeypis niðurhal á Twitch bút ,Twitch bút vistun ,Hlaða niður Twitch bút án vatnsmerkis,Twitch bút til að hlaða niður myndbandi,T4wit",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið Twitch myndband"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Sækja myndbandið Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður Twitch myndböndum,Twitch myndbandsniðurhalara,Vista Twitch myndbönd,Hvernig á að hlaða niður myndböndum frá Twitch,Twitch myndbandsniðurhali,ókeypis niðurhali á Twitch myndbandi,Twitch VOD niðurhalar,Hlaða niður Twitch hápunktum,Twitch myndböndum,Twitch til MP4 niðurhali",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Sækja myndbandið Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja instagram myndband í mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Sækja myndbandið instagram í mp4",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið instagram í mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Sækja Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Sæktu Facebook Reel ,Facebook Reel downloader ,Vista Facebook Reel myndband ,Hvernig á að hlaða niður Reels á Facebook ,Facebook Reel niðurhal á netinu ,Free Facebook Reel niðurhal ,Facebook spóla myndbandssparnaður,Hlaða niður spólum frá Facebook,Facebook spóla myndbandsgripur,Facebook spóla offline niðurhal",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja facebook myndband í mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Sækja myndbandið Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður Facebook myndböndum, Facebook myndbandsniðurhali, Vista Facebook myndböndum, Hvernig á að hlaða niður myndböndum frá Facebook, Facebook myndbandi niðurhal á netinu, Ókeypis niðurhal á Facebook myndbandi, Facebook myndbandssparnaður, Sækja einka Facebook myndbönd, HD Facebook myndband niðurhal, Facebook í MP4 niðurhal, niðurhal myndband ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið Facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube myndbönd niðurhal",
       "datePublished": "2021-10-01",
       "keywords": "YouTube vídeó niðurhal, niðurhal YouTube myndbönd, YouTube niðurhal, Vista YouTube myndbönd, Hvernig á að hlaða niður myndböndum frá YouTube, YouTube myndband niðurhal á netinu, Sækja HD myndbönd frá YouTube, YouTube video saver, YouTube myndband grípa, Ókeypis niðurhal á YouTube myndbandi",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja YouTube í MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube stuttbuxur til að hlaða niður",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður YouTube stuttbuxum ,YouTube stuttbuxur niðurhal ,Vista YouTube stuttbuxur ,Hlaða niður stuttbuxum frá YouTube ,YouTube stuttmyndbönd niðurhal ,Hvernig á að vista YouTube stuttbuxur ,Hlaða niður stuttbuxum á YouTube ,YouTube stuttbuxur niðurhalar ,YouTube stuttbuxur niðurhal án nettengingar ,ókeypis niðurhal YouTube stuttbuxur",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja stuttmyndir frá Youtube"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Sækja myndbandið tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "Sækja twitter myndbönd"
     },
     "general": {

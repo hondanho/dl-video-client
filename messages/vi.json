@@ -50,7 +50,7 @@
     "#28": "Đã đăng ký Bản quyền."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Tải xuống Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống clip Twitch, trình tải xuống clip Twitch, Lưu clip Twitch, Cách tải xuống clip từ Twitch, tải xuống clip Twitch trực tuyến, Tải xuống clip Twitch miễn phí, trình tiết kiệm clip Twitch, Tải xuống clip Twitch không có hình mờ, Trình lấy clip Twitch, tải xuống Twitch clip sang MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Tải xuống video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống video Twitch, trình tải xuống video Twitch, Lưu video Twitch, Cách tải xuống video từ Twitch, tải xuống clip Twitch, tải xuống video Twitch miễn phí, trình tải xuống Twitch VOD, tải xuống các điểm nổi bật của Twitch, trình lấy video Twitch, tải xuống Twitch sang MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải video tik tok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Tải xuống video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải video instagram xuống mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Tải video instagram xuống mp4",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải video instagram xuống mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Tải xuống câu chuyện Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống Facebook reel, trình tải xuống Facebook reel, lưu video Facebook reel, Cách tải xuống reel trên Facebook, tải xuống Facebook reel trực tuyến, tải xuống Facebook reel miễn phí, trình tiết kiệm video Facebook reel, tải xuống reel từ Facebook, công cụ lấy video Facebook reel, tải xuống facebook reel ngoại tuyến",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải video facebook xuống mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Tải xuống video Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống video Facebook, Trình tải xuống video Facebook, Lưu video Facebook, Cách tải xuống video từ Facebook, Tải video Facebook trực tuyến, Tải xuống video Facebook miễn phí, Trình tiết kiệm video Facebook, Tải xuống video Facebook riêng tư, Tải xuống video HD Facebook, Tải xuống Facebook sang MP4, tải xuống video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải video facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Trình tải xuống video Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống video YouTube, Tải xuống video YouTube, Trình tải xuống YouTube, Lưu video YouTube, Cách tải xuống video từ YouTube, Tải xuống video YouTube trực tuyến, Tải xuống video HD từ YouTube, Trình tiết kiệm video YouTube, Trình lấy video YouTube, Tải xuống video YouTube miễn phí",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải Youtube xuống MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Trình tải xuống video ngắn trên Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống YouTube Shorts, tải xuống YouTube Shorts, Lưu video ngắn trên YouTube, Tải xuống video ngắn từ YouTube, tải xuống video ngắn trên YouTube, Cách lưu video ngắn trên YouTube, Tải xuống video ngắn trên YouTube, trình tải xuống YouTube Shorts, tải xuống YouTube Shorts ngoại tuyến, tải xuống miễn phí YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video ngắn trên Youtube"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "tải video tik tok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "tải xuống video twitter"
     },
     "general": {

@@ -50,7 +50,7 @@
     "#28": "Alle rettigheder forbeholdes."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Download video Twitch klip",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitch-klip ,Twitch-klipdownloader ,Gem Twitch-klip ,Sådan downloader du klip fra Twitch ,Twitch-klip download online ,Gratis download af Twitch-klip ,Twitch-klipsparer ,Download Twitch-klip uden vandmærke ,Twitch-klip-grabber til MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader video Twitch klip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Download video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitch-videoer ,Twitch-videodownloader ,Gem Twitch-videoer ,Sådan downloader du videoer fra Twitch ,Twitch klipdownload ,Gratis Twitch videodownload ,Twitch VOD downloader ,Download Twitch højdepunkter ,Twitch videograbber ,Twitch til MP4 download",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Download video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader instagram video til mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Download video instagram til mp4",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader video instagram til mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Download Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Download Facebook Reel ,Facebook Reel downloader ,Gem Facebook Reel video ,Sådan downloader du Reels på Facebook ,Facebook Reel download online ,Gratis Facebook Reel download ,Facebook Reel video saver ,Download Reels fra Facebook ,Facebook Reel videograbber ,Facebook Reel offline download",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader facebook video til mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Download video på Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Download Facebook-videoer ,Facebook-videodownloader ,Gem Facebook-videoer ,Sådan downloader du videoer fra Facebook ,Facebook-videodownload online ,Gratis Facebook-videodownload ,Facebook-videosparer ,Download private Facebook-videoer ,HD Facebook-videodownload ,Facebook til MP4 download, download video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader videoer på facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube video downloader",
       "datePublished": "2021-10-01",
       "keywords": "YouTube-videodownload, Download YouTube-videoer, YouTube-downloader, Gem YouTube-videoer, Sådan downloader du videoer fra YouTube, YouTube-videodownload online, Download HD-videoer fra YouTube, YouTube-videosparer, YouTube-videograbber, Gratis YouTube-videodownload",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader YouTube til MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Download YouTube Shorts ,YouTube Shorts download ,Gem YouTube Shorts ,Download Shorts fra YouTube ,YouTube korte videodownload ,Sådan gemmer du YouTube Shorts ,Download Shorts på YouTube ,YouTube Shorts downloader ,YouTube Shorts offline download ,Gratis download YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Sådan downloader du YouTube-shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Download video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "download twitter videoer"
     },
     "general": {

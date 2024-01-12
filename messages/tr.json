@@ -50,7 +50,7 @@
     "#28": "Her hakkı saklıdır."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Video Twitch Klibi İndir",
       "datePublished": "2021-10-01",
       "keywords": "Twitch kliplerini indirin ,Twitch klip indiricisi ,Twitch kliplerini kaydedin ,Twitch'ten klipler nasıl indirilir ,Twitch klibi çevrimiçi indir ,Ücretsiz Twitch klip indir ,Twitch klip koruyucu ,Twitch kliplerini filigran olmadan indirin ,Twitch klip yakalayıcı ,Twitch klibi MP4'e indirin",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Video Twitch Klip nasıl indirilir"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Video Twitch'i İndirin",
       "datePublished": "2021-10-01",
       "keywords": "Twitch videolarını indirin ,Twitch video indiricisi ,Twitch videolarını kaydetme ,Twitch'ten video indirme ,Twitch klip indirme ,Ücretsiz Twitch video indirme ,Twitch VOD indirici ,Twitch'in önemli anlarını indirin ,Twitch video yakalayıcı ,Twitch'ten MP4'e indirme",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Tiktok videosu nasıl indirilir"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Instagram Videosunu İndir",
       "datePublished": "2021-10-01",
       "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Instagram videosunu mp4'e nasıl indirebilirim?"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Instagram videosunu mp4'e indirin",
       "datePublished": "2021-10-01",
       "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Instagram'dan mp4'e video nasıl indirilir"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Facebook Reel'ı indirin",
       "datePublished": "2021-10-01",
       "keywords": "Facebook Reel'i indirin,Facebook Reel indiricisi,Facebook Reel videosunu kaydedin,Facebook'ta Reels nasıl indirilir,Facebook Reel çevrimiçi indir,Ücretsiz Facebook Reel indir,Facebook Reel video koruyucu,Facebook'tan Reel indirme,Facebook Reel video yakalayıcı,Facebook Reel çevrimdışı indirme",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Facebook'tan mp4'e video nasıl indirilir"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Videoyu İndir Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Facebook videolarını indirin ,Facebook video indiricisi ,Facebook videolarını kaydedin ,Facebook'tan nasıl video indirilir ,Çevrimiçi Facebook video indirme ,Ücretsiz Facebook video indirme ,Facebook video koruyucu ,Özel Facebook videolarını indirin ,HD Facebook video indirme ,Facebook'tan MP4'e indirme, video indirme ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Facebook'tan video nasıl indirilir"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video İndirici",
       "datePublished": "2021-10-01",
       "keywords": "YouTube video indirme, YouTube videolarını indirme, YouTube indirici, YouTube videolarını kaydetme, YouTube'dan video indirme, Çevrimiçi YouTube video indirme, YouTube'dan HD videolar indirme, YouTube video koruyucu, YouTube video yakalayıcı, Ücretsiz YouTube video indirme",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Youtube'u MP4'e nasıl indirebilirim?"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts İndiricisi",
       "datePublished": "2021-10-01",
       "keywords": "YouTube Shorts'u indirin ,YouTube Shorts'u indirin ,YouTube Shorts'u kaydedin ,YouTube'dan Shorts indirin ,YouTube kısa video indirme ,YouTube Shorts nasıl kaydedilir ,YouTube'da Shorts indirin ,YouTube Shorts indiricisi ,YouTube Shorts çevrimdışı indirme ,YouTube Shorts'u ücretsiz indirin",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Youtube Shorts nasıl indirilir"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "tiktok videosunu indir"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "twitter videolarını indir"
     },
     "general": {

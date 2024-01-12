@@ -50,7 +50,7 @@
     "#28": "版权所有。"
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "下载视频 Twitch 剪辑",
       "datePublished": "2021-10-01",
       "keywords": "下载 Twitch 剪辑，Twitch 剪辑下载器，保存 Twitch 剪辑，如何从 Twitch 下载剪辑，Twitch 剪辑在线下载，免费 Twitch 剪辑下载，Twitch 剪辑保护程序，下载无水印的 Twitch 剪辑，Twitch 剪辑抓取器，Twitch 剪辑到 MP4 下载",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载视频 Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "下载视频 Twitch",
       "datePublished": "2021-10-01",
       "keywords": "下载 Twitch 视频、Twitch 视频下载器、保存 Twitch 视频、如何从 Twitch 下载视频、Twitch 剪辑下载、免费 Twitch 视频下载、Twitch VOD 下载器、下载 Twitch 精彩集锦、Twitch 视频采集器、Twitch 到 MP4 下载",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载抖音视频"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "下载视频 Instagram",
       "datePublished": "2021-10-01",
       "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何将 Instagram 视频下载到 mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "将 Instagram 视频下载到 mp4",
       "datePublished": "2021-10-01",
       "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何将 Instagram 视频下载到 mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "下载 Facebook 卷轴",
       "datePublished": "2021-10-01",
       "keywords": "下载 Facebook Reel，Facebook Reel 下载器，保存 Facebook Reel 视频，如何在 Facebook 下载 Reels，Facebook Reel 在线下载，免费 Facebook Reel 下载，Facebook Reel 视频保存程序，从 Facebook 下载 Reels，Facebook Reel 视频采集器，Facebook Reel 离线下载",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何将 Facebook 视频下载到 mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "下载视频 Facebook",
       "datePublished": "2021-10-01",
       "keywords": "下载 Facebook 视频，Facebook 视频下载器，保存 Facebook 视频，如何从 Facebook 下载视频，Facebook 视频在线下载，免费 Facebook 视频下载，Facebook 视频保护程序，下载私人 Facebook 视频，高清 Facebook 视频下载，Facebook 到 MP4 下载，下载视频",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载 Facebook 视频"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "YouTube 视频下载器",
       "datePublished": "2021-10-01",
       "keywords": "YouTube 视频下载, 下载 YouTube 视频, YouTube 下载器, 保存 YouTube 视频, 如何从 YouTube 下载视频, YouTube 视频在线下载, 从 YouTube 下载高清视频, YouTube 视频保护程序, YouTube 视频采集器, 免费 YouTube 视频下载",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何将 YouTube 下载到 MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube 短片下载器",
       "datePublished": "2021-10-01",
       "keywords": "下载 YouTube Shorts ,YouTube Shorts 下载 ,保存 YouTube Shorts ,从 YouTube 下载 Shorts ,YouTube 短视频下载 ,如何保存 YouTube Shorts ,在 YouTube 上下载 Shorts ,YouTube Shorts 下载器 ,YouTube Shorts 离线下载 ,免费下载 YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载 YouTube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "下载视频抖音"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "下载推特视频"
     },
     "general": {

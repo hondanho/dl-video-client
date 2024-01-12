@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { cn, getPathLastFromPath } from "@/utils";
+import { cn } from "@/utils";
 import { useState } from "react";
 import { Format, VideoInfo, FAQ } from "@/types";
 import { Accordion, AccordionItem } from "@nextui-org/react";
@@ -10,19 +10,10 @@ import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
 import DisqusComments from "@/components/DisqusComments";
-import { usePathname } from "next/navigation";
-import TwitchForm from "@/components/form/TwitchForm";
+import TwitterForm from "@/components/form/TwitterForm";
 
-export default function TwitchPage() {
-  const pathname = usePathname();
-  let slugLast = getPathLastFromPath(pathname);
-
-  let t = useTranslations(`Page.${slugLast}`);
-  if (t("title") == `Page.${slugLast}.title`) {
-    slugLast = "download-video-twitch";
-    t = useTranslations(`Page.${slugLast}`);
-  }
-
+export default function TwitterPage() {
+  let t = useTranslations(`Page.download-twitter-video`);
   const base = useTranslations("Page.base");
 
   const structuredHowToJson = structuredHowTo(t, base);
@@ -31,7 +22,7 @@ export default function TwitchPage() {
   const structuredEntertainmentBusinessJson =
     structuredEntertainmentBusiness(t);
   let FAQ_LIST: FAQ[] = [];
-  const faq = useTranslations(`Page.${slugLast}.faq`);
+  const faq = useTranslations(`Page.download-twitter-video.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map((x) => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),
@@ -99,10 +90,10 @@ export default function TwitchPage() {
         id="#download"
         className="video-input flex w-full flex-col items-center bg-primary px-4 pb-20 pt-28 shadow-sm"
       >
-        <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl">
+        <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl capitalize">
           {t("title")}
         </h1>
-        <TwitchForm
+        <TwitterForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
           btnText={base("btnText")}
@@ -347,7 +338,7 @@ export default function TwitchPage() {
             <p>{base("#17")}</p>
           </div>
         </section>
-
+{/* 
         <section className="grid grid-flow-row gap-12 text-center sm:text-start md:gap-32 ">
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4">
@@ -412,7 +403,7 @@ export default function TwitchPage() {
               loading="lazy"
             />
           </div>
-        </section>
+        </section> */}
 
         <section>
           <h2

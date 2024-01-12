@@ -50,7 +50,7 @@
     "#28": "Tutti i diritti riservati."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Scarica clip video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Scarica clip Twitch, downloader clip Twitch, salva clip Twitch, come scaricare clip da Twitch, download clip Twitch online, download gratuito clip Twitch, salva clip Twitch, scarica clip Twitch senza filigrana, cattura clip Twitch, download clip Twitch in MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare clip video Twitch"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Scarica VideoTwitch",
       "datePublished": "2021-10-01",
       "keywords": "Scarica video Twitch, downloader video Twitch, salva video Twitch, come scaricare video da Twitch, download clip Twitch, download gratuito video Twitch, downloader VOD Twitch, scarica highlights Twitch, cattura video Twitch, download da Twitch a MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Scarica video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Scarica instagram Reel, downloader di instagram Reel, salva video di instagram Reel, come scaricare Reels su instagram, download di instagram Reel online, download gratuito di instagram Reel, salva video di instagram Reel, download di Reels da instagram, cattura video di instagram Reel, download offline di instagram Reel",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare i video di instagram in mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Scarica video instagram in mp4",
       "datePublished": "2021-10-01",
       "keywords": "Scarica instagram Reel, downloader di instagram Reel, salva video di instagram Reel, come scaricare Reels su instagram, download di instagram Reel online, download gratuito di instagram Reel, salva video di instagram Reel, download di Reels da instagram, cattura video di instagram Reel, download offline di instagram Reel",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video instagram su mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Scarica FacebookReel",
       "datePublished": "2021-10-01",
       "keywords": "Scarica Facebook Reel, downloader di Facebook Reel, salva video di Facebook Reel, come scaricare Reels su Facebook, download di Facebook Reel online, download gratuito di Facebook Reel, salva video di Facebook Reel, download di Reels da Facebook, cattura video di Facebook Reel, download offline di Facebook Reel",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video da Facebook in mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Scarica VideoFacebook",
       "datePublished": "2021-10-01",
       "keywords": "Scarica video di Facebook, downloader di video di Facebook, salva video di Facebook, come scaricare video da Facebook, download di video di Facebook online, download gratuito di video di Facebook, salva video di Facebook, scarica video privati ​​di Facebook, download di video HD di Facebook, download da Facebook a MP4, scarica video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video da facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Scaricatore di video da Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Download di video di YouTube, Scarica video di YouTube, Downloader di YouTube, Salva video di YouTube, Come scaricare video da YouTube, Download di video di YouTube online, Scarica video HD da YouTube, Risparmio video di YouTube, Cattura video di YouTube, Download gratuito di video di YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare Youtube su MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Scaricatore di cortometraggi da Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Scarica Pantaloncini di YouTube, Download di Pantaloncini di YouTube, Salva Pantaloncini di YouTube, Scarica Pantaloncini da YouTube, Download di brevi video di YouTube, Come salvare Pantaloncini di YouTube, Scarica Pantaloncini su YouTube, Downloader di Pantaloncini di YouTube, Download offline di Pantaloncini di YouTube, Download gratuito di Pantaloncini di YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare i cortometraggi di Youtube"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "scarica il video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "scaricare video da twitter"
     },
     "general": {

@@ -50,7 +50,7 @@
     "#28": "כל הזכויות שמורות."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "הורד וידאו Twitch קליפ",
       "datePublished": "2021-10-01",
       "keywords": "הורדת קטעי Twitch ,הורדת קטעי Twitch ,שמור קטעי Twitch ,כיצד להוריד קטעים מ Twitch ,הורדה מקוונת של Twitch clip ,הורדה בחינם של Twitch clip ,Twitch קליפ שומר ,הורדת Twitch קליפים ללא סימן מים ,Twitch קליפ הורדה ל-MP4.",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד וידאו Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "הורד את Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "הורדת סרטוני טוויץ', הורדת וידאו של Twitch, שמור סרטוני טוויץ', כיצד להוריד סרטונים מ-Twitch, הורדת קליפים של Twitch, הורדת סרטוני טוויץ' בחינם, הורדת VOD של Twitch, הורדת נקודות עיקריות של Twitch, חוטף וידאו מ-Twitch, הורדת Twitch ל-MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד טיקטוק וידאו"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "הורד וידאו אינסטגרם",
       "datePublished": "2021-10-01",
       "keywords": "הורד אינסטגרם Reel, אינסטגרם Reel הורדת סרטון, שמור סרטון Reel אינסטגרם, כיצד להוריד Reels באינסטגרם, אינסטגרם Reel הורדה מקוונת, הורדת Reel בחינם באינסטגרם, חוסך וידאו אינסטגרם Reel, הורדת סלילים מאינסטגרם, אינסטגרם Reel Video Grabber, אינסטגרם Reel הורדה במצב לא מקוון",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד סרטון אינסטגרם ל-mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "הורד סרטון אינסטגרם ל-mp4",
       "datePublished": "2021-10-01",
       "keywords": "הורד אינסטגרם Reel, אינסטגרם Reel הורדת סרטון, שמור סרטון Reel אינסטגרם, כיצד להוריד Reels באינסטגרם, אינסטגרם Reel הורדה מקוונת, הורדת Reel בחינם באינסטגרם, חוסך וידאו אינסטגרם Reel, הורדת סלילים מאינסטגרם, אינסטגרם Reel Video Grabber, אינסטגרם Reel הורדה במצב לא מקוון",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד וידאו אינסטגרם ל-mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "הורד את Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "הורדה של Facebook Reel ,Facebook Reel הורדה ,שמור סרטון Facebook Reel ,איך להוריד Reels בפייסבוק ,Facebook Reel הורדה מקוונת ,הורדה חינם Facebook Reel ,Facebook Reel חוסך וידאו ,הורדת סלילים מפייסבוק ,Facebook Reel וידאו לוכד ,Facebook Reel הורדה במצב לא מקוון",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד סרטון פייסבוק ל-mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "הורד סרטון פייסבוק",
       "datePublished": "2021-10-01",
       "keywords": "הורדת סרטוני פייסבוק , הורדת וידאו לפייסבוק , שמור סרטוני פייסבוק , כיצד להוריד סרטונים מפייסבוק , הורדת וידאו מפייסבוק באינטרנט , הורדת סרטוני פייסבוק בחינם , שומר וידאו בפייסבוק , הורדת סרטוני פייסבוק פרטיים , הורדת סרטוני פייסבוק HD , הורדת פייסבוק ל-MP4, הורדת וידאו ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "איך להוריד וידאו בפייסבוק"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "הורדת סרטוני YouTube",
       "datePublished": "2021-10-01",
       "keywords": "הורדת סרטוני YouTube, הורדת סרטוני YouTube, הורדת YouTube, שמור סרטוני YouTube, כיצד להוריד סרטונים מיוטיוב, הורדת סרטוני YouTube באינטרנט, הורדת סרטוני HD מ-YouTube, שומר וידאו ביוטיוב, חוטף סרטוני YouTube, הורדת סרטוני YouTube בחינם",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד יוטיוב ל-MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "הורדת מכנסיים קצרים של YouTube",
       "datePublished": "2021-10-01",
       "keywords": "הורדת סרטוני יוטיוב קצרים , הורדת סרטוני יוטיוב קצרים , שמירת מכנסיים קצרים של YouTube , הורדת סרטוני וידאו קצרים מיוטיוב , הורדת סרטוני יוטיוב קצרים , איך שומרים סרטוני יוטיוב קצרים , הורדת מכנסיים קצרים ביוטיוב , הורדת סרטוני יוטיוב קצרים , הורדה לא מקוונת של מכנס יוטיוב קצרים , הורדה בחינם של YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד מכנס YouTube קצר"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "הורדת טיקטוק וידאו"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "להוריד סרטוני טוויטר"
     },
     "general": {

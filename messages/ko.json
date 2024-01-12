@@ -50,7 +50,7 @@
     "#28": "판권 소유."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "비디오 트위치 클립 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "Twitch 클립 다운로드 ,Twitch 클립 다운로더 ,Twitch 클립 저장 ,Twitch에서 클립을 다운로드하는 방법 ,Twitch 클립 온라인 다운로드 ,무료 Twitch 클립 다운로드 ,Twitch 클립 보호기 ,워터마크 없이 Twitch 클립 다운로드 ,Twitch 클립 그래버 ,Twitch 클립을 MP4 다운로드",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오 Twitch Clip을 다운로드하는 방법"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "비디오 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "Twitch 비디오 다운로드 ,Twitch 비디오 다운로더 ,Twitch 비디오 저장 ,Twitch에서 비디오 다운로드 방법 ,Twitch 클립 다운로드 ,무료 Twitch 비디오 다운로드 ,Twitch VOD 다운로더 ,Twitch 하이라이트 다운로드 ,Twitch 비디오 그래버 ,Twitch to MP4 다운로드",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오 틱톡을 다운로드하는 방법"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "비디오 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "인스타그램 릴 다운로드, 인스타그램 릴 다운로더, 인스타그램 릴 비디오 저장, 인스타그램에서 릴 다운로드 방법, 인스타그램 릴 온라인 다운로드, 무료 인스타그램 릴 다운로드, 인스타그램 릴 비디오 세이버, 인스타그램에서 릴 다운로드, 인스타그램 릴 비디오 그래버, 인스타그램 릴 오프라인 다운로드",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "인스타그램 비디오를 mp4로 다운로드하는 방법"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "비디오 인스타그램을 mp4로 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "인스타그램 릴 다운로드, 인스타그램 릴 다운로더, 인스타그램 릴 비디오 저장, 인스타그램에서 릴 다운로드 방법, 인스타그램 릴 온라인 다운로드, 무료 인스타그램 릴 다운로드, 인스타그램 릴 비디오 세이버, 인스타그램에서 릴 다운로드, 인스타그램 릴 비디오 그래버, 인스타그램 릴 오프라인 다운로드",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오 인스타그램을 mp4로 다운로드하는 방법"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Facebook 릴 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "Facebook 릴 다운로드 ,Facebook 릴 다운로더 ,Facebook 릴 비디오 저장 ,Facebook에서 릴 다운로드 방법 ,Facebook 릴 온라인 다운로드 ,무료 Facebook 릴 다운로드 ,Facebook 릴 비디오 보호기 ,Facebook에서 릴 다운로드 ,Facebook 릴 비디오 그래버 ,Facebook 릴 오프라인 다운로드",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "페이스북 비디오를 mp4로 다운로드하는 방법"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "비디오 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "Facebook 비디오 다운로드, Facebook 비디오 다운로더, Facebook 비디오 저장, Facebook에서 비디오를 다운로드하는 방법, Facebook 비디오 온라인 다운로드, 무료 Facebook 비디오 다운로드, Facebook 비디오 보호기, 비공개 Facebook 비디오 다운로드, HD Facebook 비디오 다운로드, Facebook에서 MP4로 다운로드, 비디오 다운로드 ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오를 다운로드하는 방법"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "유튜브 비디오 다운로더",
       "datePublished": "2021-10-01",
       "keywords": "YouTube 비디오 다운로드, YouTube 비디오 다운로드, YouTube 다운로더, YouTube 비디오 저장, YouTube에서 비디오를 다운로드하는 방법, YouTube 비디오 온라인 다운로드, YouTube에서 HD 비디오 다운로드, YouTube 비디오 보호기, YouTube 비디오 그래버, 무료 YouTube 비디오 다운로드",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "유튜브를 MP4로 다운로드하는 방법"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube Shorts 다운로더",
       "datePublished": "2021-10-01",
       "keywords": "YouTube Shorts 다운로드 ,YouTube Shorts 다운로드 ,YouTube Shorts 저장 ,YouTube에서 Shorts 다운로드 ,YouTube 짧은 비디오 다운로드 ,YouTube Shorts 저장 방법 ,YouTube Shorts 다운로드 ,YouTube Shorts 다운로더 ,YouTube Shorts 오프라인 다운로드 ,YouTube Shorts 무료 다운로드",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "YouTube Shorts를 다운로드하는 방법"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "비디오 틱톡 다운로드"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "트위터 비디오 다운로드"
     },
     "general": {

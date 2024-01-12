@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { cn, getPathLastFromPath } from "@/utils";
+import { cn } from "@/utils";
 import { useState } from "react";
 import { Format, VideoInfo, FAQ } from "@/types";
 import { Accordion, AccordionItem } from "@nextui-org/react";
@@ -10,19 +10,10 @@ import Link from "next/link";
 import { useLocale, useTranslations } from "next-intl";
 import StructuredData from "@/components/StructuredData";
 import DisqusComments from "@/components/DisqusComments";
-import { usePathname } from "next/navigation";
-import FacebookForm from "@/components/form/FacebookForm";
+import YoutubeForm from "@/components/form/YoutubeForm";
 
-export default function FacebookPage() {
-  const pathname = usePathname();
-  let slugLast = getPathLastFromPath(pathname);
-
-  let t = useTranslations(`Page.${slugLast}`);
-  if (t("title") == `Page.${slugLast}.title`) {
-    slugLast = "download-video-facebook";
-    t = useTranslations(`Page.${slugLast}`);
-  }
-
+export default function YoutubePage() {
+  let t = useTranslations(`Page.download-youtube-video`);
   const base = useTranslations("Page.base");
 
   const structuredHowToJson = structuredHowTo(t, base);
@@ -31,7 +22,7 @@ export default function FacebookPage() {
   const structuredEntertainmentBusinessJson =
     structuredEntertainmentBusiness(t);
   let FAQ_LIST: FAQ[] = [];
-  const faq = useTranslations(`Page.${slugLast}.faq`);
+  const faq = useTranslations(`Page.download-youtube-video.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map((x) => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),
@@ -99,10 +90,10 @@ export default function FacebookPage() {
         id="#download"
         className="video-input flex w-full flex-col items-center bg-primary px-4 pb-20 pt-28 shadow-sm"
       >
-        <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl">
+        <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl capitalize">
           {t("title")}
         </h1>
-        <FacebookForm
+        <YoutubeForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
           btnText={base("btnText")}
@@ -348,7 +339,7 @@ export default function FacebookPage() {
           </div>
         </section>
 
-        <section className="grid grid-flow-row gap-12 text-center sm:text-start md:gap-32 ">
+        {/* <section className="grid grid-flow-row gap-12 text-center sm:text-start md:gap-32 ">
           <div className="grid grid-cols-1 gap-8 sm:gap-32 md:grid-cols-2">
             <div className="grid grid-flow-row content-start gap-4">
               <div className="prose prose-neutral prose-a:no-underline prose-a:text-blue-600 max-w-full marker:text-xl marker:text-blue-600">
@@ -412,7 +403,7 @@ export default function FacebookPage() {
               loading="lazy"
             />
           </div>
-        </section>
+        </section> */}
 
         <section>
           <h2

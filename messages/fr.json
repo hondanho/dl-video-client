@@ -50,7 +50,7 @@
     "#28": "Tous droits réservés."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Télécharger le clip vidéo Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des clips Twitch, téléchargeur de clips Twitch, enregistrez des clips Twitch, comment télécharger des clips depuis Twitch, téléchargement de clips Twitch en ligne, téléchargement gratuit de clips Twitch, économiseur de clips Twitch, téléchargez des clips Twitch sans filigrane, capture de clips Twitch, téléchargement de clips Twitch en MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger la vidéo Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Télécharger la vidéo Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des vidéos Twitch, téléchargeur de vidéos Twitch, enregistrez des vidéos Twitch, comment télécharger des vidéos de Twitch, téléchargement de clips Twitch, téléchargement gratuit de vidéos Twitch, téléchargeur Twitch VOD, téléchargez les faits saillants de Twitch, capture de vidéos Twitch, téléchargement Twitch en MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger la vidéo tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Télécharger la vidéo Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Instagram en mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Télécharger la vidéo Instagram en mp4",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Instagram en mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Télécharger la bobine Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez Facebook Reel, le téléchargeur Facebook Reel, enregistrez la vidéo Facebook Reel, comment télécharger des bobines sur Facebook, téléchargez Facebook Reel en ligne, téléchargez gratuitement Facebook Reel, économiseur vidéo Facebook Reel, téléchargez des bobines à partir de Facebook, capture vidéo Facebook Reel, téléchargement hors ligne Facebook Reel",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Facebook en mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Télécharger la vidéo Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des vidéos Facebook, téléchargeur de vidéos Facebook, enregistrez des vidéos Facebook, comment télécharger des vidéos depuis Facebook, téléchargement de vidéos Facebook en ligne, téléchargement gratuit de vidéos Facebook, économiseur de vidéos Facebook, téléchargez des vidéos Facebook privées, téléchargement de vidéos Facebook HD, téléchargement Facebook vers MP4, téléchargement de vidéos ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Téléchargeur de vidéos Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargement de vidéos YouTube, Télécharger des vidéos YouTube, Téléchargeur YouTube, Enregistrer des vidéos YouTube, Comment télécharger des vidéos de YouTube, Téléchargement de vidéos YouTube en ligne, Télécharger des vidéos HD de YouTube, Économiseur de vidéos YouTube, Capture de vidéos YouTube, Téléchargement gratuit de vidéos YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger Youtube en MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Téléchargeur de courts métrages Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des courts métrages YouTube, téléchargez des courts métrages YouTube, enregistrez des courts métrages YouTube, téléchargez des courts métrages à partir de YouTube, téléchargez de courtes vidéos YouTube, comment enregistrer des courts métrages YouTube, téléchargez des courts métrages sur YouTube, téléchargeur de courts métrages YouTube, téléchargement hors ligne de courts métrages YouTube, téléchargez gratuitement des courts métrages YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger des courts métrages Youtube"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "télécharger la vidéo tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "télécharger des vidéos Twitter"
     },
     "general": {

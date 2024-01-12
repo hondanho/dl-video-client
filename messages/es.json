@@ -50,7 +50,7 @@
     "#28": "Reservados todos los derechos."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Descargar vídeo de Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Descargar clips de Twitch, Descargador de clips de Twitch, Guardar clips de Twitch, Cómo descargar clips de Twitch, Descarga de clips de Twitch en línea, Descarga gratuita de clips de Twitch, Protector de clips de Twitch, Descargar clips de Twitch sin marca de agua, Capturador de clips de Twitch, Descarga de clips de Twitch a MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar vídeo Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Descargar Vídeo Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Descargar videos de Twitch, descargador de videos de Twitch, guardar videos de Twitch, cómo descargar videos de Twitch, descarga de clips de Twitch, descarga gratuita de videos de Twitch, descargador de VOD de Twitch, descargar momentos destacados de Twitch, capturador de videos de Twitch, descarga de Twitch a MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "como descargar videos tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Descargar Vídeo Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Descargar Instagram Reel, descargador de Instagram Reel, guardar video de Instagram Reel, cómo descargar Reels en Instagram, descarga de Instagram Reel en línea, descarga gratuita de Instagram Reel, protector de video de Instagram Reel, descarga de Reels de Instagram, capturador de video de Instagram Reel, descarga sin conexión de Instagram Reel",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar vídeos de Instagram a mp4."
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "descargar videos de instagram a mp4",
       "datePublished": "2021-10-01",
       "keywords": "Descargar Instagram Reel, descargador de Instagram Reel, guardar video de Instagram Reel, cómo descargar Reels en Instagram, descarga de Instagram Reel en línea, descarga gratuita de Instagram Reel, protector de video de Instagram Reel, descarga de Reels de Instagram, capturador de video de Instagram Reel, descarga sin conexión de Instagram Reel",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Como descargar videos de instagram a mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Descargar carrete de Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Descargar Facebook Reel, descargador de Facebook Reel, guardar video de Facebook Reel, cómo descargar Reels en Facebook, descargar Facebook Reel en línea, descargar gratis Facebook Reel, protector de video de Facebook Reel, descargar Reels de Facebook, capturar videos de Facebook Reel, descargar sin conexión de Facebook Reel",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "como descargar videos de facebook a mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Descargar Vídeo Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Descargar videos de Facebook, descargador de videos de Facebook, guardar videos de Facebook, cómo descargar videos de Facebook, descargar videos de Facebook en línea, descargar gratis videos de Facebook, protector de videos de Facebook, descargar videos privados de Facebook, descargar videos HD de Facebook, descargar de Facebook a MP4, descargar videos ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "como descargar videos de facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Descargador de vídeos de Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Descarga de videos de YouTube, Descargar videos de YouTube, Descargador de YouTube, Guardar videos de YouTube, Cómo descargar videos de YouTube, Descarga de videos de YouTube en línea, Descargar videos HD de YouTube, Protector de videos de YouTube, Capturador de videos de YouTube, Descarga gratuita de videos de YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar Youtube a MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Descargador de cortos de Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Descargar pantalones cortos de YouTube, descargar pantalones cortos de YouTube, guardar pantalones cortos de YouTube, descargar pantalones cortos de YouTube, descargar videos cortos de YouTube, cómo guardar pantalones cortos de YouTube, descargar pantalones cortos en YouTube, descargador de pantalones cortos de YouTube, descargar pantalones cortos de YouTube sin conexión, descargar gratis pantalones cortos de YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar cortos de Youtube"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "descargar videos tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "descargar vídeos de twitter"
     },
     "general": {

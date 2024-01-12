@@ -50,7 +50,7 @@
     "#28": "Všechna práva vyhrazena."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Stáhnout Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Stáhněte si klipy Twitch ,Stahování klipů Twitch ,Ukládání klipů Twitch ,Jak stahovat klipy z Twitche ,Stahování klipů Twitch online ,Stahování klipů Twitch zdarma ,Spořič klipů Twitch ,Stahování klipů Twitch bez vodoznaku ,Uchopování klipů Twitch ,Stahování klipu Twitch do MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Stáhnout Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Stáhnout Twitch videa ,Twitch stahování videa ,Ukládat Twitch videa ,Jak stahovat videa z Twitche ,Stahování klipu Twitch ,Bezplatné stažení videa Twitch ,Twitch VOD downloader ,Stahovat Twitch highlights ,Twitch video grabber ,Twitch to MP4 stažení",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Stáhněte si video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Stáhněte si instagram Reel, instagram Reel downloader ,Uložte instagram Reel video ,Jak stáhnout Reels na instagram ,Instagram Reel stažení online ,Bezplatné stažení instagram Reel ,Instagram Reel spořič videa ,Stažení reel z instagramu ,Instagram Reel video grabber ,Instagram Reel stažení offline",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout instagramové video do mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Stáhněte si video instagram do mp4",
       "datePublished": "2021-10-01",
       "keywords": "Stáhněte si instagram Reel, instagram Reel downloader ,Uložte instagram Reel video ,Jak stáhnout Reels na instagram ,Instagram Reel stažení online ,Bezplatné stažení instagram Reel ,Instagram Reel spořič videa ,Stažení reel z instagramu ,Instagram Reel video grabber ,Instagram Reel stažení offline",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video z instagramu do mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Stáhněte si Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Stáhnout Facebook Reel ,Facebook Reel downloader ,Uložit Facebook Reel video ,Jak stáhnout Reel na Facebook ,Facebook Reel stažení online ,Bezplatné stažení Facebook Reel ,Facebook Reel spořič videa ,Stahování Reel z Facebooku ,Facebook Reel video grabber ,Facebook Reel offline stažení",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video z facebooku do mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Stáhnout video z Facebooku",
       "datePublished": "2021-10-01",
       "keywords": "Stahování videí z Facebooku ,Stahování videí z Facebooku ,Ukládání videí z Facebooku ,Jak stahovat videa z Facebooku ,Stahování videí z Facebooku online ,Stahování videí z Facebooku zdarma ,Spořič videa na Facebooku ,Stahování soukromých videí z Facebooku ,Stahování HD videí z Facebooku ,Stahování z Facebooku do MP4, stahování videa ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video z facebooku"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Stahování videa z YouTube, Stahování videí YouTube, Stahovač YouTube, Ukládání videí YouTube, Jak stahovat videa z YouTube, Stahování videí YouTube online, Stahování HD videí z YouTube, Spořič videa YouTube, Stahovač videa YouTube, Stahování videí z YouTube zdarma",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout Youtube do MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Stáhnout YouTube Shorts ,YouTube Shorts download ,Uložit YouTube Shorts ,Stáhnout Shorts z YouTube ,YouTube krátké video stáhnout ,Jak uložit YouTube Shorts ,Stáhnout Shorts na YouTube ,YouTube Shorts downloader ,YouTube Shorts stáhnout offline, Zdarma stáhnout YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "stáhnout video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "stáhnout twitter videa"
     },
     "general": {

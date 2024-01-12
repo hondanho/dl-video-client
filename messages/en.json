@@ -54,7 +54,7 @@
     "#28": "All Rights Reserved."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Download Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitch clips ,Twitch clip downloader ,Save Twitch clips ,How to download clips from Twitch ,Twitch clip download online ,Free Twitch clip download ,Twitch clip saver ,Download Twitch clips without watermark ,Twitch clip grabber ,Twitch clip to MP4 download",
@@ -101,7 +101,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Download Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitch videos ,Twitch video downloader ,Save Twitch videos ,How to download videos from Twitch ,Twitch clip download ,Free Twitch video download ,Twitch VOD downloader ,Download Twitch highlights ,Twitch video grabber ,Twitch to MP4 download",
@@ -242,7 +242,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Download Video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,How to download Reels on instagram ,instagram Reel download online ,Free instagram Reel download ,instagram Reel video saver ,Downloading Reels from instagram ,instagram Reel video grabber ,instagram Reel offline download",
@@ -290,7 +290,7 @@
       "#1": "How to download video instagram"
     },
     "download-instagram-reel": {
-      "title": "Download Instagram Reel",
+      "title": "Download Instagram Reels",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,How to download Reels on instagram ,instagram Reel download online ,Free instagram Reel download ,instagram Reel video saver ,Downloading Reels from instagram ,instagram Reel video grabber ,instagram Reel offline download",
       "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
@@ -336,7 +336,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download instagram video to mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Download video instagram to mp4",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,How to download Reels on instagram ,instagram Reel download online ,Free instagram Reel download ,instagram Reel video saver ,Downloading Reels from instagram ,instagram Reel video grabber ,instagram Reel offline download",
@@ -384,7 +384,7 @@
       "#1": "How to download video instagram to mp4"
     },
 
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Download Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Download Facebook Reel ,Facebook Reel downloader ,Save Facebook Reel video ,How to download Reels on Facebook ,Facebook Reel download online ,Free Facebook Reel download ,Facebook Reel video saver ,Downloading Reels from Facebook ,Facebook Reel video grabber ,Facebook Reel offline download",
@@ -478,7 +478,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download facebook video to mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Download Video Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Download Facebook videos ,Facebook video downloader ,Save Facebook videos ,How to download videos from Facebook ,Facebook video download online ,Free Facebook video download ,Facebook video saver ,Download private Facebook videos ,HD Facebook video download ,Facebook to MP4 download, download video facebook reels",
@@ -526,7 +526,7 @@
       "#1": "How to download video facebook"
     },
 
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "YouTube video download, Download YouTube videos, YouTube downloader, Save YouTube videos, How to download videos from YouTube, YouTube video download online, Download HD videos from YouTube, YouTube video saver, YouTube video grabber, Free YouTube video download",
@@ -667,7 +667,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download Youtube to MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Download YouTube Shorts ,YouTube Shorts download ,Save YouTube Shorts ,Download Shorts from YouTube ,YouTube short video download ,How to save YouTube Shorts ,Download Shorts on YouTube ,YouTube Shorts downloader ,YouTube Shorts offline download ,Free download YouTube Shorts",
@@ -715,10 +715,10 @@
       "#1": "How to download Youtube Shorts"
     },
 
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "download video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "download twitter videos"
     },
     "general": {

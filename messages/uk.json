@@ -50,7 +50,7 @@
     "#28": "Всі права захищені."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Завантажити відеокліп Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте кліпи Twitch , Завантажувач кліпів Twitch , Збережіть кліпи Twitch , Як завантажити кліпи з Twitch , Завантажте кліп Twitch онлайн , Безкоштовне завантаження кліпу Twitch , Збереження кліпу Twitch , Завантажте кліпи Twitch без водяного знака , Захоплювач кліпів Twitch , Завантажте кліп Twitch у MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Завантажте відео Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте відео Twitch, Завантажувач відео Twitch, Збережіть відео Twitch, Як завантажити відео з Twitch, Завантажте кліп Twitch, Безкоштовне завантаження відео Twitch, Завантажте Twitch VOD, Завантажте Twitch highlights, Twitch video grabber, Завантажте Twitch у MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Завантажте відео Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте instagram Reel, завантажувач instagram Reel, збережіть відео з instagram Reel, як завантажити Reels на instagram, завантажте instagram Reel онлайн, безкоштовне завантаження instagram Reel, заставку відео instagram Reel, завантажте Reels з instagram, захоплення відео instagram Reel, завантажте instagram Reel офлайн",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з інстаграм в mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Завантажити відео instagram в mp4",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте instagram Reel, завантажувач instagram Reel, збережіть відео з instagram Reel, як завантажити Reels на instagram, завантажте instagram Reel онлайн, безкоштовне завантаження instagram Reel, заставку відео instagram Reel, завантажте Reels з instagram, захоплення відео instagram Reel, завантажте instagram Reel офлайн",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з інстаграм в mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Завантажте Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Завантажити Facebook Reel , Завантажувач Facebook Reel , Зберегти відео Reels на Facebook , Як завантажити Reels на Facebook , Завантажити Facebook Reel онлайн , Безкоштовне завантаження Facebook Reel , Заставка відео Facebook Reel , Завантажити Reels із Facebook , Відеозйомка Facebook Reel , Завантажити Facebook Reel офлайн",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з facebook в mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Завантажити відео Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Завантажити відео з Facebook , Завантажувач відео з Facebook , Зберегти відео з Facebook , Як завантажити відео з Facebook , Завантажити відео з Facebook онлайн , Безкоштовне завантаження відео з Facebook , Збереження відео з Facebook , Завантажити приватні відео з Facebook , Завантажити HD відео з Facebook , Завантажити з Facebook у MP4, завантажити відео ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Завантажувач відео з Youtube",
       "datePublished": "2021-10-01",
       "keywords": "Завантаження відео YouTube, Завантаження відео YouTube, Завантажувач YouTube, Збереження відео YouTube, Як завантажити відео з YouTube, Завантаження відео YouTube онлайн, Завантаження HD-відео з YouTube, Заставка відео YouTube, Граббер відео YouTube, Безкоштовне завантаження відео YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити Youtube в MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Завантажувач коротких відео YouTube",
       "datePublished": "2021-10-01",
       "keywords": "Завантажити YouTube Shorts , Завантажити YouTube Shorts , Зберегти YouTube Shorts , Завантажити Shorts з YouTube , Завантажити коротке відео YouTube , Як зберегти YouTube Shorts , Завантажити Shorts на YouTube , Завантажувач YouTube Shorts , Завантажити YouTube Shorts офлайн , Безкоштовно завантажити YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "завантажити відео tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "завантажити відео з Twitter"
     },
     "general": {

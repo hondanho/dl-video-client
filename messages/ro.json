@@ -50,7 +50,7 @@
     "#28": "Toate drepturile rezervate."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Descărcați videoclipul Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați clipuri Twitch ,Descărcător de clipuri Twitch ,Salvați clipuri Twitch ,Cum să descărcați clipuri din Twitch ,Descărcare clipuri Twitch online ,Descărcare gratuită a clipurilor Twitch ,Economisor de clipuri Twitch ,Descărcați clipuri Twitch fără filigran ,Capturator de clipuri Twitch ,Descărcare clipuri Twitch în MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați videoclipul Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Descărcați Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați videoclipuri Twitch ,Descărcător de videoclipuri Twitch ,Salvați videoclipuri Twitch ,Cum să descărcați videoclipuri din Twitch ,Descărcare clipuri Twitch ,Descărcare gratuită de videoclipuri Twitch ,Descărcător Twitch VOD ,Descărcați momentele principale Twitch ,Capturare video Twitch ,Descărcare Twitch în MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Descărcați videoclipul Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descarc videoclipul instagram în mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Descărcați videoclipul instagram pe mp4",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum se descarcă videoclipul instagram în mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Descărcați Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați Facebook Reel ,Descărcător Facebook Reel ,Salvați videoclipul Facebook Reel ,Cum să descărcați Reels pe Facebook ,Descărcare Facebook Reel online ,Descărcare gratuită Facebook Reel ,Economisor video Facebook Reel ,Descărcare Reels de pe Facebook ,Capturare video Facebook Reel ,Descărcare offline Facebook Reel",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum se descarcă videoclipul de pe Facebook în mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Descărcați videoclipul Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați videoclipuri Facebook ,Descărcător video Facebook ,Salvați videoclipuri Facebook ,Cum să descărcați videoclipuri de pe Facebook ,Descărcare video Facebook online ,Descărcare gratuită video Facebook ,Economisor video Facebook ,Descărcare videoclipuri private Facebook ,Descărcare video HD Facebook ,Descărcare pe Facebook în MP4, descărcare video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum se descarcă videoclipul facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Descărcarea videoclipurilor YouTube, Descărcarea videoclipurilor YouTube, Instrumentul de descărcare YouTube, Salvarea videoclipurilor YouTube, Cum să descărcați videoclipuri de pe YouTube, Descărcarea videoclipurilor YouTube online, Descărcarea videoclipurilor HD de pe YouTube, Economizor de videoclipuri YouTube, Captură video YouTube, Descărcare gratuită de videoclipuri YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați Youtube pe MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați scurtmetraje YouTube ,Descărcați scurtmetraje YouTube ,Salvați scurtmetraje YouTube ,Descărcați scurtmetraje de pe YouTube ,Descărcați scurt video YouTube ,Cum să salvați scurtmetraje YouTube ,Descărcați scurtmetraje pe YouTube ,Descărcător de scurtmetraje YouTube ,Descărcare scurtă YouTube offline ,Descărcare gratuită Shorts YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați YouTube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "descarca video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "descărcați videoclipuri pe Twitter"
     },
     "general": {

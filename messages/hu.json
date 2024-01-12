@@ -50,7 +50,7 @@
     "#28": "Minden jog fenntartva."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Töltse le a Twitch videó klipet",
       "datePublished": "2021-10-01",
       "keywords": "Twitch klipek letöltése , Twitch klip letöltő , Twitch klipek mentése , Klipek letöltése a Twitchről , Twitch klip online letöltése , Ingyenes Twitch klip letöltés , Twitch klipkímélő , Twitch klipek letöltése vízjel nélkül , Twitch klipfogó , Twitch klip MP4 letöltése",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Twitch klipet"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Twitch videó letöltése",
       "datePublished": "2021-10-01",
       "keywords": "Twitch videók letöltése , Twitch videó letöltő , Twitch videók mentése , Videók letöltése a Twitchről , Twitch klip letöltése , Ingyenes Twitch videó letöltés , Twitch VOD letöltő , Twitch kiemelések letöltése , Twitch videó grabber , Twitch letöltés MP4-re",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a tiktok videót"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Videó letöltése Instagramon",
       "datePublished": "2021-10-01",
       "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan tölthetek le Instagram videót mp4 formátumban"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Instagram videó letöltése mp4 formátumba",
       "datePublished": "2021-10-01",
       "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni az Instagram videót mp4 formátumba"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Facebook Reel letöltése",
       "datePublished": "2021-10-01",
       "keywords": "Facebook orsó letöltése, Facebook orsó letöltő, Facebook orsó videó mentése, orsók letöltése a Facebookon, Facebook orsó letöltése online, ingyenes Facebook orsó letöltés, Facebook orsó videóvédő letöltése, orsók letöltése a Facebookról, Facebook orsó videó grabber, Facebook orsó offline letöltése",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan tölthetek le facebook videót mp4 formátumba"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Videó letöltése Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Facebook videók letöltése , Facebook videó letöltő , Facebook videók mentése , Videók letöltése a Facebookról , Facebook videó letöltése online , Ingyenes Facebook videó letöltés , Facebook videó mentő , Privát Facebook videók letöltése , HD Facebook videó letöltés , Facebook MP4 letöltés, videó letöltés ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a facebook videót"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "YouTube-videók letöltése, YouTube-videók letöltése, YouTube-letöltő, YouTube-videók mentése, videók letöltése a YouTube-ról, YouTube-videók letöltése online, HD-videók letöltése a YouTube-ról, YouTube-videó-mentő, YouTube-videó-megragadó, ingyenes YouTube-videók letöltése",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Youtube-ot MP4-re"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts letöltő",
       "datePublished": "2021-10-01",
       "keywords": "YouTube Shorts letöltése , YouTube Shorts letöltése , YouTube Shorts mentése , Shorts letöltése a YouTube-ról , YouTube Shorts videó letöltése , YouTube Shorts mentése , Shorts letöltése a YouTube-ról , YouTube Shorts letöltő , YouTube Shorts letöltés offline , YouTube Shorts ingyenes letöltése",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Youtube rövidfilmeket"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "letölthető videó tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "Twitter videók letöltése"
     },
     "general": {

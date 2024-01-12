@@ -50,7 +50,7 @@
     "#28": "Ολα τα δικαιώματα διατηρούνται."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Κατεβάστε το Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη κλιπ Twitch, Πρόγραμμα λήψης κλιπ Twitch, Αποθήκευση κλιπ Twitch, Πώς να κατεβάσετε κλιπ από το Twitch, Λήψη κλιπ Twitch online, Δωρεάν λήψη κλιπ Twitch, Προφύλαξη κλιπ Twitch, Λήψη κλιπ Twitch χωρίς υδατογράφημα, Twitch clip grabber σε MPTwitch",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το βίντεο Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Κατεβάστε το Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη βίντεο Twitch , πρόγραμμα λήψης βίντεο Twitch , Αποθήκευση βίντεο Twitch , Πώς να κατεβάσετε βίντεο από το Twitch , Λήψη κλιπ Twitch , Δωρεάν λήψη βίντεο Twitch , Πρόγραμμα λήψης Twitch VOD , Λήψη Twitch highlights , Twitch grabber , λήψη Twitch σε MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το βίντεο tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Λήψη βίντεο Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Κατεβάστε το instagram Reel, πρόγραμμα λήψης Reel instagram, Αποθήκευση βίντεο Reel στο instagram, Πώς να κατεβάσετε Reels στο instagram, κατεβάστε το instagram Reel online, Δωρεάν λήψη instagram Reel, προφύλαξη βίντεο instagram Reel, Λήψη Reels από το instagram, instagram Reel video grabber offline, instagram",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο instagram σε mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Κατεβάστε το βίντεο instagram σε mp4",
       "datePublished": "2021-10-01",
       "keywords": "Κατεβάστε το instagram Reel, πρόγραμμα λήψης Reel instagram, Αποθήκευση βίντεο Reel στο instagram, Πώς να κατεβάσετε Reels στο instagram, κατεβάστε το instagram Reel online, Δωρεάν λήψη instagram Reel, προφύλαξη βίντεο instagram Reel, Λήψη Reels από το instagram, instagram Reel video grabber offline, instagram",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο instagram σε mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Κατεβάστε το Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Κατεβάστε το Facebook Reel , το πρόγραμμα λήψης του Facebook Reel , Αποθήκευση βίντεο του Facebook Reel , Πώς να κατεβάσετε Reels στο Facebook , Facebook Reel λήψη online , Δωρεάν λήψη του Facebook Reel , Facebook Reel προφύλαξη βίντεο ,Λήψη Reels από το Facebook , Facebook Reel video grabber , Facebook Reel offline λήψη",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο από το facebook σε mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Λήψη βίντεο από το Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη βίντεο από το Facebook , πρόγραμμα λήψης βίντεο από το Facebook , Αποθήκευση βίντεο από το Facebook , Πώς να κατεβάσετε βίντεο από το Facebook , Λήψη βίντεο από το Facebook στο Διαδίκτυο , Δωρεάν λήψη βίντεο από το Facebook , Προφύλαξη βίντεο από το Facebook , Λήψη ιδιωτικών βίντεο από το Facebook , λήψη βίντεο HD Facebook , λήψη βίντεο από το Facebook σε MP4, λήψη βίντεο ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο από το facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Πρόγραμμα λήψης βίντεο από το YouTube",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη βίντεο YouTube, Λήψη βίντεο YouTube, πρόγραμμα λήψης YouTube, Αποθήκευση βίντεο από το YouTube, Τρόπος λήψης βίντεο από το YouTube, λήψη βίντεο από το YouTube στο διαδίκτυο, Λήψη βίντεο HD από το YouTube, Προφύλαξη βίντεο YouTube, εφαρμογή λήψης βίντεο YouTube, Δωρεάν λήψη βίντεο YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το Youtube σε MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη YouTube Shorts ,Λήψη YouTube Shorts ,Αποθήκευση YouTube Shorts ,Λήψη Shorts από το YouTube ,YouTube λήψη σύντομου βίντεο ,Πώς να αποθηκεύσετε Shorts YouTube ,Λήψη Shorts στο YouTube ,YouTube Shorts λήψη ,YouTube Shorts λήψη εκτός σύνδεσης ,Δωρεάν λήψη YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Κατεβάστε το βίντεο tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "κατεβάστε βίντεο στο twitter"
     },
     "general": {

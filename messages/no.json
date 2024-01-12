@@ -50,7 +50,7 @@
     "#28": "Alle rettigheter reservert."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Last ned video Twitch-klipp",
       "datePublished": "2021-10-01",
       "keywords": "Last ned Twitch klipp ,Twitch klipp nedlasting ,Lagre Twitch klipp ,Hvordan laste ned klipp fra Twitch ,Twitch klipp nedlasting online ,Gratis Twitch klipp nedlasting ,Twitch klipp saver ,Last ned Twitch klipp uten vannmerke Twitch clip grabber til MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned video Twitch-klipp"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Last ned video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Last ned Twitch-videoer ,Twitch-videonedlaster ,Lagre Twitch-videoer ,Hvordan laste ned videoer fra Twitch ,Twitch-klippnedlasting ,Gratis Twitch-videonedlasting ,Twitch VOD-nedlaster ,Last ned Twitch-høydepunkter ,Twitch-videograbber ,Twitch til MP4-nedlasting",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Last ned video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Last ned instagram Reel , Instagram Reel nedlasting , Lagre instagram Reel video , Hvordan laste ned Reels på instagram , Instagram Reel nedlasting online , Gratis instagram Reel nedlasting , Instagram Reel video saver , Laste ned hjul fra instagram , Instagram Reel video grabber , Instagram Reel offline nedlasting",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned instagram video til mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Last ned video instagram til mp4",
       "datePublished": "2021-10-01",
       "keywords": "Last ned instagram Reel , Instagram Reel nedlasting , Lagre instagram Reel video , Hvordan laste ned Reels på instagram , Instagram Reel nedlasting online , Gratis instagram Reel nedlasting , Instagram Reel video saver , Laste ned hjul fra instagram , Instagram Reel video grabber , Instagram Reel offline nedlasting",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned video instagram til mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Last ned Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Last ned Facebook Reel ,Facebook Reel nedlasting ,Lagre Facebook Reel video ,Hvordan laste ned Reels på Facebook ,Facebook Reel nedlasting online ,Gratis Facebook Reel nedlasting ,Facebook Reel videosparer,Last ned Reels fra Facebook,Facebook Reel videograbber,Facebook Reel offline nedlasting",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned Facebook-video til mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Last ned video på Facebook",
       "datePublished": "2021-10-01",
       "keywords": "Last ned Facebook-videoer ,Facebook-videonedlasting ,Lagre Facebook-videoer ,Hvordan laste ned videoer fra Facebook ,Facebook-videonedlasting på nettet ,Gratis Facebook-videonedlasting ,Facebookvideosparer ,Last ned private Facebook-videoer ,HD Facebook-videonedlasting ,Facebook til MP4-nedlasting, last ned video ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned videoer på facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "YouTube-videonedlasting",
       "datePublished": "2021-10-01",
       "keywords": "YouTube-videonedlasting, Last ned YouTube-videoer, YouTube-nedlaster, Lagre YouTube-videoer, Hvordan laste ned videoer fra YouTube, YouTube-videonedlasting på nettet, Last ned HD-videoer fra YouTube, YouTube-videosparer, YouTube-videograbber, Gratis YouTube-videonedlasting",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned YouTube til MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube Shorts Nedlaster",
       "datePublished": "2021-10-01",
       "keywords": "Last ned YouTube Shorts ,YouTube Shorts nedlasting ,Lagre YouTube Shorts ,Last ned Shorts fra YouTube ,YouTube shorts nedlasting ,Hvordan lagre YouTube Shorts ,Last ned Shorts på YouTube ,YouTube Shorts nedlaster ,YouTube Shorts offline nedlasting,Gratis nedlasting YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned YouTube-shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "Last ned video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "Last ned twitter-videoer"
     },
     "general": {

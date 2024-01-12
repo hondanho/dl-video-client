@@ -50,7 +50,7 @@
     "#28": "無断転載を禁じます。"
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "ビデオ Twitch クリップをダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "Twitch クリップのダウンロード、Twitch クリップ ダウンローダー、Twitch クリップの保存、Twitch からクリップをダウンロードする方法、Twitch クリップをオンラインでダウンロード、無料の Twitch クリップ ダウンロード、Twitch クリップ セーバー、透かしなしの Twitch クリップをダウンロード、Twitch クリップ グラバー、Twitch クリップを MP4 ダウンロード",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "ビデオ Twitch Clip をダウンロードする方法"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "ビデオをダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "Twitch ビデオのダウンロード 、Twitch ビデオ ダウンローダー 、Twitch ビデオの保存 、Twitch からビデオをダウンロードする方法 、Twitch クリップ ダウンロード 、無料 Twitch ビデオ ダウンロード 、Twitch VOD ダウンローダー 、Twitch ハイライトのダウンロード 、Twitch ビデオ グラバー 、Twitch to MP4 ダウンロード",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "tiktokの動画をダウンロードする方法"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "ビデオをダウンロード Instagram",
       "datePublished": "2021-10-01",
       "keywords": "instagram リールのダウンロード 、instagram リール ダウンローダー 、instagram リール ビデオの保存 、instagram でリールをダウンロードする方法 、instagram リール ダウンロード オンライン 、無料 instagram リール ダウンロード 、instagram リール ビデオ セーバー 、instagram からリールをダウンロード , instagram リール ビデオ グラバー , instagram リール オフライン ダウンロード",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "InstagramビデオをMP4にダウンロードする方法"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "インスタグラムのビデオをmp4にダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "instagram リールのダウンロード 、instagram リール ダウンローダー 、instagram リール ビデオの保存 、instagram でリールをダウンロードする方法 、instagram リール ダウンロード オンライン 、無料 instagram リール ダウンロード 、instagram リール ビデオ セーバー 、instagram からリールをダウンロード , instagram リール ビデオ グラバー , instagram リール オフライン ダウンロード",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Instagramのビデオをmp4にダウンロードする方法"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Facebook リールをダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "Facebook リールをダウンロード ,Facebook リール ダウンローダー ,Facebook リール ビデオを保存 ,Facebook でリールをダウンロードする方法 ,Facebook リールをオンラインでダウンロード ,無料の Facebook リール ダウンロード ,Facebook リール ビデオ セーバー ,Facebook からリールをダウンロード ,Facebook リール ビデオ グラバー ,Facebook リール オフライン ダウンロード",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "FacebookビデオをMP4にダウンロードする方法"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "ビデオをダウンロードする",
       "datePublished": "2021-10-01",
       "keywords": "Facebook ビデオのダウンロード、Facebook ビデオ ダウンローダー、Facebook ビデオの保存、Facebook からビデオをダウンロードする方法、オンラインで Facebook ビデオ ダウンロード、無料 Facebook ビデオ ダウンロード、Facebook ビデオ セーバー、プライベート Facebook ビデオをダウンロード、HD Facebook ビデオ ダウンロード、Facebook から MP4 へのダウンロード、ビデオをダウンロード",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Facebookのビデオをダウンロードする方法"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtubeビデオダウンローダー",
       "datePublished": "2021-10-01",
       "keywords": "YouTube 動画のダウンロード、YouTube 動画のダウンロード、YouTube ダウンローダー、YouTube 動画の保存、YouTube から動画をダウンロードする方法、オンラインで YouTube ビデオのダウンロード、YouTube から HD ビデオをダウンロード、YouTube ビデオ セーバー、YouTube ビデオ グラバー、無料の YouTube 動画ダウンロード",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "YouTubeをMP4にダウンロードする方法"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "YouTube ショート ダウンローダー",
       "datePublished": "2021-10-01",
       "keywords": "YouTube ショートのダウンロード ,YouTube ショートのダウンロード ,YouTube ショートの保存 ,YouTube からショートをダウンロード ,YouTube ショートビデオのダウンロード ,YouTube ショートを保存する方法 ,YouTube でショートをダウンロード ,YouTube ショート ダウンローダー ,YouTube ショート オフライン ダウンロード ,YouTube ショートを無料ダウンロード",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "YouTube ショートをダウンロードする方法"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "ビデオをダウンロードする"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "ツイッターの動画をダウンロードする"
     },
     "general": {

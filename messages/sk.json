@@ -50,7 +50,7 @@
     "#28": "Všetky práva vyhradené."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Stiahnite si Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si klipy Twitch ,Sťahovanie klipov Twitch ,Ukladanie klipov Twitch ,Ako sťahovať klipy z Twitch ,Sťahovanie klipov Twitch online ,Bezplatné stiahnutie klipov Twitch ,Šetrič klipov Twitch ,Sťahovanie klipov Twitch bez vodoznaku ,Uchopenie klipov Twitch ,Sťahovanie klipov Twitch do MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Stiahnite si Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si Twitch videá ,Twitch video downloader ,Uložte Twitch videá ,Ako sťahovať videá z Twitch ,Twitch sťahovanie klipov ,Bezplatné sťahovanie videí Twitch ,Twitch VOD downloader ,Sťahovanie Twitch highlightov ,Twitch video grabber ,Twitch to MP4 download",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Stiahnite si video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "ako stiahnuť instagramové video do mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Stiahnite si video instagram do mp4",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "ako stiahnuť video instagram do mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Stiahnite si Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si Facebook Reel ,Facebook Reel Downloader ,Uložte Facebook Reel video ,Ako sťahovať Reel na Facebook ,Facebook Reel sťahovanie online ,Bezplatné stiahnutie Facebook Reel ,Facebook Reel video šetrič ,Sťahovanie Reelov z Facebooku ,Facebook Reel video grabber ,Facebook Reel sťahovanie offline",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "ako stiahnuť video z facebooku do mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Stiahnite si video z Facebooku",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si videá z Facebooku ,Sťahovanie videí z Facebooku ,Ukladanie videí z Facebooku ,Ako sťahovať videá z Facebooku ,Sťahovanie videí z Facebooku online ,Bezplatné sťahovanie videí z Facebooku ,Šetrič videa z Facebooku ,Sťahovanie súkromných videí z Facebooku ,Sťahovanie HD videí z Facebooku ,Sťahovanie z Facebooku do MP4, sťahovanie videa ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video z facebooku"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Sťahovanie videa z YouTube, sťahovanie videí z YouTube, sťahovanie z YouTube, ukladanie videí z YouTube, ako sťahovať videá z YouTube, sťahovanie videa z YouTube online, sťahovanie HD videí z YouTube, šetrič videa YouTube, zachytávanie videa z YouTube, bezplatné sťahovanie videí z YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť Youtube do MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si YouTube Shorts ,YouTube Shorts download ,Uložte YouTube Shorts ,Stiahnite si Shorts z YouTube ,Sťahovanie krátkych videí YouTube ,Ako uložiť YouTube Shorts ,Stiahnuť krátke videá na YouTube ,Sťahovač YouTube Shorts ,YouTube Shorts sťahovanie offline ,Bezplatné stiahnutie YouTube Shorts",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "stiahnite si video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "stiahnite si twitter videá"
     },
     "general": {

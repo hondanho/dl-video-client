@@ -13,6 +13,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const rootPath = process.cwd();
   // const rootPath = "..";
   const files = fs.readdirSync(path.join(rootPath, "messages"));
+  const directories = fs.readdirSync(path.join(rootPath, 'src', 'app', '[locale]'), { withFileTypes: true });
+
+  const localeFolders =directories
+  .filter(dir => dir.isDirectory())
+  .map(dir => dir.name);
 
   files.forEach((file) => {
     const fileName = path.basename(file);
@@ -21,21 +26,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   await Promise.all(
     languages.map(async (locale) => {
-      const jsonData = fs.readFileSync(
-        `${rootPath}/messages/${locale}.json`,
-        "utf-8"
-      );
-      const parsedData: any = JSON.parse(jsonData);
-
-      const keys = Object.keys(parsedData.Page);
-
-      const sitemapItem = keys.map((key) => {
-        const slug =
-          !parsedData.Page[key]["slug-high-level"] && parsedData.Page[key].title
-            ? `/${slugify(parsedData.Page[key].title)}`
-            : "";
+      const sitemapItem = localeFolders.map((name) => {
         return {
-          url: `${baseUrl}/${locale}/${key}${slug}`,
+          url: `${baseUrl}/${locale}/${name}`,
           lastModified: new Date().toISOString(),
           changeFrequency: "monthly",
           priority: 1,

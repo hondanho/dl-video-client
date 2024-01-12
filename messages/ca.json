@@ -50,7 +50,7 @@
     "#28": "Tots els drets reservats."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Descarrega Video Twitch Clip",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu clips de Twitch ,Descàrrega de clips de Twitch ,Desar clips de Twitch ,Com baixar clips de Twitch ,Descàrrega de clips de Twitch en línia ,Descàrrega gratuïta de clips de Twitch ,Estalvi de clips de Twitch ,Descarregueu clips de Twitch sense filigrana ,Captador de clips de Twitch ,Descàrrega de clips de Twitch a MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar el vídeo Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Descarrega Video Twitch",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu vídeos de Twitch ,Descàrrega de vídeos de Twitch ,Deseu vídeos de Twitch ,Com baixar vídeos de Twitch ,Descàrrega de clips de Twitch ,Descàrrega gratuïta de vídeos de Twitch ,Descàrrega de VOD de Twitch ,Descarregueu els aspectes destacats de Twitch ,Capturador de vídeos de Twitch ,Descàrrega de Twitch a MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar vídeo tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Descarrega el vídeo d'Instagram",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu Instagram Reel, descàrrega de rodets d'instagram, Desa el vídeo de Reel d'Instagram, Com descarregar Reels a instagram, descàrrega d'instagram Reel en línia, Descàrrega gratuïta de Reel d'Instagram, estalvi de vídeos d'instagram Reel, baixada de Reels des d'Instagram, capturador de vídeos d'Instagram Reel, descàrrega fora de línia d'Instagram Reel",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar vídeos d'instagram a mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Descarrega el vídeo d'instagram a mp4",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu Instagram Reel, descàrrega de rodets d'instagram, Desa el vídeo de Reel d'Instagram, Com descarregar Reels a instagram, descàrrega d'instagram Reel en línia, Descàrrega gratuïta de Reel d'Instagram, estalvi de vídeos d'instagram Reel, baixada de Reels des d'Instagram, capturador de vídeos d'Instagram Reel, descàrrega fora de línia d'Instagram Reel",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar vídeos d'instagram a mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Descarrega Facebook Reel",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu Facebook Reel ,Descàrrega de Facebook Reel ,Desa el vídeo de Facebook Reel ,Com descarregar Reels a Facebook ,Descàrrega de Facebook Reel en línia ,Descàrrega gratuïta de Facebook Reel ,Estalvi de vídeos de Facebook Reel ,Descarregueu Reels de Facebook ,Grabador de vídeos de Facebook Reel ,Descàrrega fora de línia de Facebook Reel",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar vídeo de Facebook a mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Descarrega el vídeo de Facebook",
       "datePublished": "01-10-2021",
       "keywords": "Baixeu vídeos de Facebook ,Descàrrega de vídeos de Facebook ,Deseu vídeos de Facebook ,Com baixar vídeos de Facebook ,Descàrrega de vídeos de Facebook en línia ,Descàrrega gratuïta de vídeos de Facebook ,Estalvi de vídeos de Facebook ,Descarregueu vídeos privats de Facebook ,Descàrrega de vídeos HD de Facebook ,Descàrrega de Facebook a MP4, baixada de vídeo ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar vídeos de facebook"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Descàrrega de vídeos de Youtube",
       "datePublished": "01-10-2021",
       "keywords": "Descàrrega de vídeos de YouTube, Baixeu vídeos de YouTube, Descàrrega de vídeos de YouTube, Desar vídeos de YouTube, Com descarregar vídeos de YouTube, Baixar vídeos de YouTube en línia, Baixar vídeos HD de YouTube, Estalviador de vídeos de YouTube, capturador de vídeos de YouTube, Descàrrega gratuïta de vídeos de YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar Youtube a MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Descàrrega de curts de Youtube",
       "datePublished": "01-10-2021",
       "keywords": "Baixa curts de YouTube ,Descàrrega de curts de YouTube ,Desa curts de YouTube ,Baixa curts de YouTube ,Descàrrega de vídeos curts de YouTube ,Com desar curts de YouTube ,Baixa curts a YouTube ,Descàrrega de curts de YouTube ,Descàrrega de curts de YouTube fora de línia ,Descàrrega gratuïta de curts de YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Com descarregar YouTube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "descarregar video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "descarregar vídeos de twitter"
     },
     "general": {

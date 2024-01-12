@@ -50,7 +50,7 @@
     "#28": "Vse pravice pridržane."
   },
   "Page": {
-    "download-video-twitch-clip": {
+    "download-twitch-clip": {
       "title": "Prenesite Video Twitch Clip",
       "datePublished": "2021-10-01",
       "keywords": "Prenesite posnetke Twitch, Prenos posnetkov Twitch, Shranite posnetke Twitch, Kako prenesti posnetke s Twitcha, Prenesite posnetke Twitch prek spleta, Brezplačen prenos posnetkov Twitch, Ohranjevalnik posnetkov Twitch, Prenesite posnetke Twitch brez vodnega žiga, Zgrabilec posnetkov Twitch, Prenesite posnetke Twitch v MP4",
@@ -97,7 +97,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video Twitch Clip"
     },
-    "download-video-twitch": {
+    "download-twitch-video": {
       "title": "Prenesite Video Twitch",
       "datePublished": "2021-10-01",
       "keywords": "Prenos videoposnetkov Twitch, Prenos videoposnetkov Twitch, Shranjevanje videoposnetkov Twitch, Kako prenesti videoposnetke s Twitcha, Prenos posnetkov Twitch, Brezplačen prenos videoposnetkov Twitch, Prenos videoposnetkov Twitch, Prenos poudarkov Twitch, Zajemalnik videoposnetkov Twitch, Prenos Twitch v MP4",
@@ -238,7 +238,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video tiktok"
     },
-    "download-video-instagram": {
+    "download-instagram-video": {
       "title": "Prenesite Video Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
@@ -332,7 +332,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti instagram video v mp4"
     },
-    "download-video-instagram-to-mp4": {
+    "download-instagram-video-to-mp4": {
       "title": "Prenesite video instagram v mp4",
       "datePublished": "2021-10-01",
       "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
@@ -379,7 +379,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video instagram v mp4"
     },
-    "download-facebook-reel": {
+    "download-facebook-reels": {
       "title": "Prenesite Facebook Reel",
       "datePublished": "2021-10-01",
       "keywords": "Prenesite Facebook Reel, prenosnik Facebook Reel, Shranite videoposnetek Facebook Reel, Kako prenesti Reels na Facebooku, Prenos Facebook Reel prek spleta, Brezplačen prenos Facebook Reel, Ohranjevalnik videoposnetkov Facebook Reel, Prenos Reels s Facebooka, Grabnik videoposnetkov Facebook Reel, Prenos Facebook Reel brez povezave",
@@ -473,7 +473,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti facebook video v mp4"
     },
-    "download-video-facebook": {
+    "download-facebook-video": {
       "title": "Prenesite video s Facebooka",
       "datePublished": "2021-10-01",
       "keywords": "Prenos videoposnetkov s Facebooka, prenosnik videoposnetkov s Facebooka, shranjevanje videoposnetkov s Facebooka, kako prenesti videoposnetke s Facebooka, prenos videoposnetkov s Facebooka na spletu, brezplačen prenos videoposnetkov s Facebooka, ohranjevalnik videoposnetkov s Facebooka, prenos zasebnih videoposnetkov s Facebooka, prenos HD videoposnetkov s Facebooka, prenos s Facebooka v MP4, prenos videa ",
@@ -520,7 +520,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video s facebooka"
     },
-    "youtube-video-downloader": {
+    "download-youtube-video": {
       "title": "Youtube Video Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Prenos videa YouTube, Prenos videoposnetkov YouTube, Prenosnik YouTube, Shranjevanje videoposnetkov YouTube, Kako prenesti videoposnetke z YouTuba, Prenos videoposnetkov YouTube na spletu, Prenos HD videoposnetkov z YouTuba, Ohranjevalnik videoposnetkov YouTube, Zajem videoposnetkov YouTube, Brezplačen prenos videoposnetkov YouTube",
@@ -661,7 +661,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti Youtube v MP4"
     },
-    "youtube-shorts-downloader": {
+    "download-youtube-shorts": {
       "title": "Youtube Shorts Downloader",
       "datePublished": "2021-10-01",
       "keywords": "Prenos kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov YouTube, shranjevanje kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov iz YouTuba, prenos kratkega videoposnetka iz YouTuba, kako shraniti kratke videoposnetke v YouTubu, prenos kratkih videoposnetkov v YouTubu, prenos kratkih videoposnetkov YouTube, prenos kratkih videoposnetkov YouTube brez povezave, brezplačen prenos kratkih videoposnetkov YouTube",
@@ -708,10 +708,10 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti Youtube Shorts"
     },
-    "download-from-tiktok": {
+    "download-tiktok-video": {
       "title": "prenesi video tiktok"
     },
-    "download-from-twitter": {
+    "download-twitter-video": {
       "title": "prenesite videoposnetke s Twitterja"
     },
     "general": {
