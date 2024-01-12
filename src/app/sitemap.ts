@@ -18,6 +18,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const localeFolders =directories
   .filter(dir => dir.isDirectory())
   .map(dir => dir.name);
+  localeFolders.push('');
 
   files.forEach((file) => {
     const fileName = path.basename(file);
@@ -28,7 +29,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     languages.map(async (locale) => {
       const sitemapItem = localeFolders.map((name) => {
         return {
-          url: `${baseUrl}/${locale}/${name}`,
+          url: `${baseUrl}/${locale}${name ? `/${name}` : ''}`,
           lastModified: new Date().toISOString(),
           changeFrequency: "monthly",
           priority: 1,
