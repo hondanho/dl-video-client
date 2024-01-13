@@ -70,6 +70,7 @@ export default function Home() {
     return {
       "@context": "https://schema.org",
       "@type": "FAQPage",
+      name: "Frequently Asked Questions",
       mainEntity: FAQ_LIST.map((x) => {
         return {
           "@type": "Question",

@@ -69,7 +69,9 @@ export default function InstagramReelsPage() {
   const structuredFaq = () => {
     return {
       "@context": "https://schema.org",
+      name: "Frequently Asked Questions",
       "@type": "FAQPage",
+      url: process.env.NEXT_PUBLIC_WEBSITE_URL,
       mainEntity: FAQ_LIST.map((x) => {
         return {
           "@type": "Question",

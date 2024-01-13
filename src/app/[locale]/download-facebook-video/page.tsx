@@ -69,6 +69,7 @@ export default function FacebookPage() {
   const structuredFaq = () => {
     return {
       "@context": "https://schema.org",
+      name: "Frequently Asked Questions",
       "@type": "FAQPage",
       mainEntity: FAQ_LIST.map((x) => {
         return {
