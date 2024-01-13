@@ -220,6 +220,7 @@ export default function Home() {
               </div>
               <Image
                 alt={base("#8")}
+                title={base("#8")}
                 src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
                 width="250"
                 height="213"
@@ -237,6 +238,7 @@ export default function Home() {
               </div>
               <Image
                 alt={base("#10")}
+                title={base("#10")}
                 src={"/images/home/Edit_or_download_66e0255ec1.png"}
                 width="250"
                 height="213"
@@ -254,6 +256,7 @@ export default function Home() {
               </div>
               <Image
                 alt={base("#12")}
+                title={base("#12")}
                 src={"/images/home/Share_313367e072.png"}
                 width="250"
                 height="213"
@@ -271,6 +274,7 @@ export default function Home() {
         >
           <Image
             alt="Facebook Logo"
+            title="Facebook Logo"
             src="/images/home/facebook_eeafacb0ea.png"
             width="111"
             height="21"
@@ -279,6 +283,7 @@ export default function Home() {
           />
           <Image
             alt="Visa Logo"
+            title="Visa Logo"
             src="/images/home/visa_c3a605a752.png"
             width="60"
             height="21"
@@ -287,6 +292,7 @@ export default function Home() {
           />
           <Image
             alt="P&amp;G Logo"
+            title="P&amp;G Logo"
             src="/images/home/pandg_ed1613b589.png"
             width="45"
             height="21"
@@ -295,6 +301,7 @@ export default function Home() {
           />
           <Image
             alt="Pinterest Logo"
+            title="Pinterest Logo"
             src="/images/home/pinterest_e2176fc546.png"
             width="91"
             height="22"
@@ -303,6 +310,7 @@ export default function Home() {
           />
           <Image
             alt="Booking Logo"
+            title="Booking Logo"
             src="/images/home/booking_com_2eb121846e.png"
             width="108"
             height="18"
@@ -311,6 +319,7 @@ export default function Home() {
           />
           <Image
             alt="Hublot Logo"
+            title="Hublot Logo"
             src="/images/home/hublot_238379d6c6.png"
             width="122"
             height="17"
@@ -440,12 +449,14 @@ export default function Home() {
                   width={165}
                   height={48}
                   alt={base("#27")}
+                  title={base("#27")}
                 />
                 <Image
                   src={"/images/app-store.svg"}
                   width={145}
                   height={48}
                   alt={base("#27")}
+                  title={base("#27")}
                 />
               </div>
             </div>

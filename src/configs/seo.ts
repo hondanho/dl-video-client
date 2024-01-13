@@ -9,7 +9,7 @@ export const mainMetadata = async (): Promise<Metadata> => {
   return {
     viewport: "width=device-width, initial-scale=1.0",
     metadataBase: new URL(`${process.env.WEBSITE_URL}`),
-    title: t("name"),
+    title: t("name") + " - " + process.env.DOMAIN,
     description: t("description"),
     authors: [
       {
@@ -75,7 +75,7 @@ export const pageMetadata = async (key: string, path?: string): Promise<Metadata
   const locale = useLocale();
 
   return {
-    title: t("title"),
+    title: t("title") + " - " + process.env.DOMAIN,
     description: t("description"),
     keywords: t("keywords"),
     openGraph: {

@@ -21,6 +21,7 @@ export const CardVideoInfo = ({ videoInfo }: any) => {
                   height={184}
                   src={videoInfo.thumb}
                   alt={videoInfo.title}
+                  title={videoInfo.title}
                   className="card-img-top img-fluid h-full w-full rounded-md object-cover"
                 />
               </div>
