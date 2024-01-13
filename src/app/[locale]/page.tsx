@@ -546,7 +546,7 @@ const structuredSoftwareApplication = (t: any) => {
     name: t("title"),
     description: t("description"),
     operatingSystem: "Windows, MacOS, Chrome OS, Linux, iOS, Android",
-    applicationCategory: "MultimediaApplication",
+    applicationCategory: "Social Media Networks",
     aggregateRating: {
       "@type": "AggregateRating",
       ratingValue: 4.9,

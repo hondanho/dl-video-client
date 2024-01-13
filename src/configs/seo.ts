@@ -45,7 +45,7 @@ export const mainMetadata = async (): Promise<Metadata> => {
       creator: `@${process.env.WEBSITE_URL}`,
     },
     abstract: t("description"),
-    category: "website",
+    category: "Social Media Networks",
     robots: {
       index: false,
       follow: true,
