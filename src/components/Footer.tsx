@@ -4,6 +4,7 @@ import Link from "next/link";
 import slugify from "slugify";
 const Footer = ({ locale }: { locale: string }) => {
   const t = useTranslations("Footer");
+  const page = useTranslations("Page");
 
   return (
     <footer className="body-font bg-gray-100 pb-8 pt-20 text-gray-600">
@@ -18,6 +19,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 <li>
                   <Link
                     href={`/${locale}/download-youtube-video`}
+                    title={page("download-youtube-video.title")}
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#2")}
@@ -46,6 +48,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 <li>
                   <Link
                     href={`/${locale}/download-youtube-shorts`}
+                    title={page("download-youtube-shorts.title")}
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#5")}
@@ -62,6 +65,7 @@ const Footer = ({ locale }: { locale: string }) => {
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
+                    title={page("download-facebook-video.title")}
                     href={`/${locale}/download-facebook-video`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -81,6 +85,7 @@ const Footer = ({ locale }: { locale: string }) => {
 
                 <li>
                   <Link
+                    title={page("download-facebook-reels.title")}
                     href={`/${locale}/download-facebook-reels`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -98,6 +103,7 @@ const Footer = ({ locale }: { locale: string }) => {
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
+                    title={page("download-instagram-video.title")}
                     href={`/${locale}/download-instagram-video`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -106,6 +112,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("download-instagram-reels.title")}
                     href={`/${locale}/download-instagram-reels`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -134,6 +141,7 @@ const Footer = ({ locale }: { locale: string }) => {
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
+                    title={page("download-tiktok-video.title")}
                     href={`/${locale}/download-tiktok-video`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -142,6 +150,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("download-twitter-video.title")}
                     href={`/${locale}/download-twitter-video`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -151,6 +160,7 @@ const Footer = ({ locale }: { locale: string }) => {
 
                 <li>
                   <Link
+                    title={page("download-twitch-video.title")}
                     href={`/${locale}/download-twitch-video`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -160,6 +170,7 @@ const Footer = ({ locale }: { locale: string }) => {
 
                 <li>
                   <Link
+                    title={page("download-twitch-clip.title")}
                     href={`/${locale}/download-twitch-clip`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -177,6 +188,7 @@ const Footer = ({ locale }: { locale: string }) => {
               <ul className="grid list-none gap-3">
                 <li>
                   <Link
+                    title={page("privacy-policy.title")}
                     href={`/${locale}/privacy-policy`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -185,6 +197,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("terms-of-service.title")}
                     href={`/${locale}/terms-of-service`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -193,6 +206,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("dcma.title")}
                     href={`/${locale}/dcma`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -201,6 +215,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("contact.title")}
                     href={`/${locale}/contact`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -209,6 +224,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 </li>
                 <li>
                   <Link
+                    title={page("api-faq.title")}
                     href={`/${locale}/api-faq`}
                     className="text-gray-600 hover:text-gray-800"
                   >
@@ -218,6 +234,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 <li>
                   <Link
                     href={`/blog`}
+                    title={page("blog.title")}
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#25")}

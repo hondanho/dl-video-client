@@ -2,6 +2,8 @@ import { MetadataRoute } from "next";
 
 export default async function manifest(): Promise<MetadataRoute.Manifest> {
   return {
+    viewport: "width=device-width, initial-scale=1",
+    theme_color: "#195fd7",
     name: "Download Video Online",
     short_name: "Download Video Online",
     description:

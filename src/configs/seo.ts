@@ -1,10 +1,12 @@
 import { Metadata } from "next";
+import { useLocale } from "next-intl";
 import { getTranslations } from "next-intl/server";
 
 export const mainMetadata = async (): Promise<Metadata> => {
   const t = await getTranslations("Metadata");
 
   return {
+    viewport: "width=device-width, initial-scale=1.0",
     metadataBase: new URL(`${process.env.WEBSITE_URL}`),
     title: t("name"),
     description: t("description"),
@@ -14,6 +16,9 @@ export const mainMetadata = async (): Promise<Metadata> => {
         url: process.env.WEBSITE_URL,
       },
     ],
+    alternates: {
+        canonical: process.env.WEBSITE_URL
+    },
     themeColor: [
       { media: "(prefers-color-scheme: light)", color: "#ffffff" },
       { media: "(prefers-color-scheme: dark)", color: "#ffffff" },

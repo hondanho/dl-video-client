@@ -434,9 +434,9 @@ export default function InstagramPage() {
         <section className="body-font text-gray-600">
           <div className="mx-auto flex flex-col items-center justify-center px-5 py-10">
             <div className="flex w-full flex-col items-center gap-4 text-center md:w-2/3">
-              <h1 className="title-font text-3xl font-medium text-gray-900 sm:text-4xl">
+              <h2 className="title-font text-3xl font-medium text-gray-900 sm:text-4xl">
                 {base("#25")}
-              </h1>
+              </h2>
               <p className="leading-relaxed">{base("#26")}</p>
               <div className="item-center flex justify-center gap-5 text-center">
                 <Image

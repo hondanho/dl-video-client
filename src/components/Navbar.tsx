@@ -106,10 +106,10 @@ const Navbar = () => {
                   height={19}
                   alt="logo"
                 /> */}
-              <h1 className="font-weight-600 text-xl font-extrabold">
+              <div className="font-weight-600 text-xl font-extrabold">
                 {" "}
                 Download Video <span className="text-[#3BDF70]">Online</span>
-              </h1>
+              </div>
             </div>
           </a>
           <Language />
