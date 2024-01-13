@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Sækja myndbandið Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Sæktu Twitter myndbönd, Twitter myndbönd niðurhal, Vistaðu Twitter myndbönd, Hvernig á að hlaða niður myndböndum frá Twitter, Twitter myndband niðurhal á netinu, Ókeypis niðurhal á Twitter myndbandi, Twitter myndbandssparnaður, Sækja Twitter án vatnsmerkis, Twitter myndbönd, Twitter í MP4 niðurhal",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Sækja myndbandið Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Sæktu TikTok myndbönd, TikTok myndbandsniðurhal, Vista TikTok myndbönd, Hvernig á að hlaða niður myndböndum frá TikTok, TikTok myndband niðurhal á netinu, Ókeypis niðurhal á TikTok myndbandi, TikTok vídeó bjargvættur, Sæktu TikTok án vatnsmerkis, TikTok myndbandsgripur í MP4, TikTok",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja myndbandið instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Sækja Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Hlaða niður instagram spóla, instagram spóla niðurhala, Vista instagram spóla myndband, Hvernig á að hlaða niður spóla á instagram, Instagram spóla niðurhal á netinu, ókeypis niðurhal á spóla instagram, spóla vídeó bjargvættur, hlaða niður spólum frá instagram, instagram spóla vídeó grabber, Instagram spóla offline niðurhal",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvernig á að sækja stuttmyndir frá Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "Sækja myndbandið tiktok"
-    },
-    "download-twitter-video": {
-      "title": "Sækja twitter myndbönd"
     },
     "general": {
       "title": "Sækja myndbandið á netinu",

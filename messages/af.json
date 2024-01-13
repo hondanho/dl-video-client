@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video Twitch af te laai"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Laai Video Twitter af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Twitter-video's af, Twitter-video-aflaaier, Stoor Twitter-video's, Hoe om video's van Twitter af te laai, Twitter-video's aanlyn af te laai, Gratis Twitter-video-aflaai, Twitter-videobespaarder, Laai Twitter sonder watermerk af, Twitter-videogryper, Twitter na MP4-aflaai",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video's op Twitter af te laai"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Laai Video Tiktok af",
       "datePublished": "2021-10-01",
       "keywords": "Laai TikTok-video's af, TikTok-video-aflaaier, Stoor TikTok-video's, Hoe om video's van TikTok af te laai, TikTok-video-aflaai aanlyn, Gratis TikTok-video-aflaai, TikTok-videobespaarder, Laai TikTok af sonder watermerk, TikTok-videogryper na MP4, TikTok",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om video instagram af te laai"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Laai Instagram Reel af",
       "datePublished": "2021-10-01",
       "keywords": "Laai Instagram Reel af, Instagram Reel aflaaier, Stoor Instagram Reel video, Hoe om rolle af te laai op Instagram, Instagram Reel aflaai aanlyn, Gratis Instagram Reel aflaai, Instagram Reel videobespaarder, Laai rolle van Instagram af, Instagram Reel video gryper, Instagram Reel vanlyn aflaai",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Hoe om YouTube Shorts af te laai"
-    },
-    "download-tiktok-video": {
-      "title": "laai video tiktok af"
-    },
-    "download-twitter-video": {
-      "title": "laai twitter video's af"
     },
     "general": {
       "title": "Laai video aanlyn af",

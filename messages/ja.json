@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Twitchビデオをダウンロードする方法"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "ビデオをダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "Twitter 動画をダウンロードする 、Twitter 動画ダウンローダー 、Twitter 動画を保存する 、Twitter から動画をダウンロードする方法 、オンラインで Twitter 動画をダウンロード 、無料の Twitter 動画ダウンロード 、Twitter ビデオ セーバー 、ウォーターマークなしで Twitter をダウンロード 、Twitter ビデオ グラバー 、Twitter to MP4 ダウンロード",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Twitterの動画をダウンロードする方法"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "ビデオをダウンロード Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "TikTokビデオをダウンロードする、TikTokビデオダウンローダー、TikTokビデオを保存する、TikTokからビデオをダウンロードする方法、TikTokビデオをオンラインでダウンロード、無料のTikTokビデオダウンロード、TikTokビデオセーバー、ウォーターマークなしでTikTokをダウンロード、TikTokビデオグラバー、TikTokからMP4ダウンロード",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "インスタグラムの動画をダウンロードする方法"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Instagramリールをダウンロード",
       "datePublished": "2021-10-01",
       "keywords": "instagram リールのダウンロード 、instagram リール ダウンローダー 、instagram リール ビデオの保存 、instagram でリールをダウンロードする方法 、instagram リール ダウンロード オンライン 、無料 instagram リール ダウンロード 、instagram リール ビデオ セーバー 、instagram からリールをダウンロード , instagram リール ビデオ グラバー , instagram リール オフライン ダウンロード",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "YouTube ショートをダウンロードする方法"
-    },
-    "download-tiktok-video": {
-      "title": "ビデオをダウンロードする"
-    },
-    "download-twitter-video": {
-      "title": "ツイッターの動画をダウンロードする"
     },
     "general": {
       "title": "オンラインでビデオをダウンロード",

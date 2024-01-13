@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载视频 Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "下载视频",
       "datePublished": "2021-10-01",
       "keywords": "下载 Twitter 视频，Twitter 视频下载器，保存 Twitter 视频，如何从 Twitter 下载视频，Twitter 视频在线下载，免费 Twitter 视频下载，Twitter 视频保护程序，下载无水印的 Twitter，Twitter 视频采集器，Twitter 到 MP4 下载",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载视频 Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "下载视频抖音",
       "datePublished": "2021-10-01",
       "keywords": "下载 TikTok 视频，TikTok 视频下载器，保存 TikTok 视频，如何从 TikTok 下载视频，TikTok 视频在线下载，免费 TikTok 视频下载，TikTok 视频保护程序，下载无水印的 TikTok，TikTok 视频抓取器，TikTok 到 MP4 下载",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载 Instagram 视频"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "下载 Instagram 卷轴",
       "datePublished": "2021-10-01",
       "keywords": "下载instagram Reel，instagram Reel下载器，保存instagram Reel视频，如何在Instagram上下载Reels，instagram Reel在线下载，免费instagram Reel下载，instagram Reel视频保护程序，从instagram下载Reels，instagram Reel视频抓取器，instagram Reel离线下载",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "如何下载 YouTube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "下载视频抖音"
-    },
-    "download-twitter-video": {
-      "title": "下载推特视频"
     },
     "general": {
       "title": "在线下载视频",

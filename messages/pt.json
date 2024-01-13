@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Como baixar vídeos do Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Baixe o vídeo do Twitter",
       "datePublished": "01/10/2021",
       "keywords": "Baixe vídeos do Twitter, downloader de vídeos do Twitter, salve vídeos do Twitter, como baixar vídeos do Twitter, download de vídeos do Twitter online, download gratuito de vídeos do Twitter, proteção de vídeo do Twitter, download do Twitter sem marca d'água, capturador de vídeos do Twitter, download do Twitter para MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Como baixar vídeo do Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Baixe o vídeo Tiktok",
       "datePublished": "01/10/2021",
       "keywords": "Baixe vídeos do TikTok, downloader de vídeo do TikTok, salve vídeos do TikTok, como baixar vídeos do TikTok, download de vídeo do TikTok online, download gratuito de vídeo do TikTok, proteção de vídeo do TikTok, baixe o TikTok sem marca d'água, capturador de vídeo do TikTok, download do TikTok para MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Como baixar vídeos do Instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Baixe o rolo do Instagram",
       "datePublished": "01/10/2021",
       "keywords": "Baixar instagram Reel, instagram Reel downloader, Salvar vídeo instagram Reel, Como baixar Reels no instagram, instagram Reel download online, download gratuito de instagram Reel, instagram Reel video saver, Baixar Reels do instagram, instagram Reel video grabber, download instagram Reel offline",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Como baixar curtas do Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "baixar vídeo tiktok"
-    },
-    "download-twitter-video": {
-      "title": "baixar vídeos do twitter"
     },
     "general": {
       "title": "Baixe o vídeo on-line",

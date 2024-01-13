@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ ვიდეო Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "ჩამოტვირთეთ ვიდეო Twitter",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ Twitter ვიდეოები, Twitter-ის ვიდეო ჩამომტვირთავი, შეინახეთ Twitter-ის ვიდეოები, როგორ ჩამოტვირთოთ ვიდეოები Twitter-დან, Twitter-ის ვიდეო ჩამოტვირთვა ონლაინში, Twitter-ის უფასო ვიდეოს ჩამოტვირთვა, Twitter-ის ვიდეო დამზოგავი, ჩამოტვირთეთ Twitter Watermark-ის გარეშე, Twitter-ის ვიდეო გადამღები, Twitter-ზე MP4-ის ჩამოტვირთვა",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ ვიდეო Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "ჩამოტვირთეთ ვიდეო Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ TikTok ვიდეოები, TikTok ვიდეო ჩამომტვირთავი, შეინახეთ TikTok ვიდეოები, როგორ გადმოვწეროთ ვიდეოები TikTok–დან, TikTok ვიდეოს ჩამოტვირთვა ინტერნეტით, უფასო TikTok ვიდეოს ჩამოტვირთვა, TikTok ვიდეო დამზოგავი, ჩამოტვირთეთ TikTok ჭვირნიშნის გარეშე, TikTok ვიდეო გადამღები, TikTok–ის ჩამოტვირთვა MP4–ზე",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ ვიდეო ინსტაგრამზე"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "ჩამოტვირთეთ Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "ჩამოტვირთეთ instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,როგორ გადმოვწეროთ Reels instagram ,instagram Reel ჩამოტვირთეთ ონლაინ ,ინსტაგრამის Reel უფასო ჩამოტვირთვა ,Instagram Reel ვიდეო შემნახველი ,ჩამოტვირთეთ Reels ინსტაგრამიდან ,instagram Reel video grabber offline download",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "როგორ ჩამოტვირთოთ Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "ჩამოტვირთეთ ვიდეო tiktok"
-    },
-    "download-twitter-video": {
-      "title": "ჩამოტვირთეთ ტვიტერის ვიდეოები"
     },
     "general": {
       "title": "ჩამოტვირთეთ ვიდეო ონლაინ",

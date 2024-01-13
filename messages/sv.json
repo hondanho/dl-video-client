@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Ladda ner video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner Twitter-videor ,Twitter-videonedladdningsverktyg ,Spara Twitter-videor ,Hur laddar man ned videor från Twitter ,Twitter-videonedladdning online ,Gratis Twitter-videonedladdning ,Twitter-videosparare ,Ladda ner Twitter utan vattenstämpel ,Twitter-videograbber ,Twitter till MP4-nedladdning",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video på Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Ladda ner video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner TikTok-videor, TikTok-videonedladdning, Spara TikTok-videor, Hur man laddar ner videor från TikTok, TikTok-videonedladdning online, Gratis TikTok-videonedladdning, TikTok-videosparare, Ladda ner TikTok utan vattenstämpel, TikTok-videograbber till MP4, TikTok",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Ladda ner Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Ladda ner instagram Reel , Instagram Reel downloader , Spara instagram Reel video , Hur man laddar ner Reels på instagram , Instagram Reel nedladdning online , Gratis instagram Reel nedladdning , Instagram Reel video saver , Ladda ner rullar från instagram , Instagram Reel videograbber , Instagram Reel offline nedladdning",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Hur man laddar ner Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "ladda ner video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "ladda ner twitter-videor"
     },
     "general": {
       "title": "Ladda ner video online",

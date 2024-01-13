@@ -148,7 +148,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Download Video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitter videos ,Twitter video downloader ,Save Twitter videos ,How to download videos from Twitter ,Twitter video download online ,Free Twitter video download ,Twitter video saver ,Download Twitter without watermark ,Twitter video grabber ,Twitter to MP4 download",
@@ -195,7 +195,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download video Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Download Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Download TikTok videos ,TikTok video downloader ,Save TikTok videos ,How to download videos from TikTok ,TikTok video download online ,Free TikTok video download ,TikTok video saver ,Download TikTok without watermark ,TikTok video grabber ,TikTok to MP4 download",
@@ -289,7 +289,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Download Instagram Reels",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel ,instagram Reel downloader ,Save instagram Reel video ,How to download Reels on instagram ,instagram Reel download online ,Free instagram Reel download ,instagram Reel video saver ,Downloading Reels from instagram ,instagram Reel video grabber ,instagram Reel offline download",
@@ -385,10 +385,10 @@
     },
 
     "download-facebook-reels": {
-      "title": "Download Facebook Reel",
+      "title": "Download Facebook Reels Free",
       "datePublished": "2021-10-01",
       "keywords": "Download Facebook Reel ,Facebook Reel downloader ,Save Facebook Reel video ,How to download Reels on Facebook ,Facebook Reel download online ,Free Facebook Reel download ,Facebook Reel video saver ,Downloading Reels from Facebook ,Facebook Reel video grabber ,Facebook Reel offline download",
-      "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
+      "description": "Explore the seamless experience of Download Facebook Reels a feature that allows users to save and download captivating short videos from the Reels section on Facebook. Discover a convenient way to preserve and share your favorite creative moments, adding diversity to your content library. Enhance your social media journey with the ability to download Facebook Reels and enjoy dynamic, engaging content from the vibrant Facebook community.",
       "form": {
         "placeholder": "Paste the video links facebook reel",
         "arialLabel": "Paste the video links facebook reel",
@@ -432,7 +432,7 @@
       "#1": "How to download facebook video to mp4"
     },
     "facebook-to-mp4-converter": {
-      "title": "Facebook to MP4 Converter",
+      "title": "Free Facebook to MP4 Video Converter",
       "datePublished": "2021-10-01",
       "keywords": "Facebook to MP4 converter ,Convert Facebook to MP4 ,Facebook video to MP4 ,Facebook MP4 download ,Online Facebook to MP4 ,Free Facebook to MP4 ,Facebook video converter ,Save Facebook video as MP4 ,Download Facebook in MP4 ,Facebook MP4 online converter",
       "description": "Download video Online is a fast and secure software that allows unlimited video downloads from the internet. Our free and user-friendly service ensures a seamless experience!",
@@ -713,13 +713,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "How to download Youtube Shorts"
-    },
-
-    "download-tiktok-video": {
-      "title": "download video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "download twitter videos"
     },
     "general": {
       "title": "Download Video Online",

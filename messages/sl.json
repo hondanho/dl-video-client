@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Prenesite Video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Prenos videoposnetkov Twitterja, prenosnik videoposnetkov Twitterja, shranjevanje videoposnetkov Twitterja, kako prenesti videoposnetke s Twitterja, prenos videa Twitterja prek spleta, brezplačen prenos videoposnetkov Twitterja, ohranjevalnik videoposnetkov Twitterja, prenos Twitterja brez vodnega žiga, zajem videoposnetkov Twitterja, prenos Twitterja v MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video s Twitterja"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Prenesite Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Prenos videoposnetkov TikTok, prenosnik videoposnetkov TikTok, Shranjevanje videoposnetkov TikTok, Kako prenesti videoposnetke iz TikToka, Prenos videa TikTok na spletu, Brezplačen prenos videoposnetkov TikTok, Ohranjevalnik videoposnetkov TikTok, Prenos TikTok brez vodnega žiga, TikTok video grabber, Prenos TikTok v MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti video iz instagrama"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Prenesite Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Prenesite instagram Reel, prenosnik instagram Reel, shranite videoposnetek instagram Reel, kako prenesti Reels na instagram, prenos instagram Reel prek spleta, brezplačen prenos instagram Reel, ohranjevalnik videoposnetkov instagram Reel, prenos Reels z instagrama, grabnik videoposnetkov instagram Reel, prenos instagram Reel brez povezave",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako prenesti Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "prenesi video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "prenesite videoposnetke s Twitterja"
     },
     "general": {
       "title": "Prenesite video na spletu",

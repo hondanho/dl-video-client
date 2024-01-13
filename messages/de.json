@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie ein Twitch-Video herunter"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Laden Sie das Twitter-Video herunter",
       "datePublished": "01.10.2021",
       "keywords": "Twitter-Videos herunterladen, Twitter-Video-Downloader, Twitter-Videos speichern, Videos von Twitter herunterladen, Twitter-Videos online herunterladen, Twitter-Videos kostenlos herunterladen, Twitter-Video-Sparer, Twitter ohne Wasserzeichen herunterladen, Twitter-Video-Grabber, Twitter in MP4 herunterladen",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie Twitter-Videos herunter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Video Tiktok herunterladen",
       "datePublished": "01.10.2021",
       "keywords": "TikTok-Videos herunterladen, TikTok-Video-Downloader, TikTok-Videos speichern, Videos von TikTok herunterladen, TikTok-Videos online herunterladen, kostenloser TikTok-Video-Download, TikTok-Video-Sparer, TikTok ohne Wasserzeichen herunterladen, TikTok-Video-Grabber, TikTok in MP4 herunterladen",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie ein Instagram-Video herunter"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Laden Sie Instagram Reel herunter",
       "datePublished": "01.10.2021",
       "keywords": "Laden Sie Instagram Reel herunter, Instagram Reel Downloader, Speichern Sie Instagram Reel Video, So laden Sie Reels auf Instagram herunter, Instagram Reel online herunterladen, Kostenloser Instagram Reel Download, Instagram Reel Video Saver, Herunterladen von Reels von Instagram, Instagram Reel Video Grabber, Instagram Reel Offline-Download",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "So laden Sie YouTube-Shorts herunter"
-    },
-    "download-tiktok-video": {
-      "title": "Laden Sie das Tiktok-Video herunter"
-    },
-    "download-twitter-video": {
-      "title": "Laden Sie Twitter-Videos herunter"
     },
     "general": {
       "title": "Laden Sie das Video online herunter",

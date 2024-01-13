@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео на Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Завантажте відео Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте відео з Twitter, завантажувач відео з Twitter, збережіть відео з Twitter, як завантажити відео з Twitter, завантажте відео з Twitter онлайн, безкоштовно завантажте відео з Twitter, зберігайте відео у Twitter, завантажте Twitter без водяних знаків, захоплюйте відео з Twitter, завантажте з Twitter у MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео з Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Завантажте відео Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Завантажити відео TikTok, Завантажувач відео TikTok, Зберегти відео TikTok, Як завантажити відео з TikTok, Завантажити відео TikTok онлайн, Безкоштовне завантаження відео TikTok, Збереження відео TikTok, Завантажити TikTok без водяного знака, Захоплювач відео TikTok, Завантажити TikTok у MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити відео в інстаграм"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Завантажити Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Завантажте instagram Reel, завантажувач instagram Reel, збережіть відео з instagram Reel, як завантажити Reels на instagram, завантажте instagram Reel онлайн, безкоштовне завантаження instagram Reel, заставку відео instagram Reel, завантажте Reels з instagram, захоплення відео instagram Reel, завантажте instagram Reel офлайн",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Як завантажити Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "завантажити відео tiktok"
-    },
-    "download-twitter-video": {
-      "title": "завантажити відео з Twitter"
     },
     "general": {
       "title": "Завантажте відео онлайн",

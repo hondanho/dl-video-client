@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Stáhnout Video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Stahování videí z Twitteru,Stahování videí na Twitteru,Ukládání videí na Twitteru,Jak stahovat videa z Twitteru,Stahování videa na Twitteru online,Stahování videa z Twitteru zdarma ,Spořič videa na Twitteru ,Stahování z Twitteru bez vodoznaku ,Twitter video grabber ,Stahování z Twitteru do MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video z Twitteru"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Stáhnout Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Stahování videí TikTok ,Stahování videí TikTok ,Ukládání videí TikTok ,Jak stahovat videa z TikTok ,Stahování videa TikTok online ,Stahování videa TikTok zdarma ,Spořič videa TikTok ,Stahování TikTok bez vodoznaku ,TikTok video grabber ,TikTok ke stažení MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout video z instagramu"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Stáhněte si Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Stáhněte si instagram Reel, instagram Reel downloader ,Uložte instagram Reel video ,Jak stáhnout Reels na instagram ,Instagram Reel stažení online ,Bezplatné stažení instagram Reel ,Instagram Reel spořič videa ,Stažení reel z instagramu ,Instagram Reel video grabber ,Instagram Reel stažení offline",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak stáhnout Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "stáhnout video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "stáhnout twitter videa"
     },
     "general": {
       "title": "Stáhnout video online",

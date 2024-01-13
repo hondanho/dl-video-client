@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Download video på Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Download Twitter-videoer ,Twitter-videodownloader ,Gem Twitter-videoer ,Sådan downloader du videoer fra Twitter ,Twitter-videodownload online ,Gratis Twitter-videodownload ,Twitter-videosparer ,Download Twitter uden vandmærke ,Twitter-videograbber ,Twitter til MP4-download",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader videoer på Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Download video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Download TikTok-videoer, TikTok-videodownloader, Gem TikTok-videoer, Sådan downloader du videoer fra TikTok, TikTok-videodownload online, Gratis TikTok-videodownload, TikTok-videosparer, Download TikTok uden vandmærke, TikTok-videograbber til MP4 download",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan man downloader video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Download Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Download instagram Reel , Instagram Reel downloader , Gem instagram Reel video , Sådan downloader du Reels på instagram , Instagram Reel download online , Gratis instagram Reel download , Instagram Reel video saver ,Downloader Reels fra instagram , Instagram Reel video grabber , Instagram Reel offline download",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Sådan downloader du YouTube-shorts"
-    },
-    "download-tiktok-video": {
-      "title": "Download video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "download twitter videoer"
     },
     "general": {
       "title": "Download video online",

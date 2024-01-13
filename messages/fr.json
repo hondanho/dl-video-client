@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger la vidéo Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Télécharger la vidéo Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des vidéos Twitter, téléchargeur de vidéos Twitter, enregistrez des vidéos Twitter, comment télécharger des vidéos depuis Twitter, téléchargement de vidéos Twitter en ligne, téléchargement gratuit de vidéos Twitter, économiseur de vidéo Twitter, téléchargez Twitter sans filigrane, capture de vidéos Twitter, téléchargement Twitter en MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Télécharger la vidéo Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez des vidéos TikTok, téléchargeur de vidéos TikTok, enregistrez des vidéos TikTok, comment télécharger des vidéos de TikTok, téléchargement de vidéos TikTok en ligne, téléchargement de vidéos TikTok gratuit, économiseur de vidéo TikTok, téléchargez TikTok sans filigrane, capteur de vidéos TikTok, téléchargement TikTok en MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger une vidéo Instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Télécharger la bobine Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Téléchargez Instagram Reel, le téléchargeur Instagram Reel, enregistrez la vidéo Instagram Reel, comment télécharger des bobines sur Instagram, téléchargez Instagram Reel en ligne, téléchargez gratuitement Instagram Reel, économiseur vidéo Instagram Reel, téléchargez des bobines à partir d'Instagram, capture vidéo Instagram Reel, téléchargement hors ligne Instagram Reel",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Comment télécharger des courts métrages Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "télécharger la vidéo tiktok"
-    },
-    "download-twitter-video": {
-      "title": "télécharger des vidéos Twitter"
     },
     "general": {
       "title": "Télécharger la vidéo en ligne",

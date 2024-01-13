@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오를 다운로드하는 방법 Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "비디오 다운로드 트위터",
       "datePublished": "2021-10-01",
       "keywords": "Twitter 비디오 다운로드, Twitter 비디오 다운로더, Twitter 비디오 저장, Twitter에서 비디오를 다운로드하는 방법, Twitter 비디오 온라인 다운로드, 무료 Twitter 비디오 다운로드, Twitter 비디오 보호기, 워터마크 없이 Twitter 다운로드, Twitter 비디오 그래버, Twitter에서 MP4로 다운로드",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오를 다운로드하는 방법 트위터"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "비디오 틱톡 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "TikTok 비디오 다운로드, TikTok 비디오 다운로더, TikTok 비디오 저장, TikTok에서 비디오를 다운로드하는 방법, TikTok 비디오 온라인 다운로드, 무료 TikTok 비디오 다운로드, TikTok 비디오 보호기, 워터마크 없이 TikTok 다운로드, TikTok 비디오 그래버, TikTok을 MP4로 다운로드",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "비디오 인스타그램을 다운로드하는 방법"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "인스타그램 릴 다운로드",
       "datePublished": "2021-10-01",
       "keywords": "인스타그램 릴 다운로드, 인스타그램 릴 다운로더, 인스타그램 릴 비디오 저장, 인스타그램에서 릴 다운로드 방법, 인스타그램 릴 온라인 다운로드, 무료 인스타그램 릴 다운로드, 인스타그램 릴 비디오 세이버, 인스타그램에서 릴 다운로드, 인스타그램 릴 비디오 그래버, 인스타그램 릴 오프라인 다운로드",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "YouTube Shorts를 다운로드하는 방법"
-    },
-    "download-tiktok-video": {
-      "title": "비디오 틱톡 다운로드"
-    },
-    "download-twitter-video": {
-      "title": "트위터 비디오 다운로드"
     },
     "general": {
       "title": "온라인으로 비디오 다운로드",

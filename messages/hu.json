@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Twitch videót"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Videó letöltése Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Twitter videók letöltése , Twitter videó letöltő , Twitter videók mentése , Videók letöltése a Twitterről , Twitter videó letöltése online , Ingyenes Twitter videó letöltés , Twitter videó mentő , Twitter letöltése vízjel nélkül , Twitter videó grabber , Twitter letöltés MP4-re",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Twitter videót"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Videó letöltése Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "TikTok videók letöltése ,TikTok videó letöltő ,TikTok videók mentése ,Videók letöltése a TikTok oldalról ,TikTok videó letöltése online ,Ingyenes TikTok videó letöltés ,TikTok videómentő ,TikTok letöltése vízjel nélkül ,TikTok videó grabber ,TikTok MP4 letöltés",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan töltsünk le videót az instagramról"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Töltse le az Instagram tekercset",
       "datePublished": "2021-10-01",
       "keywords": "Instagram tekercs letöltése, instagram orsó letöltő, instagram tekercs videó mentése, orsók letöltése instagramon, instagram tekercs letöltése online, ingyenes instagram tekercs letöltés, instagram tekercsmentő , orsók letöltése instagramról, instagram orsó videó grabber offline letöltése",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Hogyan lehet letölteni a Youtube rövidfilmeket"
-    },
-    "download-tiktok-video": {
-      "title": "letölthető videó tiktok"
-    },
-    "download-twitter-video": {
-      "title": "Twitter videók letöltése"
     },
     "general": {
       "title": "Videó letöltése online",

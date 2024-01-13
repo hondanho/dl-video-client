@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Pobierz wideo z Twittera",
       "datePublished": "2021-10-01",
       "keywords": "Pobieraj filmy z Twittera, Narzędzie do pobierania wideo z Twittera, Zapisywanie filmów z Twittera, Jak pobierać filmy z Twittera, Pobieranie wideo z Twittera online, Bezpłatne pobieranie wideo z Twittera, Wygaszacz wideo z Twittera, Pobieraj Twittera bez znaku wodnego, Grabber wideo z Twittera, Pobieranie z Twittera do MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Twittera"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Pobierz wideo Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz filmy TikTok, Narzędzie do pobierania wideo TikTok, Zapisz filmy TikTok, Jak pobierać filmy z TikTok, Pobieranie wideo TikTok online, Bezpłatne pobieranie wideo TikTok, Wygaszacz wideo TikTok, Pobierz TikTok bez znaku wodnego, Grabber wideo TikTok, Pobieranie TikTok do MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać wideo z Instagrama"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Pobierz Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Pobierz Instagram Reel, narzędzie do pobierania szpul na Instagramie, Zapisz wideo na szpuli na Instagramie, Jak pobrać szpule na Instagramie, pobierz szpulę na Instagramie online, Bezpłatne pobieranie szpuli na Instagramie, wygaszacz wideo na Instagramie , Pobieranie szpul z Instagrama, pobieranie wideo szpul na Instagramie, pobieranie szpuli na Instagramie w trybie offline",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Jak pobrać Shorts z YouTube'a"
-    },
-    "download-tiktok-video": {
-      "title": "pobierz wideo tiktok"
-    },
-    "download-twitter-video": {
-      "title": "pobierz filmy z Twittera"
     },
     "general": {
       "title": "Pobierz wideo online",

@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu Twitch bideoa"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Deskargatu bideoa Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu Twitter bideoak ,Twitter bideo deskargatzailea ,Twitter bideoak gorde ,Twitter bideoak nola deskargatu ,Twitter bideoak linean deskargatu ,Doako Twitter bideo deskargatu ,Twitter bideo-aurrezlea ,Twitter deskargatu ur-markarik gabe ,Twitter bideo-grabber ,Twitter MP4 deskargatu",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu bideoa Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Deskargatu Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu TikTok bideoak, TikTok bideo deskargatzailea, TikTok bideoak gorde, TikTok bideoak nola deskargatu TikTok, TikTok bideo deskargatu online, TikTok bideo deskarga doan, TikTok bideo-aurrezlea, TikTok ur-markarik gabe deskargatu, TikTok bideo-grabber, TikTok MP4 deskargatu",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Instagram bideoa nola deskargatu"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Deskargatu Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Deskargatu instagram Reel ,instagram Reel deskargatzailea ,Gorde instagram Reel bideoa ,Nola deskargatu Reels instagramen ,instagram Reel deskargatu online ,Doako Instagram Reel deskarga ,instagram Reel bideo-aurrezlea ,Reels deskargatu instagrametik ,instagram Reel bideo-grabber ,instagram Reel lineaz kanpo deskargatu",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Nola deskargatu Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "Deskargatu bideoa tiktok"
-    },
-    "download-twitter-video": {
-      "title": "deskargatu twitter bideoak"
     },
     "general": {
       "title": "Deskargatu bideoa sarean",

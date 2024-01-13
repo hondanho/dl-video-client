@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako preuzeti video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Preuzmite video s Twittera",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmi Twitter videozapise, Twitter video downloader, Spremi Twitter videozapise, Kako preuzeti videozapise s Twittera, Twitter video preuzimanje na mreži, Besplatno preuzimanje Twitter videa, Twitter video saver, Preuzmi Twitter bez vodenog žiga, Twitter video grabber, Twitter u MP4 preuzimanje",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako preuzeti video s Twittera"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Preuzmite video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmi TikTok video zapise, TikTok video downloader, Spremi TikTok video zapise, Kako preuzeti video zapise s TikToka, TikTok video preuzimanje na mreži, Besplatno TikTok video preuzimanje, TikTok video čuvar, Preuzmi TikTok bez vodenog žiga, TikTok video grabber, TikTok preuzimanje u MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako skinuti video sa instagrama"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Preuzmite Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Preuzmite instagram Reel , instagram Reel downloader , Spremite instagram Reel video , Kako preuzeti Reels na instagramu , instagram Reel preuzimanje na mreži , Besplatno preuzimanje instagram Reel , instagram Reel video čuvar , Preuzimanje Reels s instagrama , instagram Reel video grabber , instagram Reel preuzimanje izvan mreže",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Kako preuzeti Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "preuzmi video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "preuzimanje videozapisa s twittera"
     },
     "general": {
       "title": "Preuzmite video na mreži",

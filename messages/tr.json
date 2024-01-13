@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Twitch videosu nasıl indirilir"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Videoyu İndir Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Twitter videolarını indirin ,Twitter video indiricisi ,Twitter videolarını kaydedin ,Twitter'dan nasıl video indirilir ,Çevrimiçi Twitter video indirme ,Ücretsiz Twitter video indirme ,Twitter video koruyucu ,Twitter'ı filigran olmadan indirin ,Twitter video yakalayıcı ,Twitter'dan MP4'e indirme",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Twitter'dan video nasıl indirilir"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Video Tiktok'u İndirin",
       "datePublished": "2021-10-01",
       "keywords": "TikTok videolarını indirin ,TikTok video indiricisi ,TikTok videolarını kaydedin ,TikTok'tan video nasıl indirilir ,TikTok çevrimiçi video indir ,Ücretsiz TikTok video indirme ,TikTok video koruyucu ,TikTok'u filigran olmadan indirin ,TikTok video yakalayıcı ,TikTok'u MP4'e indirin",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "instagramdan video nasıl indirilir"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Instagram Reel'ı İndirin",
       "datePublished": "2021-10-01",
       "keywords": "İnstagram Reel indir,instagram Reel indirici,Instagram Reel videosunu kaydet,Instagram'da Reels nasıl indirilir,instagram Reel çevrimiçi indir,Ücretsiz instagram Reel indir,instagram Reel video koruyucu,instagramdan Reel indirme,instagram Reel video yakalayıcı,instagram Reel çevrimdışı indir",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Youtube Shorts nasıl indirilir"
-    },
-    "download-tiktok-video": {
-      "title": "tiktok videosunu indir"
-    },
-    "download-twitter-video": {
-      "title": "twitter videolarını indir"
     },
     "general": {
       "title": "Videoyu Çevrimiçi İndirin",

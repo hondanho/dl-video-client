@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το βίντεο Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Λήψη βίντεο Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη βίντεο Twitter , πρόγραμμα λήψης βίντεο Twitter , Αποθήκευση βίντεο Twitter , Πώς να κατεβάσετε βίντεο από το Twitter , Λήψη βίντεο Twitter στο διαδίκτυο , Δωρεάν λήψη βίντεο Twitter , Προφύλαξη βίντεο Twitter ,Λήψη Twitter χωρίς υδατογράφημα ,Twitter grabber βίντεο , λήψη Twitter σε MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο από το Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Κατεβάστε το βίντεο Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Λήψη βίντεο TikTok , πρόγραμμα λήψης βίντεο TikTok , Αποθήκευση βίντεο TikTok , Πώς να κατεβάσετε βίντεο από το TikTok , Λήψη βίντεο TikTok στο Διαδίκτυο , Δωρεάν λήψη βίντεο TikTok , Προφύλαξη βίντεο TikTok , Λήψη TikTok χωρίς υδατογράφημα , TikTok video grabber , TikTok λήψη σε MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε βίντεο στο instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Κατεβάστε το Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Κατεβάστε το instagram Reel, πρόγραμμα λήψης Reel instagram, Αποθήκευση βίντεο Reel στο instagram, Πώς να κατεβάσετε Reels στο instagram, κατεβάστε το instagram Reel online, Δωρεάν λήψη instagram Reel, προφύλαξη βίντεο instagram Reel, Λήψη Reels από το instagram, instagram Reel video grabber offline, instagram",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Πώς να κατεβάσετε το Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "Κατεβάστε το βίντεο tiktok"
-    },
-    "download-twitter-video": {
-      "title": "κατεβάστε βίντεο στο twitter"
     },
     "general": {
       "title": "Λήψη βίντεο στο Διαδίκτυο",

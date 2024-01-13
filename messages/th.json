@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "วิธีดาวน์โหลดวิดีโอ Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "ดาวน์โหลดวิดีโอทวิตเตอร์",
       "datePublished": "01-10-2021",
       "keywords": "ดาวน์โหลดวิดีโอ Twitter , ดาวน์โหลดวิดีโอ Twitter , บันทึกวิดีโอ Twitter , วิธีดาวน์โหลดวิดีโอจาก Twitter , ดาวน์โหลดวิดีโอ Twitter ออนไลน์ , ดาวน์โหลดวิดีโอ Twitter ฟรี , โปรแกรมรักษาวิดีโอ Twitter , ดาวน์โหลด Twitter โดยไม่มีลายน้ำ , Grabber วิดีโอ Twitter , ดาวน์โหลด Twitter เป็น MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "วิธีดาวน์โหลดวิดีโอ Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "ดาวน์โหลดวิดีโอ Tiktok",
       "datePublished": "01-10-2021",
       "keywords": "ดาวน์โหลดวิดีโอ TikTok ,ตัวดาวน์โหลดวิดีโอ TikTok ,บันทึกวิดีโอ TikTok ,วิธีดาวน์โหลดวิดีโอจาก TikTok ,ดาวน์โหลดวิดีโอ TikTok ออนไลน์ ,ดาวน์โหลดวิดีโอ TikTok ฟรี ,โปรแกรมรักษาวิดีโอ TikTok ,ดาวน์โหลด TikTok โดยไม่มีลายน้ำ ,ตัวจับวิดีโอ TikTok ,ดาวน์โหลด TikTok เป็น MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "วิธีดาวน์โหลดวิดีโอ Instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "ดาวน์โหลดรีล Instagram",
       "datePublished": "01-10-2021",
       "keywords": "ดาวน์โหลด instagram Reel, ดาวน์โหลด instagram Reel, บันทึกวิดีโอ instagram Reel, วิธีดาวน์โหลด Reels บน instagram, ดาวน์โหลด instagram Reel ออนไลน์, ดาวน์โหลด instagram Reel ฟรี, โปรแกรมรักษาวิดีโอ instagram Reel, การดาวน์โหลด Reels จาก instagram, instagram Reel Grabber วิดีโอ, ดาวน์โหลด instagram Reel ออฟไลน์",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "วิธีดาวน์โหลด Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "ดาวน์โหลดวิดีโอ tiktok"
-    },
-    "download-twitter-video": {
-      "title": "ดาวน์โหลดวิดีโอทวิตเตอร์"
     },
     "general": {
       "title": "ดาวน์โหลดวิดีโอออนไลน์",

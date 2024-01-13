@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Unduh Video Twitter",
       "datePublished": "01-10-2021",
       "keywords": "Unduh video Twitter, Pengunduh video Twitter, Simpan video Twitter, Cara mengunduh video dari Twitter, Unduh video Twitter online, Unduh video Twitter gratis, Penghemat video Twitter, Unduh Twitter tanpa tanda air, Pengambil video Twitter, Unduh Twitter ke MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh video Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Unduh Video Tiktok",
       "datePublished": "01-10-2021",
       "keywords": "Unduh video TikTok, pengunduh video TikTok, Simpan video TikTok, Cara mengunduh video dari TikTok, pengunduhan video TikTok online, pengunduhan video TikTok gratis, penghemat video TikTok, Unduh TikTok tanpa tanda air, pengambil video TikTok, pengunduhan TikTok ke MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mendownload video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Unduh Reel Instagram",
       "datePublished": "01-10-2021",
       "keywords": "Unduh Reel instagram, pengunduh Reel instagram, Simpan video Reel instagram, Cara mengunduh Reel di instagram, unduh Reel instagram online, Unduhan Reel instagram gratis, penghemat video Reel instagram, Mengunduh Reel dari instagram, pengambil video Reel instagram, unduh offline Reel instagram",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Cara mengunduh Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "unduh video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "unduh video twitter"
     },
     "general": {
       "title": "Unduh Video Daring",

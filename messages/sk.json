@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Stiahnite si Video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si videá z Twitteru,Preberač videa z Twitteru,Uloženie videí z Twitteru,Ako stiahnete videá z Twitteru,Stiahnutie videa z Twitteru online,Bezplatné stiahnutie videa z Twitteru,Šetrič videa z Twitteru,Stiahnutie z Twitteru bez vodoznaku,Twitter video grabber ,Stiahnutie z Twitteru do MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video z Twitteru"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Stiahnite si Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si videá TikTok, sťahovanie videa TikTok, uložte videá TikTok, ako sťahujte videá z TikTok, sťahovanie videa TikTok online, bezplatné sťahovanie videa TikTok, šetrič videa TikTok, stiahnite si TikTok bez vodoznaku, sťahovanie videa TikTok, sťahovanie TikTok do MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť video z instagramu"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Stiahnite si Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Stiahnite si instagramovú cievku, sťahovanie instagramovej cievky, uložte video cievky na instagrame ,ako sťahovať cievky na instagrame , sťahovanie cievok na instagrame online , bezplatné sťahovanie instagramovej cievky , šetrič videa na instagramovej cievke , sťahovanie cievok z instagramu , zachytávanie videa na instagramovej cievke , sťahovanie instagramovej cievky offline",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Ako stiahnuť Youtube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "stiahnite si video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "stiahnite si twitter videá"
     },
     "general": {
       "title": "Stiahnite si video online",

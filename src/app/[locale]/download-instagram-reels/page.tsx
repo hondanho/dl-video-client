@@ -13,7 +13,7 @@ import DisqusComments from "@/components/DisqusComments";
 import InstagramForm from "@/components/form/InstagramForm";
 
 export default function InstagramReelsPage() {
-  const t = useTranslations(`Page.download-instagram-reel`);
+  const t = useTranslations(`Page.download-instagram-reels`);
   const base = useTranslations("Page.base");
 
   const structuredHowToJson = structuredHowTo(t, base);
@@ -22,7 +22,7 @@ export default function InstagramReelsPage() {
   const structuredEntertainmentBusinessJson =
     structuredEntertainmentBusiness(t);
   let FAQ_LIST: FAQ[] = [];
-  const faq = useTranslations(`Page.download-instagram-reel.faq`);
+  const faq = useTranslations(`Page.download-instagram-reels.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map((x) => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),

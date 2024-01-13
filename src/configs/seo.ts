@@ -62,3 +62,30 @@ export const mainMetadata = async (): Promise<Metadata> => {
     manifest: "/webmanifest.json",
   };
 };
+
+export const pageMetadata = async (key: string): Promise<Metadata> => {
+  const t = await getTranslations(key);
+
+  return {
+    title: t("title"),
+    description: t("description"),
+    keywords: t("keywords"),
+    openGraph: {
+      type: "website",
+      locale: "en_US",
+      url: process.env.WEBSITE_URL,
+      title: t("title"),
+      description: t("description"),
+      siteName: t("title"),
+      images: t("imageUrl"),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: t("title"),
+      description: t("description"),
+      images: t("imageUrl"),
+      creator: `@${process.env.WEBSITE_URL}`,
+    },
+    abstract: t("description")
+  };
+};

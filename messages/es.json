@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar vídeos de Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Descargar VídeoTwitter",
       "datePublished": "2021-10-01",
       "keywords": "Descargar videos de Twitter, Descargador de videos de Twitter, Guardar videos de Twitter, Cómo descargar videos de Twitter, Descarga de videos de Twitter en línea, Descarga gratuita de videos de Twitter, Protector de videos de Twitter, Descargar Twitter sin marca de agua, Capturador de videos de Twitter, Descarga de Twitter a MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar vídeos de Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Descargar Vídeo Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Descargar videos de TikTok, descargador de videos de TikTok, guardar videos de TikTok, cómo descargar videos de TikTok, descarga de videos de TikTok en línea, descarga gratuita de videos de TikTok, protector de videos de TikTok, descargar TikTok sin marca de agua, capturador de videos de TikTok, descarga de TikTok a MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "como descargar videos de instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Descargar carrete de Instagram",
       "datePublished": "2021-10-01",
       "keywords": "Descargar Instagram Reel, descargador de Instagram Reel, guardar video de Instagram Reel, cómo descargar Reels en Instagram, descarga de Instagram Reel en línea, descarga gratuita de Instagram Reel, protector de video de Instagram Reel, descarga de Reels de Instagram, capturador de video de Instagram Reel, descarga sin conexión de Instagram Reel",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Cómo descargar cortos de Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "descargar videos tiktok"
-    },
-    "download-twitter-video": {
-      "title": "descargar vídeos de twitter"
     },
     "general": {
       "title": "Descargar vídeo en línea",

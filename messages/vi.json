@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Tải xuống video Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống video Twitter, Trình tải xuống video Twitter, Lưu video Twitter, Cách tải xuống video từ Twitter, Tải xuống video Twitter trực tuyến, Tải xuống video Twitter miễn phí, Trình tiết kiệm video Twitter, Tải xuống Twitter mà không có hình mờ, Trình lấy video Twitter, Tải xuống Twitter sang MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Tải Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống video TikTok, trình tải xuống video TikTok, Lưu video TikTok, Cách tải xuống video từ TikTok, tải xuống video TikTok trực tuyến, tải xuống video TikTok miễn phí, trình tiết kiệm video TikTok, Tải xuống TikTok không có hình mờ, trình lấy video TikTok, tải xuống TikTok sang MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Tải xuống Instagram reel",
       "datePublished": "2021-10-01",
       "keywords": "Tải xuống instagram reel, trình tải xuống instagram reel, lưu video instagram reel, cách tải xuống reel trên instagram, tải xuống instagram reel trực tuyến, tải xuống instagram reel miễn phí, trình tiết kiệm video instagram reel, tải xuống reel từ instagram, công cụ lấy video instagram reel, tải xuống instagram reel ngoại tuyến",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Cách tải xuống video ngắn trên Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "tải video tik tok"
-    },
-    "download-twitter-video": {
-      "title": "tải xuống video twitter"
     },
     "general": {
       "title": "Tải xuống video trực tuyến",

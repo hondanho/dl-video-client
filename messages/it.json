@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Scarica VideoTwitter",
       "datePublished": "2021-10-01",
       "keywords": "Scarica video di Twitter, downloader di video di Twitter, salva video di Twitter, come scaricare video da Twitter, download di video di Twitter online, download gratuito di video di Twitter, salva video di Twitter, scarica Twitter senza filigrana, cattura video di Twitter, download da Twitter a MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video da Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Scarica VideoTiktok",
       "datePublished": "2021-10-01",
       "keywords": "Scarica video TikTok, downloader video TikTok, salva video TikTok, come scaricare video da TikTok, download video TikTok online, download gratuito di video TikTok, risparmiatore video TikTok, scarica TikTok senza filigrana, cattura video TikTok, download da TikTok a MP4.",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare video instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Scarica Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Scarica instagram Reel, downloader di instagram Reel, salva video di instagram Reel, come scaricare Reels su instagram, download di instagram Reel online, download gratuito di instagram Reel, salva video di instagram Reel, download di Reels da instagram, cattura video di instagram Reel, download offline di instagram Reel",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Come scaricare i cortometraggi di Youtube"
-    },
-    "download-tiktok-video": {
-      "title": "scarica il video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "scaricare video da twitter"
     },
     "general": {
       "title": "Scarica video in linea",

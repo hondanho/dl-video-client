@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تنزيل فيديو تويتش"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "تحميل فيديو تويتر",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل مقاطع فيديو تويتر , تنزيل فيديو تويتر , حفظ مقاطع فيديو تويتر , كيفية تنزيل مقاطع الفيديو من تويتر , تنزيل فيديو تويتر عبر الإنترنت , تنزيل فيديو تويتر مجانًا , حفظ فيديو تويتر , تنزيل تويتر بدون علامة مائية , أداة التقاط فيديو تويتر , تنزيل تويتر إلى MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو تويتر"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "تحميل فيديو تيك توك",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل مقاطع فيديو TikTok، تنزيل فيديو TikTok، حفظ مقاطع فيديو TikTok، كيفية تنزيل مقاطع الفيديو من TikTok، تنزيل فيديو TikTok عبر الإنترنت، تنزيل فيديو TikTok مجانًا، موفر فيديو TikTok، تنزيل TikTok بدون علامة مائية، أداة التقاط فيديو TikTok، تنزيل TikTok إلى MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل فيديو الانستقرام"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "تحميل انستقرام رول",
       "datePublished": "2021-10-01",
       "keywords": "تنزيل instagram Reel ، تنزيل instagram Reel ، حفظ فيديو instagram Reel ، كيفية تنزيل Reels على instagram ، تنزيل instagram Reel عبر الإنترنت ، تنزيل instagram Reel مجانًا ، موفر فيديو instagram Reel ، تنزيل Reels من instagram ، أداة التقاط فيديو Instagram Reel ، تنزيل Instagram Reel دون اتصال",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "كيفية تحميل يوتيوب شورت"
-    },
-    "download-tiktok-video": {
-      "title": "تحميل فيديو تيك توك"
-    },
-    "download-twitter-video": {
-      "title": "تحميل فيديوهات تويتر"
     },
     "general": {
       "title": "تحميل فيديو اون لاين",

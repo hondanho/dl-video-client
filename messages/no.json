@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned video Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Last ned video på Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Last ned Twitter-videoer ,Twitter-videonedlasting ,Lagre Twitter-videoer ,Hvordan laste ned videoer fra Twitter ,Twitter-videonedlasting på nettet ,Gratis Twitter-videonedlasting ,Twitter-videosparer ,Last ned Twitter uten vannmerke ,Twitter-videograbber ,Twitter til MP4-nedlasting",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned videoer på Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Last ned video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Last ned TikTok-videoer, TikTok-videonedlasting, Lagre TikTok-videoer, Hvordan laste ned videoer fra TikTok, TikTok-videonedlasting på nettet, Gratis TikTok-videonedlasting, TikTok-videosparer, Last ned TikTok uten vannmerke, TikTok-videograbber til MP4, TikTok",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned videoer på instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Last ned Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Last ned instagram Reel , Instagram Reel nedlasting , Lagre instagram Reel video , Hvordan laste ned Reels på instagram , Instagram Reel nedlasting online , Gratis instagram Reel nedlasting , Instagram Reel video saver , Laste ned hjul fra instagram , Instagram Reel video grabber , Instagram Reel offline nedlasting",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Hvordan laste ned YouTube-shorts"
-    },
-    "download-tiktok-video": {
-      "title": "Last ned video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "Last ned twitter-videoer"
     },
     "general": {
       "title": "Last ned video online",

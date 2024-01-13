@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Как скачать видео Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Скачать видео Твиттер",
       "datePublished": "01.10.2021",
       "keywords": "Скачать видео из Твиттера ,Загрузчик видео из Твиттера ,Сохранить видео из Твиттера ,Как скачать видео из Твиттера ,Загрузка видео из Твиттера онлайн ,Бесплатная загрузка видео из Твиттера ,Заставка видео из Твиттера ,Загрузка Твиттера без водяного знака ,Захват видео из Твиттера ,Загрузка из Твиттера в MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Как скачать видео из Твиттера"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Скачать видео Тик Ток",
       "datePublished": "01.10.2021",
       "keywords": "Скачать видео TikTok, Загрузчик видео TikTok, Сохранить видео TikTok, Как скачать видео с TikTok, Загрузка видео TikTok онлайн, Бесплатная загрузка видео TikTok, Заставка видео TikTok, Загрузка TikTok без водяного знака, Захват видео TikTok, Загрузка TikTok в MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Как скачать видео из инстаграма"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Скачать ролик из Инстаграма",
       "datePublished": "01.10.2021",
       "keywords": "Скачать instagram Reel , загрузчик Instagram Reel , Сохранить видео Reel instagram , Как скачать Reels в Instagram , Instagram Reel скачать онлайн , Бесплатная загрузка Instagram Reel , Instagram Reel Video Saver , Загрузка Reels из Instagram , Instagram Reel видеограббер, Instagram Reel скачать в автономном режиме",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Как скачать шорты с YouTube"
-    },
-    "download-tiktok-video": {
-      "title": "скачать видео из тиктока"
-    },
-    "download-twitter-video": {
-      "title": "скачать видео из твиттера"
     },
     "general": {
       "title": "Скачать видео онлайн",

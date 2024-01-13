@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați videoclipul Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "Descărcați videoclipul Twitter",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați videoclipuri Twitter ,Descărcător de videoclipuri Twitter ,Salvați videoclipuri Twitter ,Cum să descărcați videoclipuri de pe Twitter ,Descărcare video Twitter online ,Descărcare gratuită de videoclipuri Twitter ,Economisor video Twitter ,Descărcați Twitter fără filigran ,Captură video Twitter ,Descărcare Twitter în MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați videoclipul Twitter"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "Descărcați Video Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați videoclipuri TikTok ,Descărcător de videoclipuri TikTok ,Salvați videoclipuri TikTok ,Cum să descărcați videoclipuri din TikTok ,Descărcare video TikTok online ,Descărcare gratuită video TikTok ,Economisor video TikTok ,Descărcați TikTok fără filigran ,Captură video TikTok ,Descărcare TikTok în MP4",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum se descarcă un videoclip pe instagram"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "Descărcați Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "Descărcați Instagram Reel ,Instagram Reel Downloader ,Salvați Instagram Reel video ,Cum să descărcați Reels pe instagram ,Instagram Reel descărcare online ,Descărcare gratuită Instagram Reel ,Instagram Reel video saver ,Descărcare Reels de pe instagram ,Instagram Reel video grabber ,Instagram Reel descărcare offline",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "Cum să descărcați YouTube Shorts"
-    },
-    "download-tiktok-video": {
-      "title": "descarca video tiktok"
-    },
-    "download-twitter-video": {
-      "title": "descărcați videoclipuri pe Twitter"
     },
     "general": {
       "title": "Descărcați video online",

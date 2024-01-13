@@ -144,7 +144,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד וידאו Twitch"
     },
-    "download-video-twitter": {
+    "download-twitter-video": {
       "title": "הורד וידאו טוויטר",
       "datePublished": "2021-10-01",
       "keywords": "הורדת סרטוני טוויטר , הורדת סרטוני טוויטר , שמור סרטוני טוויטר , כיצד להוריד סרטונים מטוויטר , הורדת סרטוני טוויטר באינטרנט , הורדת סרטוני טוויטר בחינם , שומר וידאו בטוויטר , הורדת טוויטר ללא סימן מים , חוטף וידאו בטוויטר , הורדת טוויטר ל-MP4",
@@ -191,7 +191,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד וידאו טוויטר"
     },
-    "download-video-tiktok": {
+    "download-tiktok-video": {
       "title": "הורד סרטון Tiktok",
       "datePublished": "2021-10-01",
       "keywords": "הורד סרטוני TikTok, הורדת סרטוני TikTok, שמור סרטוני TikTok, כיצד להוריד סרטונים מ- TikTok, הורדת סרטוני TikTok באינטרנט, הורדת סרטוני TikTok בחינם, TikTok שומר וידאו, הורד TikTok ללא סימן מים, TikTok Video Grabber, TikTok",
@@ -285,7 +285,7 @@
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד וידאו אינסטגרם"
     },
-    "download-instagram-reel": {
+    "download-instagram-reels": {
       "title": "הורד את Instagram Reel",
       "datePublished": "2021-10-01",
       "keywords": "הורד אינסטגרם Reel, אינסטגרם Reel הורדת סרטון, שמור סרטון Reel אינסטגרם, כיצד להוריד Reels באינסטגרם, אינסטגרם Reel הורדה מקוונת, הורדת Reel בחינם באינסטגרם, חוסך וידאו אינסטגרם Reel, הורדת סלילים מאינסטגרם, אינסטגרם Reel Video Grabber, אינסטגרם Reel הורדה במצב לא מקוון",
@@ -707,12 +707,6 @@
       },
       "imageUrl": "/images/open-graph.png",
       "#1": "כיצד להוריד מכנס YouTube קצר"
-    },
-    "download-tiktok-video": {
-      "title": "הורדת טיקטוק וידאו"
-    },
-    "download-twitter-video": {
-      "title": "להוריד סרטוני טוויטר"
     },
     "general": {
       "title": "הורד וידאו באינטרנט",
