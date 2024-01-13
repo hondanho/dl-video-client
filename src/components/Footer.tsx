@@ -234,7 +234,7 @@ const Footer = ({ locale }: { locale: string }) => {
                 <li>
                   <Link
                     href={`/blog`}
-                    title={page("blog.title")}
+                    title="blog"
                     className="text-gray-600 hover:text-gray-800"
                   >
                     {t("#25")}
