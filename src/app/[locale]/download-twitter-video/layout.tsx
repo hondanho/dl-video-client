@@ -7,7 +7,7 @@ type Props = {
 };
 
 export const metadata = async (): Promise<Metadata> => {
-  return await pageMetadata("Page.download-twitter-video");
+  return await pageMetadata("Page.download-twitter-video", "download-twitter-video");
 }
 
 export default function RootLayout({ children }: Props) {

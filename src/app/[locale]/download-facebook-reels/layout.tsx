@@ -7,7 +7,7 @@ type Props = {
 };
 
 export const metadata = async (): Promise<Metadata> => {
-  return await pageMetadata("Page.download-facebook-reels");
+  return await pageMetadata("Page.download-facebook-reels", "download-facebook-reels");
 }
 
 export default function RootLayout({ children }: Props) {

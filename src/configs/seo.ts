@@ -4,6 +4,7 @@ import { getTranslations } from "next-intl/server";
 
 export const mainMetadata = async (): Promise<Metadata> => {
   const t = await getTranslations("Metadata");
+  const locale = useLocale();
 
   return {
     viewport: "width=device-width, initial-scale=1.0",
@@ -17,7 +18,8 @@ export const mainMetadata = async (): Promise<Metadata> => {
       },
     ],
     alternates: {
-        canonical: process.env.WEBSITE_URL
+        canonical: process.env.WEBSITE_URL,
+        [locale]: `${process.env.WEBSITE_URL}\\${locale}`
     },
     themeColor: [
       { media: "(prefers-color-scheme: light)", color: "#ffffff" },
@@ -68,8 +70,9 @@ export const mainMetadata = async (): Promise<Metadata> => {
   };
 };
 
-export const pageMetadata = async (key: string): Promise<Metadata> => {
+export const pageMetadata = async (key: string, path?: string): Promise<Metadata> => {
   const t = await getTranslations(key);
+  const locale = useLocale();
 
   return {
     title: t("title"),
@@ -83,6 +86,13 @@ export const pageMetadata = async (key: string): Promise<Metadata> => {
       description: t("description"),
       siteName: t("title"),
       images: t("imageUrl"),
+    },
+    alternates: {
+      canonical: process.env.WEBSITE_URL,
+      languages: {
+        [locale]: `${process.env.WEBSITE_URL}`,
+        [locale]: `${process.env.WEBSITE_URL}\\${locale}\\${path}`
+      }
     },
     twitter: {
       card: "summary_large_image",
