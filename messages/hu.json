@@ -779,7 +779,8 @@
       "#27": "googleplay alkalmazás URL-je",
       "#28": "apple alkalmazás URL-je",
       "btnText": "Letöltés",
-      "btnLoadingText": "Elragadó"
+      "btnLoadingText": "Elragadó",
+      "more": "Több"
     },
     "privacy-policy": {
       "slug-high-level": true,

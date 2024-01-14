@@ -779,7 +779,8 @@
       "#27": "googleplay app url",
       "#28": "appel app url",
       "btnText": "Aflaai",
-      "btnLoadingText": "Gaan haal"
+      "btnLoadingText": "Gaan haal",
+      "more": "Meer"
     },
     "privacy-policy": {
       "slug-high-level": true,

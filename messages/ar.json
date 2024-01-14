@@ -779,7 +779,8 @@
       "#27": "عنوان URL لتطبيق googleplay",
       "#28": "عنوان URL لتطبيق Apple",
       "btnText": "تحميل",
-      "btnLoadingText": "جلب"
+      "btnLoadingText": "جلب",
+      "more": "أكثر"
     },
     "privacy-policy": {
       "slug-high-level": true,

@@ -779,7 +779,8 @@
       "#27": "URL-адрес приложения GooglePlay",
       "#28": "URL-адрес приложения Apple",
       "btnText": "Скачать",
-      "btnLoadingText": "Получение"
+      "btnLoadingText": "Получение",
+      "more": "Более"
     },
     "privacy-policy": {
       "slug-high-level": true,

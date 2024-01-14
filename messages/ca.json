@@ -779,7 +779,8 @@
       "#27": "URL de l'aplicació googleplay",
       "#28": "URL de l'aplicació Apple",
       "btnText": "descarregar",
-      "btnLoadingText": "Recollint"
+      "btnLoadingText": "Recollint",
+      "more": "Més"
     },
     "privacy-policy": {
       "slug-high-level": true,

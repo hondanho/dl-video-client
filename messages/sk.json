@@ -779,7 +779,8 @@
       "#27": "adresa URL aplikácie googleplay",
       "#28": "adresa URL aplikácie Apple",
       "btnText": "Stiahnuť ▼",
-      "btnLoadingText": "Načítavanie"
+      "btnLoadingText": "Načítavanie",
+      "more": "Viac"
     },
     "privacy-policy": {
       "slug-high-level": true,

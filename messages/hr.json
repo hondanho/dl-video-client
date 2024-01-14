@@ -779,7 +779,8 @@
       "#27": "url aplikacije googleplay",
       "#28": "url aplikacije za jabuku",
       "btnText": "preuzimanje datoteka",
-      "btnLoadingText": "Dohvaćanje"
+      "btnLoadingText": "Dohvaćanje",
+      "more": "Više"
     },
     "privacy-policy": {
       "slug-high-level": true,

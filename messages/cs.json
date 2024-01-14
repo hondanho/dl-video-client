@@ -779,7 +779,8 @@
       "#27": "adresa URL aplikace googleplay",
       "#28": "URL aplikace apple",
       "btnText": "Stažení",
-      "btnLoadingText": "Načítání"
+      "btnLoadingText": "Načítání",
+      "more": "Více"
     },
     "privacy-policy": {
       "slug-high-level": true,

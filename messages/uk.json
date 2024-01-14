@@ -779,7 +779,8 @@
       "#27": "URL-адреса програми Googleplay",
       "#28": "URL-адреса програми Apple",
       "btnText": "Завантажити",
-      "btnLoadingText": "Отримання"
+      "btnLoadingText": "Отримання",
+      "more": "більше"
     },
     "privacy-policy": {
       "slug-high-level": true,

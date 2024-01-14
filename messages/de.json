@@ -779,7 +779,8 @@
       "#27": "Googleplay-App-URL",
       "#28": "Apple-App-URL",
       "btnText": "Herunterladen",
-      "btnLoadingText": "Holen"
+      "btnLoadingText": "Holen",
+      "more": "Mehr"
     },
     "privacy-policy": {
       "slug-high-level": true,

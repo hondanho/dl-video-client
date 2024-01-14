@@ -779,7 +779,8 @@
       "#27": "googleplay app url",
       "#28": "app url",
       "btnText": "Hent",
-      "btnLoadingText": "Henter"
+      "btnLoadingText": "Henter",
+      "more": "Mere"
     },
     "privacy-policy": {
       "slug-high-level": true,

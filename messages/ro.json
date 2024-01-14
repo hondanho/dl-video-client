@@ -779,7 +779,8 @@
       "#27": "adresa URL a aplicației googleplay",
       "#28": "adresa URL a aplicației Apple",
       "btnText": "Descarca",
-      "btnLoadingText": "Preluare"
+      "btnLoadingText": "Preluare",
+      "more": "Mai mult"
     },
     "privacy-policy": {
       "slug-high-level": true,

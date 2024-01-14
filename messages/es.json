@@ -779,7 +779,8 @@
       "#27": "URL de la aplicación Google Play",
       "#28": "URL de la aplicación de Apple",
       "btnText": "Descargar",
-      "btnLoadingText": "Atractivo"
+      "btnLoadingText": "Atractivo",
+      "more": "Más"
     },
     "privacy-policy": {
       "slug-high-level": true,

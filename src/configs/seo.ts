@@ -18,8 +18,8 @@ export const mainMetadata = async (): Promise<Metadata> => {
       },
     ],
     alternates: {
-        canonical: process.env.WEBSITE_URL,
-        [locale]: `${process.env.WEBSITE_URL}\\${locale}`
+      canonical: process.env.WEBSITE_URL,
+      [locale]: `${process.env.WEBSITE_URL}\\${locale}`,
     },
     themeColor: [
       { media: "(prefers-color-scheme: light)", color: "#ffffff" },
@@ -70,7 +70,10 @@ export const mainMetadata = async (): Promise<Metadata> => {
   };
 };
 
-export const pageMetadata = async (key: string, path?: string): Promise<Metadata> => {
+export const pageMetadata = async (
+  key: string,
+  path?: string
+): Promise<Metadata> => {
   const t = await getTranslations(key);
   const locale = useLocale();
 
@@ -91,8 +94,8 @@ export const pageMetadata = async (key: string, path?: string): Promise<Metadata
       canonical: process.env.WEBSITE_URL,
       languages: {
         [locale]: `${process.env.WEBSITE_URL}`,
-        [locale]: `${process.env.WEBSITE_URL}\\${locale}\\${path}`
-      }
+        [locale]: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
+      },
     },
     twitter: {
       card: "summary_large_image",
@@ -101,6 +104,6 @@ export const pageMetadata = async (key: string, path?: string): Promise<Metadata
       images: t("imageUrl"),
       creator: `@${process.env.WEBSITE_URL}`,
     },
-    abstract: t("description")
+    abstract: t("description"),
   };
 };

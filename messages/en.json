@@ -786,7 +786,8 @@
       "#27": "googleplay app url",
       "#28": "apple app url",
       "btnText": "Download",
-      "btnLoadingText": "Fetching"
+      "btnLoadingText": "Fetching",
+      "more": "More"
     },
 
     "privacy-policy": {

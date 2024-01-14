@@ -779,7 +779,8 @@
       "#27": "url της εφαρμογής googleplay",
       "#28": "url εφαρμογής apple",
       "btnText": "Κατεβάστε",
-      "btnLoadingText": "Γοητευτικός"
+      "btnLoadingText": "Γοητευτικός",
+      "more": "Περισσότερο"
     },
     "privacy-policy": {
       "slug-high-level": true,

@@ -779,7 +779,8 @@
       "#27": "כתובת האתר של אפליקציית googleplay",
       "#28": "כתובת האתר של האפליקציה של Apple",
       "btnText": "הורד",
-      "btnLoadingText": "מַקסִים"
+      "btnLoadingText": "מַקסִים",
+      "more": "יותר"
     },
     "privacy-policy": {
       "slug-high-level": true,

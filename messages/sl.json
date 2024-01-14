@@ -779,7 +779,8 @@
       "#27": "url aplikacije googleplay",
       "#28": "url aplikacije apple",
       "btnText": "Prenesi",
-      "btnLoadingText": "Pridobivanje"
+      "btnLoadingText": "Pridobivanje",
+      "more": "več"
     },
     "privacy-policy": {
       "slug-high-level": true,

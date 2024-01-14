@@ -779,7 +779,8 @@
       "#27": "谷歌播放应用程序网址",
       "#28": "苹果应用程序网址",
       "btnText": "下载",
-      "btnLoadingText": "抓取"
+      "btnLoadingText": "抓取",
+      "more": "更多的"
     },
     "privacy-policy": {
       "slug-high-level": true,

@@ -779,7 +779,8 @@
       "#27": "구글플레이 앱 URL",
       "#28": "애플 앱 URL",
       "btnText": "다운로드",
-      "btnLoadingText": "가져오는 중"
+      "btnLoadingText": "가져오는 중",
+      "more": "더"
     },
     "privacy-policy": {
       "slug-high-level": true,

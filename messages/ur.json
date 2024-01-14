@@ -779,7 +779,8 @@
       "#27": "گوگل پلے ایپ یو آر ایل",
       "#28": "ایپل ایپ یو آر ایل",
       "btnText": "ڈاؤن لوڈ کریں",
-      "btnLoadingText": "لا رہا ہے۔"
+      "btnLoadingText": "لا رہا ہے۔",
+      "more": "مزید"
     },
     "privacy-policy": {
       "slug-high-level": true,

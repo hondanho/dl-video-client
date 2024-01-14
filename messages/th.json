@@ -779,7 +779,8 @@
       "#27": "URL ของแอป GooglePlay",
       "#28": "URL แอปแอปเปิ้ล",
       "btnText": "ดาวน์โหลด",
-      "btnLoadingText": "กำลังดึงข้อมูล"
+      "btnLoadingText": "กำลังดึงข้อมูล",
+      "more": "มากกว่า"
     },
     "privacy-policy": {
       "slug-high-level": true,

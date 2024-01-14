@@ -779,7 +779,8 @@
       "#27": "googleplay აპის url",
       "#28": "Apple app url",
       "btnText": "ჩამოტვირთვა",
-      "btnLoadingText": "მიღება"
+      "btnLoadingText": "მიღება",
+      "more": "მეტი"
     },
     "privacy-policy": {
       "slug-high-level": true,

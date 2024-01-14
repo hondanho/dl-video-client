@@ -779,7 +779,8 @@
       "#27": "googleplay app url",
       "#28": "apple app url",
       "btnText": "nedlasting",
-      "btnLoadingText": "Henter"
+      "btnLoadingText": "Henter",
+      "more": "Mer"
     },
     "privacy-policy": {
       "slug-high-level": true,

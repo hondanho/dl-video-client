@@ -779,7 +779,8 @@
       "#27": "УРЛ апликације гооглеплаи",
       "#28": "Аппле апп урл",
       "btnText": "Преузимање",
-      "btnLoadingText": "Преузимање"
+      "btnLoadingText": "Преузимање",
+      "more": "Више"
     },
     "privacy-policy": {
       "slug-high-level": true,

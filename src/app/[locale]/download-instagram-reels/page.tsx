@@ -16,7 +16,7 @@ import {
   structuredFaq,
   structuredHowTo,
   structuredSoftwareApplication,
-  structuredVideoObject
+  structuredVideoObject,
 } from "@/configs/metadata";
 
 export default function InstagramReelsPage() {
@@ -81,7 +81,7 @@ export default function InstagramReelsPage() {
         id="#download"
         className="video-input flex w-full flex-col items-center bg-primary px-4 pb-20 pt-28 shadow-sm"
       >
-        <h1 className="py-2 text-center text-2xl font-extrabold text-white sm:text-4xl capitalize">
+        <h1 className="py-2 text-center text-2xl font-extrabold capitalize text-white sm:text-4xl">
           {t("title")}
         </h1>
         <InstagramForm

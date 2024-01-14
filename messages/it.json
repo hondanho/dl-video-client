@@ -779,7 +779,8 @@
       "#27": "URL dell'applicazione GooglePlay",
       "#28": "URL dell'app Apple",
       "btnText": "Scaricamento",
-      "btnLoadingText": "Recupero"
+      "btnLoadingText": "Recupero",
+      "more": "Di più"
     },
     "privacy-policy": {
       "slug-high-level": true,

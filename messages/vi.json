@@ -779,7 +779,8 @@
       "#27": "url ứng dụng googleplay",
       "#28": "url ứng dụng apple",
       "btnText": "Tải xuống",
-      "btnLoadingText": "Đang tìm nạp"
+      "btnLoadingText": "Đang tìm nạp",
+      "more": "Hơn"
     },
     "privacy-policy": {
       "slug-high-level": true,

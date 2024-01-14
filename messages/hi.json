@@ -779,7 +779,8 @@
       "#27": "गूगलप्ले ऐप यूआरएल",
       "#28": "ऐप्पल ऐप यूआरएल",
       "btnText": "डाउनलोड करना",
-      "btnLoadingText": "प्राप्त कर रहा है"
+      "btnLoadingText": "प्राप्त कर रहा है",
+      "more": "अधिक"
     },
     "privacy-policy": {
       "slug-high-level": true,
