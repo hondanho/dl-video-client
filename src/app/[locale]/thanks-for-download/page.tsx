@@ -4,7 +4,7 @@ import { useLocale, useTranslations } from "next-intl";
 import Link from "next/link";
 
 const Thankyoupage = () => {
-  const t = useTranslations("Page.thanks-for-download");
+  const t = useTranslations("Page.thankyou");
   const locale = useLocale();
 
   return (
