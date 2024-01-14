@@ -331,7 +331,7 @@ export default function TiktokPage() {
             <p>
               {base("#15")}{" "}
               <Link className="text-primary" href="/">
-                {process.env.NEXT_PUBLIC_WEBSITE_URL}
+                {process.env.NEXT_PUBLIC_DOMAIN}
               </Link>{" "}
               {base("#16")}{" "}
             </p>
