@@ -38,7 +38,6 @@ export default function RootLayout({
           mainFont.className
         )}
       >
-        <Navbar />
         <AppClientComponent
           {...{
             messages,
@@ -48,6 +47,7 @@ export default function RootLayout({
             now: Date.now(),
           }}
         >
+          <Navbar />
           {children}
         </AppClientComponent>
         <Footer locale={locale} />
