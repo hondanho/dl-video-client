@@ -175,7 +175,7 @@ const Navbar = () => {
             {navbarLinks.map((link) => {
               if (link.name === "More") {
                 return (
-                  <div className="py-4 relative">
+                  <div className="py-4 relative" key={link.name}>
                     <Link key={link.name}
                       href="#"
                       title="more"
