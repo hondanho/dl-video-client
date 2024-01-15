@@ -38,6 +38,7 @@ export default function RootLayout({
           mainFont.className
         )}
       >
+        <meta name="msvalidate.01" content="CAF25435A65CBAB10D2B2059EE7AF92E" />
         <AppClientComponent
           {...{
             messages,
