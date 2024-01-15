@@ -94,7 +94,7 @@
           "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitch se veranderinge te verseker?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "Hoe om video Twitch Clip af te laai"
     },
     "download-twitch-video": {
@@ -141,7 +141,7 @@
           "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitch se veranderinge te verseker?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch.png",
       "#1": "Hoe om video Twitch af te laai"
     },
     "download-twitter-video": {
@@ -188,7 +188,7 @@
           "question": "Hoe gereeld word jou instrument opgedateer om versoenbaarheid met Twitter se veranderinge te verseker?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+"imageUrl": "/images/open-graph/open-graph-twitter.png",
       "#1": "Hoe om video's op Twitter af te laai"
     },
     "download-tiktok-video": {
@@ -235,7 +235,7 @@
           "question": "Hoe gereeld word u instrument opgedateer om versoenbaarheid met TikTok se veranderinge te verseker?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+"imageUrl": "/images/open-graph/open-graph-tiktok.png",
       "#1": "Hoe om video tiktok af te laai"
     },
     "download-instagram-video": {

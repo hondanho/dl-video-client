@@ -94,7 +94,7 @@
           "question": "Twitch の変更との互換性を確保するためにツールはどのくらいの頻度で更新されますか?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "ビデオ Twitch Clip をダウンロードする方法"
     },
     "download-twitch-video": {

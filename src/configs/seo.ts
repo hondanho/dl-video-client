@@ -72,7 +72,8 @@ export const mainMetadata = async (): Promise<Metadata> => {
 
 export const pageMetadata = async (
   key: string,
-  path?: string
+  path?: string,
+  openGraph?: string
 ): Promise<Metadata> => {
   const t = await getTranslations(key);
   const locale = useLocale();
@@ -88,7 +89,7 @@ export const pageMetadata = async (
       title: t("title"),
       description: t("description"),
       siteName: t("title"),
-      images: t("imageUrl"),
+      images: openGraph ? openGraph : "/images/open-graph.png",
     },
     alternates: {
       canonical: process.env.WEBSITE_URL,

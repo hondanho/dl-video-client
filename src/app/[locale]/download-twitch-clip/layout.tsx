@@ -9,7 +9,8 @@ type Props = {
 export const metadata = async (): Promise<Metadata> => {
   return await pageMetadata(
     "Page.download-twitch-clip",
-    "download-twitch-clip"
+    "download-twitch-clip",
+    "/images/open-graph/open-graph-twitch-clip.png"
   );
 };
 

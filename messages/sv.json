@@ -94,7 +94,7 @@
           "question": "Hur ofta uppdateras ditt verktyg för att säkerställa kompatibilitet med Twitchs ändringar?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "Hur man laddar ner video Twitch Clip"
     },
     "download-twitch-video": {

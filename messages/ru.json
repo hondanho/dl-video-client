@@ -94,7 +94,7 @@
           "question": "Как часто обновляется ваш инструмент, чтобы обеспечить совместимость с изменениями Twitch?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "Как скачать видео Twitch Clip"
     },
     "download-twitch-video": {

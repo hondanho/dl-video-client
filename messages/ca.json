@@ -94,7 +94,7 @@
           "question": "Amb quina freqüència s'actualitza la vostra eina per garantir la compatibilitat amb els canvis de Twitch?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "Com descarregar el vídeo Twitch Clip"
     },
     "download-twitch-video": {

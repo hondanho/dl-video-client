@@ -94,7 +94,7 @@
           "question": "À quelle fréquence votre outil est-il mis à jour pour garantir la compatibilité avec les modifications de Twitch ?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "Comment télécharger la vidéo Twitch Clip"
     },
     "download-twitch-video": {

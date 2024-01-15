@@ -9,7 +9,8 @@ type Props = {
 export const metadata = async (): Promise<Metadata> => {
   return await pageMetadata(
     "Page.download-facebook-reels",
-    "download-facebook-reels"
+    "download-facebook-reels",
+    "/images/open-graph/open-graph-facebook-reels.png"
   );
 };
 

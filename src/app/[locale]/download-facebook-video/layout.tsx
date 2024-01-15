@@ -9,8 +9,9 @@ type Props = {
 export const metadata = async (): Promise<Metadata> => {
   return await pageMetadata(
     "Page.download-facebook-video",
-    "download-facebook-video"
-  );
+    "download-facebook-video",
+    "/images/open-graph/open-graph-facebook.png",
+);
 };
 
 export default function RootLayout({ children }: Props) {

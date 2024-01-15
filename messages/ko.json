@@ -94,7 +94,7 @@
           "question": "Twitch의 변경 사항과의 호환성을 보장하기 위해 도구가 얼마나 자주 업데이트됩니까?"
         }
       },
-      "imageUrl": "/images/open-graph.png",
+      "imageUrl": "/images/open-graph/open-graph-twitch-clip.png",
       "#1": "비디오 Twitch Clip을 다운로드하는 방법"
     },
     "download-twitch-video": {
