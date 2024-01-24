@@ -49,16 +49,18 @@ const ContactPage = () => {
             {process.env.NEXT_PUBLIC_EMAIL}
           </a>
         </p>
+        <p>Bussiness Name: {process.env.NEXT_PUBLIC_BUSSINESS_NAME}</p>
+        <p>Address: {process.env.NEXT_PUBLIC_ADDRESS}</p>
       </div>
       <section className="body-font relative text-gray-600">
         <div className="absolute inset-0 bg-gray-300">
-          <iframe
-            className="h-full w-full"
+          <iframe scrolling="no"
             frameBorder="0"
             title="map"
-            scrolling="no"
-            src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=%C4%B0zmir+(My%20Business%20Name)&ie=UTF8&t=&z=14&iwloc=B&output=embed"
-          ></iframe>
+            className="h-full w-full"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3328.9742651567053!2d-112.08836679999999!3d33.449977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b122e6ee087c1%3A0x4b7dfb76e1e69ff9!2s1203%20W%20Monroe%20St%2C%20Phoenix%2C%20AZ%2085007%2C%20USA!5e0!3m2!1sen!2s!4v1706116177948!5m2!1sen!2s"
+            loading="lazy" >
+          </iframe>
         </div>
         <div className="container mx-auto flex px-5 py-24">
           {!suscess && (
