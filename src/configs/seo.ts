@@ -49,7 +49,7 @@ export const mainMetadata = async (): Promise<Metadata> => {
     abstract: t("description"),
     category: "Social Media Networks",
     robots: {
-      index: false,
+      index: true,
       follow: true,
       nocache: true,
       googleBot: {
