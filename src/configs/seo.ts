@@ -1,10 +1,15 @@
 import { Metadata } from "next";
 import { useLocale } from "next-intl";
 import { getTranslations } from "next-intl/server";
+import { locales } from "@/utils/navigation";
 
 export const mainMetadata = async (): Promise<Metadata> => {
   const t = await getTranslations("Metadata");
   const locale = useLocale();
+  const alternates: any = {};
+  locales.forEach((locale: string) => {
+    alternates[locale] = `${process.env.WEBSITE_URL}\\${locale}`;
+  });
 
   return {
     viewport: "width=device-width, initial-scale=1.0",
@@ -18,8 +23,8 @@ export const mainMetadata = async (): Promise<Metadata> => {
       },
     ],
     alternates: {
-      canonical: process.env.WEBSITE_URL,
-      [locale]: `${process.env.WEBSITE_URL}\\${locale}`,
+      ...alternates,
+      canonical: `${process.env.WEBSITE_URL}\\${locale}`
     },
     themeColor: [
       { media: "(prefers-color-scheme: light)", color: "#ffffff" },
@@ -77,6 +82,10 @@ export const pageMetadata = async (
 ): Promise<Metadata> => {
   const t = await getTranslations(key);
   const locale = useLocale();
+  const alternates: any = {};
+  locales.forEach((locale: string) => {
+    alternates[locale] = `${process.env.WEBSITE_URL}\\${locale}\\${path}`;
+  });
 
   return {
     title: t("title") + " - " + process.env.DOMAIN,
@@ -94,7 +103,7 @@ export const pageMetadata = async (
     alternates: {
       canonical: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
       languages: {
-        [locale]: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
+        ...alternates,
       },
     },
     twitter: {
