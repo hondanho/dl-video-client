@@ -24,6 +24,7 @@ export const mainMetadata = async (): Promise<Metadata> => {
     ],
     alternates: {
       ...alternates,
+      'x-default': `${process.env.WEBSITE_URL}\\${locale}`,
       canonical: `${process.env.WEBSITE_URL}\\${locale}`
     },
     themeColor: [
@@ -103,7 +104,8 @@ export const pageMetadata = async (
     alternates: {
       canonical: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
       languages: {
-        ...alternates,
+      'x-default': `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
+      ...alternates,
       },
     },
     twitter: {
