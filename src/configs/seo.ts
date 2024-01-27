@@ -92,9 +92,8 @@ export const pageMetadata = async (
       images: openGraph ? openGraph : "/images/open-graph.png",
     },
     alternates: {
-      canonical: process.env.WEBSITE_URL,
+      canonical: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
       languages: {
-        [locale]: `${process.env.WEBSITE_URL}`,
         [locale]: `${process.env.WEBSITE_URL}\\${locale}\\${path}`,
       },
     },
