@@ -20,16 +20,17 @@ import {
 } from "@/configs/metadata";
 
 export default function YoutubePage() {
-  let t = useTranslations(`Page.download-youtube-video`);
+  const path = "download-youtube-video";
+  let t = useTranslations(`Page.${path}`);
   const base = useTranslations("Page.base");
 
-  const structuredHowToJson = structuredHowTo(t, base);
-  const structuredSoftwareApplicationJson = structuredSoftwareApplication(t);
+  const structuredHowToJson = structuredHowTo(t, base, path);
+  const structuredSoftwareApplicationJson = structuredSoftwareApplication(t, path, 78693);
   const structuredVideoObjectJson = structuredVideoObject(t);
   const structuredEntertainmentBusinessJson =
-    structuredEntertainmentBusiness(t);
+    structuredEntertainmentBusiness(t, path);
   let FAQ_LIST: FAQ[] = [];
-  const faq = useTranslations(`Page.download-youtube-video.faq`);
+  const faq = useTranslations(`Page.${path}.faq`);
   Array.from({ length: 8 }, (_, i) => i + 1).map((x) => {
     FAQ_LIST.push({
       question: faq(`${x}.question`),
@@ -216,7 +217,7 @@ export default function YoutubePage() {
               <Image
                 alt={base("#8")}
                 title={base("#8")}
-                src={"/images/home/Paste_a_video_URL_69db3bce0f.png"}
+                src={"/images/home/how_can_i_save.gif"}
                 width="250"
                 height="213"
                 decoding="async"
@@ -234,7 +235,7 @@ export default function YoutubePage() {
               <Image
                 alt={base("#10")}
                 title={base("#10")}
-                src={"/images/home/Edit_or_download_66e0255ec1.png"}
+                src={"/images/home/insert_video_link.gif"}
                 width="250"
                 height="213"
                 decoding="async"
@@ -252,7 +253,7 @@ export default function YoutubePage() {
               <Image
                 alt={base("#12")}
                 title={base("#12")}
-                src={"/images/home/Share_313367e072.png"}
+                src={"/images/home/how_can_i_save_.gif"}
                 width="250"
                 height="213"
                 decoding="async"

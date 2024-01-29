@@ -30,7 +30,7 @@ const ScrollUpButton = () => {
         })
       }
       className={cn(
-        "shadow-form fixed bottom-4 right-4 rounded-full bg-white p-3",
+        "shadow-form fixed bottom-4 right-4 rounded bg-white p-3",
         {
           hidden: !visible,
         }

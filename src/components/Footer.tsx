@@ -1,13 +1,14 @@
 import { useTranslations } from "next-intl";
-import Image from "next/image";
 import Link from "next/link";
-import slugify from "slugify";
+import { Extension } from "./ui/Extension";
+
 const Footer = ({ locale }: { locale: string }) => {
   const t = useTranslations("Footer");
   const page = useTranslations("Page");
 
   return (
     <footer className="body-font bg-gray-100 pb-8 pt-20 text-gray-600">
+      <Extension/>
       <div className="mx-auto flex flex-col flex-wrap px-4 md:flex-row md:flex-nowrap md:items-center lg:items-start">
         <div className="flex flex-grow flex-wrap text-center md:text-left">
           <div className="youtube-downloader w-full px-4 md:w-1/2 lg:w-1/6">

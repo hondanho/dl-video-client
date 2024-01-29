@@ -88,6 +88,141 @@ footer a:hover {
   width: 0.625em;
 }
 
+
+/* extension */
+.b-widget-left {
+  font-family: 'Roboto', sans-serif;
+  position: fixed;
+  left: 20px;
+  bottom: 20px;
+  z-index: 50000;
+  display: none;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 16px 8px 16px 16px;
+  min-width: 250px;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #fff;
+  background: #FFFFFF;
+  box-shadow: 0 4px 10px rgba(130, 130, 130, 0.12);
+  border-radius: 0.25rem;
+}
+
+@media (min-width: 1025px) {
+  .b-widget-left {
+    display: flex;
+    animation: fadeInUp 0.7s ease;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translate3d(0, 100%, 0);
+    }
+
+    to {
+      opacity: 1;
+      transform: translate3d(0, 0, 0);
+    }
+  }
+}
+
+.b-widget-left__list {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0 0 0 10px;
+}
+
+.b-widget-left__elem:first-child {
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+
+.b-widget-left__elem:last-child {
+  flex-direction: row;
+}
+
+.b-widget-left h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: black;
+  margin: 0;
+}
+
+.b-widget-left button {
+  height: 22px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: -0.02em;
+  color: #9D9D9D;
+  border: none;
+  background: inherit;
+  padding: 0;
+}
+
+.b-widget-close {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  width: 8px;
+  height: 8px;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  border: none;
+  background: inherit;
+}
+
+.b-widget-left-instruction {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  letter-spacing: -0.02em;
+  text-decoration-line: underline;
+  color: #1B1B1B;
+  margin: 0;
+}
+
+.b-widget-left-instruction:hover {
+  color: #1B1B1B;
+  opacity: 0.8;
+}
+
+.b-widget-left-yes {
+  width: 148px;
+  height: 32px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 32px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  background: #195fd7;
+  border-radius: 2px;
+}
+
+.b-widget-left-yes:hover {
+  color: #fff;
+  opacity: 0.8;
+}
+
+
 .sprite {
   background-image: url(/images/language.webp);
   background-size: 2560%;
