@@ -56,7 +56,7 @@ export const mainMetadata = async (): Promise<Metadata> => {
     robots: {
       index: true,
       follow: true,
-      nocache: true,
+      nocache: false,
       googleBot: {
         index: true,
         follow: true,
