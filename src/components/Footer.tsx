@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Extension } from "./ui/Extension";
 
 const Footer = ({ locale }: { locale: string }) => {
+  locale = locale ?? 'en';
   const t = useTranslations("Footer");
   const page = useTranslations("Page");
 

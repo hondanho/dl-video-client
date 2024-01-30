@@ -1,6 +1,11 @@
 # *
 User-agent: *
 allow: /
+Disallow: /cgi-bin/
+Disallow: /scripts/
+Disallow: /tmp/
+Disallow: /_next/
+Disallow: /cdn-cgi/
 
 # Host
 Host: https://www.downloadvideoonline.org
