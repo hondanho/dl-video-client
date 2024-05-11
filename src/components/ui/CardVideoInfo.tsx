@@ -58,7 +58,7 @@ export const CardVideoInfo = ({ videoInfo }: any) => {
       className="h-30 mb-2 w-[300px] rounded bg-primary px-4 py-2 font-bold text-white hover:bg-blue-700"
       onClick={() =>
         downloadFile(
-          `${item.name}_${process.env.NEXT_PUBLIC_DOMAIN}`,
+          `${item.name}_${process.env.NEXT_PUBLIC_DOMAIN && process.env.NEXT_PUBLIC_DOMAIN.replace(/\./g, "_")}`,
           item.url
         )
       }
