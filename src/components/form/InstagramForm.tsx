@@ -100,7 +100,7 @@ export default function InstagramForm({
 
   return (
     <form
-      className="flex w-full max-w-3xl flex-col items-center"
+      className="flex w-full max-w-2xl flex-col items-center"
       onSubmit={handleSubmit}
     >
       <AlertError errorMsg={errorMsg} handleReset={() => setErrorMsg("")} />
