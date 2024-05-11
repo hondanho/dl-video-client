@@ -94,9 +94,25 @@ const Navbar = () => {
 
   const navbarLinks = [
     {
-      name: page("download-facebook-video.title"),
+      name: "Youtube",
+      href: `/${locale}/download-youtube-video`,
+    },
+    {
+      name: "Facebook",
       href: `/${locale}/download-facebook-video`,
       id: null,
+    },
+    {
+      name: "Tiktok",
+      href: `/${locale}/download-tiktok-video`,
+    },
+    {
+      name: "Twitter",
+      href: `/${locale}/download-twitter-video`,
+    },
+    {
+      name: "Twitch",
+      href: `/${locale}/download-twitch-video`,
     },
     {
       name: page("base.more"),
@@ -107,40 +123,24 @@ const Navbar = () => {
 
   const subNavbarLinks = [
     {
-      name: page("download-facebook-reels.title"),
-      href: `/${locale}/download-facebook-reels`,
-    },
-    {
-      name: page("download-youtube-video.title"),
-      href: `/${locale}/download-youtube-video`,
-    },
-    {
-      name: page("download-youtube-shorts.title"),
-      href: `/${locale}/download-youtube-shorts`,
-    },
-    {
-      name: page("download-instagram-video.title"),
+      name: "Instagram",
       href: `/${locale}/download-instagram-video`,
     },
     {
-      name: page("download-instagram-reels.title"),
-      href: `/${locale}/download-instagram-reels`,
-    },
-    {
-      name: page("download-tiktok-video.title"),
-      href: `/${locale}/download-tiktok-video`,
-    },
-    {
-      name: page("download-twitter-video.title"),
-      href: `/${locale}/download-twitter-video`,
-    },
-    {
-      name: page("download-twitch-video.title"),
-      href: `/${locale}/download-twitch-video`,
-    },
-    {
-      name: page("download-twitch-clip.title"),
+      name: "Twitch Clip",
       href: `/${locale}/download-twitch-clip`,
+    },
+    {
+      name: "Facebook Reels",
+      href: `/${locale}/download-facebook-reels`,
+    },
+    {
+      name: "Youtube Shorts",
+      href: `/${locale}/download-youtube-shorts`,
+    },
+    {
+      name: "Instagram Reels",
+      href: `/${locale}/download-instagram-reels`,
     },
   ];
 

@@ -29,7 +29,7 @@ h1 {
 }
 
 .video-info {
-  animation: fade-in 1s linear;
+  animation: fade-in 0.5s linear;
   animation-fill-mode: forwards;
   overflow: overlay;
 }
