@@ -222,181 +222,36 @@ footer a:hover {
   opacity: 0.8;
 }
 
-
-.sprite {
-  background-image: url(/images/language.webp);
-  background-size: 2560%;
-  width: 16px;
-  height: 16px;
-  position: relative;
-  top: 4px;
-  margin-inline-end: 3px;
-  display: inline-block;
-  overflow: hidden;
-  background-repeat: no-repeat;
+.pt-28 {
+  padding-top: 4rem !important;
 }
 
-.sprite-nav {
-  top: 0px;
-  margin-inline-end: 0px;
+.pb-20 {
+  padding-bottom: 2rem !important;
 }
 
-.afrikaans {
-  background-position: 19.3089% 57.2034%;
+.py-20 {
+  padding-top: 3rem !important;
+  padding-bottom: 3rem !important;
 }
 
-.arabic {
-  background-position: 24.3902% 57.2034%;
+.width-max-content {
+  width: max-content
 }
 
-.basque {
-  background-position: 29.4715% 57.2034%;
+.norton {
+  align-content: flex-end;
+  align-items: baseline;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  height: 22px;
+  justify-content: center;
+  margin: 2vh auto;
+  width: 230px;
 }
 
-.bengali {
-  background-position: 34.5528% 57.2034%;
-}
-
-.bulgarian {
-  background-position: 39.6341% 57.2034%;
-}
-
-.catalan {
-  background-position: 44.7154% 57.2034%;
-}
-
-.chinese {
-  background-position: 54.878% 57.2034%;
-}
-
-.croatian {
-  background-position: 59.9593% 57.2034%;
-}
-
-.czech {
-  background-position: 65.0407% 57.2034%;
-}
-
-.danish {
-  background-position: 70.122% 57.2034%;
-}
-
-.dutch {
-  background-position: 75.2033% 57.2034%;
-}
-
-.english {
-  background-position: 80.2846% 57.2034%;
-}
-
-.finnish {
-  background-position: 85.3659% 57.2034%;
-}
-
-.french {
-  background-position: 90.4472% 57.2034%;
-}
-
-.georgian {
-  background-position: 95.5285% 57.2034%;
-}
-
-.german {
-  background-position: 1.01626% 69.9153%;
-}
-
-.greek {
-  background-position: 6.09756% 69.9153%;
-}
-
-.hebrew {
-  background-position: 11.1789% 69.9153%;
-}
-
-.hindi {
-  background-position: 16.2602% 69.9153%;
-}
-
-.hungarian {
-  background-position: 21.3415% 69.9153%;
-}
-
-.icelandic {
-  background-position: 26.4228% 69.9153%;
-}
-
-.indonesian {
-  background-position: 31.5041% 69.9153%;
-}
-
-.italian {
-  background-position: 36.5854% 69.9153%;
-}
-
-.japanese {
-  background-position: 41.6667% 69.9153%;
-}
-
-.korean {
-  background-position: 46.748% 69.9153%;
-}
-
-.norwegian {
-  background-position: 51.8293% 69.9153%;
-}
-
-.polish {
-  background-position: 56.9106% 69.9153%;
-}
-
-.portuguese {
-  background-position: 61.9919% 69.9153%;
-}
-
-.romanian {
-  background-position: 67.0732% 69.9153%;
-}
-
-.russian {
-  background-position: 72.1545% 69.9153%;
-}
-
-.serbian {
-  background-position: 77.2358% 69.9153%;
-}
-
-.slovak {
-  background-position: 82.3171% 69.9153%;
-}
-
-.slovenian {
-  background-position: 87.3984% 69.9153%;
-}
-
-.spanish {
-  background-position: 92.4797% 69.9153%;
-}
-
-.swedish {
-  background-position: 97.561% 69.9153%;
-}
-
-.thai {
-  background-position: 1.01626% 80.5085%;
-}
-
-.ukrainian {
-  background-position: 11.1789% 80.5085%;
-}
-
-.urdu {
-  background-position: 16.2602% 80.5085%;
-}
-
-.vietnamese {
-  background-position: 21.3415% 80.5085%;
-}
-
-.turkish {
-  background-position: 6.09756% 80.5085%;
+.norton p {
+  color: #fff;
+  white-space: nowrap;
 }

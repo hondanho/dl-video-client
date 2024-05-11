@@ -97,25 +97,26 @@ export default function Home() {
         id="#download"
         className="video-input flex w-full flex-col items-center bg-primary px-4 pb-20 pt-28 shadow-sm"
       >
-        <h1 className="py-2 text-center text-2xl font-extrabold capitalize text-white sm:text-4xl">
+        <h1 className="py-4 text-center text-2xl font-extrabold capitalize text-white sm:text-2xl">
           {t("title")}
         </h1>
         <GeneralForm
           onValueChange={handleValueChange}
           onValueClear={handleValueClean}
         />
-        <div className="prose prose-neutral prose-a:no-underline mx-auto mt-4 text-xs text-white marker:text-xl md:text-sm">
-          <p>
-            {base("#1")}{" "}
-            <Link
-              title="Privacy Policy"
-              href={`/${locale}/privacy-policy`}
-              className="font-bold text-[#3BDF70]"
-            >
-              Privacy Policy
-            </Link>
-            .
-          </p>
+        <div className="norton">
+          <p>Scanned by</p> 
+          <Image
+            alt={base("#8")}
+            title={base("#8")}
+            src={"/images/home/norton.svg"}
+            width="22"
+            height="22"
+            decoding="async"
+            data-nimg="1"
+            loading="lazy"
+          />
+            <p>Norton<sup>TM</sup> Safe Web</p>
         </div>
       </section>
       {videoInfo && <CardVideoInfo videoInfo={videoInfo} />}
@@ -228,7 +229,7 @@ export default function Home() {
               <Image
                 alt={base("#8")}
                 title={base("#8")}
-                src={"/images/home/how_can_i_save.gif"}
+                src={"/images/home/how_can_i_save.gif"}  className="rounded"
                 width="250"
                 height="213"
                 decoding="async"
@@ -246,7 +247,7 @@ export default function Home() {
               <Image
                 alt={base("#10")}
                 title={base("#10")}
-                src={"/images/home/insert_video_link.gif"}
+                src={"/images/home/insert_video_link.gif"}  className="rounded"
                 width="250"
                 height="213"
                 decoding="async"
@@ -264,7 +265,7 @@ export default function Home() {
               <Image
                 alt={base("#12")}
                 title={base("#12")}
-                src={"/images/home/how_can_i_save_.gif"}
+                src={"/images/home/how_can_i_save_.gif"} className="rounded"
                 width="250"
                 height="213"
                 decoding="async"

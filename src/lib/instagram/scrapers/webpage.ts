@@ -5,7 +5,7 @@ import { enableWebpage } from "@/configs/instagram";
 
 import { makeHttpRequest } from "@/utils/request";
 import { handleScraperError } from "@/utils/handle";
-import { VideoInfo } from "@/types";
+import { AudioEXTEnum, VideoInfo } from "@/types";
 
 export const formatPageJson = (postHtml: CheerioAPI) => {
   const videoElement = postHtml("meta[property='og:video']");
@@ -29,12 +29,12 @@ export const formatPageJson = (postHtml: CheerioAPI) => {
     },
     formats: [
       {
-        url: videoUrl,
-        audio: true,
         name: "Download video HD",
+        url: videoUrl,
+        audio: false,
+        no_audio: false,
         quality: 1,
-        type: "video_yes_audio",
-        video: true,
+        ext: AudioEXTEnum.M4A,
       },
     ],
     video_quality: [],

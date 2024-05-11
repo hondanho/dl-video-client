@@ -1,5 +1,6 @@
 import { Inter as MainFont } from "next/font/google";
 import "@/styles/globals.css";
+import "@/styles/language.css";
 import { cn } from "@/utils";
 import { mainMetadata } from "@/configs/seo";
 import AppClientComponent from "./app";

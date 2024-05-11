@@ -1,6 +1,6 @@
 import querystring from "querystring";
 
-import { VideoInfo } from "@/types";
+import { AudioEXTEnum, VideoInfo } from "@/types";
 import { GraphQLResponse } from "@/types/instagram";
 
 import { BadRequest } from "@/lib/exceptions";
@@ -35,12 +35,12 @@ export const formatGraphqlJson = (postJson: GraphQLResponse) => {
 
     formats: [
       {
-        url: videoUrl,
-        audio: true,
         name: "Download video HD",
+        url: videoUrl,
+        audio: false,
+        no_audio: false,
         quality: 1,
-        type: "video_yes_audio",
-        video: true,
+        ext: AudioEXTEnum.M4A,
       },
     ],
     video_quality: [],

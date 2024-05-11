@@ -14,14 +14,25 @@ export type VideoInfo = {
   formats: Format[];
 };
 
+
+export enum AudioEXTEnum {
+  M4A = "m4a",
+  Mhtml = "mhtml",
+  Mp4 = "mp4",
+  None = "none",
+  The3Gp = "3gp",
+  Webm = "webm",
+}
+
 export type Format = {
-  url: string;
-  audio: boolean;
-  video: boolean;
-  type: "audio" | "video_yes_audio" | "video_no_audio";
-  name: string;
-  quality: number;
-};
+  name: string,
+  url: string,
+  audio: boolean, // check by audio_ext && video_ext
+  no_audio: boolean,
+  quality: number | undefined,
+  ext: AudioEXTEnum,
+  cookies?: string
+}
 
 export type SuccessResponse<T> = {
   status: "success";

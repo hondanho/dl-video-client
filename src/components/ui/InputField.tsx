@@ -18,7 +18,7 @@ const InputField = (props: InputFieldProps) => {
   return (
     <div
       {...containerProps}
-      className={cn("relative h-[58px] w-full", containerProps?.className)}
+      className={cn("relative h-[48px] w-full", containerProps?.className)}
     >
       <label htmlFor={inputProps.id} className="sr-only">
         {inputProps["aria-label"]}

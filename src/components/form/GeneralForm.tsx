@@ -125,7 +125,7 @@ export default function GeneralForm({ onValueClear, onValueChange }: any) {
           onChange={(e) => setPostUrl(e.target.value)}
           isLoading={isLoading}
           handleClear={handleClear}
-          className="shadow-form h-[58px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base"
+          className="shadow-form h-[48px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base"
           autoComplete="on"
           autoFocus
           required

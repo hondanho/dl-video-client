@@ -17,7 +17,7 @@
       "arialLabel": "Dán các liên kết video cho Facebook, Instagram, TikTok, Twitter, Twitch, Youtube..",
       "btnArialLabel": "Nút tải xuống bất kỳ video nào",
       "btnText": "Tải xuống",
-      "btnLoadingText": "Đang tìm nạp"
+      "btnLoadingText": "Đang tải xuống"
     }
   },
   "Footer": {
@@ -46,7 +46,7 @@
     "#24": "Liên hệ",
     "#25": "Blog",
     "#26": "Tham gia với chúng tôi!",
-    "#27": "Đặt mua",
+    "#27": "Đăng ký",
     "#28": "Đã đăng ký Bản quyền."
   },
   "Page": {
@@ -779,7 +779,7 @@
       "#27": "url ứng dụng googleplay",
       "#28": "url ứng dụng apple",
       "btnText": "Tải xuống",
-      "btnLoadingText": "Đang tìm nạp",
+      "btnLoadingText": "Đang tải xuống",
       "more": "Hơn"
     },
     "privacy-policy": {

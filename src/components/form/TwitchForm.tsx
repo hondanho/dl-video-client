@@ -118,7 +118,7 @@ export default function TwitchForm({
           onChange={(e) => setPostUrl(e.target.value)}
           isLoading={isLoading}
           handleClear={handleClear}
-          className="h-[58px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base"
+          className="h-[48px] w-full rounded border-gray-400 text-sm focus:ring-white md:text-base"
           autoComplete="on"
           autoFocus
           required
