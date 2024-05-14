@@ -33,7 +33,7 @@ const startFileDownload = (
   const a = document.createElement("a");
   a.target = target;
   a.href = url;
-  a.download = filename;
+  a.download = filename + "_" + process.env.NEXT_PUBLIC_DOMAIN?.replaceAll(".", "_");
   document.body.appendChild(a);
   a.click();
   a.remove();
