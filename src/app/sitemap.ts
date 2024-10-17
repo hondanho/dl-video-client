@@ -33,9 +33,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       const sitemapItem = localeFolders.map((name) => {
         return {
           url: `${baseUrl}/${locale}${name ? `/${name}` : ""}`,
-          lastModified: new Date().toISOString(),
-          changeFrequency: "monthly",
-          priority: 1,
+          lastModified: new Date().toISOString()
         };
       });
 
